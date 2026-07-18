@@ -43,6 +43,15 @@ async function withTimeout(promise, ms, label) {
   finally { clearTimeout(t); }
 }
 
+// fetch() with a real abort on timeout — closes the socket so a slow or
+// stalled server can't keep the Node process alive after the build is done.
+async function fetchT(url, opts, ms, label) {
+  const ctrl = new AbortController();
+  const t = setTimeout(() => ctrl.abort(new Error("timeout " + label)), ms);
+  try { return await fetch(url, { ...opts, signal: ctrl.signal }); }
+  finally { clearTimeout(t); }
+}
+
 // Pull a real photo out of an RSS item: enclosure → media:content →
 // media:thumbnail → first <img> in the HTML content.
 function imageOf(it) {
@@ -102,9 +111,7 @@ async function fetchOneSubreddit({ cat, sub }) {
   const headers = { "User-Agent": UA, "Accept": "application/json" };
   // Try the JSON API first…
   try {
-    const r = await withTimeout(
-      fetch(`https://www.reddit.com/r/${sub}/top.json?t=day&limit=10`, { headers }),
-      15000, "r/" + sub);
+    const r = await fetchT(`https://www.reddit.com/r/${sub}/top.json?t=day&limit=10`, { headers }, 15000, "r/" + sub);
     if (!r.ok) throw new Error("HTTP " + r.status);
     const j = await r.json();
     const items = (j.data?.children || []).filter((c) => !c.data.stickied).map((c) => {
@@ -162,9 +169,9 @@ async function fetchReddit() {
 async function fetchHN() {
   if (!HACKERNEWS.enabled) return [];
   try {
-    const r = await withTimeout(
-      fetch("https://hn.algolia.com/api/v1/search?tags=front_page&hitsPerPage=30", { headers: { "User-Agent": UA } }),
-      15000, "HN");
+    const r = await fetchT(
+      "https://hn.algolia.com/api/v1/search?tags=front_page&hitsPerPage=30",
+      { headers: { "User-Agent": UA } }, 15000, "HN");
     if (!r.ok) throw new Error("HTTP " + r.status);
     const j = await r.json();
     const out = [];
@@ -230,10 +237,15 @@ function toFeedItem(it) {
 async function enrichImages(items) {
   const missing = items.filter((x) => !x.image && x.url && /^https?:/.test(x.url));
   await Promise.all(missing.map(async (it) => {
+    // One controller for the whole request+body read, so a server that stalls
+    // mid-body is aborted too (not just a slow response header).
+    const ctrl = new AbortController();
+    const t = setTimeout(() => ctrl.abort(new Error("timeout")), 10000);
     try {
-      const r = await withTimeout(fetch(it.url, {
-        headers: { "User-Agent": UA, "Accept": "text/html" }, redirect: "follow",
-      }), 10000, "og:" + it.src);
+      const r = await fetch(it.url, {
+        headers: { "User-Agent": UA, "Accept": "text/html" },
+        redirect: "follow", signal: ctrl.signal,
+      });
       if (!r.ok) return;
       const html = (await r.text()).slice(0, 200000);
       const m =
@@ -241,6 +253,7 @@ async function enrichImages(items) {
         /<meta[^>]+content=["']([^"']+)["'][^>]+(?:property|name)=["'](?:og:image|og:image:url|twitter:image)["']/i.exec(html);
       if (m && /^https?:/.test(m[1])) it.image = m[1].replace(/&amp;/g, "&");
     } catch { /* keep the tinted placeholder */ }
+    finally { clearTimeout(t); }
   }));
   const got = missing.filter((x) => x.image).length;
   if (missing.length) log(`og:image: found ${got} of ${missing.length} missing photos.`);
@@ -370,4 +383,8 @@ async function main() {
   log(`Wrote history.json (${history.length} day${history.length === 1 ? "" : "s"}).`);
 }
 
-main().catch((e) => { console.error("Build failed:", e); process.exit(1); });
+main()
+  // Let stdout flush the last log lines, then exit cleanly even if a socket lingers.
+  .then(() => new Promise((r) => setTimeout(r, 200)))
+  .then(() => process.exit(0))
+  .catch((e) => { console.error("Build failed:", e); process.exit(1); });
