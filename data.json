@@ -1,0 +1,320 @@
+{
+  "generatedAt": "2026-07-18T06:10:29.778Z",
+  "brief": {
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"The state of open source AI\". Scan the feed below for the rest.",
+    "bullets": [
+      {
+        "head": "Tech & AI",
+        "detail": "The state of open source AI"
+      },
+      {
+        "head": "Tech & AI",
+        "detail": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation"
+      },
+      {
+        "head": "Tech & AI",
+        "detail": "First atmosphere found on Earth-like planet in habitable zone of distant star"
+      },
+      {
+        "head": "Social",
+        "detail": "X updates its engagement bait detection"
+      }
+    ],
+    "signal": {
+      "tech": "steady",
+      "social": "steady",
+      "growth": "steady",
+      "business": "calm"
+    },
+    "experiments": [
+      {
+        "title": "The 1-hour ship",
+        "who": "Solo builders",
+        "why": "Pick something tiny, set a public 60-minute timer, ship what exists at the end. Small scope plus a deadline beats a perfect plan.",
+        "effort": 2,
+        "payoff": "Fast momentum"
+      },
+      {
+        "title": "Morning attention reset",
+        "who": "Focus circles",
+        "why": "First 30 minutes: no phone, no feed, one page of writing. It anchors the whole day's focus.",
+        "effort": 1,
+        "payoff": "Sharper focus"
+      },
+      {
+        "title": "One local AI helper",
+        "who": "Indie hackers",
+        "why": "Run a small model offline for one repetitive task. Free, private, and a fast way to feel where AI helps you.",
+        "effort": 3,
+        "payoff": "Real time saved"
+      }
+    ],
+    "scanned": 112,
+    "kept": 12
+  },
+  "feed": [
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
+      "body": "The potential deal highlights a growing trend of complex, multi-stage funding rounds that mask true entry prices.",
+      "src": "TechCrunch",
+      "fav": "T",
+      "url": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
+      "publishedAt": "2026-07-17T19:22:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/Mockup-of-Valar-Atomics-site.jpg?resize=1200,514"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
+      "body": "The company has unveiled a massive new artificial intelligence model it says can take on top American firms.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-17T16:53:04.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c87/live/deb1fae0-81f6-11f1-8f4c-d74af0a2675b.jpg"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "China hits out at British Steel nationalisation",
+      "body": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-17T16:44:22.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1b8/live/e08168e0-81e4-11f1-bee8-53ce494e1abc.jpg"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Brewdog founder faces data complaints over efforts to buy back firm",
+      "body": "The UK data watchdog has received complaints after James Watt reportedly contacted former shareholders.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/c4gw9pp0xlno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-17T16:44:15.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fd4/live/fad99060-81fc-11f1-a927-670d17f8e943.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "The state of open source AI",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://stateofopensource.ai/",
+      "publishedAt": "2026-07-17T14:31:10Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+      "publishedAt": "2026-07-17T14:06:13Z",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2cd8/live/f3f60290-81d1-11f1-926f-c90d1bcfbc84.jpg"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "rising",
+      "title": "X updates its engagement bait detection",
+      "body": "The platform is using Grok’s artificial intelligence system to remove accounts that solicit engagement from its creator revenue share program.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/x-updates-its-engagement-bait-detection/825495/",
+      "publishedAt": "2026-07-16T22:43:47.000Z",
+      "image": "https://imgproxy.divecdn.com/unfmmF8wZI6o8OjVajckhaX-bwum9_eI6HzStBjd2MY/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS94X2xvZ28zLnBuZw==.webp"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Meta AI adds additional safety measures",
+      "body": "Updates include parental alerts when children engage in self harm or suicide-related chats with the artificial intelligence tools.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/meta-ai-adds-additional-safety-measures/825490/",
+      "publishedAt": "2026-07-16T21:18:07.000Z",
+      "image": "https://imgproxy.divecdn.com/Bkjc-yvHdiy8E2dELlaaANTDiqZbNDmMth8G1LbQU0M/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2FpX3RlZW5fYWxlcnRzLnBuZw==.webp"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "YouTube highlights brand partnerships with sports creators",
+      "body": "The platform’s latest report examined the rising influence of athletic influencers and offered guidance on how to connect with them.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/youtube-highlights-brand-partnerships-with-sports-creators/825375/",
+      "publishedAt": "2026-07-15T23:22:58.000Z",
+      "image": "https://imgproxy.divecdn.com/geJJGvDCeg9m7wL9-0a4TaSalf71zEAAivIOsIJwx64/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS95b3V0dWJlX2NyZWF0b3JfcHVsc2UucG5n.webp"
+    },
+    {
+      "cat": "growth",
+      "label": "Growth",
+      "tone": "",
+      "title": "How Your Brain Sabotages Your Social Life—and Simple Ways to Fix It",
+      "body": "When a friend invited me over last week, I found myself entering a predictable state of hesitation. I stared at my phone for a while, thinking, Should I bail? The post How Your Br…",
+      "src": "Nir & Far",
+      "fav": "NF",
+      "url": "https://www.nirandfar.com/antisocial-brain/",
+      "publishedAt": "2025-10-14T13:00:26.000Z",
+      "image": "https://www.nirandfar.com/wp-content/uploads/2025/07/ben-rein-book-featured.webp"
+    },
+    {
+      "cat": "growth",
+      "label": "Growth",
+      "tone": "",
+      "title": "Unlock Your Potential With The Power Of Belief",
+      "body": "In 2006, U.S. Team freestyle skier Michelle Roark zoomed down the slope at her first Olympics, conquering hilly terrain that not even a 4x4 could handle. At 31 years old, she was…",
+      "src": "Nir & Far",
+      "fav": "NF",
+      "url": "https://www.nirandfar.com/power-of-belief/",
+      "publishedAt": "2025-07-07T13:00:26.000Z",
+      "image": "https://www.nirandfar.com/wp-content/uploads/2025/06/power-of-belief-featured.webp"
+    },
+    {
+      "cat": "growth",
+      "label": "Growth",
+      "tone": "",
+      "title": "The Habits Scorecard: Use This Simple Exercise to Discover Which Habits You Should Change",
+      "body": "This article is an excerpt from Atomic Habits, my New York Times bestselling book. The Japanese railway system is regarded as one of the best in the world. If you ever find yourse…",
+      "src": "James Clear",
+      "fav": "JC",
+      "url": "https://jamesclear.com/habits-scorecard",
+      "publishedAt": "2018-10-15T10:00:36.000Z",
+      "image": "https://jamesclear.com/wp-content/uploads/2020/11/jc-twitter.png"
+    }
+  ],
+  "experiments": [
+    {
+      "title": "The 1-hour ship",
+      "who": "Solo builders",
+      "why": "Pick something tiny, set a public 60-minute timer, ship what exists at the end. Small scope plus a deadline beats a perfect plan.",
+      "effort": 2,
+      "payoff": "Fast momentum"
+    },
+    {
+      "title": "Morning attention reset",
+      "who": "Focus circles",
+      "why": "First 30 minutes: no phone, no feed, one page of writing. It anchors the whole day's focus.",
+      "effort": 1,
+      "payoff": "Sharper focus"
+    },
+    {
+      "title": "One local AI helper",
+      "who": "Indie hackers",
+      "why": "Run a small model offline for one repetitive task. Free, private, and a fast way to feel where AI helps you.",
+      "effort": 3,
+      "payoff": "Real time saved"
+    }
+  ],
+  "analytics": {
+    "byCategory": {
+      "tech": {
+        "label": "Tech & AI",
+        "scanned": 68,
+        "kept": 3
+      },
+      "social": {
+        "label": "Social",
+        "scanned": 10,
+        "kept": 3
+      },
+      "growth": {
+        "label": "Growth",
+        "scanned": 22,
+        "kept": 3
+      },
+      "business": {
+        "label": "Business",
+        "scanned": 12,
+        "kept": 3
+      }
+    },
+    "topSources": [
+      {
+        "src": "Hacker News",
+        "count": 24
+      },
+      {
+        "src": "TechCrunch",
+        "count": 12
+      },
+      {
+        "src": "BBC Business",
+        "count": 12
+      },
+      {
+        "src": "Ars Technica",
+        "count": 12
+      },
+      {
+        "src": "Nir & Far",
+        "count": 12
+      },
+      {
+        "src": "The Verge",
+        "count": 10
+      },
+      {
+        "src": "James Clear",
+        "count": 10
+      }
+    ],
+    "topKeywords": [
+      {
+        "word": "ai",
+        "hits": 45
+      },
+      {
+        "word": "habit",
+        "hits": 6
+      },
+      {
+        "word": "creator",
+        "hits": 3
+      },
+      {
+        "word": "agent",
+        "hits": 3
+      },
+      {
+        "word": "model",
+        "hits": 3
+      },
+      {
+        "word": "micro",
+        "hits": 3
+      },
+      {
+        "word": "startup",
+        "hits": 2
+      },
+      {
+        "word": "llm",
+        "hits": 2
+      },
+      {
+        "word": "trend",
+        "hits": 1
+      },
+      {
+        "word": "productivity",
+        "hits": 1
+      }
+    ]
+  }
+}

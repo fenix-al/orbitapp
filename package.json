@@ -1,0 +1,14 @@
+{
+  "name": "orbit-digest",
+  "version": "1.0.0",
+  "description": "A personal daily digest that pulls from RSS, Reddit and Hacker News, tuned to your interests, and summarized by Claude.",
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "serve": "node serve.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.65.0",
+    "rss-parser": "^3.13.0"
+  }
+}
