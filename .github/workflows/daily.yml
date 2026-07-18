@@ -1,0 +1,39 @@
+name: Orbit daily digest
+
+on:
+  schedule:
+    - cron: "0 5 * * *"   # 05:00 UTC daily — adjust to your morning
+  workflow_dispatch: {}    # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write          # so the job can commit the refreshed data.json
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - run: npm ci
+
+      - name: Build today's digest
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: npm run build
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name  "orbit-bot"
+          git config user.email "actions@github.com"
+          git add data.json history.json
+          if git diff --staged --quiet; then
+            echo "No changes today."
+          else
+            git commit -m "chore: refresh digest $(date -u +%Y-%m-%d)"
+            git push
+          fi
