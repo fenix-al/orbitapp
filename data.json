@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T07:17:25.548Z",
+  "generatedAt": "2026-07-18T07:18:13.598Z",
   "brief": {
     "lede": "Today Orbit kept 12 items across your topics. The lead story: \"The state of open source AI\". Scan the feed below for the rest.",
     "bullets": [
@@ -49,10 +49,22 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 113,
+    "scanned": 123,
     "kept": 12
   },
   "feed": [
+    {
+      "cat": "growth",
+      "label": "Growth",
+      "tone": "",
+      "title": "Nutrition is most important for productivity",
+      "body": "—",
+      "src": "r/productivity",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/productivity/comments/1uzn38p/nutrition_is_most_important_for_productivity/",
+      "publishedAt": "2026-07-18T05:27:50.000Z",
+      "image": null
+    },
     {
       "cat": "tech",
       "label": "Tech & AI",
@@ -135,7 +147,7 @@
       "fav": "SM",
       "url": "https://www.socialmediatoday.com/news/x-updates-its-engagement-bait-detection/825495/",
       "publishedAt": "2026-07-16T22:43:47.000Z",
-      "image": "https://imgproxy.divecdn.com/unfmmF8wZI6o8OjVajckhaX-bwum9_eI6HzStBjd2MY/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS94X2xvZ28zLnBuZw==.webp"
+      "image": null
     },
     {
       "cat": "social",
@@ -147,7 +159,7 @@
       "fav": "SM",
       "url": "https://www.socialmediatoday.com/news/meta-ai-adds-additional-safety-measures/825490/",
       "publishedAt": "2026-07-16T21:18:07.000Z",
-      "image": "https://imgproxy.divecdn.com/Bkjc-yvHdiy8E2dELlaaANTDiqZbNDmMth8G1LbQU0M/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2FpX3RlZW5fYWxlcnRzLnBuZw==.webp"
+      "image": null
     },
     {
       "cat": "social",
@@ -159,7 +171,7 @@
       "fav": "SM",
       "url": "https://www.socialmediatoday.com/news/youtube-highlights-brand-partnerships-with-sports-creators/825375/",
       "publishedAt": "2026-07-15T23:22:58.000Z",
-      "image": "https://imgproxy.divecdn.com/geJJGvDCeg9m7wL9-0a4TaSalf71zEAAivIOsIJwx64/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS95b3V0dWJlX2NyZWF0b3JfcHVsc2UucG5n.webp"
+      "image": null
     },
     {
       "cat": "growth",
@@ -172,18 +184,6 @@
       "url": "https://www.nirandfar.com/antisocial-brain/",
       "publishedAt": "2025-10-14T13:00:26.000Z",
       "image": "https://www.nirandfar.com/wp-content/uploads/2025/07/ben-rein-book-featured.webp"
-    },
-    {
-      "cat": "growth",
-      "label": "Growth",
-      "tone": "",
-      "title": "Unlock Your Potential With The Power Of Belief",
-      "body": "In 2006, U.S. Team freestyle skier Michelle Roark zoomed down the slope at her first Olympics, conquering hilly terrain that not even a 4x4 could handle. At 31 years old, she was…",
-      "src": "Nir & Far",
-      "fav": "NF",
-      "url": "https://www.nirandfar.com/power-of-belief/",
-      "publishedAt": "2025-07-07T13:00:26.000Z",
-      "image": "https://www.nirandfar.com/wp-content/uploads/2025/06/power-of-belief-featured.webp"
     },
     {
       "cat": "growth",
@@ -235,7 +235,7 @@
       },
       "growth": {
         "label": "Growth",
-        "scanned": 22,
+        "scanned": 32,
         "kept": 3
       },
       "business": {
@@ -300,6 +300,10 @@
         "hits": 3
       },
       {
+        "word": "productivity",
+        "hits": 2
+      },
+      {
         "word": "startup",
         "hits": 2
       },
@@ -309,10 +313,6 @@
       },
       {
         "word": "trend",
-        "hits": 1
-      },
-      {
-        "word": "productivity",
         "hits": 1
       }
     ]
