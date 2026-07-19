@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-07-18T07:18:13.598Z",
+  "generatedAt": "2026-07-19T07:30:57.059Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"The state of open source AI\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Models to Pair with TypingMind\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "The state of open source AI"
+        "detail": "Models to Pair with TypingMind"
       },
       {
         "head": "Tech & AI",
-        "detail": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation"
+        "detail": "When I made LLMs argue with each other, they started making up citations to win. Sycophancy wasn't the only failure mode."
       },
       {
         "head": "Tech & AI",
-        "detail": "First atmosphere found on Earth-like planet in habitable zone of distant star"
+        "detail": "Kimi: Threat or menace?"
       },
       {
         "head": "Social",
@@ -49,33 +49,57 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 123,
+    "scanned": 112,
     "kept": 12
   },
   "feed": [
     {
-      "cat": "growth",
-      "label": "Growth",
+      "cat": "tech",
+      "label": "Tech & AI",
       "tone": "",
-      "title": "Nutrition is most important for productivity",
+      "title": "Models to Pair with TypingMind",
       "body": "—",
-      "src": "r/productivity",
+      "src": "r/artificial",
       "fav": "R",
-      "url": "https://www.reddit.com/r/productivity/comments/1uzn38p/nutrition_is_most_important_for_productivity/",
-      "publishedAt": "2026-07-18T05:27:50.000Z",
+      "url": "https://www.reddit.com/r/artificial/comments/1v0hi95/models_to_pair_with_typingmind/",
+      "publishedAt": "2026-07-19T05:08:04.000Z",
+      "image": null
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "New EU border system tripling time at passport control, airport boss says",
+      "body": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-19T01:47:59.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9693/live/d4402e80-81d1-11f1-926f-c90d1bcfbc84.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "",
+      "title": "When I made LLMs argue with each other, they started making up citations to win. Sycophancy wasn't the only f…",
+      "body": "—",
+      "src": "r/artificial",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/artificial/comments/1v05mzz/when_i_made_llms_argue_with_each_other_they/",
+      "publishedAt": "2026-07-18T19:54:53.000Z",
       "image": null
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
-      "body": "The potential deal highlights a growing trend of complex, multi-stage funding rounds that mask true entry prices.",
+      "tone": "",
+      "title": "Kimi: Threat or menace?",
+      "body": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
       "src": "TechCrunch",
       "fav": "T",
-      "url": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
-      "publishedAt": "2026-07-17T19:22:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/02/Mockup-of-Valar-Atomics-site.jpg?resize=1200,514"
+      "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "publishedAt": "2026-07-18T18:51:07.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254580342.jpg?w=1024"
     },
     {
       "cat": "business",
@@ -100,42 +124,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-17T16:44:22.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1b8/live/e08168e0-81e4-11f1-bee8-53ce494e1abc.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Brewdog founder faces data complaints over efforts to buy back firm",
-      "body": "The UK data watchdog has received complaints after James Watt reportedly contacted former shareholders.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c4gw9pp0xlno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-17T16:44:15.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fd4/live/fad99060-81fc-11f1-a927-670d17f8e943.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "The state of open source AI",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://stateofopensource.ai/",
-      "publishedAt": "2026-07-17T14:31:10Z",
-      "image": null
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-      "publishedAt": "2026-07-17T14:06:13Z",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2cd8/live/f3f60290-81d1-11f1-926f-c90d1bcfbc84.jpg"
     },
     {
       "cat": "social",
@@ -189,6 +177,18 @@
       "cat": "growth",
       "label": "Growth",
       "tone": "",
+      "title": "Unlock Your Potential With The Power Of Belief",
+      "body": "In 2006, U.S. Team freestyle skier Michelle Roark zoomed down the slope at her first Olympics, conquering hilly terrain that not even a 4x4 could handle. At 31 years old, she was…",
+      "src": "Nir & Far",
+      "fav": "NF",
+      "url": "https://www.nirandfar.com/power-of-belief/",
+      "publishedAt": "2025-07-07T13:00:26.000Z",
+      "image": "https://www.nirandfar.com/wp-content/uploads/2025/06/power-of-belief-featured.webp"
+    },
+    {
+      "cat": "growth",
+      "label": "Growth",
+      "tone": "",
       "title": "The Habits Scorecard: Use This Simple Exercise to Discover Which Habits You Should Change",
       "body": "This article is an excerpt from Atomic Habits, my New York Times bestselling book. The Japanese railway system is regarded as one of the best in the world. If you ever find yourse…",
       "src": "James Clear",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 69,
+        "scanned": 68,
         "kept": 3
       },
       "social": {
@@ -235,7 +235,7 @@
       },
       "growth": {
         "label": "Growth",
-        "scanned": 32,
+        "scanned": 22,
         "kept": 3
       },
       "business": {
@@ -247,18 +247,18 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 25
+        "count": 24
       },
       {
         "src": "TechCrunch",
         "count": 12
       },
       {
-        "src": "Ars Technica",
+        "src": "BBC Business",
         "count": 12
       },
       {
-        "src": "BBC Business",
+        "src": "Ars Technica",
         "count": 12
       },
       {
@@ -277,34 +277,26 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 47
-      },
-      {
-        "word": "habit",
-        "hits": 6
-      },
-      {
-        "word": "creator",
-        "hits": 3
-      },
-      {
-        "word": "agent",
-        "hits": 3
+        "hits": 43
       },
       {
         "word": "model",
-        "hits": 3
+        "hits": 7
+      },
+      {
+        "word": "habit",
+        "hits": 5
       },
       {
         "word": "micro",
-        "hits": 3
+        "hits": 4
       },
       {
-        "word": "productivity",
+        "word": "agent",
         "hits": 2
       },
       {
-        "word": "startup",
+        "word": "creator",
         "hits": 2
       },
       {
@@ -312,7 +304,15 @@
         "hits": 2
       },
       {
-        "word": "trend",
+        "word": "startup",
+        "hits": 1
+      },
+      {
+        "word": "productivity",
+        "hits": 1
+      },
+      {
+        "word": "revenue",
         "hits": 1
       }
     ]
