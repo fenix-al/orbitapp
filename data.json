@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-07-19T07:30:57.059Z",
+  "generatedAt": "2026-07-20T08:11:29.405Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Models to Pair with TypingMind\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"I built a fully-local and speedy MacOS utility for text to speech and dictation, running top of the range AI models\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Models to Pair with TypingMind"
+        "detail": "I built a fully-local and speedy MacOS utility for text to speech and dictation, running top of the range AI models"
       },
       {
         "head": "Tech & AI",
-        "detail": "When I made LLMs argue with each other, they started making up citations to win. Sycophancy wasn't the only failure mode."
+        "detail": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s"
       },
       {
         "head": "Tech & AI",
-        "detail": "Kimi: Threat or menace?"
+        "detail": "Qwen 3.8"
       },
       {
         "head": "Social",
@@ -49,81 +49,105 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 112,
+    "scanned": 111,
     "kept": 12
   },
   "feed": [
     {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Ryanair profits drop as Iran war puts off passengers and lifts fuel costs",
+      "body": "The Irish airline said oil prices had increased costs meanwhile Brent crude surpassed $90.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cn8nldwj12jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-20T07:26:56.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43a0/live/9d4e66e0-8405-11f1-b7eb-cd20573e7f71.jpg"
+    },
+    {
       "cat": "tech",
       "label": "Tech & AI",
-      "tone": "",
-      "title": "Models to Pair with TypingMind",
+      "tone": "rising",
+      "title": "I built a fully-local and speedy MacOS utility for text to speech and dictation, running top of the range AI…",
       "body": "—",
       "src": "r/artificial",
       "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1v0hi95/models_to_pair_with_typingmind/",
-      "publishedAt": "2026-07-19T05:08:04.000Z",
-      "image": null
+      "url": "https://www.reddit.com/r/artificial/comments/1v1eidf/i_built_a_fullylocal_and_speedy_macos_utility_for/",
+      "publishedAt": "2026-07-20T07:25:26.000Z",
+      "image": "https://external-preview.redd.it/ZXpzeTIyZnkyY2VoMco_1j-fW0FpAwuJglWVjqctLr1b-UBdXc_xPH0DNIoB.png?width=640&crop=smart&auto=webp&s=5d4d50386d1d0edbe318fd898757ac338335ceca"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "New EU border system tripling time at passport control, airport boss says",
-      "body": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.",
+      "title": "This farmer wanted to quit the cocaine industry - he couldn't",
+      "body": "Colombians who grow cocaine's raw material bemoan a lack of support to help them switch crops.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-19T01:47:59.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9693/live/d4402e80-81d1-11f1-926f-c90d1bcfbc84.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c0kyml1zxz4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-19T23:18:03.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b142/live/ab70ef20-7f5c-11f1-bee8-53ce494e1abc.jpg"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Are you a parent missing out on £27 a week? Here's how to check",
+      "body": "Thousands of new parents fail to claim child benefit until it is too late to receive some of the money, HMRC says.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cz9l993wj5ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-19T23:16:47.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98c9/live/dabd5170-8401-11f1-b976-0b9c15b0ccfc.jpg"
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
-      "tone": "",
-      "title": "When I made LLMs argue with each other, they started making up citations to win. Sycophancy wasn't the only f…",
+      "tone": "rising",
+      "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
       "body": "—",
-      "src": "r/artificial",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1v05mzz/when_i_made_llms_argue_with_each_other_they/",
-      "publishedAt": "2026-07-18T19:54:53.000Z",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://news.ycombinator.com/item?id=48968606",
+      "publishedAt": "2026-07-19T14:41:16Z",
+      "image": null
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "TikTok report explores creative AI optimization for brands",
+      "body": "Relevance is more important than how much output a company creates, according to a recent study done in partnership with Warc.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/tiktok-report-explores-creative-ai-optimization-for-brands/825239/",
+      "publishedAt": "2026-07-19T12:00:00.000Z",
+      "image": null
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "YouTube offers tips on working with Shorts videos",
+      "body": "The platform’s Culture and Entertainment Editor Julia Lee Harter outlined best practices for using interactive features and building community engagement.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/youtube-offers-tips-on-working-with-shorts-videos/825096/",
+      "publishedAt": "2026-07-19T12:00:00.000Z",
       "image": null
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
-      "tone": "",
-      "title": "Kimi: Threat or menace?",
-      "body": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-      "publishedAt": "2026-07-18T18:51:07.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254580342.jpg?w=1024"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
-      "body": "The company has unveiled a massive new artificial intelligence model it says can take on top American firms.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-17T16:53:04.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c87/live/deb1fae0-81f6-11f1-8f4c-d74af0a2675b.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "China hits out at British Steel nationalisation",
-      "body": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-17T16:44:22.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1b8/live/e08168e0-81e4-11f1-bee8-53ce494e1abc.jpg"
+      "tone": "rising",
+      "title": "Qwen 3.8",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+      "publishedAt": "2026-07-19T08:44:57Z",
+      "image": "https://pbs.twimg.com/media/HNk8XP_aoAAUShj.jpg:large"
     },
     {
       "cat": "social",
@@ -135,30 +159,6 @@
       "fav": "SM",
       "url": "https://www.socialmediatoday.com/news/x-updates-its-engagement-bait-detection/825495/",
       "publishedAt": "2026-07-16T22:43:47.000Z",
-      "image": null
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Meta AI adds additional safety measures",
-      "body": "Updates include parental alerts when children engage in self harm or suicide-related chats with the artificial intelligence tools.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/meta-ai-adds-additional-safety-measures/825490/",
-      "publishedAt": "2026-07-16T21:18:07.000Z",
-      "image": null
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "YouTube highlights brand partnerships with sports creators",
-      "body": "The platform’s latest report examined the rising influence of athletic influencers and offered guidance on how to connect with them.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/youtube-highlights-brand-partnerships-with-sports-creators/825375/",
-      "publishedAt": "2026-07-15T23:22:58.000Z",
       "image": null
     },
     {
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 68,
+        "scanned": 67,
         "kept": 3
       },
       "social": {
@@ -247,7 +247,7 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 24
+        "count": 23
       },
       {
         "src": "TechCrunch",
@@ -277,15 +277,15 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 43
-      },
-      {
-        "word": "model",
-        "hits": 7
+        "hits": 40
       },
       {
         "word": "habit",
         "hits": 5
+      },
+      {
+        "word": "model",
+        "hits": 4
       },
       {
         "word": "micro",
@@ -300,11 +300,11 @@
         "hits": 2
       },
       {
-        "word": "llm",
-        "hits": 2
+        "word": "side project",
+        "hits": 1
       },
       {
-        "word": "startup",
+        "word": "viral",
         "hits": 1
       },
       {
@@ -312,7 +312,7 @@
         "hits": 1
       },
       {
-        "word": "revenue",
+        "word": "startup",
         "hits": 1
       }
     ]
