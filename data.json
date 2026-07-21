@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-07-20T08:11:29.405Z",
+  "generatedAt": "2026-07-21T07:36:43.318Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"I built a fully-local and speedy MacOS utility for text to speech and dictation, running top of the range AI models\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"China’s open-weights AI strategy is winning\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "I built a fully-local and speedy MacOS utility for text to speech and dictation, running top of the range AI models"
+        "detail": "China’s open-weights AI strategy is winning"
       },
       {
         "head": "Tech & AI",
-        "detail": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s"
+        "detail": "Who's afraid of Chinese models?"
       },
       {
         "head": "Tech & AI",
-        "detail": "Qwen 3.8"
+        "detail": "OpenAI is scared of open-weight models. Should the US be?"
       },
       {
         "head": "Social",
@@ -49,7 +49,7 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 111,
+    "scanned": 115,
     "kept": 12
   },
   "feed": [
@@ -57,97 +57,97 @@
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Ryanair profits drop as Iran war puts off passengers and lifts fuel costs",
-      "body": "The Irish airline said oil prices had increased costs meanwhile Brent crude surpassed $90.",
+      "title": "Why Andy Burnham will find it so tricky to unite Britain",
+      "body": "Is there any common ground left?",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cn8nldwj12jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-20T07:26:56.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43a0/live/9d4e66e0-8405-11f1-b7eb-cd20573e7f71.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "I built a fully-local and speedy MacOS utility for text to speech and dictation, running top of the range AI…",
-      "body": "—",
-      "src": "r/artificial",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1v1eidf/i_built_a_fullylocal_and_speedy_macos_utility_for/",
-      "publishedAt": "2026-07-20T07:25:26.000Z",
-      "image": "https://external-preview.redd.it/ZXpzeTIyZnkyY2VoMco_1j-fW0FpAwuJglWVjqctLr1b-UBdXc_xPH0DNIoB.png?width=640&crop=smart&auto=webp&s=5d4d50386d1d0edbe318fd898757ac338335ceca"
+      "url": "https://www.bbc.co.uk/news/articles/c17y7r9yv1ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-20T23:49:02.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c72/live/b768c240-8442-11f1-b976-0b9c15b0ccfc.jpg"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "This farmer wanted to quit the cocaine industry - he couldn't",
-      "body": "Colombians who grow cocaine's raw material bemoan a lack of support to help them switch crops.",
+      "title": "Craft and keyboard: The trainees mastering tech and age-old skills",
+      "body": "Firms have to balance hi-tech and age-old skills when training up young workers.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c0kyml1zxz4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-19T23:18:03.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b142/live/ab70ef20-7f5c-11f1-bee8-53ce494e1abc.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cy8dg1kpj48o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-20T23:07:40.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c442/live/4bb808d0-7533-11f1-a627-714adb4eed6e.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "OpenAI is scared of open-weight models. Should the US be?",
+      "body": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of turning AI into a business.",
+      "src": "TechCrunch",
+      "fav": "T",
+      "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "publishedAt": "2026-07-20T19:33:25.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2153474303-e.jpg?resize=1200,800"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Are you a parent missing out on £27 a week? Here's how to check",
-      "body": "Thousands of new parents fail to claim child benefit until it is too late to receive some of the money, HMRC says.",
+      "title": "Who is new chancellor John Healey? Labour veteran who quit as defence secretary",
+      "body": "The former defence secretary is seen as a safe pair of hands - and is now in charge of the government's finances.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cz9l993wj5ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-19T23:16:47.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98c9/live/dabd5170-8401-11f1-b976-0b9c15b0ccfc.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://news.ycombinator.com/item?id=48968606",
-      "publishedAt": "2026-07-19T14:41:16Z",
-      "image": null
+      "url": "https://www.bbc.co.uk/news/articles/ce85y9lm81no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-20T18:44:55.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/220b/live/b25137b0-8460-11f1-8cf4-43aed99842b4.jpg"
     },
     {
       "cat": "social",
       "label": "Social",
       "tone": "",
-      "title": "TikTok report explores creative AI optimization for brands",
-      "body": "Relevance is more important than how much output a company creates, according to a recent study done in partnership with Warc.",
+      "title": "Social platforms draw consumers in, but conversions falter",
+      "body": "Social media has become the No. 1 channel for consumers globally to find new products, ESW found. But trust in those checkout experiences remain elusive, creating a fragmented cus…",
       "src": "Social Media Today",
       "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/tiktok-report-explores-creative-ai-optimization-for-brands/825239/",
-      "publishedAt": "2026-07-19T12:00:00.000Z",
-      "image": null
+      "url": "https://www.socialmediatoday.com/news/social-platforms-draw-consumers-in-but-conversions-falter/825680/",
+      "publishedAt": "2026-07-20T18:22:00.000Z",
+      "image": "https://imgproxy.divecdn.com/oSJdeIAonant2IkEpvfHyTFJP7VxhKweshlgwQ2P378/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjEwMjU2MzA1LmpwZw==.webp"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "China’s open-weights AI strategy is winning",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+      "publishedAt": "2026-07-20T14:21:47Z",
+      "image": "https://images.unsplash.com/photo-1548192746-dd526f154ed9?crop&#x3D;entropy&cs&#x3D;tinysrgb&fit&#x3D;max&fm&#x3D;jpg&ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGluZGllfGVufDB8fHx8MTc0OTY5ODcxM3ww&ixlib&#x3D;rb-4.1.0&q&#x3D;80&w&#x3D;2000"
     },
     {
       "cat": "social",
       "label": "Social",
       "tone": "",
-      "title": "YouTube offers tips on working with Shorts videos",
-      "body": "The platform’s Culture and Entertainment Editor Julia Lee Harter outlined best practices for using interactive features and building community engagement.",
+      "title": "Can social media platforms survive the flood of AI content?",
+      "body": "A recent report from Pangram estimated that 41% of posts on LinkedIn showed signs of AI generation, highlighting a growing problem across all apps.",
       "src": "Social Media Today",
       "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/youtube-offers-tips-on-working-with-shorts-videos/825096/",
-      "publishedAt": "2026-07-19T12:00:00.000Z",
+      "url": "https://www.socialmediatoday.com/news/can-social-media-platforms-survive-the-flood-of-ai-content/824914/",
+      "publishedAt": "2026-07-20T12:00:00.000Z",
       "image": null
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "Qwen 3.8",
+      "title": "Who's afraid of Chinese models?",
       "body": "—",
       "src": "Hacker News",
       "fav": "HN",
-      "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-      "publishedAt": "2026-07-19T08:44:57Z",
-      "image": "https://pbs.twimg.com/media/HNk8XP_aoAAUShj.jpg:large"
+      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+      "publishedAt": "2026-07-20T11:05:58Z",
+      "image": null
     },
     {
       "cat": "social",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 67,
+        "scanned": 71,
         "kept": 3
       },
       "social": {
@@ -247,7 +247,7 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 23
+        "count": 27
       },
       {
         "src": "TechCrunch",
@@ -277,42 +277,42 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 40
+        "hits": 49
+      },
+      {
+        "word": "model",
+        "hits": 8
       },
       {
         "word": "habit",
         "hits": 5
       },
       {
-        "word": "model",
-        "hits": 4
+        "word": "agent",
+        "hits": 3
       },
       {
         "word": "micro",
-        "hits": 4
+        "hits": 3
       },
       {
-        "word": "agent",
+        "word": "startup",
         "hits": 2
       },
       {
-        "word": "creator",
+        "word": "llm",
         "hits": 2
       },
       {
-        "word": "side project",
-        "hits": 1
-      },
-      {
-        "word": "viral",
-        "hits": 1
+        "word": "revenue",
+        "hits": 2
       },
       {
         "word": "productivity",
         "hits": 1
       },
       {
-        "word": "startup",
+        "word": "creator",
         "hits": 1
       }
     ]
