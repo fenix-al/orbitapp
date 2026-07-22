@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-07-21T07:36:43.318Z",
+  "generatedAt": "2026-07-22T07:38:09.819Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"China’s open-weights AI strategy is winning\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Microsoft is testing a Chinese model (Kimi) inside Copilot. Are we entering the 'Intel Inside' era of AI?\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "China’s open-weights AI strategy is winning"
+        "detail": "Microsoft is testing a Chinese model (Kimi) inside Copilot. Are we entering the 'Intel Inside' era of AI?"
       },
       {
         "head": "Tech & AI",
-        "detail": "Who's afraid of Chinese models?"
+        "detail": "Advertise in ChatGPT"
       },
       {
         "head": "Tech & AI",
-        "detail": "OpenAI is scared of open-weight models. Should the US be?"
+        "detail": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting"
       },
       {
         "head": "Social",
-        "detail": "X updates its engagement bait detection"
+        "detail": "Meta’s AI-based layoffs allegedly targeted workers who had taken protected leave"
       }
     ],
     "signal": {
@@ -49,141 +49,141 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 115,
+    "scanned": 125,
     "kept": 12
   },
   "feed": [
     {
-      "cat": "business",
-      "label": "Business",
+      "cat": "growth",
+      "label": "Growth",
       "tone": "",
-      "title": "Why Andy Burnham will find it so tricky to unite Britain",
-      "body": "Is there any common ground left?",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c17y7r9yv1ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-20T23:49:02.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c72/live/b768c240-8442-11f1-b976-0b9c15b0ccfc.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Craft and keyboard: The trainees mastering tech and age-old skills",
-      "body": "Firms have to balance hi-tech and age-old skills when training up young workers.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cy8dg1kpj48o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-20T23:07:40.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c442/live/4bb808d0-7533-11f1-a627-714adb4eed6e.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "OpenAI is scared of open-weight models. Should the US be?",
-      "body": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of turning AI into a business.",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
-      "publishedAt": "2026-07-20T19:33:25.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2153474303-e.jpg?resize=1200,800"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Who is new chancellor John Healey? Labour veteran who quit as defence secretary",
-      "body": "The former defence secretary is seen as a safe pair of hands - and is now in charge of the government's finances.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/ce85y9lm81no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-20T18:44:55.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/220b/live/b25137b0-8460-11f1-8cf4-43aed99842b4.jpg"
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Social platforms draw consumers in, but conversions falter",
-      "body": "Social media has become the No. 1 channel for consumers globally to find new products, ESW found. But trust in those checkout experiences remain elusive, creating a fragmented cus…",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/social-platforms-draw-consumers-in-but-conversions-falter/825680/",
-      "publishedAt": "2026-07-20T18:22:00.000Z",
-      "image": "https://imgproxy.divecdn.com/oSJdeIAonant2IkEpvfHyTFJP7VxhKweshlgwQ2P378/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjEwMjU2MzA1LmpwZw==.webp"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "China’s open-weights AI strategy is winning",
+      "title": "Got laid off at the beginning of this year, here's my routine to keep sanity",
       "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-      "publishedAt": "2026-07-20T14:21:47Z",
-      "image": "https://images.unsplash.com/photo-1548192746-dd526f154ed9?crop&#x3D;entropy&cs&#x3D;tinysrgb&fit&#x3D;max&fm&#x3D;jpg&ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGluZGllfGVufDB8fHx8MTc0OTY5ODcxM3ww&ixlib&#x3D;rb-4.1.0&q&#x3D;80&w&#x3D;2000"
+      "src": "r/getdisciplined",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/getdisciplined/comments/1v34r3h/got_laid_off_at_the_beginning_of_this_year_heres/",
+      "publishedAt": "2026-07-22T03:46:45.000Z",
+      "image": null
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Boost youth jobs by cutting employers' national insurance, MPs urge",
+      "body": "A select committee says it has heard \"overwhelming evidence\" that rising employment costs are reducing training and job vacancies.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cy45p77l3zwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-21T23:17:58.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58b5/live/4a93adc0-8531-11f1-8767-6996ba4bb968.jpg"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Will AI help you do your job or replace you?",
+      "body": "Artificial Intelligence companies make vast claims about their tools replacing human labour - our charts show what's happening.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cn7nllr4vd6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-21T23:04:42.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/280a/live/5a31cec0-8062-11f1-926f-c90d1bcfbc84.png"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'",
+      "body": "The Tokyo Metropolitan Government wants workers to ditch the suit and tie for t-shirts, trainers - and shorts.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-21T22:26:19.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd1c/live/66a05f50-84d6-11f1-8a1f-271692b35cb6.jpg"
     },
     {
       "cat": "social",
       "label": "Social",
       "tone": "",
-      "title": "Can social media platforms survive the flood of AI content?",
-      "body": "A recent report from Pangram estimated that 41% of posts on LinkedIn showed signs of AI generation, highlighting a growing problem across all apps.",
+      "title": "Meta’s AI-based layoffs allegedly targeted workers who had taken protected leave",
+      "body": "The company used “a constellation of internal artificial-intelligence systems” to determine who would be included in its 10% reduction in force, per a lawsuit.",
       "src": "Social Media Today",
       "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/can-social-media-platforms-survive-the-flood-of-ai-content/824914/",
-      "publishedAt": "2026-07-20T12:00:00.000Z",
+      "url": "https://www.socialmediatoday.com/news/metas-ai-based-layoffs-allegedly-targeted-workers-who-had-taken-protected/825800/",
+      "publishedAt": "2026-07-21T20:59:00.000Z",
+      "image": "https://imgproxy.divecdn.com/N2_BSBd5leIe2DLpQaXSR4TaqVApqvuKyqmVkrT0YOU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NZXRhX0VVYzdpbDkuanBn.webp"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Microsoft is testing a Chinese model (Kimi) inside Copilot. Are we entering the 'Intel Inside' era of AI?",
+      "body": "—",
+      "src": "r/artificial",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/artificial/comments/1v2sguf/microsoft_is_testing_a_chinese_model_kimi_inside/",
+      "publishedAt": "2026-07-21T19:23:32.000Z",
       "image": null
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "Who's afraid of Chinese models?",
+      "title": "Advertise in ChatGPT",
       "body": "—",
       "src": "Hacker News",
       "fav": "HN",
-      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-      "publishedAt": "2026-07-20T11:05:58Z",
+      "url": "https://ads.openai.com/",
+      "publishedAt": "2026-07-21T18:58:44Z",
       "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+      "publishedAt": "2026-07-21T17:14:06Z",
+      "image": "https://runtimewire.com/og/jack-dorsey-block-buzz-team-chat-ai-agents-git.jpg"
     },
     {
       "cat": "social",
       "label": "Social",
-      "tone": "rising",
-      "title": "X updates its engagement bait detection",
-      "body": "The platform is using Grok’s artificial intelligence system to remove accounts that solicit engagement from its creator revenue share program.",
+      "tone": "",
+      "title": "Pinterest advises brands to update their catalogs",
+      "body": "In a tip sheet of best practices for brands looking to connect with shoppers in the app, the company said accurate pricing, complete descriptions and better titles help with disco…",
       "src": "Social Media Today",
       "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/x-updates-its-engagement-bait-detection/825495/",
-      "publishedAt": "2026-07-16T22:43:47.000Z",
+      "url": "https://www.socialmediatoday.com/news/pinterest-advises-brands-to-update-their-catalogs/824772/",
+      "publishedAt": "2026-07-21T12:00:00.000Z",
+      "image": "https://imgproxy.divecdn.com/631g3pf6-yjsuukC0BujN8Tbw7A9Q6ILxs4i7CKK9-w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMDYtMThfMTAwMTUzLnBuZw==.webp"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Negative sentiment threatens AI glasses push",
+      "body": "Meta and Snapchat are both betting big on artificial intelligence-powered glasses, but consumer backlash could derail their strategies.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/negative-sentiment-threatens-ai-glasses-push/825137/",
+      "publishedAt": "2026-07-21T12:00:00.000Z",
       "image": null
     },
     {
       "cat": "growth",
       "label": "Growth",
       "tone": "",
-      "title": "How Your Brain Sabotages Your Social Life—and Simple Ways to Fix It",
-      "body": "When a friend invited me over last week, I found myself entering a predictable state of hesitation. I stared at my phone for a while, thinking, Should I bail? The post How Your Br…",
-      "src": "Nir & Far",
-      "fav": "NF",
-      "url": "https://www.nirandfar.com/antisocial-brain/",
-      "publishedAt": "2025-10-14T13:00:26.000Z",
-      "image": "https://www.nirandfar.com/wp-content/uploads/2025/07/ben-rein-book-featured.webp"
-    },
-    {
-      "cat": "growth",
-      "label": "Growth",
-      "tone": "",
-      "title": "Unlock Your Potential With The Power Of Belief",
-      "body": "In 2006, U.S. Team freestyle skier Michelle Roark zoomed down the slope at her first Olympics, conquering hilly terrain that not even a 4x4 could handle. At 31 years old, she was…",
-      "src": "Nir & Far",
-      "fav": "NF",
-      "url": "https://www.nirandfar.com/power-of-belief/",
-      "publishedAt": "2025-07-07T13:00:26.000Z",
-      "image": "https://www.nirandfar.com/wp-content/uploads/2025/06/power-of-belief-featured.webp"
+      "title": "How do you become disciplined if you genuinely hate mundane tasks?",
+      "body": "—",
+      "src": "r/getdisciplined",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/getdisciplined/comments/1v2btar/how_do_you_become_disciplined_if_you_genuinely/",
+      "publishedAt": "2026-07-21T07:53:13.000Z",
+      "image": null
     },
     {
       "cat": "growth",
@@ -235,7 +235,7 @@
       },
       "growth": {
         "label": "Growth",
-        "scanned": 22,
+        "scanned": 32,
         "kept": 3
       },
       "business": {
@@ -254,11 +254,11 @@
         "count": 12
       },
       {
-        "src": "BBC Business",
+        "src": "Ars Technica",
         "count": 12
       },
       {
-        "src": "Ars Technica",
+        "src": "BBC Business",
         "count": 12
       },
       {
@@ -277,42 +277,42 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 49
+        "hits": 54
       },
       {
         "word": "model",
-        "hits": 8
+        "hits": 7
       },
       {
         "word": "habit",
         "hits": 5
       },
       {
-        "word": "agent",
-        "hits": 3
-      },
-      {
         "word": "micro",
-        "hits": 3
+        "hits": 5
       },
       {
-        "word": "startup",
-        "hits": 2
+        "word": "agent",
+        "hits": 4
       },
       {
-        "word": "llm",
-        "hits": 2
+        "word": "creator",
+        "hits": 1
       },
       {
-        "word": "revenue",
-        "hits": 2
+        "word": "local",
+        "hits": 1
       },
       {
         "word": "productivity",
         "hits": 1
       },
       {
-        "word": "creator",
+        "word": "llm",
+        "hits": 1
+      },
+      {
+        "word": "focus",
         "hits": 1
       }
     ]
