@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-07-22T07:38:09.819Z",
+  "generatedAt": "2026-07-23T07:38:08.568Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Microsoft is testing a Chinese model (Kimi) inside Copilot. Are we entering the 'Intel Inside' era of AI?\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it’s not the model)\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Microsoft is testing a Chinese model (Kimi) inside Copilot. Are we entering the 'Intel Inside' era of AI?"
+        "detail": "Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it’s not the model)"
       },
       {
         "head": "Tech & AI",
-        "detail": "Advertise in ChatGPT"
+        "detail": "Tesla’s revenues are bouncing back, but profits are still weak"
       },
       {
         "head": "Tech & AI",
-        "detail": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting"
+        "detail": "Yope raises $12.3M to build a private social network without algorithms or ads"
       },
       {
         "head": "Social",
-        "detail": "Meta’s AI-based layoffs allegedly targeted workers who had taken protected leave"
+        "detail": "Social insights fail to reach decision-makers: Here’s what the numbers say"
       }
     ],
     "signal": {
@@ -49,57 +49,93 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 125,
+    "scanned": 123,
     "kept": 12
   },
   "feed": [
     {
-      "cat": "growth",
-      "label": "Growth",
+      "cat": "business",
+      "label": "Business",
       "tone": "",
-      "title": "Got laid off at the beginning of this year, here's my routine to keep sanity",
-      "body": "—",
-      "src": "r/getdisciplined",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/getdisciplined/comments/1v34r3h/got_laid_off_at_the_beginning_of_this_year_heres/",
-      "publishedAt": "2026-07-22T03:46:45.000Z",
+      "title": "Google burning through cash with spiralling AI costs",
+      "body": "The company said earlier this year it expected to spend as much as $190bn on AI investments.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-23T07:15:59.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f610/live/9cc8bdc0-8616-11f1-8dd8-4d5cff7c66df.jpg"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Airport drop-off fees up by a third - here are the priciest",
+      "body": "The cost of parking closest to the terminal has hit £10 at two of the UK's airports.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/c2lqd72d4lqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-23T07:03:20.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cb0/live/357c7500-865f-11f1-b976-0b9c15b0ccfc.jpg"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Firm hacked by rogue OpenAI models says it is 'a wake-up call'",
+      "body": "A co-founder of start-up Hugging Face told the BBC that most firms are not aware that the \"game has changed\".",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cdrvy3pn3r0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-23T06:18:37.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c57c/live/927f2eb0-8645-11f1-bb06-cd4aa2d50a91.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Tesla’s revenues are bouncing back, but profits are still weak",
+      "body": "A Tesla Model 3 electric car is seen during the China International Supply Chain Expo (CISCE) in Beijing on July 16, 2025. (Photo by Jade GAO / AFP) (Photo by JADE GAO/AFP via Get…",
+      "src": "The Verge",
+      "fav": "TV",
+      "url": "https://www.theverge.com/transportation/969311/tesla-q2-2026-earnings-revenue-profit-sales",
+      "publishedAt": "2026-07-22T20:17:46.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2224672042.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+      "body": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the s…",
+      "src": "TechCrunch",
+      "fav": "T",
+      "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+      "publishedAt": "2026-07-22T18:13:58.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/banner.png?resize=1200,750"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it’s not the model)",
+      "body": "Anthropic leaped to a $47 billion revenue run rate by May, compared to $9 billion in 2025. It’s the kind of growth that Menlo Ventures’ Matt Murphy says he’s never seen in 25 year…",
+      "src": "TechCrunch",
+      "fav": "T",
+      "url": "https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/",
+      "publishedAt": "2026-07-22T18:02:57.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Social insights fail to reach decision-makers: Here’s what the numbers say",
+      "body": "Just 14% of social media professionals feel their organization is able to use social data properly.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/social-insights-fail-to-reach-decision-makers-heres-what-the-numbers-say/825820/",
+      "publishedAt": "2026-07-22T12:56:00.000Z",
       "image": null
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Boost youth jobs by cutting employers' national insurance, MPs urge",
-      "body": "A select committee says it has heard \"overwhelming evidence\" that rising employment costs are reducing training and job vacancies.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cy45p77l3zwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-21T23:17:58.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58b5/live/4a93adc0-8531-11f1-8767-6996ba4bb968.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Will AI help you do your job or replace you?",
-      "body": "Artificial Intelligence companies make vast claims about their tools replacing human labour - our charts show what's happening.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cn7nllr4vd6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-21T23:04:42.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/280a/live/5a31cec0-8062-11f1-926f-c90d1bcfbc84.png"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'",
-      "body": "The Tokyo Metropolitan Government wants workers to ditch the suit and tie for t-shirts, trainers - and shorts.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-21T22:26:19.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd1c/live/66a05f50-84d6-11f1-8a1f-271692b35cb6.jpg"
     },
     {
       "cat": "social",
@@ -114,42 +150,6 @@
       "image": "https://imgproxy.divecdn.com/N2_BSBd5leIe2DLpQaXSR4TaqVApqvuKyqmVkrT0YOU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NZXRhX0VVYzdpbDkuanBn.webp"
     },
     {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Microsoft is testing a Chinese model (Kimi) inside Copilot. Are we entering the 'Intel Inside' era of AI?",
-      "body": "—",
-      "src": "r/artificial",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1v2sguf/microsoft_is_testing_a_chinese_model_kimi_inside/",
-      "publishedAt": "2026-07-21T19:23:32.000Z",
-      "image": null
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Advertise in ChatGPT",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://ads.openai.com/",
-      "publishedAt": "2026-07-21T18:58:44Z",
-      "image": null
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
-      "publishedAt": "2026-07-21T17:14:06Z",
-      "image": "https://runtimewire.com/og/jack-dorsey-block-buzz-team-chat-ai-agents-git.jpg"
-    },
-    {
       "cat": "social",
       "label": "Social",
       "tone": "",
@@ -162,28 +162,28 @@
       "image": "https://imgproxy.divecdn.com/631g3pf6-yjsuukC0BujN8Tbw7A9Q6ILxs4i7CKK9-w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMDYtMThfMTAwMTUzLnBuZw==.webp"
     },
     {
-      "cat": "social",
-      "label": "Social",
+      "cat": "growth",
+      "label": "Growth",
       "tone": "",
-      "title": "Negative sentiment threatens AI glasses push",
-      "body": "Meta and Snapchat are both betting big on artificial intelligence-powered glasses, but consumer backlash could derail their strategies.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/negative-sentiment-threatens-ai-glasses-push/825137/",
-      "publishedAt": "2026-07-21T12:00:00.000Z",
-      "image": null
+      "title": "How Your Brain Sabotages Your Social Life—and Simple Ways to Fix It",
+      "body": "When a friend invited me over last week, I found myself entering a predictable state of hesitation. I stared at my phone for a while, thinking, Should I bail? The post How Your Br…",
+      "src": "Nir & Far",
+      "fav": "NF",
+      "url": "https://www.nirandfar.com/antisocial-brain/",
+      "publishedAt": "2025-10-14T13:00:26.000Z",
+      "image": "https://www.nirandfar.com/wp-content/uploads/2025/07/ben-rein-book-featured.webp"
     },
     {
       "cat": "growth",
       "label": "Growth",
       "tone": "",
-      "title": "How do you become disciplined if you genuinely hate mundane tasks?",
-      "body": "—",
-      "src": "r/getdisciplined",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/getdisciplined/comments/1v2btar/how_do_you_become_disciplined_if_you_genuinely/",
-      "publishedAt": "2026-07-21T07:53:13.000Z",
-      "image": null
+      "title": "Unlock Your Potential With The Power Of Belief",
+      "body": "In 2006, U.S. Team freestyle skier Michelle Roark zoomed down the slope at her first Olympics, conquering hilly terrain that not even a 4x4 could handle. At 31 years old, she was…",
+      "src": "Nir & Far",
+      "fav": "NF",
+      "url": "https://www.nirandfar.com/power-of-belief/",
+      "publishedAt": "2025-07-07T13:00:26.000Z",
+      "image": "https://www.nirandfar.com/wp-content/uploads/2025/06/power-of-belief-featured.webp"
     },
     {
       "cat": "growth",
@@ -235,12 +235,12 @@
       },
       "growth": {
         "label": "Growth",
-        "scanned": 32,
+        "scanned": 22,
         "kept": 3
       },
       "business": {
         "label": "Business",
-        "scanned": 12,
+        "scanned": 20,
         "kept": 3
       }
     },
@@ -288,32 +288,32 @@
         "hits": 5
       },
       {
-        "word": "micro",
-        "hits": 5
-      },
-      {
-        "word": "agent",
+        "word": "revenue",
         "hits": 4
       },
       {
-        "word": "creator",
-        "hits": 1
+        "word": "startup",
+        "hits": 3
       },
       {
-        "word": "local",
-        "hits": 1
+        "word": "micro",
+        "hits": 3
       },
       {
-        "word": "productivity",
-        "hits": 1
+        "word": "agent",
+        "hits": 3
       },
       {
-        "word": "llm",
-        "hits": 1
+        "word": "marketing",
+        "hits": 3
       },
       {
         "word": "focus",
-        "hits": 1
+        "hits": 2
+      },
+      {
+        "word": "llm",
+        "hits": 2
       }
     ]
   }
