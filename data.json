@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-07-23T07:38:08.568Z",
+  "generatedAt": "2026-07-24T07:36:50.483Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it’s not the model)\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Startup founders urge U.S. government not to shut off Chinese open weight AI\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it’s not the model)"
+        "detail": "Startup founders urge U.S. government not to shut off Chinese open weight AI"
       },
       {
         "head": "Tech & AI",
-        "detail": "Tesla’s revenues are bouncing back, but profits are still weak"
+        "detail": "Writing by hand is good for your brain"
       },
       {
         "head": "Tech & AI",
-        "detail": "Yope raises $12.3M to build a private social network without algorithms or ads"
+        "detail": "OpenAI’s accidental attack against Hugging Face is science fiction that happened"
       },
       {
         "head": "Social",
-        "detail": "Social insights fail to reach decision-makers: Here’s what the numbers say"
+        "detail": "From Yamal to the mall: How American Eagle is going back to school"
       }
     ],
     "signal": {
@@ -49,7 +49,7 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 123,
+    "scanned": 114,
     "kept": 12
   },
   "feed": [
@@ -57,109 +57,109 @@
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Google burning through cash with spiralling AI costs",
-      "body": "The company said earlier this year it expected to spend as much as $190bn on AI investments.",
+      "title": "Lawmakers push for AI 'kill switch' after OpenAI models go rogue",
+      "body": "A new bill would let the US government order the shutdown of AI models that pose a public threat.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-23T20:58:35.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a255/live/1eacc3a0-86d9-11f1-bba7-35d3e67315de.jpg"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Google and Tesla shares plunge as AI spending rattles markets",
+      "body": "As major tech companies race to capitalize on a new wave of AI technology, investors wonder when financial benefits will appear.",
       "src": "BBC Business",
       "fav": "BB",
       "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-23T07:15:59.000Z",
+      "publishedAt": "2026-07-23T20:42:33.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f610/live/9cc8bdc0-8616-11f1-8dd8-4d5cff7c66df.jpg"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Airport drop-off fees up by a third - here are the priciest",
-      "body": "The cost of parking closest to the terminal has hit £10 at two of the UK's airports.",
+      "title": "Gary Lineker among millionaires asking Andy Burnham to tax them more",
+      "body": "A group including the former England footballer write to the new PM telling him \"we can afford it\".",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c2lqd72d4lqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-23T07:03:20.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cb0/live/357c7500-865f-11f1-b976-0b9c15b0ccfc.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Firm hacked by rogue OpenAI models says it is 'a wake-up call'",
-      "body": "A co-founder of start-up Hugging Face told the BBC that most firms are not aware that the \"game has changed\".",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cdrvy3pn3r0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-23T06:18:37.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c57c/live/927f2eb0-8645-11f1-bb06-cd4aa2d50a91.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cvgjp79m42go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-23T16:20:45.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a6e/live/b0338440-8683-11f1-bee8-53ce494e1abc.jpg"
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "Tesla’s revenues are bouncing back, but profits are still weak",
-      "body": "A Tesla Model 3 electric car is seen during the China International Supply Chain Expo (CISCE) in Beijing on July 16, 2025. (Photo by Jade GAO / AFP) (Photo by JADE GAO/AFP via Get…",
-      "src": "The Verge",
-      "fav": "TV",
-      "url": "https://www.theverge.com/transportation/969311/tesla-q2-2026-earnings-revenue-profit-sales",
-      "publishedAt": "2026-07-22T20:17:46.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2224672042.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+      "publishedAt": "2026-07-23T15:18:40Z",
+      "image": null
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
-      "body": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the s…",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
-      "publishedAt": "2026-07-22T18:13:58.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/banner.png?resize=1200,750"
+      "title": "Writing by hand is good for your brain",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+      "publishedAt": "2026-07-23T14:24:43Z",
+      "image": null
     },
     {
-      "cat": "tech",
-      "label": "Tech & AI",
+      "cat": "social",
+      "label": "Social",
       "tone": "rising",
-      "title": "Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it’s not the model)",
-      "body": "Anthropic leaped to a $47 billion revenue run rate by May, compared to $9 billion in 2025. It’s the kind of growth that Menlo Ventures’ Matt Murphy says he’s never seen in 25 year…",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/",
-      "publishedAt": "2026-07-22T18:02:57.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798"
+      "title": "From Yamal to the mall: How American Eagle is going back to school",
+      "body": "CMO Craig Brommers details the retailer’s extensive marketing for the crucial season, which includes an effort around social media trend #RushTok.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/from-yamal-to-the-mall-how-american-eagle-is-going-back-to-school/826046/",
+      "publishedAt": "2026-07-23T12:00:00.000Z",
+      "image": "https://imgproxy.divecdn.com/J8XvZHufFdn3vMZjbBdKFEzgmrJ3Bd4wQr-UxrVn69E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BbWVyaWNhbl9FYWdsZV9CVFNfMjAyNl9Xb21lbl9zX0xvd19SaXNlX0hlcm9fMy5qcGc=.webp"
     },
     {
       "cat": "social",
       "label": "Social",
       "tone": "",
-      "title": "Social insights fail to reach decision-makers: Here’s what the numbers say",
-      "body": "Just 14% of social media professionals feel their organization is able to use social data properly.",
+      "title": "5 tips for building an effective brand presence on TikTok",
+      "body": "As part of a series of marketing overviews, Social Media Today the best ways for marketers to engage with trends and influencers on the short-form video platform.",
       "src": "Social Media Today",
       "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/social-insights-fail-to-reach-decision-makers-heres-what-the-numbers-say/825820/",
-      "publishedAt": "2026-07-22T12:56:00.000Z",
+      "url": "https://www.socialmediatoday.com/news/5-tips-for-building-an-effective-brand-presence-on-tiktok/824784/",
+      "publishedAt": "2026-07-23T12:00:00.000Z",
       "image": null
     },
     {
       "cat": "social",
       "label": "Social",
       "tone": "",
-      "title": "Meta’s AI-based layoffs allegedly targeted workers who had taken protected leave",
-      "body": "The company used “a constellation of internal artificial-intelligence systems” to determine who would be included in its 10% reduction in force, per a lawsuit.",
+      "title": "Will Meta’s massive AI bet pay off?",
+      "body": "The company has invested hundreds of billions of dollars into developing artificial intelligence models, but the market’s response hasn't matched owner Mark Zuckerberg’s enthusias…",
       "src": "Social Media Today",
       "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/metas-ai-based-layoffs-allegedly-targeted-workers-who-had-taken-protected/825800/",
-      "publishedAt": "2026-07-21T20:59:00.000Z",
-      "image": "https://imgproxy.divecdn.com/N2_BSBd5leIe2DLpQaXSR4TaqVApqvuKyqmVkrT0YOU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NZXRhX0VVYzdpbDkuanBn.webp"
+      "url": "https://www.socialmediatoday.com/news/will-metas-massive-ai-bet-pay-off/824770/",
+      "publishedAt": "2026-07-23T12:00:00.000Z",
+      "image": "https://imgproxy.divecdn.com/dNFbCwQGKLwG7p2-mO842wD_-ixY006Z2XY2uC1udSo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GQl9yS0laYzRILmpwZw==.webp"
     },
     {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Pinterest advises brands to update their catalogs",
-      "body": "In a tip sheet of best practices for brands looking to connect with shoppers in the app, the company said accurate pricing, complete descriptions and better titles help with disco…",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/pinterest-advises-brands-to-update-their-catalogs/824772/",
-      "publishedAt": "2026-07-21T12:00:00.000Z",
-      "image": "https://imgproxy.divecdn.com/631g3pf6-yjsuukC0BujN8Tbw7A9Q6ILxs4i7CKK9-w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMDYtMThfMTAwMTUzLnBuZw==.webp"
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
+      "publishedAt": "2026-07-23T01:16:14Z",
+      "image": null
     },
     {
       "cat": "growth",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 71,
+        "scanned": 70,
         "kept": 3
       },
       "social": {
@@ -240,14 +240,14 @@
       },
       "business": {
         "label": "Business",
-        "scanned": 20,
+        "scanned": 12,
         "kept": 3
       }
     },
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 27
+        "count": 26
       },
       {
         "src": "TechCrunch",
@@ -281,14 +281,14 @@
       },
       {
         "word": "model",
-        "hits": 7
+        "hits": 8
       },
       {
         "word": "habit",
         "hits": 5
       },
       {
-        "word": "revenue",
+        "word": "agent",
         "hits": 4
       },
       {
@@ -300,20 +300,20 @@
         "hits": 3
       },
       {
-        "word": "agent",
-        "hits": 3
-      },
-      {
         "word": "marketing",
-        "hits": 3
+        "hits": 2
       },
       {
-        "word": "focus",
+        "word": "trend",
         "hits": 2
+      },
+      {
+        "word": "productivity",
+        "hits": 1
       },
       {
         "word": "llm",
-        "hits": 2
+        "hits": 1
       }
     ]
   }
