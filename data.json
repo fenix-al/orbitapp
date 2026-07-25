@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-07-24T07:36:50.483Z",
+  "generatedAt": "2026-07-25T07:23:12.695Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Startup founders urge U.S. government not to shut off Chinese open weight AI\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Why Cognition bought Poke: AI personality is becoming a competitive advantage\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Startup founders urge U.S. government not to shut off Chinese open weight AI"
+        "detail": "Why Cognition bought Poke: AI personality is becoming a competitive advantage"
       },
       {
         "head": "Tech & AI",
-        "detail": "Writing by hand is good for your brain"
+        "detail": "Nvidia, Microsoft, Meta warn against overregulating open-weight models"
       },
       {
         "head": "Tech & AI",
-        "detail": "OpenAI’s accidental attack against Hugging Face is science fiction that happened"
+        "detail": "I'm building a local, symbolic AI assistant without an LLM – and it runs 24/7"
       },
       {
         "head": "Social",
@@ -49,69 +49,105 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 114,
+    "scanned": 123,
     "kept": 12
   },
   "feed": [
     {
-      "cat": "business",
-      "label": "Business",
+      "cat": "growth",
+      "label": "Growth",
       "tone": "",
-      "title": "Lawmakers push for AI 'kill switch' after OpenAI models go rogue",
-      "body": "A new bill would let the US government order the shutdown of AI models that pose a public threat.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-23T20:58:35.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a255/live/1eacc3a0-86d9-11f1-bba7-35d3e67315de.jpg"
+      "title": "What's a small habit that quietly improved your life?",
+      "body": "—",
+      "src": "r/productivity",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/productivity/comments/1v5n01o/whats_a_small_habit_that_quietly_improved_your/",
+      "publishedAt": "2026-07-24T20:27:12.000Z",
+      "image": null
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Google and Tesla shares plunge as AI spending rattles markets",
-      "body": "As major tech companies race to capitalize on a new wave of AI technology, investors wonder when financial benefits will appear.",
+      "title": "Trump vows to investigate EU over fining of US tech companies",
+      "body": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-23T20:42:33.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f610/live/9cc8bdc0-8616-11f1-8dd8-4d5cff7c66df.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Gary Lineker among millionaires asking Andy Burnham to tax them more",
-      "body": "A group including the former England footballer write to the new PM telling him \"we can afford it\".",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cvgjp79m42go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-23T16:20:45.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a6e/live/b0338440-8683-11f1-bee8-53ce494e1abc.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-24T20:23:58.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92c8/live/180ebdb0-8787-11f1-9428-e17279226993.jpg"
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-      "publishedAt": "2026-07-23T15:18:40Z",
-      "image": null
+      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+      "body": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users…",
+      "src": "TechCrunch",
+      "fav": "T",
+      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+      "publishedAt": "2026-07-24T18:07:32.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/Poke-at-3.56.23-PM.jpg?resize=1200,610"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Faisal Islam: The UK's Trump trade deal no longer looks world-beating",
+      "body": "While the US tariffs imposed on the UK are effectively unchanged, other countries now have a better deal.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/c9v4ymwddwgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-24T14:02:26.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35d6/live/046766f0-8768-11f1-aec4-5d4d96e3f4ec.jpg"
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "Writing by hand is good for your brain",
-      "body": "—",
+      "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+      "body": "Letter: https://images.nvidia.com/pdf/Open-Weights-and-American-AI-L... [pdf] https://x.com/JensenHuang/status/2080643682408321103, https://xcancel.com/JensenHuang/status/20806436…",
       "src": "Hacker News",
       "fav": "HN",
-      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-      "publishedAt": "2026-07-23T14:24:43Z",
+      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+      "publishedAt": "2026-07-24T13:32:30.000Z",
+      "image": "https://image.cnbcfm.com/api/v1/image/108173882-1752844539526-gettyimages-2225696381-mms28707_1cm2uml7.jpeg?v=1752844582&w=1920&h=1080"
+    },
+    {
+      "cat": "growth",
+      "label": "Growth",
+      "tone": "",
+      "title": "One mindset shift that's helped me",
+      "body": "—",
+      "src": "r/productivity",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/productivity/comments/1v5a4ke/one_mindset_shift_thats_helped_me/",
+      "publishedAt": "2026-07-24T12:34:37.000Z",
       "image": null
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Why are UK fuel prices rising again?",
+      "body": "UK petrol and diesel prices are going up again as the price of oil returns to around $100 a barrel.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-24T10:45:41.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8143/live/f8d0c8b0-7572-11f1-b976-0b9c15b0ccfc.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "I'm building a local, symbolic AI assistant without an LLM – and it runs 24/7",
+      "body": "—",
+      "src": "r/artificial",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/artificial/comments/1v57q9r/im_building_a_local_symbolic_ai_assistant_without/",
+      "publishedAt": "2026-07-24T10:39:33.000Z",
+      "image": "https://external-preview.redd.it/NFjDdMcC7sPpP3y6Zm1c-cx9iKHWi5pheq_57T8Hi2E.png?width=640&crop=smart&auto=webp&s=9ce09ab63dd3787d8f463da0cfd1135fd3d0f276"
     },
     {
       "cat": "social",
@@ -129,18 +165,6 @@
       "cat": "social",
       "label": "Social",
       "tone": "",
-      "title": "5 tips for building an effective brand presence on TikTok",
-      "body": "As part of a series of marketing overviews, Social Media Today the best ways for marketers to engage with trends and influencers on the short-form video platform.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/5-tips-for-building-an-effective-brand-presence-on-tiktok/824784/",
-      "publishedAt": "2026-07-23T12:00:00.000Z",
-      "image": null
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
       "title": "Will Meta’s massive AI bet pay off?",
       "body": "The company has invested hundreds of billions of dollars into developing artificial intelligence models, but the market’s response hasn't matched owner Mark Zuckerberg’s enthusias…",
       "src": "Social Media Today",
@@ -150,40 +174,16 @@
       "image": "https://imgproxy.divecdn.com/dNFbCwQGKLwG7p2-mO842wD_-ixY006Z2XY2uC1udSo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GQl9yS0laYzRILmpwZw==.webp"
     },
     {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
-      "publishedAt": "2026-07-23T01:16:14Z",
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "5 tips for building an effective brand presence on TikTok",
+      "body": "A look at some of the best ways for marketers to engage with trends and influencers on the short-video platform.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/5-tips-for-building-an-effective-brand-presence-on-tiktok/824784/",
+      "publishedAt": "2026-07-23T12:00:00.000Z",
       "image": null
-    },
-    {
-      "cat": "growth",
-      "label": "Growth",
-      "tone": "",
-      "title": "How Your Brain Sabotages Your Social Life—and Simple Ways to Fix It",
-      "body": "When a friend invited me over last week, I found myself entering a predictable state of hesitation. I stared at my phone for a while, thinking, Should I bail? The post How Your Br…",
-      "src": "Nir & Far",
-      "fav": "NF",
-      "url": "https://www.nirandfar.com/antisocial-brain/",
-      "publishedAt": "2025-10-14T13:00:26.000Z",
-      "image": "https://www.nirandfar.com/wp-content/uploads/2025/07/ben-rein-book-featured.webp"
-    },
-    {
-      "cat": "growth",
-      "label": "Growth",
-      "tone": "",
-      "title": "Unlock Your Potential With The Power Of Belief",
-      "body": "In 2006, U.S. Team freestyle skier Michelle Roark zoomed down the slope at her first Olympics, conquering hilly terrain that not even a 4x4 could handle. At 31 years old, she was…",
-      "src": "Nir & Far",
-      "fav": "NF",
-      "url": "https://www.nirandfar.com/power-of-belief/",
-      "publishedAt": "2025-07-07T13:00:26.000Z",
-      "image": "https://www.nirandfar.com/wp-content/uploads/2025/06/power-of-belief-featured.webp"
     },
     {
       "cat": "growth",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 70,
+        "scanned": 69,
         "kept": 3
       },
       "social": {
@@ -235,7 +235,7 @@
       },
       "growth": {
         "label": "Growth",
-        "scanned": 22,
+        "scanned": 32,
         "kept": 3
       },
       "business": {
@@ -247,7 +247,7 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 26
+        "count": 25
       },
       {
         "src": "TechCrunch",
@@ -277,30 +277,22 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 54
-      },
-      {
-        "word": "model",
-        "hits": 8
+        "hits": 50
       },
       {
         "word": "habit",
+        "hits": 6
+      },
+      {
+        "word": "model",
         "hits": 5
       },
       {
-        "word": "agent",
+        "word": "micro",
         "hits": 4
       },
       {
-        "word": "startup",
-        "hits": 3
-      },
-      {
-        "word": "micro",
-        "hits": 3
-      },
-      {
-        "word": "marketing",
+        "word": "agent",
         "hits": 2
       },
       {
@@ -308,11 +300,19 @@
         "hits": 2
       },
       {
+        "word": "llm",
+        "hits": 2
+      },
+      {
+        "word": "startup",
+        "hits": 1
+      },
+      {
         "word": "productivity",
         "hits": 1
       },
       {
-        "word": "llm",
+        "word": "build in public",
         "hits": 1
       }
     ]
