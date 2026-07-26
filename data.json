@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-07-25T07:23:12.695Z",
+  "generatedAt": "2026-07-26T07:40:41.060Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Why Cognition bought Poke: AI personality is becoming a competitive advantage\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Android May Soon Restrict On-Device ADB\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Why Cognition bought Poke: AI personality is becoming a competitive advantage"
+        "detail": "Android May Soon Restrict On-Device ADB"
       },
       {
         "head": "Tech & AI",
-        "detail": "Nvidia, Microsoft, Meta warn against overregulating open-weight models"
+        "detail": "Anthropic's Opus 5 and probably more recent AI models are being censored to protect Israel / US interests. Open source AI must be the way."
       },
       {
         "head": "Tech & AI",
-        "detail": "I'm building a local, symbolic AI assistant without an LLM – and it runs 24/7"
+        "detail": "Am I learning to code or just learning how to ask AI for code?"
       },
       {
         "head": "Social",
-        "detail": "From Yamal to the mall: How American Eagle is going back to school"
+        "detail": "Will Meta’s massive AI bet pay off?"
       }
     ],
     "signal": {
@@ -49,20 +49,68 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 123,
+    "scanned": 114,
     "kept": 12
   },
   "feed": [
     {
-      "cat": "growth",
-      "label": "Growth",
+      "cat": "tech",
+      "label": "Tech & AI",
       "tone": "",
-      "title": "What's a small habit that quietly improved your life?",
+      "title": "Am I learning to code or just learning how to ask AI for code?",
       "body": "—",
-      "src": "r/productivity",
+      "src": "r/artificial",
       "fav": "R",
-      "url": "https://www.reddit.com/r/productivity/comments/1v5n01o/whats_a_small_habit_that_quietly_improved_your/",
-      "publishedAt": "2026-07-24T20:27:12.000Z",
+      "url": "https://www.reddit.com/r/artificial/comments/1v6szxh/am_i_learning_to_code_or_just_learning_how_to_ask/",
+      "publishedAt": "2026-07-26T04:00:48.000Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Anthropic's Opus 5 and probably more recent AI models are being censored to protect Israel / US interests. Op…",
+      "body": "—",
+      "src": "r/artificial",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/artificial/comments/1v6ptgz/anthropics_opus_5_and_probably_more_recent_ai/",
+      "publishedAt": "2026-07-26T01:24:25.000Z",
+      "image": null
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Primark's new 'supermarket tactic' to woo customers in online price war",
+      "body": "Competition from ultra-cheap Chinese retailers and the cost of living crisis could be putting some people off shopping at the store, analysts say.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/c4g3x4j8pgro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-26T00:17:50.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a888/live/501dd8b0-86b2-11f1-8c61-e72dd81a46e3.jpg"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Rental searches for pet friendly properties drop after law change",
+      "body": "Agents say some renters wrongly believe permission to have a pet is guaranteed.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cj3gd312d8yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-26T00:00:49.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2116/live/a455cfa0-7c49-11f1-8ccc-df652c9169a7.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Android May Soon Restrict On-Device ADB",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+      "publishedAt": "2026-07-25T06:57:14Z",
       "image": null
     },
     {
@@ -76,90 +124,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-24T20:23:58.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92c8/live/180ebdb0-8787-11f1-9428-e17279226993.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-      "body": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users…",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-      "publishedAt": "2026-07-24T18:07:32.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/Poke-at-3.56.23-PM.jpg?resize=1200,610"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Faisal Islam: The UK's Trump trade deal no longer looks world-beating",
-      "body": "While the US tariffs imposed on the UK are effectively unchanged, other countries now have a better deal.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c9v4ymwddwgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-24T14:02:26.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35d6/live/046766f0-8768-11f1-aec4-5d4d96e3f4ec.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
-      "body": "Letter: https://images.nvidia.com/pdf/Open-Weights-and-American-AI-L... [pdf] https://x.com/JensenHuang/status/2080643682408321103, https://xcancel.com/JensenHuang/status/20806436…",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-      "publishedAt": "2026-07-24T13:32:30.000Z",
-      "image": "https://image.cnbcfm.com/api/v1/image/108173882-1752844539526-gettyimages-2225696381-mms28707_1cm2uml7.jpeg?v=1752844582&w=1920&h=1080"
-    },
-    {
-      "cat": "growth",
-      "label": "Growth",
-      "tone": "",
-      "title": "One mindset shift that's helped me",
-      "body": "—",
-      "src": "r/productivity",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/productivity/comments/1v5a4ke/one_mindset_shift_thats_helped_me/",
-      "publishedAt": "2026-07-24T12:34:37.000Z",
-      "image": null
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Why are UK fuel prices rising again?",
-      "body": "UK petrol and diesel prices are going up again as the price of oil returns to around $100 a barrel.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-24T10:45:41.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8143/live/f8d0c8b0-7572-11f1-b976-0b9c15b0ccfc.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "I'm building a local, symbolic AI assistant without an LLM – and it runs 24/7",
-      "body": "—",
-      "src": "r/artificial",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1v57q9r/im_building_a_local_symbolic_ai_assistant_without/",
-      "publishedAt": "2026-07-24T10:39:33.000Z",
-      "image": "https://external-preview.redd.it/NFjDdMcC7sPpP3y6Zm1c-cx9iKHWi5pheq_57T8Hi2E.png?width=640&crop=smart&auto=webp&s=9ce09ab63dd3787d8f463da0cfd1135fd3d0f276"
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "rising",
-      "title": "From Yamal to the mall: How American Eagle is going back to school",
-      "body": "CMO Craig Brommers details the retailer’s extensive marketing for the crucial season, which includes an effort around social media trend #RushTok.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/from-yamal-to-the-mall-how-american-eagle-is-going-back-to-school/826046/",
-      "publishedAt": "2026-07-23T12:00:00.000Z",
-      "image": "https://imgproxy.divecdn.com/J8XvZHufFdn3vMZjbBdKFEzgmrJ3Bd4wQr-UxrVn69E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BbWVyaWNhbl9FYWdsZV9CVFNfMjAyNl9Xb21lbl9zX0xvd19SaXNlX0hlcm9fMy5qcGc=.webp"
     },
     {
       "cat": "social",
@@ -177,13 +141,49 @@
       "cat": "social",
       "label": "Social",
       "tone": "",
-      "title": "5 tips for building an effective brand presence on TikTok",
-      "body": "A look at some of the best ways for marketers to engage with trends and influencers on the short-video platform.",
+      "title": "Social insights fail to reach decision-makers: Here’s what the numbers say",
+      "body": "Just 14% of social media professionals feel their organization is able to use social data properly.",
       "src": "Social Media Today",
       "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/5-tips-for-building-an-effective-brand-presence-on-tiktok/824784/",
-      "publishedAt": "2026-07-23T12:00:00.000Z",
+      "url": "https://www.socialmediatoday.com/news/social-insights-fail-to-reach-decision-makers-heres-what-the-numbers-say/825820/",
+      "publishedAt": "2026-07-22T12:56:00.000Z",
       "image": null
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Meta’s AI-based layoffs allegedly targeted workers who had taken protected leave",
+      "body": "The company used “a constellation of internal artificial-intelligence systems” to determine who would be included in its 10% reduction in force, per a lawsuit.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/metas-ai-based-layoffs-allegedly-targeted-workers-who-had-taken-protected/825800/",
+      "publishedAt": "2026-07-21T20:59:00.000Z",
+      "image": "https://imgproxy.divecdn.com/N2_BSBd5leIe2DLpQaXSR4TaqVApqvuKyqmVkrT0YOU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NZXRhX0VVYzdpbDkuanBn.webp"
+    },
+    {
+      "cat": "growth",
+      "label": "Growth",
+      "tone": "",
+      "title": "How Your Brain Sabotages Your Social Life—and Simple Ways to Fix It",
+      "body": "When a friend invited me over last week, I found myself entering a predictable state of hesitation. I stared at my phone for a while, thinking, Should I bail? The post How Your Br…",
+      "src": "Nir & Far",
+      "fav": "NF",
+      "url": "https://www.nirandfar.com/antisocial-brain/",
+      "publishedAt": "2025-10-14T13:00:26.000Z",
+      "image": "https://www.nirandfar.com/wp-content/uploads/2025/07/ben-rein-book-featured.webp"
+    },
+    {
+      "cat": "growth",
+      "label": "Growth",
+      "tone": "",
+      "title": "Unlock Your Potential With The Power Of Belief",
+      "body": "In 2006, U.S. Team freestyle skier Michelle Roark zoomed down the slope at her first Olympics, conquering hilly terrain that not even a 4x4 could handle. At 31 years old, she was…",
+      "src": "Nir & Far",
+      "fav": "NF",
+      "url": "https://www.nirandfar.com/power-of-belief/",
+      "publishedAt": "2025-07-07T13:00:26.000Z",
+      "image": "https://www.nirandfar.com/wp-content/uploads/2025/06/power-of-belief-featured.webp"
     },
     {
       "cat": "growth",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 69,
+        "scanned": 70,
         "kept": 3
       },
       "social": {
@@ -235,7 +235,7 @@
       },
       "growth": {
         "label": "Growth",
-        "scanned": 32,
+        "scanned": 22,
         "kept": 3
       },
       "business": {
@@ -247,7 +247,7 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 25
+        "count": 26
       },
       {
         "src": "TechCrunch",
@@ -277,42 +277,42 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 50
+        "hits": 43
       },
       {
         "word": "habit",
-        "hits": 6
-      },
-      {
-        "word": "model",
         "hits": 5
       },
       {
         "word": "micro",
+        "hits": 5
+      },
+      {
+        "word": "model",
         "hits": 4
       },
       {
         "word": "agent",
-        "hits": 2
-      },
-      {
-        "word": "trend",
-        "hits": 2
+        "hits": 3
       },
       {
         "word": "llm",
-        "hits": 2
+        "hits": 3
+      },
+      {
+        "word": "marketing",
+        "hits": 1
+      },
+      {
+        "word": "creator",
+        "hits": 1
       },
       {
         "word": "startup",
         "hits": 1
       },
       {
-        "word": "productivity",
-        "hits": 1
-      },
-      {
-        "word": "build in public",
+        "word": "viral",
         "hits": 1
       }
     ]
