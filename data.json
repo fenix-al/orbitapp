@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-07-26T07:40:41.060Z",
+  "generatedAt": "2026-07-27T08:37:57.355Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Android May Soon Restrict On-Device ADB\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Kill The Cookie Banner\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Android May Soon Restrict On-Device ADB"
+        "detail": "Kill The Cookie Banner"
       },
       {
         "head": "Tech & AI",
-        "detail": "Anthropic's Opus 5 and probably more recent AI models are being censored to protect Israel / US interests. Open source AI must be the way."
+        "detail": "Are brain waves the next unlock for physical AI?"
       },
       {
         "head": "Tech & AI",
-        "detail": "Am I learning to code or just learning how to ask AI for code?"
+        "detail": "Apple is banking on privacy to set its smart glasses apart"
       },
       {
         "head": "Social",
-        "detail": "Will Meta’s massive AI bet pay off?"
+        "detail": "From Yamal to the mall: How American Eagle is going back to school"
       }
     ],
     "signal": {
@@ -49,81 +49,105 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 114,
+    "scanned": 113,
     "kept": 12
   },
   "feed": [
     {
-      "cat": "tech",
-      "label": "Tech & AI",
+      "cat": "business",
+      "label": "Business",
       "tone": "",
-      "title": "Am I learning to code or just learning how to ask AI for code?",
-      "body": "—",
-      "src": "r/artificial",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1v6szxh/am_i_learning_to_code_or_just_learning_how_to_ask/",
-      "publishedAt": "2026-07-26T04:00:48.000Z",
-      "image": null
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Anthropic's Opus 5 and probably more recent AI models are being censored to protect Israel / US interests. Op…",
-      "body": "—",
-      "src": "r/artificial",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1v6ptgz/anthropics_opus_5_and_probably_more_recent_ai/",
-      "publishedAt": "2026-07-26T01:24:25.000Z",
-      "image": null
+      "title": "Trump paused attacks on Iran to make space for talks, US ambassador says",
+      "body": "Neither the US nor Iran have launched attacks in the last two nights, after almost two weeks of tit-for-tat strikes risked derailing talks to permanently end the war.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/c5y45kdkynpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-27T08:14:46.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77dd/live/1590f3b0-890c-11f1-84f3-d921f52926a2.jpg"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Primark's new 'supermarket tactic' to woo customers in online price war",
-      "body": "Competition from ultra-cheap Chinese retailers and the cost of living crisis could be putting some people off shopping at the store, analysts say.",
+      "title": "Chinese chipmaker shares surge 470% in blockbuster stock market debut",
+      "body": "The company's shares soared by 470% in its market debut, as the AI boom drives chip demand.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c4g3x4j8pgro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-26T00:17:50.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a888/live/501dd8b0-86b2-11f1-8c61-e72dd81a46e3.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-27T07:34:59.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0377/live/bb1db120-896a-11f1-a3ae-0dbbd1718109.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "",
+      "title": "Are brain waves the next unlock for physical AI?",
+      "body": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
+      "src": "TechCrunch",
+      "fav": "T",
+      "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+      "publishedAt": "2026-07-27T00:19:14.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/IMG_5583-rotated.jpg?resize=900,1200"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Rental searches for pet friendly properties drop after law change",
-      "body": "Agents say some renters wrongly believe permission to have a pet is guaranteed.",
+      "title": "Would you choose £50,000 over the chance of £1m?",
+      "body": "The vast majority of people - particularly women - answer a survey saying they'd take the certainty over chance.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cj3gd312d8yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-26T00:00:49.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2116/live/a455cfa0-7c49-11f1-8ccc-df652c9169a7.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cn0njd4e2evo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-26T23:11:36.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3199/live/4c39d8c0-8757-11f1-95ec-a30de4e448c4.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "",
+      "title": "Apple is banking on privacy to set its smart glasses apart",
+      "body": "Meta’s AI glasses have been the focus of controversy. | Photo: Amelia Holowaty Krales / The Verge According to Mark Gurman, Apple is planning to reveal its first smart glasses at…",
+      "src": "The Verge",
+      "fav": "TV",
+      "url": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
+      "publishedAt": "2026-07-26T19:36:38.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268640_RayBan_Meta_Gen2_AKrales_0011.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Google’s ads biz gets boost from World Cup hype, Gemini improvements",
+      "body": "Search and other revenues were up 17% in Q2, but investor skepticism over soaring AI costs cast a shadow over the earnings.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/googles-ads-biz-gets-boost-from-world-cup-hype-gemini-improvements/826044/",
+      "publishedAt": "2026-07-26T14:40:00.000Z",
+      "image": "https://imgproxy.divecdn.com/1KeHsIf-uKcEGs-TXkHFcRwyG3ffRjDI2dE5CxiTNgE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9nZW1pbmlnb29nbGUuanBn.webp"
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "Android May Soon Restrict On-Device ADB",
+      "title": "Kill The Cookie Banner",
       "body": "—",
       "src": "Hacker News",
       "fav": "HN",
-      "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-      "publishedAt": "2026-07-25T06:57:14Z",
+      "url": "https://killthecookiebanner.eu/",
+      "publishedAt": "2026-07-26T11:53:17Z",
       "image": null
     },
     {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Trump vows to investigate EU over fining of US tech companies",
-      "body": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-24T20:23:58.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92c8/live/180ebdb0-8787-11f1-9428-e17279226993.jpg"
+      "cat": "social",
+      "label": "Social",
+      "tone": "rising",
+      "title": "From Yamal to the mall: How American Eagle is going back to school",
+      "body": "CMO Craig Brommers details the retailer’s extensive marketing for the crucial season, which includes an effort around social media trend #RushTok.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/from-yamal-to-the-mall-how-american-eagle-is-going-back-to-school/826046/",
+      "publishedAt": "2026-07-23T12:00:00.000Z",
+      "image": "https://imgproxy.divecdn.com/J8XvZHufFdn3vMZjbBdKFEzgmrJ3Bd4wQr-UxrVn69E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BbWVyaWNhbl9FYWdsZV9CVFNfMjAyNl9Xb21lbl9zX0xvd19SaXNlX0hlcm9fMy5qcGc=.webp"
     },
     {
       "cat": "social",
@@ -136,30 +160,6 @@
       "url": "https://www.socialmediatoday.com/news/will-metas-massive-ai-bet-pay-off/824770/",
       "publishedAt": "2026-07-23T12:00:00.000Z",
       "image": "https://imgproxy.divecdn.com/dNFbCwQGKLwG7p2-mO842wD_-ixY006Z2XY2uC1udSo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GQl9yS0laYzRILmpwZw==.webp"
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Social insights fail to reach decision-makers: Here’s what the numbers say",
-      "body": "Just 14% of social media professionals feel their organization is able to use social data properly.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/social-insights-fail-to-reach-decision-makers-heres-what-the-numbers-say/825820/",
-      "publishedAt": "2026-07-22T12:56:00.000Z",
-      "image": null
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Meta’s AI-based layoffs allegedly targeted workers who had taken protected leave",
-      "body": "The company used “a constellation of internal artificial-intelligence systems” to determine who would be included in its 10% reduction in force, per a lawsuit.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/metas-ai-based-layoffs-allegedly-targeted-workers-who-had-taken-protected/825800/",
-      "publishedAt": "2026-07-21T20:59:00.000Z",
-      "image": "https://imgproxy.divecdn.com/N2_BSBd5leIe2DLpQaXSR4TaqVApqvuKyqmVkrT0YOU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NZXRhX0VVYzdpbDkuanBn.webp"
     },
     {
       "cat": "growth",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 70,
+        "scanned": 69,
         "kept": 3
       },
       "social": {
@@ -247,7 +247,7 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 26
+        "count": 25
       },
       {
         "src": "TechCrunch",
@@ -277,7 +277,7 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 43
+        "hits": 45
       },
       {
         "word": "habit",
@@ -285,27 +285,27 @@
       },
       {
         "word": "micro",
-        "hits": 5
+        "hits": 4
+      },
+      {
+        "word": "focus",
+        "hits": 3
       },
       {
         "word": "model",
-        "hits": 4
+        "hits": 3
       },
       {
         "word": "agent",
         "hits": 3
       },
       {
-        "word": "llm",
-        "hits": 3
+        "word": "productivity",
+        "hits": 2
       },
       {
-        "word": "marketing",
-        "hits": 1
-      },
-      {
-        "word": "creator",
-        "hits": 1
+        "word": "trend",
+        "hits": 2
       },
       {
         "word": "startup",
