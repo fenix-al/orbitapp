@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-07-27T08:37:57.355Z",
+  "generatedAt": "2026-07-28T07:43:04.649Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Kill The Cookie Banner\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Our position on open-weights models\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Kill The Cookie Banner"
+        "detail": "Our position on open-weights models"
       },
       {
         "head": "Tech & AI",
-        "detail": "Are brain waves the next unlock for physical AI?"
+        "detail": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system"
       },
       {
         "head": "Tech & AI",
-        "detail": "Apple is banking on privacy to set its smart glasses apart"
+        "detail": "Why China is giving away its best AI models"
       },
       {
         "head": "Social",
@@ -49,7 +49,7 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 113,
+    "scanned": 119,
     "kept": 12
   },
   "feed": [
@@ -57,84 +57,96 @@
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Trump paused attacks on Iran to make space for talks, US ambassador says",
-      "body": "Neither the US nor Iran have launched attacks in the last two nights, after almost two weeks of tit-for-tat strikes risked derailing talks to permanently end the war.",
+      "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
+      "body": "Trading on South Korea's Kospi index was paused temporarily on Tuesday morning after slumping by 8%.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c5y45kdkynpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-27T08:14:46.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77dd/live/1590f3b0-890c-11f1-84f3-d921f52926a2.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cly8zng43npo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-28T07:33:12.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e056/live/347f61f0-8a31-11f1-949c-5b05e00ab03c.jpg"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Chinese chipmaker shares surge 470% in blockbuster stock market debut",
-      "body": "The company's shares soared by 470% in its market debut, as the AI boom drives chip demand.",
+      "title": "Should I still travel to France or Spain on holiday?",
+      "body": "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-27T07:34:59.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0377/live/bb1db120-896a-11f1-a3ae-0dbbd1718109.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "",
-      "title": "Are brain waves the next unlock for physical AI?",
-      "body": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-      "publishedAt": "2026-07-27T00:19:14.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/IMG_5583-rotated.jpg?resize=900,1200"
+      "url": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-28T07:22:58.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/506a/live/7dd51360-8a57-11f1-b6c7-397f42881d1e.jpg"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Would you choose £50,000 over the chance of £1m?",
-      "body": "The vast majority of people - particularly women - answer a survey saying they'd take the certainty over chance.",
+      "title": "Schools to offer technical subjects to pupils from age 14, Burnham says",
+      "body": "The government wants pupils to take courses like AI and manufacturing which are linked to local jobs.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cn0njd4e2evo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-26T23:11:36.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3199/live/4c39d8c0-8757-11f1-95ec-a30de4e448c4.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "",
-      "title": "Apple is banking on privacy to set its smart glasses apart",
-      "body": "Meta’s AI glasses have been the focus of controversy. | Photo: Amelia Holowaty Krales / The Verge According to Mark Gurman, Apple is planning to reveal its first smart glasses at…",
-      "src": "The Verge",
-      "fav": "TV",
-      "url": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
-      "publishedAt": "2026-07-26T19:36:38.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268640_RayBan_Meta_Gen2_AKrales_0011.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Google’s ads biz gets boost from World Cup hype, Gemini improvements",
-      "body": "Search and other revenues were up 17% in Q2, but investor skepticism over soaring AI costs cast a shadow over the earnings.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/googles-ads-biz-gets-boost-from-world-cup-hype-gemini-improvements/826044/",
-      "publishedAt": "2026-07-26T14:40:00.000Z",
-      "image": "https://imgproxy.divecdn.com/1KeHsIf-uKcEGs-TXkHFcRwyG3ffRjDI2dE5CxiTNgE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9nZW1pbmlnb29nbGUuanBn.webp"
+      "url": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-28T07:06:04.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e00c/live/b4de9dd0-8a49-11f1-9d58-5fb372bdafd2.jpg"
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "Kill The Cookie Banner",
+      "title": "Our position on open-weights models",
       "body": "—",
       "src": "Hacker News",
       "fav": "HN",
-      "url": "https://killthecookiebanner.eu/",
-      "publishedAt": "2026-07-26T11:53:17Z",
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "publishedAt": "2026-07-27T22:03:49Z",
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/62993bb857986e2808c2a75024f384e7b85312b6-2400x1254.png"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+      "body": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
+      "src": "TechCrunch",
+      "fav": "T",
+      "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+      "publishedAt": "2026-07-27T18:32:11.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/IMG_4458.jpeg?resize=1200,900"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Why China is giving away its best AI models",
+      "body": "People visit the booth of Kimi, an LLM developed by the Chinese startup Moonshot, during the World AI Conference in Shanghai, China, July 20th. | Image: LONG WEI/ Feature China/Fu…",
+      "src": "The Verge",
+      "fav": "TV",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+      "publishedAt": "2026-07-27T16:51:50.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280160.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Gap Inc. opens creator program to employees",
+      "body": "Corporate, distribution and store staff can now apply to be influencers for the retailer’s brand portfolio, almost a year after the program’s launch.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/gap-inc-opens-creator-influencer-program-staff-employees/826274/",
+      "publishedAt": "2026-07-27T16:03:00.000Z",
+      "image": "https://imgproxy.divecdn.com/7ElzYPW7pFFgPa2vAxoyYzi0m8zxB6gU76p3rXTKOEg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMDctMjdfMTE1NDA5LnBuZw==.webp"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "How to maximize Instagram marketing in 2026",
+      "body": "Brands that want to establish or expand their presence on the app should consider enlisting the help of Meta AI, working with influencers and leaning into short-form content.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/how-to-maximize-instagram-marketing-in-2026/824787/",
+      "publishedAt": "2026-07-27T12:00:00.000Z",
       "image": null
     },
     {
@@ -148,18 +160,6 @@
       "url": "https://www.socialmediatoday.com/news/from-yamal-to-the-mall-how-american-eagle-is-going-back-to-school/826046/",
       "publishedAt": "2026-07-23T12:00:00.000Z",
       "image": "https://imgproxy.divecdn.com/J8XvZHufFdn3vMZjbBdKFEzgmrJ3Bd4wQr-UxrVn69E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BbWVyaWNhbl9FYWdsZV9CVFNfMjAyNl9Xb21lbl9zX0xvd19SaXNlX0hlcm9fMy5qcGc=.webp"
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Will Meta’s massive AI bet pay off?",
-      "body": "The company has invested hundreds of billions of dollars into developing artificial intelligence models, but the market’s response hasn't matched owner Mark Zuckerberg’s enthusias…",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/will-metas-massive-ai-bet-pay-off/824770/",
-      "publishedAt": "2026-07-23T12:00:00.000Z",
-      "image": "https://imgproxy.divecdn.com/dNFbCwQGKLwG7p2-mO842wD_-ixY006Z2XY2uC1udSo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GQl9yS0laYzRILmpwZw==.webp"
     },
     {
       "cat": "growth",
@@ -225,12 +225,12 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 69,
+        "scanned": 65,
         "kept": 3
       },
       "social": {
         "label": "Social",
-        "scanned": 10,
+        "scanned": 20,
         "kept": 3
       },
       "growth": {
@@ -247,14 +247,10 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 25
+        "count": 21
       },
       {
         "src": "TechCrunch",
-        "count": 12
-      },
-      {
-        "src": "Ars Technica",
         "count": 12
       },
       {
@@ -262,15 +258,19 @@
         "count": 12
       },
       {
+        "src": "Ars Technica",
+        "count": 12
+      },
+      {
         "src": "Nir & Far",
         "count": 12
       },
       {
-        "src": "The Verge",
+        "src": "James Clear",
         "count": 10
       },
       {
-        "src": "James Clear",
+        "src": "Social Media Today",
         "count": 10
       }
     ],
@@ -280,40 +280,40 @@
         "hits": 45
       },
       {
+        "word": "model",
+        "hits": 11
+      },
+      {
+        "word": "micro",
+        "hits": 5
+      },
+      {
         "word": "habit",
         "hits": 5
       },
       {
-        "word": "micro",
-        "hits": 4
-      },
-      {
-        "word": "focus",
+        "word": "startup",
         "hits": 3
       },
       {
-        "word": "model",
+        "word": "llm",
         "hits": 3
+      },
+      {
+        "word": "local",
+        "hits": 2
       },
       {
         "word": "agent",
-        "hits": 3
+        "hits": 2
       },
       {
-        "word": "productivity",
+        "word": "marketing",
         "hits": 2
       },
       {
         "word": "trend",
         "hits": 2
-      },
-      {
-        "word": "startup",
-        "hits": 1
-      },
-      {
-        "word": "viral",
-        "hits": 1
       }
     ]
   }
