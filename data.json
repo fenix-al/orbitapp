@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-07-28T07:43:04.649Z",
+  "generatedAt": "2026-07-29T07:48:20.864Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Our position on open-weights models\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Scanned 5 DTC Brands in 50 Seconds. None of Them Are Ready for AI Shopping Agents.\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Our position on open-weights models"
+        "detail": "Scanned 5 DTC Brands in 50 Seconds. None of Them Are Ready for AI Shopping Agents."
       },
       {
         "head": "Tech & AI",
-        "detail": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system"
+        "detail": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences"
       },
       {
         "head": "Tech & AI",
-        "detail": "Why China is giving away its best AI models"
+        "detail": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents"
       },
       {
         "head": "Social",
@@ -49,7 +49,7 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 119,
+    "scanned": 112,
     "kept": 12
   },
   "feed": [
@@ -57,73 +57,73 @@
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
-      "body": "Trading on South Korea's Kospi index was paused temporarily on Tuesday morning after slumping by 8%.",
+      "title": "Ticket prices set to rise by 15p as Heathrow able to recover runway project money",
+      "body": "UK airport gets green light to charge airlines more to use the hub, which is expected to mean higher fares for flyers.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cly8zng43npo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-28T07:33:12.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e056/live/347f61f0-8a31-11f1-949c-5b05e00ab03c.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Should I still travel to France or Spain on holiday?",
-      "body": "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-28T07:22:58.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/506a/live/7dd51360-8a57-11f1-b6c7-397f42881d1e.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Schools to offer technical subjects to pupils from age 14, Burnham says",
-      "body": "The government wants pupils to take courses like AI and manufacturing which are linked to local jobs.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-28T07:06:04.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e00c/live/b4de9dd0-8a49-11f1-9d58-5fb372bdafd2.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cdx8ke9gpnko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-29T07:45:41.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75ba/live/c1afe420-8b15-11f1-ad6a-6171441778fb.jpg"
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Our position on open-weights models",
+      "tone": "",
+      "title": "Scanned 5 DTC Brands in 50 Seconds. None of Them Are Ready for AI Shopping Agents.",
       "body": "—",
+      "src": "r/artificial",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/artificial/comments/1v9mvb1/scanned_5_dtc_brands_in_50_seconds_none_of_them/",
+      "publishedAt": "2026-07-29T05:31:48.000Z",
+      "image": "https://external-preview.redd.it/-wIDpLQFwJkN3Ty-lALb1K_lbpHjLB1qChmBHuv7Lak.png?width=140&height=70&auto=webp&s=15605ae8e08411677de8fad7705e6cb0691ce176"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Unauthorised airport car park grows despite stop notice",
+      "body": "Customers says they returned from their holidays to find their cars damaged and dirty.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cn8ngxw5195o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-29T05:12:15.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c393/live/2ecb6840-8689-11f1-b976-0b9c15b0ccfc.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "",
+      "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+      "body": "Article URL: https://learnvector.ai/ Comments URL: https://news.ycombinator.com/item?id=49092499 Points: 161 # Comments: 90",
       "src": "Hacker News",
       "fav": "HN",
-      "url": "https://www.anthropic.com/news/position-open-weights-models",
-      "publishedAt": "2026-07-27T22:03:49Z",
-      "image": "https://cdn.sanity.io/images/4zrzovbb/website/62993bb857986e2808c2a75024f384e7b85312b6-2400x1254.png"
+      "url": "https://learnvector.ai/",
+      "publishedAt": "2026-07-29T01:49:19.000Z",
+      "image": "https://learnvector.ai/assets/social-card.jpg"
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-      "body": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
+      "tone": "",
+      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+      "body": "The deal is Cyera's third acquisition this year.",
       "src": "TechCrunch",
       "fav": "T",
-      "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-      "publishedAt": "2026-07-27T18:32:11.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/IMG_4458.jpeg?resize=1200,900"
+      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+      "publishedAt": "2026-07-29T00:09:05.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200"
     },
     {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Why China is giving away its best AI models",
-      "body": "People visit the booth of Kimi, an LLM developed by the Chinese startup Moonshot, during the World AI Conference in Shanghai, China, July 20th. | Image: LONG WEI/ Feature China/Fu…",
-      "src": "The Verge",
-      "fav": "TV",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
-      "publishedAt": "2026-07-27T16:51:50.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280160.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
+      "body": "Campaign group Electrical Safety First has urged those \"heading abroad this summer to think before they buy\".",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-28T23:00:15.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcb4/live/f740c5a0-8a75-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
       "cat": "social",
@@ -225,12 +225,12 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 65,
+        "scanned": 68,
         "kept": 3
       },
       "social": {
         "label": "Social",
-        "scanned": 20,
+        "scanned": 10,
         "kept": 3
       },
       "growth": {
@@ -247,14 +247,14 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 21
-      },
-      {
-        "src": "TechCrunch",
-        "count": 12
+        "count": 24
       },
       {
         "src": "BBC Business",
+        "count": 12
+      },
+      {
+        "src": "TechCrunch",
         "count": 12
       },
       {
@@ -266,22 +266,22 @@
         "count": 12
       },
       {
-        "src": "James Clear",
+        "src": "The Verge",
         "count": 10
       },
       {
-        "src": "Social Media Today",
+        "src": "James Clear",
         "count": 10
       }
     ],
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 45
+        "hits": 43
       },
       {
-        "word": "model",
-        "hits": 11
+        "word": "agent",
+        "hits": 6
       },
       {
         "word": "micro",
@@ -292,6 +292,10 @@
         "hits": 5
       },
       {
+        "word": "model",
+        "hits": 4
+      },
+      {
         "word": "startup",
         "hits": 3
       },
@@ -300,11 +304,7 @@
         "hits": 3
       },
       {
-        "word": "local",
-        "hits": 2
-      },
-      {
-        "word": "agent",
+        "word": "focus",
         "hits": 2
       },
       {
