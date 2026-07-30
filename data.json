@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-07-29T07:48:20.864Z",
+  "generatedAt": "2026-07-30T07:38:25.730Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Scanned 5 DTC Brands in 50 Seconds. None of Them Are Ready for AI Shopping Agents.\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Microsoft is openly competing with OpenAI, Anthropic more than ever\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Scanned 5 DTC Brands in 50 Seconds. None of Them Are Ready for AI Shopping Agents."
+        "detail": "Microsoft is openly competing with OpenAI, Anthropic more than ever"
       },
       {
         "head": "Tech & AI",
-        "detail": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences"
+        "detail": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026"
       },
       {
         "head": "Tech & AI",
-        "detail": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents"
+        "detail": "Show HN: A local merge queue for parallel Claude Code agents"
       },
       {
         "head": "Social",
-        "detail": "From Yamal to the mall: How American Eagle is going back to school"
+        "detail": "Gap Inc. opens creator program to employees"
       }
     ],
     "signal": {
@@ -49,7 +49,7 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 112,
+    "scanned": 113,
     "kept": 12
   },
   "feed": [
@@ -57,73 +57,73 @@
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Ticket prices set to rise by 15p as Heathrow able to recover runway project money",
-      "body": "UK airport gets green light to charge airlines more to use the hub, which is expected to mean higher fares for flyers.",
+      "title": "Trump considering AI controls after OpenAI hacking incidents",
+      "body": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cdx8ke9gpnko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T07:45:41.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75ba/live/c1afe420-8b15-11f1-ad6a-6171441778fb.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "",
-      "title": "Scanned 5 DTC Brands in 50 Seconds. None of Them Are Ready for AI Shopping Agents.",
-      "body": "—",
-      "src": "r/artificial",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1v9mvb1/scanned_5_dtc_brands_in_50_seconds_none_of_them/",
-      "publishedAt": "2026-07-29T05:31:48.000Z",
-      "image": "https://external-preview.redd.it/-wIDpLQFwJkN3Ty-lALb1K_lbpHjLB1qChmBHuv7Lak.png?width=140&height=70&auto=webp&s=15605ae8e08411677de8fad7705e6cb0691ce176"
+      "url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T07:23:11.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ade/live/8444b290-8ba7-11f1-97f2-db346fdb1706.jpg"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Unauthorised airport car park grows despite stop notice",
-      "body": "Customers says they returned from their holidays to find their cars damaged and dirty.",
+      "title": "Shell profits double as oil prices rise due to Iran war",
+      "body": "Disruption to global supplies of oil and liquid natural gas through the Strait of Hormuz has pushed up prices.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cn8ngxw5195o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T05:12:15.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c393/live/2ecb6840-8689-11f1-b976-0b9c15b0ccfc.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cpq8n45r5e8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T07:11:44.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efd5/live/6ade7670-8be2-11f1-9d57-5bf4695bf6fa.jpg"
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
-      "tone": "",
-      "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
-      "body": "Article URL: https://learnvector.ai/ Comments URL: https://news.ycombinator.com/item?id=49092499 Points: 161 # Comments: 90",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://learnvector.ai/",
-      "publishedAt": "2026-07-29T01:49:19.000Z",
-      "image": "https://learnvector.ai/assets/social-card.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "",
-      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-      "body": "The deal is Cyera's third acquisition this year.",
+      "tone": "rising",
+      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+      "body": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
       "src": "TechCrunch",
       "fav": "T",
-      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-      "publishedAt": "2026-07-29T00:09:05.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200"
+      "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "publishedAt": "2026-07-30T00:21:06.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1930518491.jpg?resize=1200,800"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Show HN: A local merge queue for parallel Claude Code agents",
+      "body": "I have been pushing up to 90 commits a day on a MacBook Air via 4-5 parallel agents. As you can imagine when all the agents try to build, test and run dev servers on an 8GB machin…",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://github.com/funador/claude-code-merge-queue",
+      "publishedAt": "2026-07-30T00:20:16.000Z",
+      "image": "https://opengraph.githubassets.com/997894854d7590677665f6225152b80afbaf052e8d64a149caeb1b65fe2d0997/funador/claude-code-merge-queue"
     },
     {
       "cat": "business",
       "label": "Business",
-      "tone": "",
-      "title": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
-      "body": "Campaign group Electrical Safety First has urged those \"heading abroad this summer to think before they buy\".",
+      "tone": "rising",
+      "title": "The Chinese robot army transforming the UK's retail industry",
+      "body": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-28T23:00:15.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcb4/live/f740c5a0-8a75-11f1-a7ab-8b30adf0800a.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-29T22:08:29.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96ad/live/c412f1a0-8708-11f1-94fc-011b42f226be.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+      "body": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+      "src": "TechCrunch",
+      "fav": "T",
+      "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-07-29T21:16:39.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/techcrunch-disrupt-2026-ai-stage.jpg?w=1200"
     },
     {
       "cat": "social",
@@ -152,14 +152,14 @@
     {
       "cat": "social",
       "label": "Social",
-      "tone": "rising",
-      "title": "From Yamal to the mall: How American Eagle is going back to school",
-      "body": "CMO Craig Brommers details the retailer’s extensive marketing for the crucial season, which includes an effort around social media trend #RushTok.",
+      "tone": "",
+      "title": "Google’s ads biz gets boost from World Cup hype, Gemini improvements",
+      "body": "Search and other revenues were up 17% in Q2, but investor skepticism over soaring AI costs cast a shadow over the earnings.",
       "src": "Social Media Today",
       "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/from-yamal-to-the-mall-how-american-eagle-is-going-back-to-school/826046/",
-      "publishedAt": "2026-07-23T12:00:00.000Z",
-      "image": "https://imgproxy.divecdn.com/J8XvZHufFdn3vMZjbBdKFEzgmrJ3Bd4wQr-UxrVn69E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BbWVyaWNhbl9FYWdsZV9CVFNfMjAyNl9Xb21lbl9zX0xvd19SaXNlX0hlcm9fMy5qcGc=.webp"
+      "url": "https://www.socialmediatoday.com/news/googles-ads-biz-gets-boost-from-world-cup-hype-gemini-improvements/826044/",
+      "publishedAt": "2026-07-26T14:40:00.000Z",
+      "image": "https://imgproxy.divecdn.com/1KeHsIf-uKcEGs-TXkHFcRwyG3ffRjDI2dE5CxiTNgE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9nZW1pbmlnb29nbGUuanBn.webp"
     },
     {
       "cat": "growth",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 68,
+        "scanned": 69,
         "kept": 3
       },
       "social": {
@@ -247,11 +247,7 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 24
-      },
-      {
-        "src": "BBC Business",
-        "count": 12
+        "count": 25
       },
       {
         "src": "TechCrunch",
@@ -259,6 +255,10 @@
       },
       {
         "src": "Ars Technica",
+        "count": 12
+      },
+      {
+        "src": "BBC Business",
         "count": 12
       },
       {
@@ -277,42 +277,42 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 43
+        "hits": 51
       },
       {
         "word": "agent",
-        "hits": 6
+        "hits": 12
       },
       {
         "word": "micro",
-        "hits": 5
+        "hits": 7
+      },
+      {
+        "word": "model",
+        "hits": 6
       },
       {
         "word": "habit",
         "hits": 5
       },
       {
-        "word": "model",
-        "hits": 4
+        "word": "productivity",
+        "hits": 3
+      },
+      {
+        "word": "creator",
+        "hits": 3
+      },
+      {
+        "word": "revenue",
+        "hits": 2
+      },
+      {
+        "word": "growth",
+        "hits": 2
       },
       {
         "word": "startup",
-        "hits": 3
-      },
-      {
-        "word": "llm",
-        "hits": 3
-      },
-      {
-        "word": "focus",
-        "hits": 2
-      },
-      {
-        "word": "marketing",
-        "hits": 2
-      },
-      {
-        "word": "trend",
         "hits": 2
       }
     ]
