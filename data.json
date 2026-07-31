@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-07-30T07:38:25.730Z",
+  "generatedAt": "2026-07-31T07:55:50.266Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Microsoft is openly competing with OpenAI, Anthropic more than ever\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Show HN: What should the GUI for AI agents look like?\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Microsoft is openly competing with OpenAI, Anthropic more than ever"
+        "detail": "Show HN: What should the GUI for AI agents look like?"
       },
       {
         "head": "Tech & AI",
-        "detail": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026"
+        "detail": "Apple says gaming slowdown and App Store changes hurt services growth"
       },
       {
         "head": "Tech & AI",
-        "detail": "Show HN: A local merge queue for parallel Claude Code agents"
+        "detail": "Read this before you buy that TV streaming stick"
       },
       {
         "head": "Social",
-        "detail": "Gap Inc. opens creator program to employees"
+        "detail": "Meta touts industry-leading ad revenue growth, but AI unease rises"
       }
     ],
     "signal": {
@@ -57,73 +57,97 @@
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Trump considering AI controls after OpenAI hacking incidents",
-      "body": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.",
+      "title": "Sainsbury's agrees to sell Argos for £120m",
+      "body": "Under the terms of the deal, Argos will still operate in Sainsbury's shops, sell Habitat products, and offer Nectar points.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T07:23:11.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ade/live/8444b290-8ba7-11f1-97f2-db346fdb1706.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T07:38:59.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0eb3/live/e2972ad0-8cab-11f1-a1f4-f50057266998.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Show HN: What should the GUI for AI agents look like?",
+      "body": "Hi HN! We’re Akilan and Miguel, the creators of MarbleOS. The inspiration for Marble comes from the GUI work at Xerox PARC, the 1984 Macintosh, and later NeXTSTEP, which became th…",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://marbleos.com/demo",
+      "publishedAt": "2026-07-31T05:17:29.000Z",
+      "image": "https://marbleos.com/hn-og.png"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Shell profits double as oil prices rise due to Iran war",
-      "body": "Disruption to global supplies of oil and liquid natural gas through the Strait of Hormuz has pushed up prices.",
+      "title": "Anthropic's Claude AI escapes tests to hack three organisations",
+      "body": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cpq8n45r5e8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T07:11:44.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efd5/live/6ade7670-8be2-11f1-9d57-5bf4695bf6fa.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-      "body": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-      "publishedAt": "2026-07-30T00:21:06.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1930518491.jpg?resize=1200,800"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Show HN: A local merge queue for parallel Claude Code agents",
-      "body": "I have been pushing up to 90 commits a day on a MacBook Air via 4-5 parallel agents. As you can imagine when all the agents try to build, test and run dev servers on an 8GB machin…",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://github.com/funador/claude-code-merge-queue",
-      "publishedAt": "2026-07-30T00:20:16.000Z",
-      "image": "https://opengraph.githubassets.com/997894854d7590677665f6225152b80afbaf052e8d64a149caeb1b65fe2d0997/funador/claude-code-merge-queue"
+      "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T04:31:30.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73c5/live/4de13040-8c72-11f1-a862-d9831bf8751b.jpg"
     },
     {
       "cat": "business",
       "label": "Business",
-      "tone": "rising",
-      "title": "The Chinese robot army transforming the UK's retail industry",
-      "body": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
+      "tone": "",
+      "title": "Amazon and Apple just told us more about their AI plans - here are three things we learned",
+      "body": "Billions of dollars are being poured into a new wave of AI technology. But will it pay off?",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T22:08:29.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96ad/live/c412f1a0-8708-11f1-94fc-011b42f226be.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T01:31:50.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f63b/live/04fbebb0-8c7f-11f1-8972-83c327826a89.jpg"
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
-      "body": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+      "title": "Apple says gaming slowdown and App Store changes hurt services growth",
+      "body": "Apple said a slowdown in mobile gaming and changes to the App Store’s business model — including court-ordered payment rule changes in the U.S. — weighed on its services business,…",
       "src": "TechCrunch",
       "fav": "T",
-      "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-07-29T21:16:39.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/techcrunch-disrupt-2026-ai-stage.jpg?w=1200"
+      "url": "https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth/",
+      "publishedAt": "2026-07-30T22:37:06.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/04/app-store-2021-pattern-wave-2021.jpg?resize=1200,675"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Read this before you buy that TV streaming stick",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "publishedAt": "2026-07-30T17:04:53Z",
+      "image": "https://krebsonsecurity.com/wp-content/uploads/2026/07/h96-amazon.png"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "rising",
+      "title": "Meta touts industry-leading ad revenue growth, but AI unease rises",
+      "body": "CEO Mark Zuckerberg said that faster revenue gains mean AI investments are paying off, but not everyone is convinced.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/meta-touts-industry-leading-ad-revenue-growth-but-ai-unease-rises/826590/",
+      "publishedAt": "2026-07-30T14:51:00.000Z",
+      "image": "https://imgproxy.divecdn.com/JH3sk8SOYE3Zq4ACycRZ_j80XguAunYCfg8GeU0Us7E/g:nowe:0:0/c:5300:2994/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTc4MTQxNTg3LmpwZw==.webp"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "4 tips to build a Snapchat marketing strategy",
+      "body": "The platform offers significant engagement opportunities, but its privacy-focused approach can make it harder for brands to develop the right messaging and promotions.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/4-tips-to-build-a-snapchat-marketing-strategy/824792/",
+      "publishedAt": "2026-07-29T12:00:00.000Z",
+      "image": null
     },
     {
       "cat": "social",
@@ -136,30 +160,6 @@
       "url": "https://www.socialmediatoday.com/news/gap-inc-opens-creator-influencer-program-staff-employees/826274/",
       "publishedAt": "2026-07-27T16:03:00.000Z",
       "image": "https://imgproxy.divecdn.com/7ElzYPW7pFFgPa2vAxoyYzi0m8zxB6gU76p3rXTKOEg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMDctMjdfMTE1NDA5LnBuZw==.webp"
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "How to maximize Instagram marketing in 2026",
-      "body": "Brands that want to establish or expand their presence on the app should consider enlisting the help of Meta AI, working with influencers and leaning into short-form content.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/how-to-maximize-instagram-marketing-in-2026/824787/",
-      "publishedAt": "2026-07-27T12:00:00.000Z",
-      "image": null
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Google’s ads biz gets boost from World Cup hype, Gemini improvements",
-      "body": "Search and other revenues were up 17% in Q2, but investor skepticism over soaring AI costs cast a shadow over the earnings.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/googles-ads-biz-gets-boost-from-world-cup-hype-gemini-improvements/826044/",
-      "publishedAt": "2026-07-26T14:40:00.000Z",
-      "image": "https://imgproxy.divecdn.com/1KeHsIf-uKcEGs-TXkHFcRwyG3ffRjDI2dE5CxiTNgE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9nZW1pbmlnb29nbGUuanBn.webp"
     },
     {
       "cat": "growth",
@@ -247,14 +247,10 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 25
+        "count": 26
       },
       {
         "src": "TechCrunch",
-        "count": 12
-      },
-      {
-        "src": "Ars Technica",
         "count": 12
       },
       {
@@ -263,6 +259,10 @@
       },
       {
         "src": "Nir & Far",
+        "count": 12
+      },
+      {
+        "src": "Ars Technica",
         "count": 12
       },
       {
@@ -277,43 +277,43 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 51
-      },
-      {
-        "word": "agent",
-        "hits": 12
-      },
-      {
-        "word": "micro",
-        "hits": 7
-      },
-      {
-        "word": "model",
-        "hits": 6
+        "hits": 49
       },
       {
         "word": "habit",
+        "hits": 6
+      },
+      {
+        "word": "micro",
         "hits": 5
       },
       {
-        "word": "productivity",
-        "hits": 3
+        "word": "model",
+        "hits": 5
       },
       {
-        "word": "creator",
-        "hits": 3
+        "word": "focus",
+        "hits": 4
       },
       {
-        "word": "revenue",
-        "hits": 2
+        "word": "marketing",
+        "hits": 4
+      },
+      {
+        "word": "agent",
+        "hits": 3
       },
       {
         "word": "growth",
         "hits": 2
       },
       {
-        "word": "startup",
+        "word": "creator",
         "hits": 2
+      },
+      {
+        "word": "productivity",
+        "hits": 1
       }
     ]
   }
