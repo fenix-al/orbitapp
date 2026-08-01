@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-07-31T07:55:50.266Z",
+  "generatedAt": "2026-08-01T07:31:49.263Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Show HN: What should the GUI for AI agents look like?\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"qm – Multiplayer agent harness for work\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Show HN: What should the GUI for AI agents look like?"
+        "detail": "qm – Multiplayer agent harness for work"
       },
       {
         "head": "Tech & AI",
-        "detail": "Apple says gaming slowdown and App Store changes hurt services growth"
+        "detail": "Elevators"
       },
       {
         "head": "Tech & AI",
-        "detail": "Read this before you buy that TV streaming stick"
+        "detail": "Reddit Stock Collapses 23% as AI Eats Away at User Growth"
       },
       {
         "head": "Social",
@@ -54,6 +54,54 @@
   },
   "feed": [
     {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "",
+      "title": "Reddit Stock Collapses 23% as AI Eats Away at User Growth",
+      "body": "—",
+      "src": "r/artificial",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/artificial/comments/1vcccnn/reddit_stock_collapses_23_as_ai_eats_away_at_user/",
+      "publishedAt": "2026-08-01T03:42:08.000Z",
+      "image": "https://external-preview.redd.it/b7hqehgl1R2px2_ZE-28ubBaNA4OjDtVCeqN_FsDhio.jpeg?width=640&crop=smart&auto=webp&s=5469c39eaf31aae2eec6d91f2bba9b2b5d555e5e"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Budget to be held in October, Healey announces",
+      "body": "The new chancellor pledged to move money and power out of Westminster, and into every postcode around Britain.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T03:34:26.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f911/live/99ae70c0-8ced-11f1-a573-93159e2b55da.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "qm – Multiplayer agent harness for work",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://github.com/yc-software/qm",
+      "publishedAt": "2026-07-31T18:04:58Z",
+      "image": "https://opengraph.githubassets.com/93f77cb31a925d204f7038619d4ecd01332f7395baa7e5ed37cc91856b8d3533/yc-software/qm"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Elevators",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://john.fun/elevators",
+      "publishedAt": "2026-07-31T15:17:28Z",
+      "image": "https://john.fun/metadata/elevator/twitter-card.png"
+    },
+    {
       "cat": "business",
       "label": "Business",
       "tone": "",
@@ -62,68 +110,20 @@
       "src": "BBC Business",
       "fav": "BB",
       "url": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T07:38:59.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0eb3/live/e2972ad0-8cab-11f1-a1f4-f50057266998.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Show HN: What should the GUI for AI agents look like?",
-      "body": "Hi HN! We’re Akilan and Miguel, the creators of MarbleOS. The inspiration for Marble comes from the GUI work at Xerox PARC, the 1984 Macintosh, and later NeXTSTEP, which became th…",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://marbleos.com/demo",
-      "publishedAt": "2026-07-31T05:17:29.000Z",
-      "image": "https://marbleos.com/hn-og.png"
+      "publishedAt": "2026-07-31T12:42:22.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c864/live/8a78e550-8cc9-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Anthropic's Claude AI escapes tests to hack three organisations",
+      "title": "Anthropic's Claude AI escapes to hack into three organisations",
       "body": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
       "src": "BBC Business",
       "fav": "BB",
       "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T04:31:30.000Z",
+      "publishedAt": "2026-07-31T10:18:54.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73c5/live/4de13040-8c72-11f1-a862-d9831bf8751b.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Amazon and Apple just told us more about their AI plans - here are three things we learned",
-      "body": "Billions of dollars are being poured into a new wave of AI technology. But will it pay off?",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T01:31:50.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f63b/live/04fbebb0-8c7f-11f1-8972-83c327826a89.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Apple says gaming slowdown and App Store changes hurt services growth",
-      "body": "Apple said a slowdown in mobile gaming and changes to the App Store’s business model — including court-ordered payment rule changes in the U.S. — weighed on its services business,…",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth/",
-      "publishedAt": "2026-07-30T22:37:06.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/04/app-store-2021-pattern-wave-2021.jpg?resize=1200,675"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Read this before you buy that TV streaming stick",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-      "publishedAt": "2026-07-30T17:04:53Z",
-      "image": "https://krebsonsecurity.com/wp-content/uploads/2026/07/h96-amazon.png"
     },
     {
       "cat": "social",
@@ -247,7 +247,7 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 26
+        "count": 25
       },
       {
         "src": "TechCrunch",
@@ -258,11 +258,11 @@
         "count": 12
       },
       {
-        "src": "Nir & Far",
+        "src": "Ars Technica",
         "count": 12
       },
       {
-        "src": "Ars Technica",
+        "src": "Nir & Far",
         "count": 12
       },
       {
@@ -284,11 +284,7 @@
         "hits": 6
       },
       {
-        "word": "micro",
-        "hits": 5
-      },
-      {
-        "word": "model",
+        "word": "agent",
         "hits": 5
       },
       {
@@ -296,12 +292,20 @@
         "hits": 4
       },
       {
-        "word": "marketing",
+        "word": "micro",
         "hits": 4
       },
       {
-        "word": "agent",
+        "word": "marketing",
         "hits": 3
+      },
+      {
+        "word": "model",
+        "hits": 3
+      },
+      {
+        "word": "startup",
+        "hits": 2
       },
       {
         "word": "growth",
@@ -310,10 +314,6 @@
       {
         "word": "creator",
         "hits": 2
-      },
-      {
-        "word": "productivity",
-        "hits": 1
       }
     ]
   }
