@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-08-01T07:31:49.263Z",
+  "generatedAt": "2026-08-02T07:35:24.480Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"qm – Multiplayer agent harness for work\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"I got tired of re-explaining my project to every AI tool, so I built a local memory layer for them\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "qm – Multiplayer agent harness for work"
+        "detail": "I got tired of re-explaining my project to every AI tool, so I built a local memory layer for them"
       },
       {
         "head": "Tech & AI",
-        "detail": "Elevators"
+        "detail": "Swapping AI models rarely fixes bad output. The context you feed it does more work than people realize."
       },
       {
         "head": "Tech & AI",
-        "detail": "Reddit Stock Collapses 23% as AI Eats Away at User Growth"
+        "detail": "AI financial advice is surprisingly good, especially if you ask right questions"
       },
       {
         "head": "Social",
@@ -49,7 +49,7 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 113,
+    "scanned": 109,
     "kept": 12
   },
   "feed": [
@@ -57,49 +57,61 @@
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "",
-      "title": "Reddit Stock Collapses 23% as AI Eats Away at User Growth",
+      "title": "I got tired of re-explaining my project to every AI tool, so I built a local memory layer for them",
       "body": "—",
       "src": "r/artificial",
       "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1vcccnn/reddit_stock_collapses_23_as_ai_eats_away_at_user/",
-      "publishedAt": "2026-08-01T03:42:08.000Z",
-      "image": "https://external-preview.redd.it/b7hqehgl1R2px2_ZE-28ubBaNA4OjDtVCeqN_FsDhio.jpeg?width=640&crop=smart&auto=webp&s=5469c39eaf31aae2eec6d91f2bba9b2b5d555e5e"
+      "url": "https://www.reddit.com/r/artificial/comments/1vd9kbb/i_got_tired_of_reexplaining_my_project_to_every/",
+      "publishedAt": "2026-08-02T05:38:33.000Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "",
+      "title": "Swapping AI models rarely fixes bad output. The context you feed it does more work than people realize.",
+      "body": "—",
+      "src": "r/artificial",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/artificial/comments/1vd6q9p/swapping_ai_models_rarely_fixes_bad_output_the/",
+      "publishedAt": "2026-08-02T03:11:37.000Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "",
+      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "publishedAt": "2026-08-01T22:25:12Z",
+      "image": "https://mitsloan.mit.edu/sites/default/files/styles/og_image/public/2026-07/ai-finance.png.webp?h=7691f918&itok=Zfv-5Ys6"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Budget to be held in October, Healey announces",
-      "body": "The new chancellor pledged to move money and power out of Westminster, and into every postcode around Britain.",
+      "title": "Faisal Islam: Four reasons why Fifa's World Cup plan never stacked up",
+      "body": "The actual presentation of FIFA's plan to part-privatise the World Cup raises many more questions than it answers.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/clyvd8363wlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T12:41:17.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f87/live/51e22a90-8d2c-11f1-a7ab-8b30adf0800a.jpg"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Stick to spending limits, PM and chancellor tell ministers in joint memo",
+      "body": "The Chancellor said the Budget on 28 October would “meet our fiscal rules” and give families \"stability\" to plan for the future.",
       "src": "BBC Business",
       "fav": "BB",
       "url": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T03:34:26.000Z",
+      "publishedAt": "2026-08-01T07:48:01.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f911/live/99ae70c0-8ced-11f1-a573-93159e2b55da.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "qm – Multiplayer agent harness for work",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://github.com/yc-software/qm",
-      "publishedAt": "2026-07-31T18:04:58Z",
-      "image": "https://opengraph.githubassets.com/93f77cb31a925d204f7038619d4ecd01332f7395baa7e5ed37cc91856b8d3533/yc-software/qm"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Elevators",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://john.fun/elevators",
-      "publishedAt": "2026-07-31T15:17:28Z",
-      "image": "https://john.fun/metadata/elevator/twitter-card.png"
     },
     {
       "cat": "business",
@@ -112,18 +124,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-31T12:42:22.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c864/live/8a78e550-8cc9-11f1-b2ab-0dd01740f9f6.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Anthropic's Claude AI escapes to hack into three organisations",
-      "body": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T10:18:54.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73c5/live/4de13040-8c72-11f1-a862-d9831bf8751b.jpg"
     },
     {
       "cat": "social",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 69,
+        "scanned": 65,
         "kept": 3
       },
       "social": {
@@ -247,7 +247,7 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 25
+        "count": 21
       },
       {
         "src": "TechCrunch",
@@ -277,22 +277,18 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 49
+        "hits": 45
       },
       {
         "word": "habit",
-        "hits": 6
-      },
-      {
-        "word": "agent",
-        "hits": 5
+        "hits": 7
       },
       {
         "word": "focus",
         "hits": 4
       },
       {
-        "word": "micro",
+        "word": "model",
         "hits": 4
       },
       {
@@ -300,20 +296,24 @@
         "hits": 3
       },
       {
-        "word": "model",
+        "word": "micro",
         "hits": 3
       },
       {
+        "word": "llm",
+        "hits": 2
+      },
+      {
+        "word": "agent",
+        "hits": 2
+      },
+      {
         "word": "startup",
-        "hits": 2
+        "hits": 1
       },
       {
-        "word": "growth",
-        "hits": 2
-      },
-      {
-        "word": "creator",
-        "hits": 2
+        "word": "productivity",
+        "hits": 1
       }
     ]
   }
