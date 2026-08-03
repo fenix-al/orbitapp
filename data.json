@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-08-02T07:35:24.480Z",
+  "generatedAt": "2026-08-03T08:34:42.497Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"I got tired of re-explaining my project to every AI tool, so I built a local memory layer for them\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Is paying artists enough to convince them to embrace AI?\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "I got tired of re-explaining my project to every AI tool, so I built a local memory layer for them"
+        "detail": "Is paying artists enough to convince them to embrace AI?"
       },
       {
         "head": "Tech & AI",
-        "detail": "Swapping AI models rarely fixes bad output. The context you feed it does more work than people realize."
+        "detail": "These App Store hidden gems prove there’s still room for great software in the AI era"
       },
       {
         "head": "Tech & AI",
-        "detail": "AI financial advice is surprisingly good, especially if you ask right questions"
+        "detail": "Karpathy’s Pelican"
       },
       {
         "head": "Social",
-        "detail": "Meta touts industry-leading ad revenue growth, but AI unease rises"
+        "detail": "LinkedIn reports solid Q2 revenue growth"
       }
     ],
     "signal": {
@@ -49,45 +49,81 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 109,
+    "scanned": 115,
     "kept": 12
   },
   "feed": [
     {
-      "cat": "tech",
-      "label": "Tech & AI",
+      "cat": "business",
+      "label": "Business",
       "tone": "",
-      "title": "I got tired of re-explaining my project to every AI tool, so I built a local memory layer for them",
-      "body": "—",
-      "src": "r/artificial",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1vd9kbb/i_got_tired_of_reexplaining_my_project_to_every/",
-      "publishedAt": "2026-08-02T05:38:33.000Z",
+      "title": "US and Japan take action to prop up yen in rare joint move",
+      "body": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T07:30:52.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/717b/live/62dcb0b0-8ed3-11f1-b2f6-e1f7eea93d58.jpg"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "rising",
+      "title": "LinkedIn reports solid Q2 revenue growth",
+      "body": "Owner Microsoft doesn’t release many performance details, but LinkedIn CEO Daniel Shapero said there was also double-digit member growth.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/linkedin-reports-solid-q2-revenue-growth/826786/",
+      "publishedAt": "2026-08-02T23:06:04.000Z",
+      "image": null
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "rising",
+      "title": "Reddit’s user base grows to more than 130 million daily actives",
+      "body": "The company’s Q2 performance update also showed robust revenue growth despite what CEO Steve Huffman called “choppy” search referrals.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/reddits-user-base-grows-to-more-than-130-million-daily-actives/826783/",
+      "publishedAt": "2026-08-02T22:11:43.000Z",
       "image": null
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "",
-      "title": "Swapping AI models rarely fixes bad output. The context you feed it does more work than people realize.",
-      "body": "—",
-      "src": "r/artificial",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1vd6q9p/swapping_ai_models_rarely_fixes_bad_output_the/",
-      "publishedAt": "2026-08-02T03:11:37.000Z",
-      "image": null
+      "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
+      "body": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood mar…",
+      "src": "TechCrunch",
+      "fav": "T",
+      "url": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+      "publishedAt": "2026-08-02T15:23:19.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/12/app-of-the-year.jpg?resize=1200,722"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Is paying artists enough to convince them to embrace AI?",
+      "body": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out h…",
+      "src": "The Verge",
+      "fav": "TV",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+      "publishedAt": "2026-08-02T13:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-31-at-4.11.25-PM.png?quality=90&#038;strip=all&#038;crop=2.6881256103516,0,97.311874389648,100"
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "",
-      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+      "title": "Karpathy’s Pelican",
       "body": "—",
       "src": "Hacker News",
       "fav": "HN",
-      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-      "publishedAt": "2026-08-01T22:25:12Z",
-      "image": "https://mitsloan.mit.edu/sites/default/files/styles/og_image/public/2026-07/ai-finance.png.webp?h=7691f918&itok=Zfv-5Ys6"
+      "url": "https://twitter.com/karpathy/status/2083749667410727319",
+      "publishedAt": "2026-08-02T04:05:56Z",
+      "image": "https://jf.x.com/images/media-preview/2083749667410727319"
     },
     {
       "cat": "business",
@@ -100,18 +136,6 @@
       "url": "https://www.bbc.co.uk/news/articles/clyvd8363wlo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-01T12:41:17.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f87/live/51e22a90-8d2c-11f1-a7ab-8b30adf0800a.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Stick to spending limits, PM and chancellor tell ministers in joint memo",
-      "body": "The Chancellor said the Budget on 28 October would “meet our fiscal rules” and give families \"stability\" to plan for the future.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T07:48:01.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f911/live/99ae70c0-8ced-11f1-a573-93159e2b55da.jpg"
     },
     {
       "cat": "business",
@@ -136,30 +160,6 @@
       "url": "https://www.socialmediatoday.com/news/meta-touts-industry-leading-ad-revenue-growth-but-ai-unease-rises/826590/",
       "publishedAt": "2026-07-30T14:51:00.000Z",
       "image": "https://imgproxy.divecdn.com/JH3sk8SOYE3Zq4ACycRZ_j80XguAunYCfg8GeU0Us7E/g:nowe:0:0/c:5300:2994/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTc4MTQxNTg3LmpwZw==.webp"
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "4 tips to build a Snapchat marketing strategy",
-      "body": "The platform offers significant engagement opportunities, but its privacy-focused approach can make it harder for brands to develop the right messaging and promotions.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/4-tips-to-build-a-snapchat-marketing-strategy/824792/",
-      "publishedAt": "2026-07-29T12:00:00.000Z",
-      "image": null
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Gap Inc. opens creator program to employees",
-      "body": "Corporate, distribution and store staff can now apply to be influencers for the retailer’s brand portfolio, almost a year after the program’s launch.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/gap-inc-opens-creator-influencer-program-staff-employees/826274/",
-      "publishedAt": "2026-07-27T16:03:00.000Z",
-      "image": "https://imgproxy.divecdn.com/7ElzYPW7pFFgPa2vAxoyYzi0m8zxB6gU76p3rXTKOEg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMDctMjdfMTE1NDA5LnBuZw==.webp"
     },
     {
       "cat": "growth",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 65,
+        "scanned": 71,
         "kept": 3
       },
       "social": {
@@ -247,18 +247,18 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 21
+        "count": 28
       },
       {
         "src": "TechCrunch",
         "count": 12
       },
       {
-        "src": "BBC Business",
+        "src": "Ars Technica",
         "count": 12
       },
       {
-        "src": "Ars Technica",
+        "src": "BBC Business",
         "count": 12
       },
       {
@@ -277,26 +277,26 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 45
-      },
-      {
-        "word": "habit",
-        "hits": 7
-      },
-      {
-        "word": "focus",
-        "hits": 4
+        "hits": 47
       },
       {
         "word": "model",
-        "hits": 4
+        "hits": 6
       },
       {
-        "word": "marketing",
-        "hits": 3
+        "word": "habit",
+        "hits": 6
       },
       {
         "word": "micro",
+        "hits": 5
+      },
+      {
+        "word": "revenue",
+        "hits": 3
+      },
+      {
+        "word": "growth",
         "hits": 3
       },
       {
@@ -304,7 +304,7 @@
         "hits": 2
       },
       {
-        "word": "agent",
+        "word": "focus",
         "hits": 2
       },
       {
@@ -312,7 +312,7 @@
         "hits": 1
       },
       {
-        "word": "productivity",
+        "word": "agent",
         "hits": 1
       }
     ]
