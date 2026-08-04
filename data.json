@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-08-03T08:34:42.497Z",
+  "generatedAt": "2026-08-04T07:43:49.913Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Is paying artists enough to convince them to embrace AI?\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Design Arena creators raise $7.9 million to bring taste to AI models\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Is paying artists enough to convince them to embrace AI?"
+        "detail": "Design Arena creators raise $7.9 million to bring taste to AI models"
       },
       {
         "head": "Tech & AI",
-        "detail": "These App Store hidden gems prove there’s still room for great software in the AI era"
+        "detail": "Devtools must be open source"
       },
       {
         "head": "Tech & AI",
-        "detail": "Karpathy’s Pelican"
+        "detail": "AirLLM 70B inference with single 4GB GPU"
       },
       {
         "head": "Social",
@@ -49,7 +49,7 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 115,
+    "scanned": 114,
     "kept": 12
   },
   "feed": [
@@ -57,20 +57,92 @@
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "US and Japan take action to prop up yen in rare joint move",
-      "body": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
+      "title": "US states sue to block Trump tariffs impacting dozens of countries",
+      "body": "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T07:30:52.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/717b/live/62dcb0b0-8ed3-11f1-b2f6-e1f7eea93d58.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-04T07:11:35.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5d5/live/ea554540-8fb7-11f1-a7ab-8b30adf0800a.jpg"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Half-price rail travel extended to 18-year-olds",
+      "body": "They'll be able to buy the 16-17 Saver railcard up until the day before they turn 18.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cy0jyln07r7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T23:34:13.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6b7/live/f96ea650-8f50-11f1-99e6-95543b07d23d.jpg"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Tokenomics: Why making AI pay is tricky",
+      "body": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T23:21:10.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae1d/live/13ce3de0-79de-11f1-a627-714adb4eed6e.jpg"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Snap posts modest Q2 user and revenue increases",
+      "body": "The app added 10 million more daily actives in the quarter while CEO Evan Spiegel said it’s looking to pace its investment in Specs glasses.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/snap-posts-modest-q2-user-and-revenue-increases/826907/",
+      "publishedAt": "2026-08-03T23:19:11.000Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+      "body": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+      "src": "TechCrunch",
+      "fav": "T",
+      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "publishedAt": "2026-08-03T19:28:57.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-03-at-12.31.35-PM.jpg?resize=1200,739"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Devtools must be open source",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://blog.exe.dev/devtools-must-be-open-source",
+      "publishedAt": "2026-08-03T14:15:47Z",
+      "image": "https://blog.exe.dev/static/og-card.png"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "AirLLM 70B inference with single 4GB GPU",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://github.com/lyogavin/airllm",
+      "publishedAt": "2026-08-03T11:15:48Z",
+      "image": "https://opengraph.githubassets.com/14c9f0d9b4bf737d518f195812068b87dff46fbb7ba426984dd986701301e543/lyogavin/airllm"
     },
     {
       "cat": "social",
       "label": "Social",
       "tone": "rising",
       "title": "LinkedIn reports solid Q2 revenue growth",
-      "body": "Owner Microsoft doesn’t release many performance details, but LinkedIn CEO Daniel Shapero said there was also double-digit member growth.",
+      "body": "Microsoft doesn’t release many performance details, but LinkedIn CEO Daniel Shapero said there was also double-digit member growth.",
       "src": "Social Media Today",
       "fav": "SM",
       "url": "https://www.socialmediatoday.com/news/linkedin-reports-solid-q2-revenue-growth/826786/",
@@ -81,85 +153,13 @@
       "cat": "social",
       "label": "Social",
       "tone": "rising",
-      "title": "Reddit’s user base grows to more than 130 million daily actives",
+      "title": "Reddit’s user base grows to more than 130M daily actives",
       "body": "The company’s Q2 performance update also showed robust revenue growth despite what CEO Steve Huffman called “choppy” search referrals.",
       "src": "Social Media Today",
       "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/reddits-user-base-grows-to-more-than-130-million-daily-actives/826783/",
+      "url": "https://www.socialmediatoday.com/news/reddits-user-base-grows-to-more-than-130m-daily-actives/826783/",
       "publishedAt": "2026-08-02T22:11:43.000Z",
       "image": null
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "",
-      "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
-      "body": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood mar…",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
-      "publishedAt": "2026-08-02T15:23:19.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/12/app-of-the-year.jpg?resize=1200,722"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Is paying artists enough to convince them to embrace AI?",
-      "body": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out h…",
-      "src": "The Verge",
-      "fav": "TV",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
-      "publishedAt": "2026-08-02T13:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-31-at-4.11.25-PM.png?quality=90&#038;strip=all&#038;crop=2.6881256103516,0,97.311874389648,100"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "",
-      "title": "Karpathy’s Pelican",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://twitter.com/karpathy/status/2083749667410727319",
-      "publishedAt": "2026-08-02T04:05:56Z",
-      "image": "https://jf.x.com/images/media-preview/2083749667410727319"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Faisal Islam: Four reasons why Fifa's World Cup plan never stacked up",
-      "body": "The actual presentation of FIFA's plan to part-privatise the World Cup raises many more questions than it answers.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/clyvd8363wlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T12:41:17.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f87/live/51e22a90-8d2c-11f1-a7ab-8b30adf0800a.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Sainsbury's agrees to sell Argos for £120m",
-      "body": "Under the terms of the deal, Argos will still operate in Sainsbury's shops, sell Habitat products, and offer Nectar points.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T12:42:22.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c864/live/8a78e550-8cc9-11f1-b2ab-0dd01740f9f6.jpg"
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "rising",
-      "title": "Meta touts industry-leading ad revenue growth, but AI unease rises",
-      "body": "CEO Mark Zuckerberg said that faster revenue gains mean AI investments are paying off, but not everyone is convinced.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/meta-touts-industry-leading-ad-revenue-growth-but-ai-unease-rises/826590/",
-      "publishedAt": "2026-07-30T14:51:00.000Z",
-      "image": "https://imgproxy.divecdn.com/JH3sk8SOYE3Zq4ACycRZ_j80XguAunYCfg8GeU0Us7E/g:nowe:0:0/c:5300:2994/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTc4MTQxNTg3LmpwZw==.webp"
     },
     {
       "cat": "growth",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 71,
+        "scanned": 70,
         "kept": 3
       },
       "social": {
@@ -247,14 +247,10 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 28
+        "count": 26
       },
       {
         "src": "TechCrunch",
-        "count": 12
-      },
-      {
-        "src": "Ars Technica",
         "count": 12
       },
       {
@@ -262,58 +258,62 @@
         "count": 12
       },
       {
+        "src": "Ars Technica",
+        "count": 12
+      },
+      {
         "src": "Nir & Far",
         "count": 12
       },
       {
-        "src": "The Verge",
+        "src": "James Clear",
         "count": 10
       },
       {
-        "src": "James Clear",
+        "src": "The Verge",
         "count": 10
       }
     ],
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 47
+        "hits": 48
       },
       {
         "word": "model",
-        "hits": 6
+        "hits": 8
       },
       {
         "word": "habit",
-        "hits": 6
+        "hits": 5
       },
       {
         "word": "micro",
         "hits": 5
       },
       {
+        "word": "agent",
+        "hits": 4
+      },
+      {
+        "word": "llm",
+        "hits": 4
+      },
+      {
+        "word": "startup",
+        "hits": 3
+      },
+      {
         "word": "revenue",
         "hits": 3
       },
       {
+        "word": "creator",
+        "hits": 2
+      },
+      {
         "word": "growth",
-        "hits": 3
-      },
-      {
-        "word": "llm",
         "hits": 2
-      },
-      {
-        "word": "focus",
-        "hits": 2
-      },
-      {
-        "word": "startup",
-        "hits": 1
-      },
-      {
-        "word": "agent",
-        "hits": 1
       }
     ]
   }
