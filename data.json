@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-08-04T07:43:49.913Z",
+  "generatedAt": "2026-08-05T07:44:57.778Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Design Arena creators raise $7.9 million to bring taste to AI models\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Design Arena creators raise $7.9 million to bring taste to AI models"
+        "detail": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years"
       },
       {
         "head": "Tech & AI",
-        "detail": "Devtools must be open source"
+        "detail": "Xbox goes down. You can't play games you own on disc"
       },
       {
         "head": "Tech & AI",
-        "detail": "AirLLM 70B inference with single 4GB GPU"
+        "detail": "Zero-Mem: Zero-Token Memory Operations for LLM Agents"
       },
       {
         "head": "Social",
-        "detail": "LinkedIn reports solid Q2 revenue growth"
+        "detail": "Snapchat offers third-party AI ad integration"
       }
     ],
     "signal": {
@@ -49,7 +49,7 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 114,
+    "scanned": 112,
     "kept": 12
   },
   "feed": [
@@ -57,108 +57,108 @@
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "US states sue to block Trump tariffs impacting dozens of countries",
-      "body": "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour.",
+      "title": "SpaceX's first-ever earnings show higher revenues and huge spending",
+      "body": "Elon Musk said during a call with financial analysts that people were \"underestimating\" his company.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T07:11:35.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5d5/live/ea554540-8fb7-11f1-a7ab-8b30adf0800a.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-05T06:35:48.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a14/live/a0d16bc0-903d-11f1-a691-e5bd21941ac1.jpg"
     },
     {
-      "cat": "business",
-      "label": "Business",
+      "cat": "tech",
+      "label": "Tech & AI",
       "tone": "",
-      "title": "Half-price rail travel extended to 18-year-olds",
-      "body": "They'll be able to buy the 16-17 Saver railcard up until the day before they turn 18.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cy0jyln07r7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T23:34:13.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6b7/live/f96ea650-8f50-11f1-99e6-95543b07d23d.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Tokenomics: Why making AI pay is tricky",
-      "body": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T23:21:10.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae1d/live/13ce3de0-79de-11f1-a627-714adb4eed6e.jpg"
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Snap posts modest Q2 user and revenue increases",
-      "body": "The app added 10 million more daily actives in the quarter while CEO Evan Spiegel said it’s looking to pace its investment in Specs glasses.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/snap-posts-modest-q2-user-and-revenue-increases/826907/",
-      "publishedAt": "2026-08-03T23:19:11.000Z",
+      "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+      "body": "Article URL: https://arxiv.org/abs/2607.29377 Comments URL: https://news.ycombinator.com/item?id=49178608 Points: 17 # Comments: 2",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://arxiv.org/abs/2607.29377",
+      "publishedAt": "2026-08-05T04:36:44.000Z",
       "image": null
     },
     {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
-      "body": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-      "publishedAt": "2026-08-03T19:28:57.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-03-at-12.31.35-PM.jpg?resize=1200,739"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Devtools must be open source",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://blog.exe.dev/devtools-must-be-open-source",
-      "publishedAt": "2026-08-03T14:15:47Z",
-      "image": "https://blog.exe.dev/static/og-card.png"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "AirLLM 70B inference with single 4GB GPU",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://github.com/lyogavin/airllm",
-      "publishedAt": "2026-08-03T11:15:48Z",
-      "image": "https://opengraph.githubassets.com/14c9f0d9b4bf737d518f195812068b87dff46fbb7ba426984dd986701301e543/lyogavin/airllm"
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "AI used new levels of 'autonomy and deception' to trick people in safety test",
+      "body": "The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI models was malicious and unprecedented.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-05T00:02:18.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ab1/live/974e85e0-905d-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
       "cat": "social",
       "label": "Social",
-      "tone": "rising",
-      "title": "LinkedIn reports solid Q2 revenue growth",
-      "body": "Microsoft doesn’t release many performance details, but LinkedIn CEO Daniel Shapero said there was also double-digit member growth.",
+      "tone": "",
+      "title": "Pinterest leans on AI to drive improved performance in Q2",
+      "body": "The company added 9 million monthly active users but platform growth was down in Europe and flat in the U.S. and Canada.",
       "src": "Social Media Today",
       "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/linkedin-reports-solid-q2-revenue-growth/826786/",
-      "publishedAt": "2026-08-02T23:06:04.000Z",
+      "url": "https://www.socialmediatoday.com/news/pinterest-leans-on-ai-to-drive-improved-performance-in-q2/827033/",
+      "publishedAt": "2026-08-04T23:21:02.000Z",
+      "image": null
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Fashion brand Jaded has ad banned for 'glamourising smoking'",
+      "body": "The advertising watchdog said Jaded London's marketing email made smoking seem appealing.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cly843vd3jmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-04T23:20:12.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01ef/live/29567dd0-909f-11f1-a7ab-8b30adf0800a.jpg"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Meta makes AI Developer Assistant its primary support option",
+      "body": "The company is actively pushing forward with its plan to incorporate artificial intelligence agents into as many systems as possible.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/meta-makes-ai-developer-assistant-its-primary-support-option/827032/",
+      "publishedAt": "2026-08-04T23:18:46.000Z",
       "image": null
     },
     {
       "cat": "social",
       "label": "Social",
       "tone": "rising",
-      "title": "Reddit’s user base grows to more than 130M daily actives",
-      "body": "The company’s Q2 performance update also showed robust revenue growth despite what CEO Steve Huffman called “choppy” search referrals.",
+      "title": "Snapchat offers third-party AI ad integration",
+      "body": "The app’s Model Context Protocol server will let brands connect promotional campaigns to agents including Claude, ChatGPT and Gemini.",
       "src": "Social Media Today",
       "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/reddits-user-base-grows-to-more-than-130m-daily-actives/826783/",
-      "publishedAt": "2026-08-02T22:11:43.000Z",
+      "url": "https://www.socialmediatoday.com/news/snapchat-offers-third-party-ai-ad-integration/827026/",
+      "publishedAt": "2026-08-04T21:25:31.000Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
+      "publishedAt": "2026-08-04T18:51:38Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Xbox goes down. You can't play games you own on disc",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
+      "publishedAt": "2026-08-04T12:01:02Z",
       "image": null
     },
     {
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 70,
+        "scanned": 68,
         "kept": 3
       },
       "social": {
@@ -247,14 +247,10 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 26
+        "count": 24
       },
       {
         "src": "TechCrunch",
-        "count": 12
-      },
-      {
-        "src": "BBC Business",
         "count": 12
       },
       {
@@ -262,15 +258,19 @@
         "count": 12
       },
       {
+        "src": "BBC Business",
+        "count": 12
+      },
+      {
         "src": "Nir & Far",
         "count": 12
       },
       {
-        "src": "James Clear",
+        "src": "The Verge",
         "count": 10
       },
       {
-        "src": "The Verge",
+        "src": "James Clear",
         "count": 10
       }
     ],
@@ -281,14 +281,14 @@
       },
       {
         "word": "model",
-        "hits": 8
+        "hits": 9
       },
       {
-        "word": "habit",
+        "word": "revenue",
         "hits": 5
       },
       {
-        "word": "micro",
+        "word": "habit",
         "hits": 5
       },
       {
@@ -296,20 +296,20 @@
         "hits": 4
       },
       {
+        "word": "micro",
+        "hits": 3
+      },
+      {
+        "word": "focus",
+        "hits": 3
+      },
+      {
+        "word": "marketing",
+        "hits": 3
+      },
+      {
         "word": "llm",
-        "hits": 4
-      },
-      {
-        "word": "startup",
         "hits": 3
-      },
-      {
-        "word": "revenue",
-        "hits": 3
-      },
-      {
-        "word": "creator",
-        "hits": 2
       },
       {
         "word": "growth",
