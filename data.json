@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-08-05T07:44:57.778Z",
+  "generatedAt": "2026-08-06T07:44:30.374Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years"
+        "detail": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs"
       },
       {
         "head": "Tech & AI",
-        "detail": "Xbox goes down. You can't play games you own on disc"
+        "detail": "Discovery Loop"
       },
       {
         "head": "Tech & AI",
-        "detail": "Zero-Mem: Zero-Token Memory Operations for LLM Agents"
+        "detail": "Cloudflare OS: an open platform for agents, apps, and work"
       },
       {
         "head": "Social",
@@ -56,38 +56,74 @@
     {
       "cat": "business",
       "label": "Business",
-      "tone": "",
-      "title": "SpaceX's first-ever earnings show higher revenues and huge spending",
-      "body": "Elon Musk said during a call with financial analysts that people were \"underestimating\" his company.",
+      "tone": "rising",
+      "title": "Meta says AI model accessed the internet and hacked another firm",
+      "body": "Meta is the latest company to disclose an AI agent breach, raising cyber-security concerns.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-05T06:35:48.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a14/live/a0d16bc0-903d-11f1-a691-e5bd21941ac1.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "",
-      "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
-      "body": "Article URL: https://arxiv.org/abs/2607.29377 Comments URL: https://news.ycombinator.com/item?id=49178608 Points: 17 # Comments: 2",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://arxiv.org/abs/2607.29377",
-      "publishedAt": "2026-08-05T04:36:44.000Z",
-      "image": null
+      "url": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T05:53:58.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f468/live/5910e320-9131-11f1-b387-374684edd409.jpg"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "AI used new levels of 'autonomy and deception' to trick people in safety test",
-      "body": "The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI models was malicious and unprecedented.",
+      "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+      "body": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-05T00:02:18.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ab1/live/974e85e0-905d-11f1-b2ab-0dd01740f9f6.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T01:19:59.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b45d/live/e272ff40-9104-11f1-a7ab-8b30adf0800a.jpg"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Trump administration pays back $100bn in 'Liberation Day' tariffs to businesses",
+      "body": "It represents roughly 60% of all tariff revenue collected under the policy, with billions still to be repaid.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cwyewn5wexvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-05T19:39:48.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de73/live/2cb03770-9160-11f1-90fb-f1c04ab9a913.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Discovery Loop",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://www.discoveryloop.com/",
+      "publishedAt": "2026-08-05T16:19:44Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+      "publishedAt": "2026-08-05T16:05:31Z",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/super-g_1.width-1300.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Cloudflare OS: an open platform for agents, apps, and work",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://blog.cloudflare.com/cloudflare-os/",
+      "publishedAt": "2026-08-05T13:58:53Z",
+      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01KZ7PN06AYFEQJN4FBVAE8WHH.png"
     },
     {
       "cat": "social",
@@ -100,18 +136,6 @@
       "url": "https://www.socialmediatoday.com/news/pinterest-leans-on-ai-to-drive-improved-performance-in-q2/827033/",
       "publishedAt": "2026-08-04T23:21:02.000Z",
       "image": null
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Fashion brand Jaded has ad banned for 'glamourising smoking'",
-      "body": "The advertising watchdog said Jaded London's marketing email made smoking seem appealing.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cly843vd3jmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T23:20:12.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01ef/live/29567dd0-909f-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
       "cat": "social",
@@ -135,30 +159,6 @@
       "fav": "SM",
       "url": "https://www.socialmediatoday.com/news/snapchat-offers-third-party-ai-ad-integration/827026/",
       "publishedAt": "2026-08-04T21:25:31.000Z",
-      "image": null
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
-      "publishedAt": "2026-08-04T18:51:38Z",
-      "image": null
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Xbox goes down. You can't play games you own on disc",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
-      "publishedAt": "2026-08-04T12:01:02Z",
       "image": null
     },
     {
@@ -247,14 +247,10 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 24
+        "count": 25
       },
       {
         "src": "TechCrunch",
-        "count": 12
-      },
-      {
-        "src": "Ars Technica",
         "count": 12
       },
       {
@@ -262,58 +258,62 @@
         "count": 12
       },
       {
+        "src": "Ars Technica",
+        "count": 12
+      },
+      {
         "src": "Nir & Far",
         "count": 12
       },
       {
-        "src": "The Verge",
+        "src": "James Clear",
         "count": 10
       },
       {
-        "src": "James Clear",
+        "src": "The Verge",
         "count": 10
       }
     ],
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 48
+        "hits": 49
       },
       {
-        "word": "model",
+        "word": "agent",
         "hits": 9
       },
       {
-        "word": "revenue",
-        "hits": 5
+        "word": "model",
+        "hits": 7
       },
       {
         "word": "habit",
         "hits": 5
       },
       {
-        "word": "agent",
+        "word": "creator",
         "hits": 4
       },
       {
-        "word": "micro",
-        "hits": 3
+        "word": "llm",
+        "hits": 4
+      },
+      {
+        "word": "startup",
+        "hits": 2
       },
       {
         "word": "focus",
-        "hits": 3
-      },
-      {
-        "word": "marketing",
-        "hits": 3
-      },
-      {
-        "word": "llm",
-        "hits": 3
-      },
-      {
-        "word": "growth",
         "hits": 2
+      },
+      {
+        "word": "micro",
+        "hits": 2
+      },
+      {
+        "word": "trend",
+        "hits": 1
       }
     ]
   }
