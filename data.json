@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-08-06T07:44:30.374Z",
+  "generatedAt": "2026-08-07T06:12:06.964Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Humans missed 1 in 3 threats approving AI agent commands across 40k game runs\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs"
+        "detail": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs"
       },
       {
         "head": "Tech & AI",
-        "detail": "Discovery Loop"
+        "detail": "Mario Meets Pareto"
       },
       {
         "head": "Tech & AI",
-        "detail": "Cloudflare OS: an open platform for agents, apps, and work"
+        "detail": "Bioengineered chewing gum may offer a way to fight HPV and other microbes"
       },
       {
         "head": "Social",
-        "detail": "Snapchat offers third-party AI ad integration"
+        "detail": "YouTube expands shopping affiliate program to the UK"
       }
     ],
     "signal": {
@@ -49,117 +49,117 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 112,
+    "scanned": 115,
     "kept": 12
   },
   "feed": [
     {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Meta fined $567 million for failing to protect teens",
+      "body": "A New Mexico judge said the state is facing a youth mental health crisis and cited Meta as a key contributor.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/meta-fined-567-million-for-failing-to-protect-teens/827298/",
+      "publishedAt": "2026-08-07T01:30:53.000Z",
+      "image": "https://imgproxy.divecdn.com/_F9K7808g-egAJKt4BktdI9h92MmalSfxjmoYu3HMRM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8ySDNZQlJBLmpwZw==.webp"
+    },
+    {
       "cat": "business",
       "label": "Business",
+      "tone": "",
+      "title": "Trump imposes 15% tariff on key chip material to counter China",
+      "body": "The move aims to protect US firms as they face increasing competition from China's chip industry.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T01:03:35.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60dd/live/9a103bd0-91fb-11f1-952a-e58ebd1358f8.jpg"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "YouTube expands shopping affiliate program to the UK",
+      "body": "Creators who join will be able to tag products from partner merchants including Wayfair, Currys, Debenhams, Boots, M&S and Etsy.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/youtube-expands-shopping-affiliate-program-to-the-uk/827294/",
+      "publishedAt": "2026-08-06T23:14:50.000Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "",
+      "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
+      "body": "Article URL: https://www.sciencedaily.com/releases/2026/08/260803080917.htm Comments URL: https://news.ycombinator.com/item?id=49202716 Points: 93 # Comments: 15",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+      "publishedAt": "2026-08-06T21:18:32.000Z",
+      "image": "https://www.sciencedaily.com/images/1920/young-woman-biting-chewing-gum.webp"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Head of Product at X steps down",
+      "body": "Nikita Bier is leaving after just over a year, but said in a post on the app that he’s staying on as an advisor.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/head-of-product-at-x-steps-down/827289/",
+      "publishedAt": "2026-08-06T20:59:53.000Z",
+      "image": null
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "First OpenAI, now Meta - why do AI hacks keep happening?",
+      "body": "A flood of companies are revealing AI models gained access to the internet - with real consequences.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cp30989ee1wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T15:59:34.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19c4/live/1e741d30-91aa-11f1-9c12-47c0acd34ba6.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
       "tone": "rising",
-      "title": "Meta says AI model accessed the internet and hacked another firm",
+      "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+      "publishedAt": "2026-08-06T11:58:07Z",
+      "image": "https://scalex.dev/img/permission_game_stats_card.png"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Mario Meets Pareto",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+      "publishedAt": "2026-08-06T11:24:53Z",
+      "image": "https://www.mayerowitz.io/SEO/mario-meets-pareto.png"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Meta becomes latest firm to say its AI hacked another company",
       "body": "Meta is the latest company to disclose an AI agent breach, raising cyber-security concerns.",
       "src": "BBC Business",
       "fav": "BB",
       "url": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-06T05:53:58.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f468/live/5910e320-9131-11f1-b387-374684edd409.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-      "body": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-06T01:19:59.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b45d/live/e272ff40-9104-11f1-a7ab-8b30adf0800a.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Trump administration pays back $100bn in 'Liberation Day' tariffs to businesses",
-      "body": "It represents roughly 60% of all tariff revenue collected under the policy, with billions still to be repaid.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cwyewn5wexvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-05T19:39:48.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de73/live/2cb03770-9160-11f1-90fb-f1c04ab9a913.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Discovery Loop",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://www.discoveryloop.com/",
-      "publishedAt": "2026-08-05T16:19:44Z",
-      "image": null
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-      "publishedAt": "2026-08-05T16:05:31Z",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/super-g_1.width-1300.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Cloudflare OS: an open platform for agents, apps, and work",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://blog.cloudflare.com/cloudflare-os/",
-      "publishedAt": "2026-08-05T13:58:53Z",
-      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01KZ7PN06AYFEQJN4FBVAE8WHH.png"
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Pinterest leans on AI to drive improved performance in Q2",
-      "body": "The company added 9 million monthly active users but platform growth was down in Europe and flat in the U.S. and Canada.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/pinterest-leans-on-ai-to-drive-improved-performance-in-q2/827033/",
-      "publishedAt": "2026-08-04T23:21:02.000Z",
-      "image": null
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Meta makes AI Developer Assistant its primary support option",
-      "body": "The company is actively pushing forward with its plan to incorporate artificial intelligence agents into as many systems as possible.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/meta-makes-ai-developer-assistant-its-primary-support-option/827032/",
-      "publishedAt": "2026-08-04T23:18:46.000Z",
-      "image": null
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "rising",
-      "title": "Snapchat offers third-party AI ad integration",
-      "body": "The app’s Model Context Protocol server will let brands connect promotional campaigns to agents including Claude, ChatGPT and Gemini.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/snapchat-offers-third-party-ai-ad-integration/827026/",
-      "publishedAt": "2026-08-04T21:25:31.000Z",
-      "image": null
     },
     {
       "cat": "growth",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 68,
+        "scanned": 67,
         "kept": 3
       },
       "social": {
@@ -240,14 +240,14 @@
       },
       "business": {
         "label": "Business",
-        "scanned": 12,
+        "scanned": 16,
         "kept": 3
       }
     },
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 25
+        "count": 24
       },
       {
         "src": "TechCrunch",
@@ -266,53 +266,53 @@
         "count": 12
       },
       {
-        "src": "James Clear",
+        "src": "The Verge",
         "count": 10
       },
       {
-        "src": "The Verge",
+        "src": "James Clear",
         "count": 10
       }
     ],
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 49
-      },
-      {
-        "word": "agent",
-        "hits": 9
+        "hits": 48
       },
       {
         "word": "model",
-        "hits": 7
+        "hits": 6
       },
       {
         "word": "habit",
         "hits": 5
       },
       {
-        "word": "creator",
+        "word": "agent",
         "hits": 4
-      },
-      {
-        "word": "llm",
-        "hits": 4
-      },
-      {
-        "word": "startup",
-        "hits": 2
-      },
-      {
-        "word": "focus",
-        "hits": 2
       },
       {
         "word": "micro",
+        "hits": 3
+      },
+      {
+        "word": "creator",
         "hits": 2
       },
       {
-        "word": "trend",
+        "word": "llm",
+        "hits": 2
+      },
+      {
+        "word": "productivity",
+        "hits": 1
+      },
+      {
+        "word": "focus",
+        "hits": 1
+      },
+      {
+        "word": "startup",
         "hits": 1
       }
     ]
