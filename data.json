@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-08-08T05:46:46.420Z",
+  "generatedAt": "2026-08-09T05:51:20.419Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"What happens if an entire class of workers loses faith in their careers\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"“Code was never the hard part” is an insult to all programmers\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "What happens if an entire class of workers loses faith in their careers"
+        "detail": "“Code was never the hard part” is an insult to all programmers"
       },
       {
         "head": "Tech & AI",
-        "detail": "New Mexico court orders Meta to pay $567m over harms to children’s mental health"
+        "detail": "Meta debuts first AI coding agent to take on Anthropic and OpenAI"
       },
       {
         "head": "Tech & AI",
-        "detail": "OpenAI says it slowed Astra model development over security concerns"
+        "detail": "X replaces its revenue-sharing program with ‘Original Content Rewards’"
       },
       {
         "head": "Social",
@@ -49,7 +49,7 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 111,
+    "scanned": 110,
     "kept": 12
   },
   "feed": [
@@ -57,13 +57,49 @@
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "",
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "body": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against t…",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "publishedAt": "2026-08-07T22:48:24.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024"
+      "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI",
+      "body": "—",
+      "src": "r/artificial",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/artificial/comments/1vjh4s6/meta_debuts_first_ai_coding_agent_to_take_on/",
+      "publishedAt": "2026-08-09T05:17:10.000Z",
+      "image": "https://external-preview.redd.it/s3dIGFmYfWxtKeu90fPdTW0xWGLrutXyd27YfgPgX4Q.jpeg?width=640&crop=smart&auto=webp&s=000cf997d6a492701616de8361e2776abdd444fe"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "",
+      "title": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
+      "body": "X wants to make money on previously used handles. | Image: The Verge X is ending its controversial revenue-sharing program for content creators, which has seen numerous revisions…",
+      "src": "The Verge",
+      "fav": "TV",
+      "url": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
+      "publishedAt": "2026-08-08T21:15:12.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER__B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "“Code was never the hard part” is an insult to all programmers",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+      "publishedAt": "2026-08-08T14:32:33Z",
+      "image": "https://cdn.writeas.net/img/w-sq-light.png"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
+      "body": "What was the thinking of the investors backing the now-canned plan, and are such proposals in the future inevitable?",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-08T13:41:32.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2700/live/b51ae4b0-91b6-11f1-bab9-173de0e7d358.jpg"
     },
     {
       "cat": "business",
@@ -78,30 +114,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2293/live/c553a680-9262-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "What happens if an entire class of workers loses faith in their careers",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-      "publishedAt": "2026-08-07T12:42:27Z",
-      "image": "https://noemamag.imgix.net/2026/08/HR_Knitting_Noema_LeonieBos-copy.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&rect=0%2C32%2C945%2C495&w=1200&wpsize=noema-social-facebook&s=ff77fe7391cba53b40080273232ce909"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Meta fined $567m in largest child safety ruling against social media giant",
-      "body": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T09:22:03.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1611/live/29966380-9240-11f1-b2ab-0dd01740f9f6.jpg"
-    },
-    {
       "cat": "social",
       "label": "Social",
       "tone": "",
@@ -112,18 +124,6 @@
       "url": "https://www.socialmediatoday.com/news/meta-fined-567-million-for-failing-to-protect-teens/827298/",
       "publishedAt": "2026-08-07T01:30:53.000Z",
       "image": "https://imgproxy.divecdn.com/_F9K7808g-egAJKt4BktdI9h92MmalSfxjmoYu3HMRM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8ySDNZQlJBLmpwZw==.webp"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-      "publishedAt": "2026-08-07T00:06:28Z",
-      "image": "https://i.guim.co.uk/img/media/6e9c72f1d4d1541ee16137214046b3255b6a1981/410_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bde32639cfe3328257ea8f512bc97b88"
     },
     {
       "cat": "social",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 67,
+        "scanned": 66,
         "kept": 3
       },
       "social": {
@@ -247,18 +247,18 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 23
+        "count": 22
       },
       {
         "src": "TechCrunch",
         "count": 12
       },
       {
-        "src": "Ars Technica",
+        "src": "BBC Business",
         "count": 12
       },
       {
-        "src": "BBC Business",
+        "src": "Ars Technica",
         "count": 12
       },
       {
@@ -280,35 +280,39 @@
         "hits": 46
       },
       {
-        "word": "model",
-        "hits": 7
-      },
-      {
         "word": "habit",
         "hits": 5
       },
       {
-        "word": "micro",
-        "hits": 4
-      },
-      {
-        "word": "agent",
-        "hits": 2
+        "word": "model",
+        "hits": 5
       },
       {
         "word": "creator",
+        "hits": 3
+      },
+      {
+        "word": "agent",
+        "hits": 3
+      },
+      {
+        "word": "revenue",
         "hits": 2
       },
       {
-        "word": "productivity",
-        "hits": 1
+        "word": "micro",
+        "hits": 2
       },
       {
         "word": "llm",
+        "hits": 2
+      },
+      {
+        "word": "viral",
         "hits": 1
       },
       {
-        "word": "focus",
+        "word": "productivity",
         "hits": 1
       }
     ]
