@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-08-09T05:51:20.419Z",
+  "generatedAt": "2026-08-10T06:14:48.060Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"“Code was never the hard part” is an insult to all programmers\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "“Code was never the hard part” is an insult to all programmers"
+        "detail": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry"
       },
       {
         "head": "Tech & AI",
-        "detail": "Meta debuts first AI coding agent to take on Anthropic and OpenAI"
+        "detail": "How I use LLMs to learn complex topics"
       },
       {
         "head": "Tech & AI",
-        "detail": "X replaces its revenue-sharing program with ‘Original Content Rewards’"
+        "detail": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice"
       },
       {
         "head": "Social",
-        "detail": "YouTube expands shopping affiliate program to the UK"
+        "detail": "LinkedIn updates feed display to drive more post replies and comments"
       }
     ],
     "signal": {
@@ -49,81 +49,105 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 110,
+    "scanned": 109,
     "kept": 12
   },
   "feed": [
     {
-      "cat": "tech",
-      "label": "Tech & AI",
+      "cat": "business",
+      "label": "Business",
       "tone": "",
-      "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI",
-      "body": "—",
-      "src": "r/artificial",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1vjh4s6/meta_debuts_first_ai_coding_agent_to_take_on/",
-      "publishedAt": "2026-08-09T05:17:10.000Z",
-      "image": "https://external-preview.redd.it/s3dIGFmYfWxtKeu90fPdTW0xWGLrutXyd27YfgPgX4Q.jpeg?width=640&crop=smart&auto=webp&s=000cf997d6a492701616de8361e2776abdd444fe"
+      "title": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
+      "body": "Tech companies are not modelling their own claims of the technology giving people more free time.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T05:00:32.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1075/live/0b27bfa0-8aa4-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "",
-      "title": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
-      "body": "X wants to make money on previously used handles. | Image: The Verge X is ending its controversial revenue-sharing program for content creators, which has seen numerous revisions…",
-      "src": "The Verge",
-      "fav": "TV",
-      "url": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
-      "publishedAt": "2026-08-08T21:15:12.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER__B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "“Code was never the hard part” is an insult to all programmers",
-      "body": "—",
+      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+      "body": "Hey HN! I'm excited to show off this really fun project I put together. I originally built this project 2-3 years ago, AI was already booming at the time, however voice AI agents…",
       "src": "Hacker News",
       "fav": "HN",
-      "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
-      "publishedAt": "2026-08-08T14:32:33Z",
-      "image": "https://cdn.writeas.net/img/w-sq-light.png"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
-      "body": "What was the thinking of the investors backing the now-canned plan, and are such proposals in the future inevitable?",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-08T13:41:32.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2700/live/b51ae4b0-91b6-11f1-bab9-173de0e7d358.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "How a 90-second power outage sparked chaos for rail commuters",
-      "body": "The incident raised questions about how a disrupted power supply can have such a widespread impact.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T16:11:32.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2293/live/c553a680-9262-11f1-b2ab-0dd01740f9f6.jpg"
+      "url": "https://www.whodunnitai.com/",
+      "publishedAt": "2026-08-10T03:18:40.000Z",
+      "image": "https://www.whodunnitai.com/whodunnitai-metadata.jpg"
     },
     {
       "cat": "social",
       "label": "Social",
       "tone": "",
-      "title": "Meta fined $567 million for failing to protect teens",
-      "body": "A New Mexico judge said that the state is facing a youth mental health crisis, and Meta is a key contributor to this.",
+      "title": "LinkedIn updates feed display to drive more post replies and comments",
+      "body": "The app is focusing on relevance and ranking engagement based on how pertinent an interaction is to each user, per a creator economy expert.",
       "src": "Social Media Today",
       "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/meta-fined-567-million-for-failing-to-protect-teens/827298/",
-      "publishedAt": "2026-08-07T01:30:53.000Z",
-      "image": "https://imgproxy.divecdn.com/_F9K7808g-egAJKt4BktdI9h92MmalSfxjmoYu3HMRM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8ySDNZQlJBLmpwZw==.webp"
+      "url": "https://www.socialmediatoday.com/news/linkedin-updates-feed-display-to-drive-more-post-replies-and-comments/827394/",
+      "publishedAt": "2026-08-09T23:41:15.000Z",
+      "image": null
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
+      "body": "The prime minister is embarking on a UK tour with a series of announcements aimed at easing living costs.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-09T23:01:39.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de42/live/c00a80e0-947e-11f1-870d-5d08c49babb2.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "body": "The AI-focused hedge fund is still making some big bets.",
+      "src": "TechCrunch",
+      "fav": "T",
+      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "publishedAt": "2026-08-09T20:35:17.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages.jpg?resize=1200,800"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "How I use LLMs to learn complex topics",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+      "publishedAt": "2026-08-09T19:16:49Z",
+      "image": null
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "X updates creator revenue share parameters",
+      "body": "The new program is designed to reward original creators and disincentivize aggregators as the company works to improve its content stream.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/x-updates-creator-revenue-share-parameters/827391/",
+      "publishedAt": "2026-08-09T03:11:03.000Z",
+      "image": null
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Raw images, no filters: Why MySpace fans want it back as relaunch hinted",
+      "body": "Fans and creators say a revived MySpace must feel personal, not algorithm-driven.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/c4g64152v71o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-09T00:04:20.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70b8/live/75e1db80-9249-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
       "cat": "social",
@@ -136,30 +160,6 @@
       "url": "https://www.socialmediatoday.com/news/youtube-expands-shopping-affiliate-program-to-the-uk/827294/",
       "publishedAt": "2026-08-06T23:14:50.000Z",
       "image": null
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Head of Product at X steps down",
-      "body": "Nikita Bier is leaving after just over a year, but said in a post on the app that he’s staying on as an advisor.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/head-of-product-at-x-steps-down/827289/",
-      "publishedAt": "2026-08-06T20:59:53.000Z",
-      "image": null
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "First OpenAI, now Meta - why do AI hacks keep happening?",
-      "body": "A flood of companies are revealing AI models gained access to the internet - with real consequences.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cp30989ee1wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-06T15:59:34.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19c4/live/1e741d30-91aa-11f1-9c12-47c0acd34ba6.jpg"
     },
     {
       "cat": "growth",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 66,
+        "scanned": 65,
         "kept": 3
       },
       "social": {
@@ -247,7 +247,7 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 22
+        "count": 21
       },
       {
         "src": "TechCrunch",
@@ -277,43 +277,43 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 46
+        "hits": 41
+      },
+      {
+        "word": "creator",
+        "hits": 6
+      },
+      {
+        "word": "agent",
+        "hits": 5
       },
       {
         "word": "habit",
         "hits": 5
       },
       {
-        "word": "model",
-        "hits": 5
-      },
-      {
-        "word": "creator",
-        "hits": 3
-      },
-      {
-        "word": "agent",
-        "hits": 3
+        "word": "focus",
+        "hits": 4
       },
       {
         "word": "revenue",
-        "hits": 2
+        "hits": 3
+      },
+      {
+        "word": "startup",
+        "hits": 3
+      },
+      {
+        "word": "model",
+        "hits": 3
+      },
+      {
+        "word": "llm",
+        "hits": 3
       },
       {
         "word": "micro",
         "hits": 2
-      },
-      {
-        "word": "llm",
-        "hits": 2
-      },
-      {
-        "word": "viral",
-        "hits": 1
-      },
-      {
-        "word": "productivity",
-        "hits": 1
       }
     ]
   }
