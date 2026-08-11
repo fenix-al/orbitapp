@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-08-10T06:14:48.060Z",
+  "generatedAt": "2026-08-11T05:57:07.149Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry"
+        "detail": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows"
       },
       {
         "head": "Tech & AI",
-        "detail": "How I use LLMs to learn complex topics"
+        "detail": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models"
       },
       {
         "head": "Tech & AI",
-        "detail": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice"
+        "detail": "A lab paused its own unreleased model over cyber capability, the same week an agent got caught running social engineering against real maintainers"
       },
       {
         "head": "Social",
@@ -49,10 +49,94 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 109,
+    "scanned": 123,
     "kept": 12
   },
   "feed": [
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Trump Media reports $238m loss as crypto falls",
+      "body": "The firm says it will refocus on social media, which includes a plan to sell faster access to Trump's posts.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T02:21:31.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/391a/live/f6f964e0-9514-11f1-976d-475167c7f6ea.jpg"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Meta supports Texas data center guidelines",
+      "body": "The company released a statement upholding Governor Greg Abbott’s standards amid widespread backlash against unfettered development.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/meta-supports-texas-data-center-guidelines/827517/",
+      "publishedAt": "2026-08-10T23:41:00.000Z",
+      "image": "https://imgproxy.divecdn.com/boBccxGcvgDEYrL9ldC8wb8H7BG6pblb55ZTophKyWY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX3RlbXBsZS5qcGVn.webp"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Zuckerberg releases AI manifesto",
+      "body": "The Meta owner published a 6,500-word essay outlining his hopes for the future of artificial intelligence and taking aim at critics and policymakers.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/zuckerberg-releases-ai-manifesto/827516/",
+      "publishedAt": "2026-08-10T23:37:45.000Z",
+      "image": null
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Nvidia gets $500bn from major investors to develop AI infrastructure",
+      "body": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T22:31:42.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13ae/live/d1192590-9504-11f1-bf69-07da70b136c8.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "A lab paused its own unreleased model over cyber capability, the same week an agent got caught running social…",
+      "body": "—",
+      "src": "r/artificial",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/artificial/comments/1vktyxf/a_lab_paused_its_own_unreleased_model_over_cyber/",
+      "publishedAt": "2026-08-10T19:01:00.000Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+      "publishedAt": "2026-08-10T14:06:22Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+      "publishedAt": "2026-08-10T10:10:02Z",
+      "image": "https://lookaside.fbsbx.com/elementpath/media/?media_id=2272911630133843&version=1786289182"
+    },
     {
       "cat": "business",
       "label": "Business",
@@ -63,19 +147,7 @@
       "fav": "BB",
       "url": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-10T05:00:32.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1075/live/0b27bfa0-8aa4-11f1-a7ab-8b30adf0800a.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "",
-      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-      "body": "Hey HN! I'm excited to show off this really fun project I put together. I originally built this project 2-3 years ago, AI was already booming at the time, however voice AI agents…",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://www.whodunnitai.com/",
-      "publishedAt": "2026-08-10T03:18:40.000Z",
-      "image": "https://www.whodunnitai.com/whodunnitai-metadata.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1c0/live/bb9691e0-94b3-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
       "cat": "social",
@@ -87,78 +159,6 @@
       "fav": "SM",
       "url": "https://www.socialmediatoday.com/news/linkedin-updates-feed-display-to-drive-more-post-replies-and-comments/827394/",
       "publishedAt": "2026-08-09T23:41:15.000Z",
-      "image": null
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
-      "body": "The prime minister is embarking on a UK tour with a series of announcements aimed at easing living costs.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-09T23:01:39.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de42/live/c00a80e0-947e-11f1-870d-5d08c49babb2.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-      "body": "The AI-focused hedge fund is still making some big bets.",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-      "publishedAt": "2026-08-09T20:35:17.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages.jpg?resize=1200,800"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "How I use LLMs to learn complex topics",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-      "publishedAt": "2026-08-09T19:16:49Z",
-      "image": null
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "X updates creator revenue share parameters",
-      "body": "The new program is designed to reward original creators and disincentivize aggregators as the company works to improve its content stream.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/x-updates-creator-revenue-share-parameters/827391/",
-      "publishedAt": "2026-08-09T03:11:03.000Z",
-      "image": null
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Raw images, no filters: Why MySpace fans want it back as relaunch hinted",
-      "body": "Fans and creators say a revived MySpace must feel personal, not algorithm-driven.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c4g64152v71o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-09T00:04:20.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70b8/live/75e1db80-9249-11f1-a7ab-8b30adf0800a.jpg"
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "YouTube expands shopping affiliate program to the UK",
-      "body": "Creators who join will be able to tag products from partner merchants including Wayfair, Currys, Debenhams, Boots, M&S and Etsy.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/youtube-expands-shopping-affiliate-program-to-the-uk/827294/",
-      "publishedAt": "2026-08-06T23:14:50.000Z",
       "image": null
     },
     {
@@ -225,12 +225,12 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 65,
+        "scanned": 69,
         "kept": 3
       },
       "social": {
         "label": "Social",
-        "scanned": 10,
+        "scanned": 20,
         "kept": 3
       },
       "growth": {
@@ -247,18 +247,18 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 21
+        "count": 25
       },
       {
         "src": "TechCrunch",
         "count": 12
       },
       {
-        "src": "BBC Business",
+        "src": "Ars Technica",
         "count": 12
       },
       {
-        "src": "Ars Technica",
+        "src": "BBC Business",
         "count": 12
       },
       {
@@ -277,14 +277,18 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 41
+        "hits": 40
       },
       {
-        "word": "creator",
-        "hits": 6
+        "word": "model",
+        "hits": 10
       },
       {
         "word": "agent",
+        "hits": 6
+      },
+      {
+        "word": "creator",
         "hits": 5
       },
       {
@@ -292,19 +296,11 @@
         "hits": 5
       },
       {
+        "word": "micro",
+        "hits": 3
+      },
+      {
         "word": "focus",
-        "hits": 4
-      },
-      {
-        "word": "revenue",
-        "hits": 3
-      },
-      {
-        "word": "startup",
-        "hits": 3
-      },
-      {
-        "word": "model",
         "hits": 3
       },
       {
@@ -312,8 +308,12 @@
         "hits": 3
       },
       {
-        "word": "micro",
-        "hits": 2
+        "word": "productivity",
+        "hits": 1
+      },
+      {
+        "word": "startup",
+        "hits": 1
       }
     ]
   }
