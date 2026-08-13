@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-08-12T06:19:40.661Z",
+  "generatedAt": "2026-08-13T06:21:24.903Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"General Catalyst leads $1.1B round into 2-month-old River AI\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "General Catalyst leads $1.1B round into 2-month-old River AI"
+        "detail": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug"
       },
       {
         "head": "Tech & AI",
-        "detail": "Stealing Reasoning Traces from Proprietary LLM APIs"
+        "detail": "AI is removing the middle class of software engineering?"
       },
       {
         "head": "Tech & AI",
-        "detail": "Xbox Elite 3 prototype pad leaks with tiny built-in screen"
+        "detail": "DeepSeek V4 Pro 0813"
       },
       {
         "head": "Social",
-        "detail": "Meta’s lack of consumer trust could derail its AI plans"
+        "detail": "YouTube expands access to its in-app AI chatbot"
       }
     ],
     "signal": {
@@ -57,109 +57,109 @@
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "How affordable are Edinburgh's festivals?",
-      "body": "The city is no stranger to complaints about soaring prices during August - but are costs on the rise?",
+      "title": "UK economic growth slows between April and June",
+      "body": "The UK economy grew by 0.4% with some firms reporting hot weather and sports helped growth in June.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/czdmn1re7zgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-12T05:04:59.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ff5/live/63c49230-9582-11f1-8636-978a48bd79b6.jpg"
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Meta’s lack of consumer trust could derail its AI plans",
-      "body": "Owner Mark Zuckerberg’s latest manifesto outlined his vision of an artificial intelligence-enabled future, but the company first needs to restore its reputation.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/metas-lack-of-consumer-trust-could-derail-its-ai-plans/827638/",
-      "publishedAt": "2026-08-11T23:20:52.000Z",
-      "image": "https://imgproxy.divecdn.com/mLE5emoxeoUshuQvbDUkbybxS_2MACEdPBJtGf88h28/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzQ5ODAwMTI3X1pISGFqUFouanBn.webp"
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Reddit shares insights for travel marketers",
-      "body": "The platform said users begin to make holiday plans early and many look for discussions in the app before booking.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/reddit-shares-insights-for-travel-marketers/827637/",
-      "publishedAt": "2026-08-11T23:13:11.000Z",
-      "image": null
+      "url": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T06:17:09.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f86/live/21ac6b90-96de-11f1-9b96-77d3dc534330.jpg"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Tokenomics: Why making AI pay is tricky",
-      "body": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.",
+      "title": "Twitch users can now block Amazon from using their content to train AI",
+      "body": "The streaming platform's users criticised the move to allow the use of channel content for AI training.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T23:03:52.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae1d/live/13ce3de0-79de-11f1-a627-714adb4eed6e.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "",
-      "title": "Xbox Elite 3 prototype pad leaks with tiny built-in screen",
-      "body": "Did a prototype Microsoft gamepad fall off the back of a truck? We can't say, but a Redditor has legit-looking photos of a prototype Xbox controller that's almost certainly the Xb…",
-      "src": "The Verge",
-      "fav": "TV",
-      "url": "https://www.theverge.com/games/978374/xbox-elite-3-prototype-pad-leaks-with-tiny-built-in-screen",
-      "publishedAt": "2026-08-11T22:36:35.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/closer-xbox-elite-3-leak.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T02:46:04.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19c0/live/3a5d4e80-96b0-11f1-a357-f9f53ca5007d.jpg"
     },
     {
       "cat": "social",
       "label": "Social",
       "tone": "",
-      "title": "Reddit adds two new ad partners",
-      "body": "Skai and Innovid join a growing network of platforms that help brands maximize their promotions on the community-based app.",
+      "title": "YouTube expands access to its in-app AI chatbot",
+      "body": "The artificial intelligence-powered function offers contextual responses and is available on desktop, mobile and TV devices.",
       "src": "Social Media Today",
       "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/reddit-adds-two-new-ad-partners/827636/",
-      "publishedAt": "2026-08-11T21:35:45.000Z",
+      "url": "https://www.socialmediatoday.com/news/youtube-expands-access-to-its-in-app-ai-chatbot/827757/",
+      "publishedAt": "2026-08-12T22:07:40.000Z",
+      "image": null
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Meta partners with North America’s Building Trades Unions",
+      "body": "A new training program is designed to support skilled workers across the U.S. even as community sentiment about data center development wanes.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/meta-partners-with-north-americas-building-trades-unions/827755/",
+      "publishedAt": "2026-08-12T22:04:13.000Z",
+      "image": null
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Meta outlines updated scam alert system coming to WhatsApp",
+      "body": "The system adheres to WhatsApp’s privacy focus, ensuring better user protection without external oversight.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/meta-outlines-updated-scam-alert-system-coming-to-whatsapp/827753/",
+      "publishedAt": "2026-08-12T21:53:40.000Z",
       "image": null
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-      "body": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
-      "publishedAt": "2026-08-11T17:41:22.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/River-AI-Igor-Babuschkin.jpeg?resize=1197,1200"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "title": "DeepSeek V4 Pro 0813",
       "body": "—",
       "src": "Hacker News",
       "fav": "HN",
-      "url": "https://stolen-thoughts.com/",
-      "publishedAt": "2026-08-11T13:22:00Z",
-      "image": null
+      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+      "publishedAt": "2026-08-12T16:04:50Z",
+      "image": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813/opengraph-image-1oizug?abd1ffaa6102aa5f"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "publishedAt": "2026-08-12T14:22:30Z",
+      "image": "https://tailscale.com/api/og-image?id=45389fc1-da6e-4e0d-82f6-140651c6ba57"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "AI agent hacks gym to get its user a spot in pilates class",
-      "body": "The incident is being seen as the latest example of the AI tools going to any lengths to complete their tasks.",
+      "title": "Burnham warned Iran war could hit UK growth next year",
+      "body": "The conflict in the Middle East has pushed up oil and fuel prices, and also disrupted supply chains.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T12:09:26.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b16/live/38886b20-9576-11f1-bfbd-3fe7d55dcf7b.png"
+      "url": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T14:17:26.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf17/live/d73f4760-964e-11f1-870d-5d08c49babb2.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "AI is removing the middle class of software engineering?",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+      "publishedAt": "2026-08-12T13:20:05Z",
+      "image": null
     },
     {
       "cat": "growth",
@@ -254,11 +254,11 @@
         "count": 12
       },
       {
-        "src": "BBC Business",
+        "src": "Ars Technica",
         "count": 12
       },
       {
-        "src": "Ars Technica",
+        "src": "BBC Business",
         "count": 12
       },
       {
@@ -277,30 +277,26 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 43
+        "hits": 48
       },
       {
         "word": "model",
-        "hits": 5
+        "hits": 6
       },
       {
         "word": "habit",
         "hits": 5
       },
       {
-        "word": "agent",
-        "hits": 4
-      },
-      {
-        "word": "micro",
-        "hits": 2
-      },
-      {
-        "word": "startup",
-        "hits": 2
-      },
-      {
         "word": "focus",
+        "hits": 3
+      },
+      {
+        "word": "growth",
+        "hits": 3
+      },
+      {
+        "word": "agent",
         "hits": 2
       },
       {
@@ -308,11 +304,15 @@
         "hits": 2
       },
       {
-        "word": "productivity",
+        "word": "startup",
         "hits": 1
       },
       {
-        "word": "marketing",
+        "word": "open source",
+        "hits": 1
+      },
+      {
+        "word": "indie",
         "hits": 1
       }
     ]
