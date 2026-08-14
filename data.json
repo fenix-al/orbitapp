@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-08-13T06:21:24.903Z",
+  "generatedAt": "2026-08-14T06:19:41.524Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Writer introduces new AI model and upgraded harness to contain token costs\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug"
+        "detail": "Writer introduces new AI model and upgraded harness to contain token costs"
       },
       {
         "head": "Tech & AI",
-        "detail": "AI is removing the middle class of software engineering?"
+        "detail": "Gemini 3.7 Flash"
       },
       {
         "head": "Tech & AI",
-        "detail": "DeepSeek V4 Pro 0813"
+        "detail": "DeepSeek Harness developer preview"
       },
       {
         "head": "Social",
-        "detail": "YouTube expands access to its in-app AI chatbot"
+        "detail": "Meta gives 15,000 pairs of AI glasses to vision impaired users"
       }
     ],
     "signal": {
@@ -49,7 +49,7 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 114,
+    "scanned": 112,
     "kept": 12
   },
   "feed": [
@@ -57,25 +57,97 @@
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "UK economic growth slows between April and June",
-      "body": "The UK economy grew by 0.4% with some firms reporting hot weather and sports helped growth in June.",
+      "title": "US says dozens of countries helped China dodge Trump's tariffs",
+      "body": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T06:17:09.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f86/live/21ac6b90-96de-11f1-9b96-77d3dc534330.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T03:09:48.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8fc/live/12e1de40-977b-11f1-a8a8-85d648bbf002.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+      "body": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+      "src": "TechCrunch",
+      "fav": "T",
+      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+      "publishedAt": "2026-08-13T21:13:24.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/09/May-Habib-Disrupt-2023.jpg?resize=1200,800"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Meta gives 15,000 pairs of AI glasses to vision impaired users",
+      "body": "The initiative is run through not-for-profit charitable organization Vision Ireland and may help assuage some negative sentiment about the devices.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/meta-gives-15000-pairs-of-ai-glasses-to-vision-impaired-users/827874/",
+      "publishedAt": "2026-08-13T20:40:40.000Z",
+      "image": null
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Meta publishes holiday marketing guides",
+      "body": "The company advised brands to start planning early in order to take advantage of audience insights before the December gifting phase heats up.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/meta-publishes-holiday-marketing-guides/827856/",
+      "publishedAt": "2026-08-13T19:33:30.000Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Gemini 3.7 Flash",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "publishedAt": "2026-08-13T17:23:22Z",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-7-flash.width-1300.png"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "DeepSeek Harness developer preview",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://deepseek.com/harness/en/",
+      "publishedAt": "2026-08-13T12:58:02Z",
+      "image": null
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Twitch users can now block Amazon from using their content to train AI",
-      "body": "The streaming platform's users criticised the move to allow the use of channel content for AI training.",
+      "title": "Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
+      "body": "Users of the popular streaming platform criticised allowing Amazon to use their data by dafault.",
       "src": "BBC Business",
       "fav": "BB",
       "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T02:46:04.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19c0/live/3a5d4e80-96b0-11f1-a357-f9f53ca5007d.jpg"
+      "publishedAt": "2026-08-13T10:39:02.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6839/live/60b85d20-9702-11f1-b2ab-0dd01740f9f6.jpg"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "UK economy grows but experts warn of challenging months ahead",
+      "body": "Hot weather and the men's football World Cup boosted the economy but the Iran war may weigh on growth",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T10:17:56.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/500d/live/2856ec30-9702-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
       "cat": "social",
@@ -87,78 +159,6 @@
       "fav": "SM",
       "url": "https://www.socialmediatoday.com/news/youtube-expands-access-to-its-in-app-ai-chatbot/827757/",
       "publishedAt": "2026-08-12T22:07:40.000Z",
-      "image": null
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Meta partners with North America’s Building Trades Unions",
-      "body": "A new training program is designed to support skilled workers across the U.S. even as community sentiment about data center development wanes.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/meta-partners-with-north-americas-building-trades-unions/827755/",
-      "publishedAt": "2026-08-12T22:04:13.000Z",
-      "image": null
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Meta outlines updated scam alert system coming to WhatsApp",
-      "body": "The system adheres to WhatsApp’s privacy focus, ensuring better user protection without external oversight.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/meta-outlines-updated-scam-alert-system-coming-to-whatsapp/827753/",
-      "publishedAt": "2026-08-12T21:53:40.000Z",
-      "image": null
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "DeepSeek V4 Pro 0813",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-      "publishedAt": "2026-08-12T16:04:50Z",
-      "image": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813/opengraph-image-1oizug?abd1ffaa6102aa5f"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "publishedAt": "2026-08-12T14:22:30Z",
-      "image": "https://tailscale.com/api/og-image?id=45389fc1-da6e-4e0d-82f6-140651c6ba57"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Burnham warned Iran war could hit UK growth next year",
-      "body": "The conflict in the Middle East has pushed up oil and fuel prices, and also disrupted supply chains.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-12T14:17:26.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf17/live/d73f4760-964e-11f1-870d-5d08c49babb2.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "AI is removing the middle class of software engineering?",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-      "publishedAt": "2026-08-12T13:20:05Z",
       "image": null
     },
     {
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 70,
+        "scanned": 68,
         "kept": 3
       },
       "social": {
@@ -247,18 +247,18 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 26
+        "count": 24
       },
       {
         "src": "TechCrunch",
         "count": 12
       },
       {
-        "src": "Ars Technica",
+        "src": "BBC Business",
         "count": 12
       },
       {
-        "src": "BBC Business",
+        "src": "Ars Technica",
         "count": 12
       },
       {
@@ -277,7 +277,7 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 48
+        "hits": 44
       },
       {
         "word": "model",
@@ -288,19 +288,23 @@
         "hits": 5
       },
       {
+        "word": "agent",
+        "hits": 4
+      },
+      {
         "word": "focus",
         "hits": 3
       },
       {
-        "word": "growth",
-        "hits": 3
-      },
-      {
-        "word": "agent",
+        "word": "micro",
         "hits": 2
       },
       {
-        "word": "llm",
+        "word": "revenue",
+        "hits": 2
+      },
+      {
+        "word": "open source",
         "hits": 2
       },
       {
@@ -308,11 +312,7 @@
         "hits": 1
       },
       {
-        "word": "open source",
-        "hits": 1
-      },
-      {
-        "word": "indie",
+        "word": "productivity",
         "hits": 1
       }
     ]
