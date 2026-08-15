@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-08-14T06:19:41.524Z",
+  "generatedAt": "2026-08-15T05:30:35.050Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Writer introduces new AI model and upgraded harness to contain token costs\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Firefox is now the last major browser that still supports uBlock Origin\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Writer introduces new AI model and upgraded harness to contain token costs"
+        "detail": "Firefox is now the last major browser that still supports uBlock Origin"
       },
       {
         "head": "Tech & AI",
-        "detail": "Gemini 3.7 Flash"
+        "detail": "🚀 New version of Android Remote Control MCP released! Let your AI agent control your phone, now with on-device PII redaction! 🛡️ No cables or root needed!"
       },
       {
         "head": "Tech & AI",
-        "detail": "DeepSeek Harness developer preview"
+        "detail": "Qwen 3.8 27B"
       },
       {
         "head": "Social",
@@ -49,10 +49,46 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 112,
+    "scanned": 107,
     "kept": 12
   },
   "feed": [
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Firefox is now the last major browser that still supports uBlock Origin",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+      "publishedAt": "2026-08-14T19:03:20Z",
+      "image": "https://www.pcworld.com/wp-content/uploads/2026/08/3212428-0-62401400-1786636364-Firefox-foto-mozilla.png?w=1024"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "🚀 New version of Android Remote Control MCP released! Let your AI agent control your phone, now with on-devi…",
+      "body": "—",
+      "src": "r/artificial",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/artificial/comments/1voafib/new_version_of_android_remote_control_mcp/",
+      "publishedAt": "2026-08-14T15:29:38.000Z",
+      "image": "https://external-preview.redd.it/em00cHQ0MHd6Y2poMbomiQQjJUcmbqnq6H2q_Ly4mLNymtxXbXvA2yN9T4zV.png?width=640&crop=smart&auto=webp&s=309087cbf65de48676c2b014aa5ab541a65556f7"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Qwen 3.8 27B",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "publishedAt": "2026-08-14T15:00:00Z",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Qwen/Qwen3.8-27B-FP8.png"
+    },
     {
       "cat": "business",
       "label": "Business",
@@ -62,20 +98,20 @@
       "src": "BBC Business",
       "fav": "BB",
       "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T03:09:48.000Z",
+      "publishedAt": "2026-08-14T08:39:46.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8fc/live/12e1de40-977b-11f1-a8a8-85d648bbf002.jpg"
     },
     {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-      "body": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-      "publishedAt": "2026-08-13T21:13:24.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/09/May-Habib-Disrupt-2023.jpg?resize=1200,800"
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+      "body": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T21:43:47.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1623/live/fc15b5f0-975d-11f1-9240-c70a29f1c818.jpg"
     },
     {
       "cat": "social",
@@ -100,42 +136,6 @@
       "url": "https://www.socialmediatoday.com/news/meta-publishes-holiday-marketing-guides/827856/",
       "publishedAt": "2026-08-13T19:33:30.000Z",
       "image": null
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Gemini 3.7 Flash",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "publishedAt": "2026-08-13T17:23:22Z",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-7-flash.width-1300.png"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "DeepSeek Harness developer preview",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://deepseek.com/harness/en/",
-      "publishedAt": "2026-08-13T12:58:02Z",
-      "image": null
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
-      "body": "Users of the popular streaming platform criticised allowing Amazon to use their data by dafault.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T10:39:02.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6839/live/60b85d20-9702-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
       "cat": "business",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 68,
+        "scanned": 63,
         "kept": 3
       },
       "social": {
@@ -247,18 +247,18 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 24
+        "count": 19
       },
       {
         "src": "TechCrunch",
         "count": 12
       },
       {
-        "src": "BBC Business",
+        "src": "Ars Technica",
         "count": 12
       },
       {
-        "src": "Ars Technica",
+        "src": "BBC Business",
         "count": 12
       },
       {
@@ -277,11 +277,11 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 44
+        "hits": 34
       },
       {
         "word": "model",
-        "hits": 6
+        "hits": 5
       },
       {
         "word": "habit",
@@ -296,16 +296,16 @@
         "hits": 3
       },
       {
-        "word": "micro",
-        "hits": 2
+        "word": "creator",
+        "hits": 1
       },
       {
-        "word": "revenue",
-        "hits": 2
+        "word": "discipline",
+        "hits": 1
       },
       {
-        "word": "open source",
-        "hits": 2
+        "word": "indie",
+        "hits": 1
       },
       {
         "word": "startup",
