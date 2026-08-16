@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-08-15T05:30:35.050Z",
+  "generatedAt": "2026-08-16T05:33:33.999Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Firefox is now the last major browser that still supports uBlock Origin\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"ProofRun – a local verification receipt for AI coding agents\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Firefox is now the last major browser that still supports uBlock Origin"
+        "detail": "ProofRun – a local verification receipt for AI coding agents"
       },
       {
         "head": "Tech & AI",
-        "detail": "🚀 New version of Android Remote Control MCP released! Let your AI agent control your phone, now with on-device PII redaction! 🛡️ No cables or root needed!"
+        "detail": "AI has access to a vastly larger working memory than the human brain"
       },
       {
         "head": "Tech & AI",
-        "detail": "Qwen 3.8 27B"
+        "detail": "SpaceX officially closes its Cursor acquisition"
       },
       {
         "head": "Social",
@@ -49,7 +49,7 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 107,
+    "scanned": 111,
     "kept": 12
   },
   "feed": [
@@ -57,37 +57,49 @@
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "Firefox is now the last major browser that still supports uBlock Origin",
-      "body": "—",
+      "title": "ProofRun – a local verification receipt for AI coding agents",
+      "body": "Article URL: https://github.com/yebiguo/ProofRun Comments URL: https://news.ycombinator.com/item?id=49316605 Points: 4 # Comments: 0",
       "src": "Hacker News",
       "fav": "HN",
-      "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
-      "publishedAt": "2026-08-14T19:03:20Z",
-      "image": "https://www.pcworld.com/wp-content/uploads/2026/08/3212428-0-62401400-1786636364-Firefox-foto-mozilla.png?w=1024"
+      "url": "https://github.com/yebiguo/ProofRun",
+      "publishedAt": "2026-08-16T03:22:15.000Z",
+      "image": "https://opengraph.githubassets.com/ea728be3fdb017f737aa37a306d7e4dc5407b261f6eb139c1ecef404c26c102a/yebiguo/ProofRun"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
+      "body": "Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-15T23:45:44.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a22/live/86235450-9731-11f1-870d-5d08c49babb2.jpg"
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "🚀 New version of Android Remote Control MCP released! Let your AI agent control your phone, now with on-devi…",
+      "title": "AI has access to a vastly larger working memory than the human brain",
       "body": "—",
-      "src": "r/artificial",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1voafib/new_version_of_android_remote_control_mcp/",
-      "publishedAt": "2026-08-14T15:29:38.000Z",
-      "image": "https://external-preview.redd.it/em00cHQ0MHd6Y2poMbomiQQjJUcmbqnq6H2q_Ly4mLNymtxXbXvA2yN9T4zV.png?width=640&crop=smart&auto=webp&s=309087cbf65de48676c2b014aa5ab541a65556f7"
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "publishedAt": "2026-08-15T18:13:02Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!DIxw!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2e2e14e7-c536-49c0-9f27-79b1073dd527_1279x759.jpeg"
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Qwen 3.8 27B",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "publishedAt": "2026-08-14T15:00:00Z",
-      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Qwen/Qwen3.8-27B-FP8.png"
+      "tone": "",
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "body": "AI coding startup Cursor is now officially a part of SpaceX.",
+      "src": "TechCrunch",
+      "fav": "T",
+      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "publishedAt": "2026-08-15T16:30:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/cursor.jpg?resize=1200,800"
     },
     {
       "cat": "business",
@@ -136,18 +148,6 @@
       "url": "https://www.socialmediatoday.com/news/meta-publishes-holiday-marketing-guides/827856/",
       "publishedAt": "2026-08-13T19:33:30.000Z",
       "image": null
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "UK economy grows but experts warn of challenging months ahead",
-      "body": "Hot weather and the men's football World Cup boosted the economy but the Iran war may weigh on growth",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T10:17:56.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/500d/live/2856ec30-9702-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
       "cat": "social",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 63,
+        "scanned": 67,
         "kept": 3
       },
       "social": {
@@ -247,7 +247,7 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 19
+        "count": 23
       },
       {
         "src": "TechCrunch",
@@ -277,27 +277,27 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 34
-      },
-      {
-        "word": "model",
-        "hits": 5
+        "hits": 41
       },
       {
         "word": "habit",
         "hits": 5
       },
       {
-        "word": "agent",
-        "hits": 4
-      },
-      {
         "word": "focus",
         "hits": 3
       },
       {
-        "word": "creator",
-        "hits": 1
+        "word": "agent",
+        "hits": 3
+      },
+      {
+        "word": "startup",
+        "hits": 2
+      },
+      {
+        "word": "model",
+        "hits": 2
       },
       {
         "word": "discipline",
@@ -308,11 +308,11 @@
         "hits": 1
       },
       {
-        "word": "startup",
+        "word": "productivity",
         "hits": 1
       },
       {
-        "word": "productivity",
+        "word": "marketing",
         "hits": 1
       }
     ]
