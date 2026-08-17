@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-08-16T05:33:33.999Z",
+  "generatedAt": "2026-08-17T05:40:07.964Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"ProofRun – a local verification receipt for AI coding agents\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Firefox for iOS now has a native adblocker\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "ProofRun – a local verification receipt for AI coding agents"
+        "detail": "Firefox for iOS now has a native adblocker"
       },
       {
         "head": "Tech & AI",
-        "detail": "AI has access to a vastly larger working memory than the human brain"
+        "detail": "Claude: System Prompts"
       },
       {
         "head": "Tech & AI",
-        "detail": "SpaceX officially closes its Cursor acquisition"
+        "detail": "OpenAI reportedly disbanded its preparedness team"
       },
       {
         "head": "Social",
@@ -49,21 +49,57 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 111,
+    "scanned": 113,
     "kept": 12
   },
   "feed": [
     {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Ferrari's first ever electric car sold for record $40m at auction",
+      "body": "The Luce's launch drew backlash from some commentators who said it broke from the brand's signature dramatic styling.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T02:22:04.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2f6/live/27d57b00-99d2-11f1-8bfd-8bbe460b94a0.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "",
+      "title": "OpenAI reportedly disbanded its preparedness team",
+      "body": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and…",
+      "src": "The Verge",
+      "fav": "TV",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+      "publishedAt": "2026-08-16T21:32:56.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "ProofRun – a local verification receipt for AI coding agents",
-      "body": "Article URL: https://github.com/yebiguo/ProofRun Comments URL: https://news.ycombinator.com/item?id=49316605 Points: 4 # Comments: 0",
+      "title": "Firefox for iOS now has a native adblocker",
+      "body": "—",
       "src": "Hacker News",
       "fav": "HN",
-      "url": "https://github.com/yebiguo/ProofRun",
-      "publishedAt": "2026-08-16T03:22:15.000Z",
-      "image": "https://opengraph.githubassets.com/ea728be3fdb017f737aa37a306d7e4dc5407b261f6eb139c1ecef404c26c102a/yebiguo/ProofRun"
+      "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
+      "publishedAt": "2026-08-16T12:58:10Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Claude: System Prompts",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "publishedAt": "2026-08-16T12:48:21Z",
+      "image": "https://platform.claude.com/docs/og?locale=en&path=release-notes/system-prompts&design-rev=1"
     },
     {
       "cat": "business",
@@ -78,30 +114,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a22/live/86235450-9731-11f1-870d-5d08c49babb2.jpg"
     },
     {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "AI has access to a vastly larger working memory than the human brain",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-      "publishedAt": "2026-08-15T18:13:02Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!DIxw!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2e2e14e7-c536-49c0-9f27-79b1073dd527_1279x759.jpeg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "",
-      "title": "SpaceX officially closes its Cursor acquisition",
-      "body": "AI coding startup Cursor is now officially a part of SpaceX.",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-      "publishedAt": "2026-08-15T16:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/cursor.jpg?resize=1200,800"
-    },
-    {
       "cat": "business",
       "label": "Business",
       "tone": "",
@@ -112,18 +124,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-14T08:39:46.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8fc/live/12e1de40-977b-11f1-a8a8-85d648bbf002.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
-      "body": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T21:43:47.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1623/live/fc15b5f0-975d-11f1-9240-c70a29f1c818.jpg"
     },
     {
       "cat": "social",
@@ -240,7 +240,7 @@
       },
       "business": {
         "label": "Business",
-        "scanned": 12,
+        "scanned": 14,
         "kept": 3
       }
     },
@@ -254,11 +254,11 @@
         "count": 12
       },
       {
-        "src": "Ars Technica",
+        "src": "BBC Business",
         "count": 12
       },
       {
-        "src": "BBC Business",
+        "src": "Ars Technica",
         "count": 12
       },
       {
@@ -270,18 +270,26 @@
         "count": 10
       },
       {
-        "src": "James Clear",
+        "src": "Social Media Today",
         "count": 10
       }
     ],
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 41
+        "hits": 45
       },
       {
         "word": "habit",
         "hits": 5
+      },
+      {
+        "word": "model",
+        "hits": 3
+      },
+      {
+        "word": "startup",
+        "hits": 3
       },
       {
         "word": "focus",
@@ -289,30 +297,22 @@
       },
       {
         "word": "agent",
-        "hits": 3
-      },
-      {
-        "word": "startup",
         "hits": 2
       },
       {
-        "word": "model",
-        "hits": 2
+        "word": "learning",
+        "hits": 1
       },
       {
         "word": "discipline",
         "hits": 1
       },
       {
-        "word": "indie",
+        "word": "marketing",
         "hits": 1
       },
       {
         "word": "productivity",
-        "hits": 1
-      },
-      {
-        "word": "marketing",
         "hits": 1
       }
     ]
