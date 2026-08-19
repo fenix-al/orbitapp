@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-08-18T05:35:30.457Z",
+  "generatedAt": "2026-08-19T05:36:06.569Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Amazon, which started off selling books, is destroying rare texts to train AI\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"The Amazon tax\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Amazon, which started off selling books, is destroying rare texts to train AI"
+        "detail": "The Amazon tax"
       },
       {
         "head": "Tech & AI",
-        "detail": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released"
+        "detail": "Universal health coverage could save $1T and 114k lives a year: study"
       },
       {
         "head": "Tech & AI",
-        "detail": "Anthropic’s annualized revenue surges to $65B"
+        "detail": "Beware Management Consultants"
       },
       {
         "head": "Social",
-        "detail": "Meta’s true AI costs exceed previous accounts"
+        "detail": "Going from marketing to building software changed how I think about growth"
       }
     ],
     "signal": {
@@ -49,7 +49,7 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 113,
+    "scanned": 125,
     "kept": 12
   },
   "feed": [
@@ -57,109 +57,109 @@
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Disabled people in England to get 24-hour free bus travel",
-      "body": "The change, which has been welcomed by campaign groups, will come into effect in England from April.",
+      "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+      "body": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cjwx5vx21y2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T00:32:51.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3bf/live/f373b690-9a64-11f1-b792-a710e56a11dc.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T03:56:35.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d42d/live/9ebe0f40-9b79-11f1-afeb-4d7c67d79c36.jpg"
     },
     {
-      "cat": "tech",
-      "label": "Tech & AI",
+      "cat": "business",
+      "label": "Business",
       "tone": "",
-      "title": "Anthropic’s annualized revenue surges to $65B",
-      "body": "The model maker added $18 billion in annualized revenue in two months.",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-      "publishedAt": "2026-08-17T23:56:26.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798"
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Meta’s true AI costs exceed previous accounts",
-      "body": "A report from the Wall Street Journal found that the company’s future obligations could amount to nearly $700 billion in unreported expenditures.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/metas-true-ai-costs-exceed-previous-accounts/828097/",
-      "publishedAt": "2026-08-17T22:54:01.000Z",
-      "image": "https://imgproxy.divecdn.com/mLE5emoxeoUshuQvbDUkbybxS_2MACEdPBJtGf88h28/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzQ5ODAwMTI3X1pISGFqUFouanBn.webp"
+      "title": "Chinese robotics giant Unitree soars in stock market debut",
+      "body": "Shares in the world's biggest humanoid robot maker started trading on Shanghai's Star market on Wednesday.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T03:26:27.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f5e/live/f165f440-9b6c-11f1-b1cb-859c01609bc4.jpg"
     },
     {
       "cat": "social",
       "label": "Social",
       "tone": "",
-      "title": "YouTube is changing how it counts views",
-      "body": "The platform said that all formats will soon align with Shorts methodology and measure views the moment a video starts playing.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/youtube-is-changing-how-it-counts-views/828093/",
-      "publishedAt": "2026-08-17T21:14:08.000Z",
+      "title": "does translated AI video actually perform in non-english markets, or does it just look like it does?",
+      "body": "—",
+      "src": "r/socialmedia",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/socialmedia/comments/1vs9q1n/does_translated_ai_video_actually_perform_in/",
+      "publishedAt": "2026-08-19T02:31:50.000Z",
       "image": null
     },
     {
       "cat": "social",
       "label": "Social",
       "tone": "",
-      "title": "TikTok owner ByteDance signs Motion Picture Association deal",
-      "body": "The agreement protects the film and television industry against intellectual property infringement stemming from artificial intelligence-generated content.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/tiktok-owner-bytedance-signs-motion-picture-association-deal/828088/",
-      "publishedAt": "2026-08-17T19:54:53.000Z",
+      "title": "Going from marketing to building software changed how I think about growth",
+      "body": "—",
+      "src": "r/socialmedia",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/socialmedia/comments/1vs6skl/going_from_marketing_to_building_software_changed/",
+      "publishedAt": "2026-08-19T00:20:09.000Z",
       "image": null
     },
     {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-      "body": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-      "publishedAt": "2026-08-17T16:38:44.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-601797365.jpg?resize=1200,800"
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "TikTok Live adds AI-generated intros",
+      "body": "The app is offering creators the opportunity to generate summaries of themselves using artificial intelligence-powered tools.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/tiktok-live-adds-ai-generated-intros/828220/",
+      "publishedAt": "2026-08-18T23:19:37.000Z",
+      "image": null
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Virgin takes step towards running Channel Tunnel rail services",
-      "body": "Firm wants to run up to 20 daily journeys to Europe but it must get additional approval for overseas tracks.",
+      "title": "American Airlines to bring back TV screens on US flights",
+      "body": "It is also adding more premium seats, with the changes aimed at improving the travel experience and boosting revenue.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cjrvx4yye81o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T12:46:25.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d0e/live/a809a810-9a12-11f1-a05c-fdd5e0ed226e.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Viral vodka brand Au set to sell for £500m to BuzzBallz owner",
-      "body": "The distinctive gold Au bottles have become a staple of poolside parties in Ibiza and Dubai.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cp8e0nny6zzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T12:43:09.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4739/live/2c857fd0-9a25-11f1-bf12-b5882ef8968b.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c70glp55y95o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T20:17:33.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c0a/live/d01e1d10-9b41-11f1-bd52-f9704e8e5c82.jpg"
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
-      "tone": "rising",
-      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+      "tone": "",
+      "title": "Beware Management Consultants",
       "body": "—",
       "src": "Hacker News",
       "fav": "HN",
-      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
-      "publishedAt": "2026-08-17T12:09:42Z",
-      "image": "https://storage.ghost.io/c/2c/8d/2c8d8c0d-1c15-4b6d-825e-02b78d61d40a/content/images/2026/07/img-blog-gpt-5-6-sol-best-vision-model-to-date.jpg"
+      "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
+      "publishedAt": "2026-08-18T19:29:51Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "The Amazon tax",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://seths.blog/2026/08/the-amazon-tax/",
+      "publishedAt": "2026-08-18T13:22:38Z",
+      "image": "https://seths.blog/wp-content/uploads/2018/06/seth_godin_ogimages_v02_18061312.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Universal health coverage could save $1T and 114k lives a year: study",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
+      "publishedAt": "2026-08-17T15:49:57Z",
+      "image": "https://ysm-res.cloudinary.com/image/upload/c_limit,f_jpg,h_630,q_auto,w_1200/v1/yms/prod/2678383b-f910-4164-833a-e287b5fed96e"
     },
     {
       "cat": "growth",
@@ -225,12 +225,12 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 69,
+        "scanned": 72,
         "kept": 3
       },
       "social": {
         "label": "Social",
-        "scanned": 10,
+        "scanned": 19,
         "kept": 3
       },
       "growth": {
@@ -247,7 +247,7 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 25
+        "count": 28
       },
       {
         "src": "TechCrunch",
@@ -277,15 +277,19 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 46
-      },
-      {
-        "word": "model",
-        "hits": 5
+        "hits": 45
       },
       {
         "word": "habit",
         "hits": 5
+      },
+      {
+        "word": "model",
+        "hits": 4
+      },
+      {
+        "word": "creator",
+        "hits": 4
       },
       {
         "word": "startup",
@@ -296,11 +300,11 @@
         "hits": 2
       },
       {
-        "word": "micro",
-        "hits": 2
+        "word": "productivity",
+        "hits": 1
       },
       {
-        "word": "trend",
+        "word": "micro",
         "hits": 1
       },
       {
@@ -308,11 +312,7 @@
         "hits": 1
       },
       {
-        "word": "productivity",
-        "hits": 1
-      },
-      {
-        "word": "viral",
+        "word": "focus",
         "hits": 1
       }
     ]
