@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-08-19T05:36:06.569Z",
+  "generatedAt": "2026-08-20T05:37:04.235Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"The Amazon tax\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"A joke domain purchase turned in geopolitical warfare\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "The Amazon tax"
+        "detail": "A joke domain purchase turned in geopolitical warfare"
       },
       {
         "head": "Tech & AI",
-        "detail": "Universal health coverage could save $1T and 114k lives a year: study"
+        "detail": "Stripe didn’t really buy OpenRouter because of the ‘singularity’"
       },
       {
         "head": "Tech & AI",
-        "detail": "Beware Management Consultants"
+        "detail": "Cognition CEO denies report that SpaceX tried to acquire the startup"
       },
       {
         "head": "Social",
-        "detail": "Going from marketing to building software changed how I think about growth"
+        "detail": "TikTok Live adds AI-generated intros"
       }
     ],
     "signal": {
@@ -49,7 +49,7 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 125,
+    "scanned": 124,
     "kept": 12
   },
   "feed": [
@@ -57,109 +57,109 @@
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
-      "body": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.",
+      "title": "Canada and US say they are finalising a trade deal",
+      "body": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T03:56:35.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d42d/live/9ebe0f40-9b79-11f1-afeb-4d7c67d79c36.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T03:10:48.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd23/live/184fdf20-9bf0-11f1-8470-d18257d2d589.jpg"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "What makes AI content actually worth watching or sharing?",
+      "body": "—",
+      "src": "r/socialmedia",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/socialmedia/comments/1vt7n4d/what_makes_ai_content_actually_worth_watching_or/",
+      "publishedAt": "2026-08-20T03:04:51.000Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+      "body": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real a…",
+      "src": "TechCrunch",
+      "fav": "T",
+      "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+      "publishedAt": "2026-08-19T23:32:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-527013168.jpg?resize=1200,801"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "How social platforms measure video views",
+      "body": "Brands and marketers may need to reconsider what counts as engagement right now in order to ensure accurate campaign reach and audience interest.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/how-social-platforms-measure-video-views/828349/",
+      "publishedAt": "2026-08-19T23:14:52.000Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "",
+      "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+      "body": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+      "src": "TechCrunch",
+      "fav": "T",
+      "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+      "publishedAt": "2026-08-19T21:51:23.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Scott-Wu-of-Cognition.jpg?w=1024"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Chinese robotics giant Unitree soars in stock market debut",
-      "body": "Shares in the world's biggest humanoid robot maker started trading on Shanghai's Star market on Wednesday.",
+      "title": "US retail giant receives $1bn boost from tariff refunds",
+      "body": "The US chain said it received a $994 million pre-tax reimbursement, which resulted in its second quarter operating income rising to $2.6bn.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T03:26:27.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f5e/live/f165f440-9b6c-11f1-b1cb-859c01609bc4.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T17:07:49.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43a3/live/9236eb70-9bd8-11f1-bb4d-1147ef2e78e5.jpg"
     },
     {
-      "cat": "social",
-      "label": "Social",
+      "cat": "business",
+      "label": "Business",
       "tone": "",
-      "title": "does translated AI video actually perform in non-english markets, or does it just look like it does?",
-      "body": "—",
-      "src": "r/socialmedia",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/socialmedia/comments/1vs9q1n/does_translated_ai_video_actually_perform_in/",
-      "publishedAt": "2026-08-19T02:31:50.000Z",
-      "image": null
+      "title": "Track defect found near derailment site - report",
+      "body": "Initial findings from an RAIB investigation show an \"irregularity\" at the site near Lewes.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T14:06:42.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5e2/live/2f124880-9b12-11f1-9341-0383083a41e3.jpg"
     },
     {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Going from marketing to building software changed how I think about growth",
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "A joke domain purchase turned in geopolitical warfare",
       "body": "—",
-      "src": "r/socialmedia",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/socialmedia/comments/1vs6skl/going_from_marketing_to_building_software_changed/",
-      "publishedAt": "2026-08-19T00:20:09.000Z",
-      "image": null
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+      "publishedAt": "2026-08-19T11:21:50Z",
+      "image": "https://sprocketfox.io/xssfox/images/war.png"
     },
     {
       "cat": "social",
       "label": "Social",
       "tone": "",
       "title": "TikTok Live adds AI-generated intros",
-      "body": "The app is offering creators the opportunity to generate summaries of themselves using artificial intelligence-powered tools.",
+      "body": "The app is offering creators the opportunity to generate summaries using artificial intelligence-powered tools.",
       "src": "Social Media Today",
       "fav": "SM",
       "url": "https://www.socialmediatoday.com/news/tiktok-live-adds-ai-generated-intros/828220/",
       "publishedAt": "2026-08-18T23:19:37.000Z",
       "image": null
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "American Airlines to bring back TV screens on US flights",
-      "body": "It is also adding more premium seats, with the changes aimed at improving the travel experience and boosting revenue.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c70glp55y95o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T20:17:33.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c0a/live/d01e1d10-9b41-11f1-bd52-f9704e8e5c82.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "",
-      "title": "Beware Management Consultants",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
-      "publishedAt": "2026-08-18T19:29:51Z",
-      "image": null
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "The Amazon tax",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "publishedAt": "2026-08-18T13:22:38Z",
-      "image": "https://seths.blog/wp-content/uploads/2018/06/seth_godin_ogimages_v02_18061312.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Universal health coverage could save $1T and 114k lives a year: study",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
-      "publishedAt": "2026-08-17T15:49:57Z",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_limit,f_jpg,h_630,q_auto,w_1200/v1/yms/prod/2678383b-f910-4164-833a-e287b5fed96e"
     },
     {
       "cat": "growth",
@@ -225,12 +225,12 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 72,
+        "scanned": 70,
         "kept": 3
       },
       "social": {
         "label": "Social",
-        "scanned": 19,
+        "scanned": 20,
         "kept": 3
       },
       "growth": {
@@ -247,7 +247,7 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 28
+        "count": 26
       },
       {
         "src": "TechCrunch",
@@ -258,11 +258,11 @@
         "count": 12
       },
       {
-        "src": "BBC Business",
+        "src": "Nir & Far",
         "count": 12
       },
       {
-        "src": "Nir & Far",
+        "src": "BBC Business",
         "count": 12
       },
       {
@@ -277,14 +277,18 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 45
+        "hits": 54
+      },
+      {
+        "word": "model",
+        "hits": 5
       },
       {
         "word": "habit",
         "hits": 5
       },
       {
-        "word": "model",
+        "word": "startup",
         "hits": 4
       },
       {
@@ -292,12 +296,16 @@
         "hits": 4
       },
       {
-        "word": "startup",
-        "hits": 3
+        "word": "agent",
+        "hits": 4
       },
       {
         "word": "llm",
         "hits": 2
+      },
+      {
+        "word": "learning",
+        "hits": 1
       },
       {
         "word": "productivity",
@@ -305,14 +313,6 @@
       },
       {
         "word": "micro",
-        "hits": 1
-      },
-      {
-        "word": "revenue",
-        "hits": 1
-      },
-      {
-        "word": "focus",
         "hits": 1
       }
     ]

@@ -1,12 +1,5 @@
 [
   {
-    "date": "2026-07-21",
-    "scanned": 115,
-    "kept": 12,
-    "sources": 7,
-    "photos": 9
-  },
-  {
     "date": "2026-07-22",
     "scanned": 125,
     "kept": 12,
@@ -208,5 +201,12 @@
     "kept": 12,
     "sources": 7,
     "photos": 8
+  },
+  {
+    "date": "2026-08-20",
+    "scanned": 124,
+    "kept": 12,
+    "sources": 7,
+    "photos": 9
   }
 ]
