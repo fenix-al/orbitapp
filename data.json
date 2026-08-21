@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-08-20T05:37:04.235Z",
+  "generatedAt": "2026-08-21T05:38:21.426Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"A joke domain purchase turned in geopolitical warfare\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"AI data startup Micro1 reaches $500M gross run rate amid AI training boom\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "A joke domain purchase turned in geopolitical warfare"
+        "detail": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom"
       },
       {
         "head": "Tech & AI",
-        "detail": "Stripe didn’t really buy OpenRouter because of the ‘singularity’"
+        "detail": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint"
       },
       {
         "head": "Tech & AI",
-        "detail": "Cognition CEO denies report that SpaceX tried to acquire the startup"
+        "detail": "HTML Can Do That"
       },
       {
         "head": "Social",
-        "detail": "TikTok Live adds AI-generated intros"
+        "detail": "YouTube simplifies its AI claims process"
       }
     ],
     "signal": {
@@ -49,117 +49,117 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 124,
+    "scanned": 114,
     "kept": 12
   },
   "feed": [
     {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Canada and US say they are finalising a trade deal",
-      "body": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T03:10:48.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd23/live/184fdf20-9bf0-11f1-8470-d18257d2d589.jpg"
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "What makes AI content actually worth watching or sharing?",
-      "body": "—",
-      "src": "r/socialmedia",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/socialmedia/comments/1vt7n4d/what_makes_ai_content_actually_worth_watching_or/",
-      "publishedAt": "2026-08-20T03:04:51.000Z",
-      "image": null
-    },
-    {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
-      "body": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real a…",
+      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+      "body": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
       "src": "TechCrunch",
       "fav": "T",
-      "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
-      "publishedAt": "2026-08-19T23:32:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-527013168.jpg?resize=1200,801"
+      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+      "publishedAt": "2026-08-21T00:13:44.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/12/IMG_2686.jpeg?resize=1200,957"
     },
     {
       "cat": "social",
       "label": "Social",
       "tone": "",
-      "title": "How social platforms measure video views",
-      "body": "Brands and marketers may need to reconsider what counts as engagement right now in order to ensure accurate campaign reach and audience interest.",
+      "title": "LinkedIn says 1M people have reported AI slop",
+      "body": "Since the platform introduced an option for flagging what it deems “low substance, low effort” posts in the app, that type of content has seen 40% fewer overall views.",
       "src": "Social Media Today",
       "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/how-social-platforms-measure-video-views/828349/",
-      "publishedAt": "2026-08-19T23:14:52.000Z",
+      "url": "https://www.socialmediatoday.com/news/linkedin-says-1m-people-have-reported-ai-slop/828465/",
+      "publishedAt": "2026-08-20T23:28:09.000Z",
       "image": null
     },
     {
-      "cat": "tech",
-      "label": "Tech & AI",
+      "cat": "social",
+      "label": "Social",
       "tone": "",
-      "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-      "body": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
-      "publishedAt": "2026-08-19T21:51:23.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Scott-Wu-of-Cognition.jpg?w=1024"
+      "title": "Edits gets improved project management and AI features",
+      "body": "The Meta-owned app updated its project folders and added a new way to convert still images to video clips.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/edits-gets-improved-project-management-and-ai-features/828464/",
+      "publishedAt": "2026-08-20T23:24:07.000Z",
+      "image": null
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "YouTube simplifies its AI claims process",
+      "body": "The platform has updated its system to alert creators about potential image misuse and provide opportunities to dispute allegations.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/youtube-simplifies-its-ai-claims-process/828462/",
+      "publishedAt": "2026-08-20T23:18:27.000Z",
+      "image": null
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "US retail giant receives $1bn boost from tariff refunds",
-      "body": "The US chain said it received a $994 million pre-tax reimbursement, which resulted in its second quarter operating income rising to $2.6bn.",
+      "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
+      "body": "Holidaymakers tell the BBC they paid for luxury breaks but faulty air conditioning left them in sweltering heat.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T17:07:49.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43a3/live/9236eb70-9bd8-11f1-bb4d-1147ef2e78e5.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T22:59:35.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48ad/live/65eaf140-9cac-11f1-b366-155f83b9d1f8.jpg"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Track defect found near derailment site - report",
-      "body": "Initial findings from an RAIB investigation show an \"irregularity\" at the site near Lewes.",
+      "title": "Walmart sales under strain as US shoppers pull back",
+      "body": "High gas prices and weaker pharmacy sales pushed Walmart's growth to its slowest pace in six years",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T14:06:42.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5e2/live/2f124880-9b12-11f1-9341-0383083a41e3.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cpq8rjy7vxlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T17:59:59.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40c0/live/b7baf560-9cb6-11f1-a291-b542ee92de7c.jpg"
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "A joke domain purchase turned in geopolitical warfare",
+      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
       "body": "—",
       "src": "Hacker News",
       "fav": "HN",
-      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-      "publishedAt": "2026-08-19T11:21:50Z",
-      "image": "https://sprocketfox.io/xssfox/images/war.png"
+      "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+      "publishedAt": "2026-08-20T10:08:52Z",
+      "image": null
     },
     {
-      "cat": "social",
-      "label": "Social",
+      "cat": "business",
+      "label": "Business",
       "tone": "",
-      "title": "TikTok Live adds AI-generated intros",
-      "body": "The app is offering creators the opportunity to generate summaries using artificial intelligence-powered tools.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/tiktok-live-adds-ai-generated-intros/828220/",
-      "publishedAt": "2026-08-18T23:19:37.000Z",
-      "image": null
+      "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
+      "body": "Jo Boydell had been criticised for the company's handling of issues with its safety and security.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T10:05:24.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32ce/live/ece4b560-9c7e-11f1-a291-b542ee92de7c.png"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "HTML Can Do That",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://chrisburnell.com/html-can-do-that/",
+      "publishedAt": "2026-08-19T15:11:36Z",
+      "image": "https://chrisburnell.com/images/favicon-256.png"
     },
     {
       "cat": "growth",
@@ -230,7 +230,7 @@
       },
       "social": {
         "label": "Social",
-        "scanned": 20,
+        "scanned": 10,
         "kept": 3
       },
       "growth": {
@@ -254,15 +254,15 @@
         "count": 12
       },
       {
+        "src": "BBC Business",
+        "count": 12
+      },
+      {
         "src": "Ars Technica",
         "count": 12
       },
       {
         "src": "Nir & Far",
-        "count": 12
-      },
-      {
-        "src": "BBC Business",
         "count": 12
       },
       {
@@ -277,42 +277,42 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 54
-      },
-      {
-        "word": "model",
-        "hits": 5
+        "hits": 44
       },
       {
         "word": "habit",
         "hits": 5
       },
       {
-        "word": "startup",
+        "word": "llm",
         "hits": 4
+      },
+      {
+        "word": "model",
+        "hits": 3
       },
       {
         "word": "creator",
-        "hits": 4
+        "hits": 3
       },
       {
-        "word": "agent",
-        "hits": 4
-      },
-      {
-        "word": "llm",
+        "word": "micro",
         "hits": 2
       },
       {
-        "word": "learning",
+        "word": "growth",
+        "hits": 2
+      },
+      {
+        "word": "open source",
+        "hits": 2
+      },
+      {
+        "word": "startup",
         "hits": 1
       },
       {
         "word": "productivity",
-        "hits": 1
-      },
-      {
-        "word": "micro",
         "hits": 1
       }
     ]
