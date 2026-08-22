@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-08-21T05:38:21.426Z",
+  "generatedAt": "2026-08-22T05:33:21.024Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"AI data startup Micro1 reaches $500M gross run rate amid AI training boom\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Michael Polansky is training an AI model on skin that’s still alive\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom"
+        "detail": "Michael Polansky is training an AI model on skin that’s still alive"
       },
       {
         "head": "Tech & AI",
-        "detail": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint"
+        "detail": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours"
       },
       {
         "head": "Tech & AI",
-        "detail": "HTML Can Do That"
+        "detail": "Nvidia just showed that the harness, not the AI model, is now the real hero"
       },
       {
         "head": "Social",
@@ -49,7 +49,7 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 114,
+    "scanned": 112,
     "kept": 12
   },
   "feed": [
@@ -57,13 +57,73 @@
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-      "body": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
+      "title": "Michael Polansky is training an AI model on skin that’s still alive",
+      "body": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living hu…",
       "src": "TechCrunch",
       "fav": "T",
-      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-      "publishedAt": "2026-08-21T00:13:44.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/12/IMG_2686.jpeg?resize=1200,957"
+      "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+      "publishedAt": "2026-08-22T01:31:04.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Michael_Polansky.jpg?resize=1200,759"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
+      "body": "Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
+      "src": "TechCrunch",
+      "fav": "T",
+      "url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
+      "publishedAt": "2026-08-21T22:10:01.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Rillet.jpg?resize=1200,799"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "body": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+      "src": "TechCrunch",
+      "fav": "T",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "publishedAt": "2026-08-21T19:43:39.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Nvidia-VP-of-product-Adel-El-Hallak.jpg?resize=1200,898"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "US borrowing costs rise as attempts to ease rates prove short-lived",
+      "body": "Economists said there were ongoing concerns over the level of borrowing as national debt passed $40tn.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cvg92p3ez17o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T16:45:09.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4911/live/003dd3f0-9d81-11f1-adf5-2dc21c9cc109.jpg"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Royal Mail misses delivery targets again but hails 'encouraging' signs",
+      "body": "The struggling firm said it had improved its performance but missed regulator-set delivery targets.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/c1w1rg208xdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T11:20:57.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b693/live/e8990510-9d46-11f1-a3dc-c3f8cfe34ff8.jpg"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "UK borrows more than expected in July as Healey prepares for first Budget",
+      "body": "Chancellor John Healey said the government is 'committed to meeting our fiscal rules'",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cly8kzkyvwgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T09:45:11.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5711/live/12719030-9d21-11f1-ab6e-831b967255ae.jpg"
     },
     {
       "cat": "social",
@@ -100,66 +160,6 @@
       "url": "https://www.socialmediatoday.com/news/youtube-simplifies-its-ai-claims-process/828462/",
       "publishedAt": "2026-08-20T23:18:27.000Z",
       "image": null
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
-      "body": "Holidaymakers tell the BBC they paid for luxury breaks but faulty air conditioning left them in sweltering heat.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T22:59:35.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48ad/live/65eaf140-9cac-11f1-b366-155f83b9d1f8.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Walmart sales under strain as US shoppers pull back",
-      "body": "High gas prices and weaker pharmacy sales pushed Walmart's growth to its slowest pace in six years",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cpq8rjy7vxlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T17:59:59.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40c0/live/b7baf560-9cb6-11f1-a291-b542ee92de7c.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-      "publishedAt": "2026-08-20T10:08:52Z",
-      "image": null
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
-      "body": "Jo Boydell had been criticised for the company's handling of issues with its safety and security.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T10:05:24.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32ce/live/ece4b560-9c7e-11f1-a291-b542ee92de7c.png"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "HTML Can Do That",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://chrisburnell.com/html-can-do-that/",
-      "publishedAt": "2026-08-19T15:11:36Z",
-      "image": "https://chrisburnell.com/images/favicon-256.png"
     },
     {
       "cat": "growth",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 70,
+        "scanned": 68,
         "kept": 3
       },
       "social": {
@@ -247,7 +247,7 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 26
+        "count": 24
       },
       {
         "src": "TechCrunch",
@@ -277,22 +277,30 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 44
+        "hits": 47
+      },
+      {
+        "word": "model",
+        "hits": 6
       },
       {
         "word": "habit",
         "hits": 5
       },
       {
+        "word": "startup",
+        "hits": 4
+      },
+      {
+        "word": "agent",
+        "hits": 4
+      },
+      {
         "word": "llm",
         "hits": 4
       },
       {
-        "word": "model",
-        "hits": 3
-      },
-      {
-        "word": "creator",
+        "word": "focus",
         "hits": 3
       },
       {
@@ -300,19 +308,11 @@
         "hits": 2
       },
       {
-        "word": "growth",
+        "word": "creator",
         "hits": 2
       },
       {
-        "word": "open source",
-        "hits": 2
-      },
-      {
-        "word": "startup",
-        "hits": 1
-      },
-      {
-        "word": "productivity",
+        "word": "trend",
         "hits": 1
       }
     ]
