@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T05:33:21.024Z",
+  "generatedAt": "2026-08-23T05:34:48.706Z",
   "brief": {
     "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Michael Polansky is training an AI model on skin that’s still alive\". Scan the feed below for the rest.",
     "bullets": [
@@ -9,11 +9,11 @@
       },
       {
         "head": "Tech & AI",
-        "detail": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours"
+        "detail": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors"
       },
       {
         "head": "Tech & AI",
-        "detail": "Nvidia just showed that the harness, not the AI model, is now the real hero"
+        "detail": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research"
       },
       {
         "head": "Social",
@@ -49,10 +49,34 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 112,
+    "scanned": 114,
     "kept": 12
   },
   "feed": [
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "",
+      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "body": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+      "src": "TechCrunch",
+      "fav": "T",
+      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "publishedAt": "2026-08-22T21:46:56.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2169079907_27e720-e1734690817769.jpg?resize=1200,800"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "",
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replic…",
+      "body": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+      "src": "TechCrunch",
+      "fav": "T",
+      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "publishedAt": "2026-08-22T19:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/inherent-labs-cofounders-credit-Anna-Gordon.jpeg?resize=1200,800"
+    },
     {
       "cat": "tech",
       "label": "Tech & AI",
@@ -64,30 +88,6 @@
       "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
       "publishedAt": "2026-08-22T01:31:04.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/Michael_Polansky.jpg?resize=1200,759"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
-      "body": "Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
-      "publishedAt": "2026-08-21T22:10:01.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Rillet.jpg?resize=1200,799"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-      "body": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-      "publishedAt": "2026-08-21T19:43:39.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Nvidia-VP-of-product-Adel-El-Hallak.jpg?resize=1200,898"
     },
     {
       "cat": "business",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 68,
+        "scanned": 70,
         "kept": 3
       },
       "social": {
@@ -247,7 +247,7 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 24
+        "count": 26
       },
       {
         "src": "TechCrunch",
@@ -277,11 +277,7 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 47
-      },
-      {
-        "word": "model",
-        "hits": 6
+        "hits": 43
       },
       {
         "word": "habit",
@@ -289,18 +285,18 @@
       },
       {
         "word": "startup",
-        "hits": 4
+        "hits": 5
+      },
+      {
+        "word": "model",
+        "hits": 5
       },
       {
         "word": "agent",
-        "hits": 4
+        "hits": 3
       },
       {
         "word": "llm",
-        "hits": 4
-      },
-      {
-        "word": "focus",
         "hits": 3
       },
       {
@@ -312,7 +308,11 @@
         "hits": 2
       },
       {
-        "word": "trend",
+        "word": "productivity",
+        "hits": 1
+      },
+      {
+        "word": "focus",
         "hits": 1
       }
     ]
