@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-08-23T05:34:48.706Z",
+  "generatedAt": "2026-08-24T05:43:36.238Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Michael Polansky is training an AI model on skin that’s still alive\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Why your local LLM feels dumber than it is\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Michael Polansky is training an AI model on skin that’s still alive"
+        "detail": "Why your local LLM feels dumber than it is"
       },
       {
         "head": "Tech & AI",
-        "detail": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors"
+        "detail": "AI agents are now using 5x more tokens than humans.."
       },
       {
         "head": "Tech & AI",
-        "detail": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research"
+        "detail": "Who’s behind the new ‘stealth model’ Ox Alpha?"
       },
       {
         "head": "Social",
-        "detail": "YouTube simplifies its AI claims process"
+        "detail": "Instagram stresses the importance of captions"
       }
     ],
     "signal": {
@@ -49,105 +49,105 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 114,
+    "scanned": 117,
     "kept": 12
   },
   "feed": [
     {
-      "cat": "tech",
-      "label": "Tech & AI",
+      "cat": "business",
+      "label": "Business",
       "tone": "",
-      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-      "body": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-      "publishedAt": "2026-08-22T21:46:56.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2169079907_27e720-e1734690817769.jpg?resize=1200,800"
+      "title": "Shein aims for almost $27bn valuation in stock market debut",
+      "body": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T05:09:22.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e462/live/c906d120-9f60-11f1-8564-6b99aa01bb8b.jpg"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Why students are being paid £2,000 to play computer games",
+      "body": "Roehampton University offers students £2,000 a year to play esports alongside their studies.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cz647wlvg1do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T23:23:55.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e70/live/c3634490-9c9c-11f1-a5a0-114ca9d4a1bc.jpg"
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "",
-      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replic…",
-      "body": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+      "title": "AI agents are now using 5x more tokens than humans..",
+      "body": "—",
+      "src": "r/artificial",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/artificial/comments/1vwkkoh/ai_agents_are_now_using_5x_more_tokens_than_humans/",
+      "publishedAt": "2026-08-23T22:10:28.000Z",
+      "image": "https://preview.redd.it/x27vp87p77lh1.jpeg?width=640&crop=smart&auto=webp&s=41dcc60a8b4c3a5eac6bc295431a47c0fee4c6ea"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Instagram stresses the importance of captions",
+      "body": "The platform offered guidance on what makes text compelling and said creators should aim to tell a story or offer useful information.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/instagram-stresses-the-importance-of-captions/828554/",
+      "publishedAt": "2026-08-23T21:59:06.000Z",
+      "image": null
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "X launches MCP server",
+      "body": "The system allows advertisers to connect their campaigns to the artificial intelligence tool of their choice and use it to guide their promotions.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/x-launches-mcp-server/828552/",
+      "publishedAt": "2026-08-23T21:44:23.000Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "",
+      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+      "body": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
       "src": "TechCrunch",
       "fav": "T",
-      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "publishedAt": "2026-08-22T19:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/inherent-labs-cofounders-credit-Anna-Gordon.jpeg?resize=1200,800"
+      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "publishedAt": "2026-08-23T20:01:36.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/magnifying-glasses-Getty.jpg?resize=1200,675"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Mayors to get powers to overrule local councils on planning decisions",
+      "body": "Housing minister Matthew Pennycook said the change was \"essential\" for helping mayors \"effectively deliver new homes\".",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T10:02:23.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7205/live/1fb3cdf0-9d83-11f1-adf5-2dc21c9cc109.jpg"
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "Michael Polansky is training an AI model on skin that’s still alive",
-      "body": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living hu…",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
-      "publishedAt": "2026-08-22T01:31:04.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Michael_Polansky.jpg?resize=1200,759"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "US borrowing costs rise as attempts to ease rates prove short-lived",
-      "body": "Economists said there were ongoing concerns over the level of borrowing as national debt passed $40tn.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cvg92p3ez17o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T16:45:09.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4911/live/003dd3f0-9d81-11f1-adf5-2dc21c9cc109.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Royal Mail misses delivery targets again but hails 'encouraging' signs",
-      "body": "The struggling firm said it had improved its performance but missed regulator-set delivery targets.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c1w1rg208xdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T11:20:57.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b693/live/e8990510-9d46-11f1-a3dc-c3f8cfe34ff8.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "UK borrows more than expected in July as Healey prepares for first Budget",
-      "body": "Chancellor John Healey said the government is 'committed to meeting our fiscal rules'",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cly8kzkyvwgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T09:45:11.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5711/live/12719030-9d21-11f1-ab6e-831b967255ae.jpg"
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "LinkedIn says 1M people have reported AI slop",
-      "body": "Since the platform introduced an option for flagging what it deems “low substance, low effort” posts in the app, that type of content has seen 40% fewer overall views.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/linkedin-says-1m-people-have-reported-ai-slop/828465/",
-      "publishedAt": "2026-08-20T23:28:09.000Z",
-      "image": null
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Edits gets improved project management and AI features",
-      "body": "The Meta-owned app updated its project folders and added a new way to convert still images to video clips.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/edits-gets-improved-project-management-and-ai-features/828464/",
-      "publishedAt": "2026-08-20T23:24:07.000Z",
-      "image": null
+      "title": "Why your local LLM feels dumber than it is",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "publishedAt": "2026-08-22T18:14:16Z",
+      "image": "https://level1techs.us-east-1.linodeobjects.com/original/4X/d/8/7/d87c01532439840126d90ea94abfdfcf6501f42f.png"
     },
     {
       "cat": "social",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 70,
+        "scanned": 73,
         "kept": 3
       },
       "social": {
@@ -247,7 +247,7 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 26
+        "count": 29
       },
       {
         "src": "TechCrunch",
@@ -258,11 +258,11 @@
         "count": 12
       },
       {
-        "src": "Ars Technica",
+        "src": "Nir & Far",
         "count": 12
       },
       {
-        "src": "Nir & Far",
+        "src": "Ars Technica",
         "count": 12
       },
       {
@@ -277,19 +277,19 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 43
+        "hits": 39
+      },
+      {
+        "word": "model",
+        "hits": 5
       },
       {
         "word": "habit",
         "hits": 5
       },
       {
-        "word": "startup",
-        "hits": 5
-      },
-      {
-        "word": "model",
-        "hits": 5
+        "word": "creator",
+        "hits": 4
       },
       {
         "word": "agent",
@@ -300,11 +300,11 @@
         "hits": 3
       },
       {
-        "word": "micro",
+        "word": "startup",
         "hits": 2
       },
       {
-        "word": "creator",
+        "word": "local",
         "hits": 2
       },
       {
