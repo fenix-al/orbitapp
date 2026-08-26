@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-08-25T05:37:15.188Z",
+  "generatedAt": "2026-08-26T05:39:59.279Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"MS Paint and Photos inivisibly watermark even locally generated output with GUID\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"I benchmarked AutoGen, CrewAI, LangGraph, and MetaGPT against my own Agent OS. The \"LLM-as-a-judge\" paradigm is completely broken. Here is the local data.\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "MS Paint and Photos inivisibly watermark even locally generated output with GUID"
+        "detail": "I benchmarked AutoGen, CrewAI, LangGraph, and MetaGPT against my own Agent OS. The \"LLM-as-a-judge\" paradigm is completely broken. Here is the local data."
       },
       {
         "head": "Tech & AI",
-        "detail": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics"
+        "detail": "Nitter and XCancel receive cease and desist notices"
       },
       {
         "head": "Tech & AI",
-        "detail": "How Europe is killing makers and micro-entrepreneurs"
+        "detail": "OpenAI Jalapeño: Better than Nvidia Blackwell"
       },
       {
         "head": "Social",
-        "detail": "Instagram stresses the importance of captions"
+        "detail": "Meta tests auto-DM response for Instagram ad comments"
       }
     ],
     "signal": {
@@ -49,33 +49,105 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 119,
+    "scanned": 117,
     "kept": 12
   },
   "feed": [
     {
-      "cat": "growth",
-      "label": "Growth",
+      "cat": "business",
+      "label": "Business",
       "tone": "",
-      "title": "Literally cannot focus at work",
-      "body": "—",
-      "src": "r/productivity",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/productivity/comments/1vxofxj/literally_cannot_focus_at_work/",
-      "publishedAt": "2026-08-25T03:24:54.000Z",
+      "title": "Musk's rocket firm SpaceX to build $100bn launch facility",
+      "body": "It will be the firm's biggest site yet and aims to send rockets to space in 2029.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cq5xel4v642o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T01:32:07.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b26b/live/94e32ca0-a0ef-11f1-836e-f5015c2f83bc.jpg"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Meta tests auto-DM response for Instagram ad comments",
+      "body": "A similar Reply to Keywords feature is already available via inbox automation and Meta Business Agent options.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/meta-tests-auto-dm-response-for-instagram-ad-comments/828791/",
+      "publishedAt": "2026-08-25T23:54:10.000Z",
       "image": null
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
-      "body": "Mark Carney accused Trump of wanting to \"destroy\" Canada's auto industry, and said he would only resume trade talks if the US comes with the \"right attitude\".",
+      "title": "AI gold rush draws crypto firms away from Bitcoin",
+      "body": "The price of Bitcoin has risen in August but is still far below its peak almost a year ago - and companies are refitting their mines.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T02:51:53.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e240/live/5807d190-a019-11f1-bdcd-87d2835ec878.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c07ler8x9kpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T23:11:02.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c2d/live/88718a80-a07b-11f1-bfeb-dfb02ea642ef.png"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Firms scramble for battery power in Spain and Portugal",
+      "body": "After last year's massive power failure Spanish and Portuguese firms are buying battery back ups.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T23:09:31.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee02/live/d89808b0-a056-11f1-b109-879e35c24276.jpg"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Pinterest hobbies report highlights DIY and vintage",
+      "body": "The platform said users are focused on hands-on, offline pastimes including kitchen- and nature-themed crafts.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/pinterest-hobbies-report-highlights-diy-and-vintage/828786/",
+      "publishedAt": "2026-08-25T19:54:45.000Z",
+      "image": "https://imgproxy.divecdn.com/erlS1TAsAnmQ00C2nAuVe1lpIhIGeDHxqEkCdoPDydo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9iYmllc19yZXBvcnQucG5n.webp"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "I benchmarked AutoGen, CrewAI, LangGraph, and MetaGPT against my own Agent OS. The \"LLM-as-a-judge\" paradigm…",
+      "body": "—",
+      "src": "r/artificial",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/artificial/comments/1vya5ko/i_benchmarked_autogen_crewai_langgraph_and/",
+      "publishedAt": "2026-08-25T19:40:27.000Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Nitter and XCancel receive cease and desist notices",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://github.com/zedeus/nitter/issues/1442",
+      "publishedAt": "2026-08-25T17:08:21Z",
+      "image": "https://opengraph.githubassets.com/7d6bb5c1b3e61754726cd6b301199636ea37ef501d250bf15da38b61c8934e6e/zedeus/nitter/issues/1442"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "publishedAt": "2026-08-25T14:06:02Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!FdaK!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8f308659-4472-47f2-bb48-10442949f1a6_1535x1024.png"
     },
     {
       "cat": "social",
@@ -90,90 +162,6 @@
       "image": null
     },
     {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "TikTok launches newsletter to share creator insights",
-      "body": "The newsletter, called The Creator Cut, is designed to share insights from livestream creators on how to make an impact with short-form content.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/tiktok-launches-newsletter-to-share-creator-insights/828666/",
-      "publishedAt": "2026-08-24T23:32:24.000Z",
-      "image": null
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "'What you see is what you pay' - why some US restaurants are banning tips",
-      "body": "Tips are central to US dining culture but some eateries think that they are unfair.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c4g36yze692o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T23:04:17.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2add/live/70cad1a0-9592-11f1-870d-5d08c49babb2.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Graduate job vacancies drop by almost 50% in a year, survey suggests",
-      "body": "Job site Adzuna said the number of graduate vacancies was the lowest since 2016",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T16:50:47.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7356/live/324f6630-9fb4-11f1-aed2-8d6da8d75094.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-      "publishedAt": "2026-08-24T15:28:04Z",
-      "image": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/social-preview.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-      "body": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money val…",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-      "publishedAt": "2026-08-24T15:24:18.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2019/03/robocash.jpg?resize=1200,849"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "How Europe is killing makers and micro-entrepreneurs",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
-      "publishedAt": "2026-08-24T13:05:25Z",
-      "image": "https://lectronz.com/lectronz/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzAzNjgsInB1ciI6ImJsb2JfaWQifX0=--86803ec7bfb65d5430f3e59aa9c5b2a8dafd15f0/DSC_1769.JPG"
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Instagram stresses the importance of captions",
-      "body": "The platform offered guidance on what makes text compelling and said creators should aim to tell a story or offer useful information.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/instagram-stresses-the-importance-of-captions/828554/",
-      "publishedAt": "2026-08-23T21:59:06.000Z",
-      "image": null
-    },
-    {
       "cat": "growth",
       "label": "Growth",
       "tone": "",
@@ -184,6 +172,18 @@
       "url": "https://www.nirandfar.com/antisocial-brain/",
       "publishedAt": "2025-10-14T13:00:26.000Z",
       "image": "https://www.nirandfar.com/wp-content/uploads/2025/07/ben-rein-book-featured.webp"
+    },
+    {
+      "cat": "growth",
+      "label": "Growth",
+      "tone": "",
+      "title": "Unlock Your Potential With The Power Of Belief",
+      "body": "In 2006, U.S. Team freestyle skier Michelle Roark zoomed down the slope at her first Olympics, conquering hilly terrain that not even a 4x4 could handle. At 31 years old, she was…",
+      "src": "Nir & Far",
+      "fav": "NF",
+      "url": "https://www.nirandfar.com/power-of-belief/",
+      "publishedAt": "2025-07-07T13:00:26.000Z",
+      "image": "https://www.nirandfar.com/wp-content/uploads/2025/06/power-of-belief-featured.webp"
     },
     {
       "cat": "growth",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 65,
+        "scanned": 73,
         "kept": 3
       },
       "social": {
@@ -235,7 +235,7 @@
       },
       "growth": {
         "label": "Growth",
-        "scanned": 32,
+        "scanned": 22,
         "kept": 3
       },
       "business": {
@@ -247,10 +247,14 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 21
+        "count": 29
       },
       {
         "src": "TechCrunch",
+        "count": 12
+      },
+      {
+        "src": "Ars Technica",
         "count": 12
       },
       {
@@ -262,15 +266,11 @@
         "count": 12
       },
       {
-        "src": "Ars Technica",
-        "count": 12
-      },
-      {
-        "src": "James Clear",
+        "src": "The Verge",
         "count": 10
       },
       {
-        "src": "The Verge",
+        "src": "James Clear",
         "count": 10
       }
     ],
@@ -284,19 +284,11 @@
         "hits": 5
       },
       {
-        "word": "model",
+        "word": "agent",
         "hits": 4
       },
       {
-        "word": "creator",
-        "hits": 3
-      },
-      {
-        "word": "llm",
-        "hits": 3
-      },
-      {
-        "word": "focus",
+        "word": "model",
         "hits": 3
       },
       {
@@ -304,16 +296,24 @@
         "hits": 3
       },
       {
+        "word": "focus",
+        "hits": 3
+      },
+      {
+        "word": "llm",
+        "hits": 3
+      },
+      {
         "word": "startup",
         "hits": 2
       },
       {
-        "word": "agent",
+        "word": "open source",
         "hits": 2
       },
       {
-        "word": "productivity",
-        "hits": 1
+        "word": "creator",
+        "hits": 2
       }
     ]
   }
