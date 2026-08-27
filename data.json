@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-08-26T05:39:59.279Z",
+  "generatedAt": "2026-08-27T16:19:34.865Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"I benchmarked AutoGen, CrewAI, LangGraph, and MetaGPT against my own Agent OS. The \"LLM-as-a-judge\" paradigm is completely broken. Here is the local data.\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"How OpenAI let a mob of LLM agents game a test and ransack Hugging Face\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "I benchmarked AutoGen, CrewAI, LangGraph, and MetaGPT against my own Agent OS. The \"LLM-as-a-judge\" paradigm is completely broken. Here is the local data."
+        "detail": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face"
       },
       {
         "head": "Tech & AI",
-        "detail": "Nitter and XCancel receive cease and desist notices"
+        "detail": "Nvidia agrees to acquire Hugging Face for $13B"
       },
       {
         "head": "Tech & AI",
-        "detail": "OpenAI Jalapeño: Better than Nvidia Blackwell"
+        "detail": "Viral AI startup Instinct has raised $350M at a $2.5B valuation"
       },
       {
         "head": "Social",
@@ -49,7 +49,7 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 117,
+    "scanned": 110,
     "kept": 12
   },
   "feed": [
@@ -57,13 +57,97 @@
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Musk's rocket firm SpaceX to build $100bn launch facility",
-      "body": "It will be the firm's biggest site yet and aims to send rockets to space in 2029.",
+      "title": "Hackers steal data from millions of airport customers",
+      "body": "About 8.7 million customers had their data accessed and a ransom was demanded.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cq5xel4v642o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-26T01:32:07.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b26b/live/94e32ca0-a0ef-11f1-836e-f5015c2f83bc.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c7v4353rry7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-27T16:07:26.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f25f/live/59771ca0-a214-11f1-9090-b51af3a01fc2.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+      "body": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.",
+      "src": "Ars Technica",
+      "fav": "AT",
+      "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+      "publishedAt": "2026-08-27T12:58:59.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1004669768-1152x648-1784927041.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Nvidia agrees to acquire Hugging Face for $13B",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+      "publishedAt": "2026-08-27T01:12:55Z",
+      "image": "https://i.insider.com/6a8f6dc43f7df8787cff40f7?width=1200&format=jpeg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
+      "body": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+      "src": "TechCrunch",
+      "fav": "T",
+      "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+      "publishedAt": "2026-08-27T00:24:57.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2255991416.jpg?resize=1200,795"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Meta adds new AI subscription packages",
+      "body": "The company is looking to monetize its artificial intelligence investments even as a new report from Reuters sheds light on some internal challenges.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/meta-adds-new-ai-subscription-packages/828904/",
+      "publishedAt": "2026-08-26T23:51:56.000Z",
+      "image": null
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Instagram launches connected TV promotion",
+      "body": "AdAge reported that the app is teaming up with creators to highlight the benefits of shared viewing experiences, such as watching Reels with friends.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/instagram-launches-connected-tv-promotion/828903/",
+      "publishedAt": "2026-08-26T23:40:20.000Z",
+      "image": null
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Unexpected chat between OpenAI agents led to Hugging Face hack",
+      "body": "OpenAI's cyber agents banded together to perform a hack during a security test.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T22:03:45.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f095/live/1bbd32b0-a191-11f1-9e49-ab6cded816f9.jpg"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Nvidia revenue doubles on continued AI demand",
+      "body": "Chipmaker's $96bn quarter beat forecasts as demand for AI hardware continues to accelerate.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/ce871n7lyvlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T21:49:26.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7234/live/2da1a9f0-a193-11f1-aed2-8d6da8d75094.jpg"
     },
     {
       "cat": "social",
@@ -75,90 +159,6 @@
       "fav": "SM",
       "url": "https://www.socialmediatoday.com/news/meta-tests-auto-dm-response-for-instagram-ad-comments/828791/",
       "publishedAt": "2026-08-25T23:54:10.000Z",
-      "image": null
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "AI gold rush draws crypto firms away from Bitcoin",
-      "body": "The price of Bitcoin has risen in August but is still far below its peak almost a year ago - and companies are refitting their mines.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c07ler8x9kpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T23:11:02.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c2d/live/88718a80-a07b-11f1-bfeb-dfb02ea642ef.png"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Firms scramble for battery power in Spain and Portugal",
-      "body": "After last year's massive power failure Spanish and Portuguese firms are buying battery back ups.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T23:09:31.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee02/live/d89808b0-a056-11f1-b109-879e35c24276.jpg"
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Pinterest hobbies report highlights DIY and vintage",
-      "body": "The platform said users are focused on hands-on, offline pastimes including kitchen- and nature-themed crafts.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/pinterest-hobbies-report-highlights-diy-and-vintage/828786/",
-      "publishedAt": "2026-08-25T19:54:45.000Z",
-      "image": "https://imgproxy.divecdn.com/erlS1TAsAnmQ00C2nAuVe1lpIhIGeDHxqEkCdoPDydo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfaG9iYmllc19yZXBvcnQucG5n.webp"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "I benchmarked AutoGen, CrewAI, LangGraph, and MetaGPT against my own Agent OS. The \"LLM-as-a-judge\" paradigm…",
-      "body": "—",
-      "src": "r/artificial",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1vya5ko/i_benchmarked_autogen_crewai_langgraph_and/",
-      "publishedAt": "2026-08-25T19:40:27.000Z",
-      "image": null
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Nitter and XCancel receive cease and desist notices",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://github.com/zedeus/nitter/issues/1442",
-      "publishedAt": "2026-08-25T17:08:21Z",
-      "image": "https://opengraph.githubassets.com/7d6bb5c1b3e61754726cd6b301199636ea37ef501d250bf15da38b61c8934e6e/zedeus/nitter/issues/1442"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "publishedAt": "2026-08-25T14:06:02Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!FdaK!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8f308659-4472-47f2-bb48-10442949f1a6_1535x1024.png"
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Meta is developing an AI glasses kill switch",
-      "body": "Patentlyze reported that the company filed a patent earlier this year for a cut-off switch designed to prevent unauthorized recordings.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/meta-is-developing-an-ai-glasses-kill-switch/828667/",
-      "publishedAt": "2026-08-24T23:36:01.000Z",
       "image": null
     },
     {
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 73,
+        "scanned": 66,
         "kept": 3
       },
       "social": {
@@ -247,18 +247,18 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 29
+        "count": 22
       },
       {
         "src": "TechCrunch",
         "count": 12
       },
       {
-        "src": "Ars Technica",
+        "src": "BBC Business",
         "count": 12
       },
       {
-        "src": "BBC Business",
+        "src": "Ars Technica",
         "count": 12
       },
       {
@@ -277,43 +277,43 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 43
+        "hits": 49
+      },
+      {
+        "word": "agent",
+        "hits": 10
       },
       {
         "word": "habit",
         "hits": 5
       },
       {
-        "word": "agent",
+        "word": "micro",
         "hits": 4
       },
       {
-        "word": "model",
-        "hits": 3
-      },
-      {
-        "word": "micro",
-        "hits": 3
-      },
-      {
-        "word": "focus",
-        "hits": 3
-      },
-      {
         "word": "llm",
-        "hits": 3
+        "hits": 4
       },
       {
         "word": "startup",
         "hits": 2
       },
       {
-        "word": "open source",
+        "word": "model",
         "hits": 2
       },
       {
-        "word": "creator",
-        "hits": 2
+        "word": "open source",
+        "hits": 1
+      },
+      {
+        "word": "viral",
+        "hits": 1
+      },
+      {
+        "word": "revenue",
+        "hits": 1
       }
     ]
   }
