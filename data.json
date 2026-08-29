@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-08-28T17:16:35.576Z",
+  "generatedAt": "2026-08-29T11:32:57.237Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"How OpenAI let a mob of LLM agents game a test and ransack Hugging Face\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"U.S. sanctions against the A/I Collective\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face"
+        "detail": "U.S. sanctions against the A/I Collective"
       },
       {
         "head": "Tech & AI",
-        "detail": "Friend-focused photo-sharing app Retro snags $21M"
+        "detail": "GLM-5.3 is now open-weight"
       },
       {
         "head": "Tech & AI",
-        "detail": "a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’"
+        "detail": "GUIs should be fully keyboard-driven"
       },
       {
         "head": "Social",
@@ -49,7 +49,7 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 112,
+    "scanned": 111,
     "kept": 12
   },
   "feed": [
@@ -57,49 +57,61 @@
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Gatwick Airport faced water outage after main burst",
-      "body": "SES Water says it has repaired a burst main which was affecting supply to the airport.",
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "body": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cjdvl93e10jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-28T15:56:00.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2363/live/debeed50-a2de-11f1-b109-879e35c24276.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "",
-      "title": "Friend-focused photo-sharing app Retro snags $21M",
-      "body": "Retro, a friend-focused photo-sharing app built by former Instagram employees, has raised more than $21 million in Series A funding.",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/08/28/friend-focused-photo-sharing-app-retro-snags-21m/",
-      "publishedAt": "2026-08-28T15:35:03.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/12/Retro-Header.png?resize=1200,792"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "",
-      "title": "a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’",
-      "body": "The firm, known for its focus on software, is going to start throwing more money at the hardware behind AI.",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/",
-      "publishedAt": "2026-08-28T13:24:43.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/andreessen-horowitz-office.jpg?resize=1200,800"
+      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-29T02:42:27.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6691/live/b40e7f80-a356-11f1-a291-b542ee92de7c.jpg"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Sports Direct founder attacks Burnham's 'populist' High Street plans",
-      "body": "In a letter, the entrepreneur accuses the prime minister of \"jumping on 'everyday fixes' or bandwagons\" with his latest cost of living and retail policies.",
+      "title": "Wife of man who died after turbulence sues airline",
+      "body": "Lawyers for Linda Kitchen say her husband was \"fatally injured\" after the flight dropped 6,000 ft.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cn74mm2jz8jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-28T07:40:00.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1264/live/525dbc40-a2ae-11f1-ab20-f9f4f61e8913.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cqlwrpey1epo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-28T17:47:00.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fd5/live/2730a430-a301-11f1-a291-b542ee92de7c.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "GLM-5.3 is now open-weight",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://huggingface.co/zai-org/GLM-5.3",
+      "publishedAt": "2026-08-28T15:20:13Z",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/zai-org/GLM-5.3.png"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "GUIs should be fully keyboard-driven",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+      "publishedAt": "2026-08-28T15:17:09Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "U.S. sanctions against the A/I Collective",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://www.inventati.org/",
+      "publishedAt": "2026-08-28T12:58:53Z",
+      "image": null
     },
     {
       "cat": "business",
@@ -148,18 +160,6 @@
       "url": "https://www.socialmediatoday.com/news/x-launches-api-for-business-chatbot-accounts/829029/",
       "publishedAt": "2026-08-27T21:02:09.000Z",
       "image": null
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
-      "body": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.",
-      "src": "Ars Technica",
-      "fav": "AT",
-      "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-      "publishedAt": "2026-08-27T12:58:59.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1004669768-1152x648-1784927041.jpg"
     },
     {
       "cat": "growth",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 68,
+        "scanned": 67,
         "kept": 3
       },
       "social": {
@@ -247,7 +247,7 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 24
+        "count": 23
       },
       {
         "src": "TechCrunch",
@@ -258,11 +258,11 @@
         "count": 12
       },
       {
-        "src": "Nir & Far",
+        "src": "Ars Technica",
         "count": 12
       },
       {
-        "src": "Ars Technica",
+        "src": "Nir & Far",
         "count": 12
       },
       {
@@ -277,30 +277,34 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 53
+        "hits": 52
       },
       {
-        "word": "startup",
-        "hits": 5
+        "word": "agent",
+        "hits": 7
       },
       {
         "word": "habit",
         "hits": 5
       },
       {
-        "word": "agent",
-        "hits": 5
+        "word": "llm",
+        "hits": 4
+      },
+      {
+        "word": "micro",
+        "hits": 3
+      },
+      {
+        "word": "model",
+        "hits": 3
       },
       {
         "word": "focus",
         "hits": 3
       },
       {
-        "word": "llm",
-        "hits": 3
-      },
-      {
-        "word": "model",
+        "word": "startup",
         "hits": 2
       },
       {
@@ -308,11 +312,7 @@
         "hits": 2
       },
       {
-        "word": "marketing",
-        "hits": 1
-      },
-      {
-        "word": "viral",
+        "word": "productivity",
         "hits": 1
       }
     ]
