@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-08-30T10:25:36.464Z",
+  "generatedAt": "2026-08-31T11:30:19.664Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"How OpenAI let a mob of LLM agents game a test and ransack Hugging Face\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"“I just chose words carefully”\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face"
+        "detail": "“I just chose words carefully”"
       },
       {
         "head": "Tech & AI",
-        "detail": "What should an AI agent remember in a form a human can actually audit?"
+        "detail": "Are there any interesting architectural innovations that we seem to be on the verge of for LLM models or AI models that might be a big deal? (Excluding maybe N-gram, since everyone is already well aware of that one)"
       },
       {
         "head": "Tech & AI",
-        "detail": "The Rise and Fall of Agent Civilizations"
+        "detail": "Liux’s Big microcar bets on sustainability to take on Chinese rivals"
       },
       {
         "head": "Social",
-        "detail": "YouTube adds Amazon affiliate links"
+        "detail": "Instagram growth continues to outpace Facebook in EU"
       }
     ],
     "signal": {
@@ -49,10 +49,58 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 111,
+    "scanned": 123,
     "kept": 12
   },
   "feed": [
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Instagram growth continues to outpace Facebook in EU",
+      "body": "Meta’s latest DSA reporting showed that while both platforms have significant reach, Facebook usage is trailing Instagram.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/instagram-growth-continues-to-outpace-facebook-in-eu/829134/",
+      "publishedAt": "2026-08-31T00:31:58.000Z",
+      "image": "https://imgproxy.divecdn.com/wvut4Fn_tSDsip2P_UsITnpxrIoh2Olo0VnD5UxOrPo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mYl92c19pZ19ldS5wbmc=.webp"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "“I just chose words carefully”",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+      "publishedAt": "2026-08-30T22:49:48Z",
+      "image": "https://unsung.aresluna.org/_media/i-just-chose-words-carefully/ogimage.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Are there any interesting architectural innovations that we seem to be on the verge of for LLM models or AI m…",
+      "body": "—",
+      "src": "r/LocalLLaMA",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2r37q/are_there_any_interesting_architectural/",
+      "publishedAt": "2026-08-30T19:36:21.000Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Liux’s Big microcar bets on sustainability to take on Chinese rivals",
+      "body": "The Liux Big microcar is made in Spain. The startup thinks it can compete in a crowded market with its tiny electric car built around sustainability.",
+      "src": "TechCrunch",
+      "fav": "T",
+      "url": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/",
+      "publishedAt": "2026-08-30T18:33:44.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/LIUX-BIG-Factory-001.png?resize=1200,800"
+    },
     {
       "cat": "business",
       "label": "Business",
@@ -64,30 +112,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-30T04:01:02.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6691/live/b40e7f80-a356-11f1-a291-b542ee92de7c.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "",
-      "title": "What should an AI agent remember in a form a human can actually audit?",
-      "body": "—",
-      "src": "r/artificial",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1w264pi/what_should_an_ai_agent_remember_in_a_form_a/",
-      "publishedAt": "2026-08-30T03:14:34.000Z",
-      "image": null
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "",
-      "title": "The Rise and Fall of Agent Civilizations",
-      "body": "Article URL: https://www.dwarkesh.com/p/openai-huggingface Comments URL: https://news.ycombinator.com/item?id=49494301 Points: 121 # Comments: 62",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://www.dwarkesh.com/p/openai-huggingface",
-      "publishedAt": "2026-08-29T23:43:24.000Z",
-      "image": "https://substackcdn.com/image/fetch/$s_!UZLs!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30186662-5010-4c83-a672-e33c53deeaa3_1080x669.webp"
     },
     {
       "cat": "business",
@@ -136,30 +160,6 @@
       "url": "https://www.socialmediatoday.com/news/youtube-adds-amazon-affiliate-links/829031/",
       "publishedAt": "2026-08-27T23:10:15.000Z",
       "image": null
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "X launches API for business chatbot accounts",
-      "body": "The custom function will let brands build their own automated response agents and offer customers access to answers when they need them.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/x-launches-api-for-business-chatbot-accounts/829029/",
-      "publishedAt": "2026-08-27T21:02:09.000Z",
-      "image": null
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
-      "body": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.",
-      "src": "Ars Technica",
-      "fav": "AT",
-      "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-      "publishedAt": "2026-08-27T12:58:59.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1004669768-1152x648-1784927041.jpg"
     },
     {
       "cat": "growth",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 67,
+        "scanned": 79,
         "kept": 3
       },
       "social": {
@@ -247,7 +247,7 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 23
+        "count": 25
       },
       {
         "src": "TechCrunch",
@@ -277,42 +277,42 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 47
+        "hits": 54
       },
       {
-        "word": "agent",
-        "hits": 8
+        "word": "model",
+        "hits": 6
       },
       {
         "word": "habit",
         "hits": 5
       },
       {
-        "word": "micro",
-        "hits": 4
-      },
-      {
-        "word": "creator",
-        "hits": 3
-      },
-      {
-        "word": "model",
-        "hits": 3
+        "word": "agent",
+        "hits": 5
       },
       {
         "word": "llm",
+        "hits": 5
+      },
+      {
+        "word": "micro",
         "hits": 3
+      },
+      {
+        "word": "startup",
+        "hits": 2
       },
       {
         "word": "focus",
         "hits": 2
       },
       {
-        "word": "productivity",
-        "hits": 1
+        "word": "creator",
+        "hits": 2
       },
       {
-        "word": "startup",
+        "word": "productivity",
         "hits": 1
       }
     ]
