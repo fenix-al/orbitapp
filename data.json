@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-08-31T11:30:19.664Z",
+  "generatedAt": "2026-09-01T09:52:44.503Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"“I just chose words carefully”\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Playa Phone\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "“I just chose words carefully”"
+        "detail": "Playa Phone"
       },
       {
         "head": "Tech & AI",
-        "detail": "Are there any interesting architectural innovations that we seem to be on the verge of for LLM models or AI models that might be a big deal? (Excluding maybe N-gram, since everyone is already well aware of that one)"
+        "detail": "Apple caught off guard by AI demand for Mac Mini and Mac Studio"
       },
       {
         "head": "Tech & AI",
-        "detail": "Liux’s Big microcar bets on sustainability to take on Chinese rivals"
+        "detail": "Terence Tao explains 6 essential mathematical concepts [video]"
       },
       {
         "head": "Social",
@@ -49,10 +49,82 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 123,
+    "scanned": 112,
     "kept": 12
   },
   "feed": [
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Shein shares fall in long-awaited stock market debut",
+      "body": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T04:15:15.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb85/live/c4b57840-a5ca-11f1-8543-aba44f51f79c.jpg"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "TikTok continues to add users in EU",
+      "body": "The platform’s latest DSA disclosure reports show that it is maintaining momentum even though its moderation staff has shrunk significantly since 2024.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/tiktok-continues-to-add-users-in-eu/829242/",
+      "publishedAt": "2026-08-31T22:50:02.000Z",
+      "image": null
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
+      "body": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-31T16:49:11.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b34/live/537541c0-a556-11f1-aed2-8d6da8d75094.jpg"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Trump pushes Apple to change 'Lake Ontario' to 'Lake America' on its maps",
+      "body": "The request comes after Google made the switch for US-based users over the weekend. MapQuest, another US map provider, said it will not change the name.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/c2l80eq5lxno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-31T15:00:11.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d31/live/88b002d0-a54c-11f1-8689-6589354d0f8e.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Playa Phone",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://playaphone.com/",
+      "publishedAt": "2026-08-31T14:52:26Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "publishedAt": "2026-08-31T12:41:22Z",
+      "image": "https://images.macrumors.com/t/OsRlBLMFhQf-DlTIBvCnu2Opj54=/2500x/article-new/2026/04/Mac-mini-vs-Studio-Feature-Sans-Text-1.jpg"
+    },
     {
       "cat": "social",
       "label": "Social",
@@ -66,99 +138,27 @@
       "image": "https://imgproxy.divecdn.com/wvut4Fn_tSDsip2P_UsITnpxrIoh2Olo0VnD5UxOrPo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mYl92c19pZ19ldS5wbmc=.webp"
     },
     {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Pinterest sets date for annual marketing showcase",
+      "body": "Pinterest will share the latest usage insights, trends and advertising updates at the virtual event.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/pinterest-sets-date-for-annual-marketing-showcase/829137/",
+      "publishedAt": "2026-08-30T23:21:40.000Z",
+      "image": null
+    },
+    {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "“I just chose words carefully”",
+      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
       "body": "—",
       "src": "Hacker News",
       "fav": "HN",
-      "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
-      "publishedAt": "2026-08-30T22:49:48Z",
-      "image": "https://unsung.aresluna.org/_media/i-just-chose-words-carefully/ogimage.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Are there any interesting architectural innovations that we seem to be on the verge of for LLM models or AI m…",
-      "body": "—",
-      "src": "r/LocalLLaMA",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2r37q/are_there_any_interesting_architectural/",
-      "publishedAt": "2026-08-30T19:36:21.000Z",
-      "image": null
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Liux’s Big microcar bets on sustainability to take on Chinese rivals",
-      "body": "The Liux Big microcar is made in Spain. The startup thinks it can compete in a crowded market with its tiny electric car built around sustainability.",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/",
-      "publishedAt": "2026-08-30T18:33:44.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/LIUX-BIG-Factory-001.png?resize=1200,800"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Trump hails 'historic' deal to control 65 billion barrels of Venezuelan oil",
-      "body": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-30T04:01:02.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6691/live/b40e7f80-a356-11f1-a291-b542ee92de7c.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Wife of man who died after turbulence sues airline",
-      "body": "Lawyers for Linda Kitchen say her husband was \"fatally injured\" after the flight dropped 6,000 ft.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cqlwrpey1epo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-28T17:47:00.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fd5/live/2730a430-a301-11f1-a291-b542ee92de7c.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Trump administration illegally retaliated against Anthropic, judge rules",
-      "body": "The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-28T03:41:59.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a72/live/1e9bf7b0-a299-11f1-b81f-99addc8c0403.jpg"
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "How will Meta’s settlement impact social media?",
-      "body": "The company’s landmark $18 billion payout was only one part of a larger agreement that aims to force other apps to implement similar teen restrictions.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/how-will-metas-settlement-impact-social-media/829033/",
-      "publishedAt": "2026-08-28T00:29:23.000Z",
-      "image": null
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "YouTube adds Amazon affiliate links",
-      "body": "Creators will be able to tag a curated list of products from the online retailer in their videos and earn commissions from every resulting sale.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/youtube-adds-amazon-affiliate-links/829031/",
-      "publishedAt": "2026-08-27T23:10:15.000Z",
+      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+      "publishedAt": "2026-08-30T22:37:01Z",
       "image": null
     },
     {
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 79,
+        "scanned": 68,
         "kept": 3
       },
       "social": {
@@ -247,7 +247,7 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 25
+        "count": 24
       },
       {
         "src": "TechCrunch",
@@ -277,11 +277,7 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 54
-      },
-      {
-        "word": "model",
-        "hits": 6
+        "hits": 44
       },
       {
         "word": "habit",
@@ -289,14 +285,14 @@
       },
       {
         "word": "agent",
-        "hits": 5
+        "hits": 4
       },
       {
         "word": "llm",
-        "hits": 5
+        "hits": 3
       },
       {
-        "word": "micro",
+        "word": "model",
         "hits": 3
       },
       {
@@ -304,15 +300,19 @@
         "hits": 2
       },
       {
+        "word": "growth",
+        "hits": 2
+      },
+      {
+        "word": "micro",
+        "hits": 2
+      },
+      {
         "word": "focus",
         "hits": 2
       },
       {
-        "word": "creator",
-        "hits": 2
-      },
-      {
-        "word": "productivity",
+        "word": "learning",
         "hits": 1
       }
     ]
