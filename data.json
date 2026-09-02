@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-01T09:52:44.503Z",
+  "generatedAt": "2026-09-02T09:24:19.491Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Playa Phone\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"How accurate have Ed Zitron's AI skeptic predictions been?\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Playa Phone"
+        "detail": "How accurate have Ed Zitron's AI skeptic predictions been?"
       },
       {
         "head": "Tech & AI",
-        "detail": "Apple caught off guard by AI demand for Mac Mini and Mac Studio"
+        "detail": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B"
       },
       {
         "head": "Tech & AI",
-        "detail": "Terence Tao explains 6 essential mathematical concepts [video]"
+        "detail": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work"
       },
       {
         "head": "Social",
-        "detail": "Instagram growth continues to outpace Facebook in EU"
+        "detail": "Google rolls out new AI image and video tools"
       }
     ],
     "signal": {
@@ -49,7 +49,7 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 112,
+    "scanned": 123,
     "kept": 12
   },
   "feed": [
@@ -57,73 +57,97 @@
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Shein shares fall in long-awaited stock market debut",
-      "body": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
+      "title": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
+      "body": "Booking.com said the \"limited test\" was \"not a true reflection of the experience of millions of listings or reviews\".",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T04:15:15.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb85/live/c4b57840-a5ca-11f1-8543-aba44f51f79c.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cly4e0wn452o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T01:27:34.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f10/live/ff12f590-a5f1-11f1-8348-fb0cb1cd9761.jpg"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Range Rover launches first fully electric model",
+      "body": "The vehicle is being built at JLR's manufacturing plant in Solihull, in the West Midlands.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/clyk5016mpyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T23:43:47.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9615/live/00a52b50-a613-11f1-9a0e-e95c171695e2.jpg"
     },
     {
       "cat": "social",
       "label": "Social",
       "tone": "",
-      "title": "TikTok continues to add users in EU",
-      "body": "The platform’s latest DSA disclosure reports show that it is maintaining momentum even though its moderation staff has shrunk significantly since 2024.",
+      "title": "LinkedIn increases push against inauthentic activity",
+      "body": "Although the platform’s active user count in the EU has remained flat, its work to address AI slop has intensified, according to its latest DSA reports.",
       "src": "Social Media Today",
       "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/tiktok-continues-to-add-users-in-eu/829242/",
-      "publishedAt": "2026-08-31T22:50:02.000Z",
-      "image": null
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
-      "body": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T16:49:11.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b34/live/537541c0-a556-11f1-aed2-8d6da8d75094.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Trump pushes Apple to change 'Lake Ontario' to 'Lake America' on its maps",
-      "body": "The request comes after Google made the switch for US-based users over the weekend. MapQuest, another US map provider, said it will not change the name.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c2l80eq5lxno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T15:00:11.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d31/live/88b002d0-a54c-11f1-8689-6589354d0f8e.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Playa Phone",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://playaphone.com/",
-      "publishedAt": "2026-08-31T14:52:26Z",
+      "url": "https://www.socialmediatoday.com/news/linkedin-increases-push-against-inauthentic-activity/829385/",
+      "publishedAt": "2026-09-01T23:19:37.000Z",
       "image": null
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+      "body": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million val…",
+      "src": "TechCrunch",
+      "fav": "T",
+      "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+      "publishedAt": "2026-09-01T22:08:24.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1569337822.jpg?resize=1200,800"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+      "body": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude…",
+      "src": "The Verge",
+      "fav": "TV",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+      "publishedAt": "2026-09-01T22:01:36.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Google rolls out new AI image and video tools",
+      "body": "Pics offers advanced image generation, while the company’s latest Gemini-powered agentic feature provides analysis of video content.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/google-rolls-out-new-ai-image-and-video-tools/829381/",
+      "publishedAt": "2026-09-01T21:23:43.000Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
       "body": "—",
       "src": "Hacker News",
       "fav": "HN",
-      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-      "publishedAt": "2026-08-31T12:41:22Z",
-      "image": "https://images.macrumors.com/t/OsRlBLMFhQf-DlTIBvCnu2Opj54=/2500x/article-new/2026/04/Mac-mini-vs-Studio-Feature-Sans-Text-1.jpg"
+      "url": "https://danluu.com/zitron/",
+      "publishedAt": "2026-09-01T18:35:15Z",
+      "image": null
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Ikea cuts prices as customers struggle with rising cost of living",
+      "body": "The Swedish retailer has seen revenue decline as the rising cost of living reduces people's ability to buy new furniture.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cm279dk9r8no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T12:21:52.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e523/live/2eed8b50-a5fb-11f1-83fc-0df57e6b3866.jpg"
     },
     {
       "cat": "social",
@@ -136,30 +160,6 @@
       "url": "https://www.socialmediatoday.com/news/instagram-growth-continues-to-outpace-facebook-in-eu/829134/",
       "publishedAt": "2026-08-31T00:31:58.000Z",
       "image": "https://imgproxy.divecdn.com/wvut4Fn_tSDsip2P_UsITnpxrIoh2Olo0VnD5UxOrPo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mYl92c19pZ19ldS5wbmc=.webp"
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Pinterest sets date for annual marketing showcase",
-      "body": "Pinterest will share the latest usage insights, trends and advertising updates at the virtual event.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/pinterest-sets-date-for-annual-marketing-showcase/829137/",
-      "publishedAt": "2026-08-30T23:21:40.000Z",
-      "image": null
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
-      "publishedAt": "2026-08-30T22:37:01Z",
-      "image": null
     },
     {
       "cat": "growth",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 68,
+        "scanned": 79,
         "kept": 3
       },
       "social": {
@@ -247,18 +247,18 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 24
+        "count": 25
       },
       {
         "src": "TechCrunch",
         "count": 12
       },
       {
-        "src": "BBC Business",
+        "src": "Ars Technica",
         "count": 12
       },
       {
-        "src": "Ars Technica",
+        "src": "BBC Business",
         "count": 12
       },
       {
@@ -277,7 +277,15 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 44
+        "hits": 45
+      },
+      {
+        "word": "model",
+        "hits": 13
+      },
+      {
+        "word": "llm",
+        "hits": 5
       },
       {
         "word": "habit",
@@ -288,31 +296,23 @@
         "hits": 4
       },
       {
-        "word": "llm",
-        "hits": 3
-      },
-      {
-        "word": "model",
-        "hits": 3
-      },
-      {
-        "word": "startup",
-        "hits": 2
-      },
-      {
-        "word": "growth",
-        "hits": 2
-      },
-      {
         "word": "micro",
         "hits": 2
       },
       {
-        "word": "focus",
+        "word": "local",
         "hits": 2
       },
       {
-        "word": "learning",
+        "word": "startup",
+        "hits": 1
+      },
+      {
+        "word": "productivity",
+        "hits": 1
+      },
+      {
+        "word": "revenue",
         "hits": 1
       }
     ]
