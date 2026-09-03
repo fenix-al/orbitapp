@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-02T09:24:19.491Z",
+  "generatedAt": "2026-09-03T09:34:16.582Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"How accurate have Ed Zitron's AI skeptic predictions been?\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Three sites made 215,128 “best software” pages for AI. Perplexity cites them\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "How accurate have Ed Zitron's AI skeptic predictions been?"
+        "detail": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them"
       },
       {
         "head": "Tech & AI",
-        "detail": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B"
+        "detail": "Can I opt out of my input or output data being used for training?"
       },
       {
         "head": "Tech & AI",
-        "detail": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work"
+        "detail": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face"
       },
       {
         "head": "Social",
@@ -49,7 +49,7 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 123,
+    "scanned": 124,
     "kept": 12
   },
   "feed": [
@@ -57,61 +57,85 @@
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
-      "body": "Booking.com said the \"limited test\" was \"not a true reflection of the experience of millions of listings or reviews\".",
+      "title": "Almost half of households do not see benefits of economic growth, report says",
+      "body": "Analysis has found a \"stark\" gap in the spending power of households in the north and south of England on average.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cly4e0wn452o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T01:27:34.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f10/live/ff12f590-a5f1-11f1-8348-fb0cb1cd9761.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/crerw510gdzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T05:47:11.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d15/live/ed462620-a6cd-11f1-b0c9-07afcdd8053c.jpg"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Range Rover launches first fully electric model",
-      "body": "The vehicle is being built at JLR's manufacturing plant in Solihull, in the West Midlands.",
+      "title": "Trump $1 coin makes him first living president on US currency in a century",
+      "body": "The US Mint special edition is stamped with a portrait of Trump alongside the words \"LIBERTY\" and \"IN GOD WE TRUST\"",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/clyk5016mpyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T23:43:47.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9615/live/00a52b50-a613-11f1-9a0e-e95c171695e2.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T03:39:53.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb6a/live/cc827800-a72f-11f1-b970-fbb8e613a3a7.jpg"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
+      "body": "The ride-hailing app has launched 15 self-driving taxis, but they will have safety drivers inside.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T23:36:49.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d608/live/9029a2e0-a6e7-11f1-a291-b542ee92de7c.jpg"
     },
     {
       "cat": "social",
       "label": "Social",
       "tone": "",
-      "title": "LinkedIn increases push against inauthentic activity",
-      "body": "Although the platform’s active user count in the EU has remained flat, its work to address AI slop has intensified, according to its latest DSA reports.",
+      "title": "X Money will be the only payout option for U.S. creators",
+      "body": "The platform announced that users taking part in its Original Content Rewards and subscriptions programs will no longer be able to accept alternative cashout methods.",
       "src": "Social Media Today",
       "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/linkedin-increases-push-against-inauthentic-activity/829385/",
-      "publishedAt": "2026-09-01T23:19:37.000Z",
+      "url": "https://www.socialmediatoday.com/news/x-money-will-be-the-only-payout-option-for-us-creators/829514/",
+      "publishedAt": "2026-09-02T23:20:37.000Z",
       "image": null
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-      "body": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million val…",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-      "publishedAt": "2026-09-01T22:08:24.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1569337822.jpg?resize=1200,800"
+      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "publishedAt": "2026-09-02T13:59:59Z",
+      "image": "https://trellner.com/og.png"
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
-      "body": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude…",
-      "src": "The Verge",
-      "fav": "TV",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
-      "publishedAt": "2026-09-01T22:01:36.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "title": "Can I opt out of my input or output data being used for training?",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+      "publishedAt": "2026-09-02T12:30:39Z",
+      "image": "https://downloads.intercomcdn.eu/i/o/xel0jpx9/32959/6f6f05e6d9a783dd3709d1d20210/22053698b6d3506b0b89d174c8404652.png"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "LinkedIn increases push against inauthentic activity",
+      "body": "Although the platform’s active user count in the EU has remained flat, its work to address AI slop has intensified, according to the latest reports.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/linkedin-increases-push-against-inauthentic-activity/829385/",
+      "publishedAt": "2026-09-01T23:19:37.000Z",
+      "image": null
     },
     {
       "cat": "social",
@@ -129,37 +153,13 @@
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://danluu.com/zitron/",
-      "publishedAt": "2026-09-01T18:35:15Z",
-      "image": null
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Ikea cuts prices as customers struggle with rising cost of living",
-      "body": "The Swedish retailer has seen revenue decline as the rising cost of living reduces people's ability to buy new furniture.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cm279dk9r8no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T12:21:52.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e523/live/2eed8b50-a5fb-11f1-83fc-0df57e6b3866.jpg"
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Instagram growth continues to outpace Facebook in EU",
-      "body": "Meta’s latest DSA reporting showed that while both platforms have significant reach, Facebook usage is trailing Instagram.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/instagram-growth-continues-to-outpace-facebook-in-eu/829134/",
-      "publishedAt": "2026-08-31T00:31:58.000Z",
-      "image": "https://imgproxy.divecdn.com/wvut4Fn_tSDsip2P_UsITnpxrIoh2Olo0VnD5UxOrPo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mYl92c19pZ19ldS5wbmc=.webp"
+      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+      "body": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.",
+      "src": "Ars Technica",
+      "fav": "AT",
+      "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+      "publishedAt": "2026-08-27T12:58:59.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1004669768-1152x648-1784927041.jpg"
     },
     {
       "cat": "growth",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 79,
+        "scanned": 80,
         "kept": 3
       },
       "social": {
@@ -247,14 +247,10 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 25
+        "count": 26
       },
       {
         "src": "TechCrunch",
-        "count": 12
-      },
-      {
-        "src": "Ars Technica",
         "count": 12
       },
       {
@@ -263,6 +259,10 @@
       },
       {
         "src": "Nir & Far",
+        "count": 12
+      },
+      {
+        "src": "Ars Technica",
         "count": 12
       },
       {
@@ -277,11 +277,11 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 45
+        "hits": 49
       },
       {
         "word": "model",
-        "hits": 13
+        "hits": 7
       },
       {
         "word": "llm",
@@ -292,12 +292,12 @@
         "hits": 5
       },
       {
-        "word": "agent",
+        "word": "micro",
         "hits": 4
       },
       {
-        "word": "micro",
-        "hits": 2
+        "word": "agent",
+        "hits": 4
       },
       {
         "word": "local",
@@ -305,15 +305,15 @@
       },
       {
         "word": "startup",
-        "hits": 1
+        "hits": 2
       },
       {
-        "word": "productivity",
-        "hits": 1
+        "word": "focus",
+        "hits": 2
       },
       {
-        "word": "revenue",
-        "hits": 1
+        "word": "creator",
+        "hits": 2
       }
     ]
   }
