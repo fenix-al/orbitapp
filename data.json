@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-03T09:34:16.582Z",
+  "generatedAt": "2026-09-04T09:33:19.419Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Three sites made 215,128 “best software” pages for AI. Perplexity cites them\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Meta is paying to peek at how you use their latest AI model\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them"
+        "detail": "Meta is paying to peek at how you use their latest AI model"
       },
       {
         "head": "Tech & AI",
-        "detail": "Can I opt out of my input or output data being used for training?"
+        "detail": ".name Termination"
       },
       {
         "head": "Tech & AI",
-        "detail": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face"
+        "detail": "The browser's main thread is expensive"
       },
       {
         "head": "Social",
-        "detail": "Google rolls out new AI image and video tools"
+        "detail": "YouTube updates branded content sourcing and disclosures"
       }
     ],
     "signal": {
@@ -49,7 +49,7 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 124,
+    "scanned": 111,
     "kept": 12
   },
   "feed": [
@@ -57,44 +57,92 @@
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Almost half of households do not see benefits of economic growth, report says",
-      "body": "Analysis has found a \"stark\" gap in the spending power of households in the north and south of England on average.",
+      "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
+      "body": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/crerw510gdzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T05:47:11.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d15/live/ed462620-a6cd-11f1-b0c9-07afcdd8053c.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T06:52:29.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14fb/live/08a50760-a827-11f1-aed2-8d6da8d75094.jpg"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Trump $1 coin makes him first living president on US currency in a century",
-      "body": "The US Mint special edition is stamped with a portrait of Trump alongside the words \"LIBERTY\" and \"IN GOD WE TRUST\"",
+      "title": "From 'dog fruit' to darling: India's avocado boom",
+      "body": "Demand for avocados is booming in India and local growers hope to grab more of the market.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T03:39:53.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb6a/live/cc827800-a72f-11f1-b970-fbb8e613a3a7.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T05:09:02.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/985c/live/f13cd3e0-96f7-11f1-870d-5d08c49babb2.jpg"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
-      "body": "The ride-hailing app has launched 15 self-driving taxis, but they will have safety drivers inside.",
+      "title": "Is India's internet boom running into an undersea problem?",
+      "body": "At least 13 of India's 18 intercontinental cables come ashore within six kilometres of Mumbai's Versova beach.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T23:36:49.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d608/live/9029a2e0-a6e7-11f1-a291-b542ee92de7c.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cx2r2mzelxko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T23:40:08.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfe1/live/77ce4540-a75d-11f1-b109-879e35c24276.jpg"
     },
     {
       "cat": "social",
       "label": "Social",
       "tone": "",
-      "title": "X Money will be the only payout option for U.S. creators",
-      "body": "The platform announced that users taking part in its Original Content Rewards and subscriptions programs will no longer be able to accept alternative cashout methods.",
+      "title": "YouTube updates branded content sourcing and disclosures",
+      "body": "The platform is running a new local affiliate shopping test and clarifying some of its language around sponsored acknowledgments.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/youtube-updates-branded-content-sourcing-and-disclosures/829643/",
+      "publishedAt": "2026-09-03T23:24:34.000Z",
+      "image": null
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Reddit expands AI-powered Max campaigns",
+      "body": "The platform is offering its automated promotions to all advertisers and rolling out new features to help brands get more out of their ad spend.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/reddit-expands-ai-powered-max-campaigns/829636/",
+      "publishedAt": "2026-09-03T19:48:33.000Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Meta is paying to peek at how you use their latest AI model",
+      "body": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the de…",
+      "src": "TechCrunch",
+      "fav": "T",
+      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+      "publishedAt": "2026-09-03T18:19:56.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579488.jpg?resize=1200,799"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": ".name Termination",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://neil.fraser.name/news/2026/09/03/",
+      "publishedAt": "2026-09-03T14:54:39Z",
+      "image": null
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "X Money will be the only payout option for US creators",
+      "body": "Creators taking part in the app’s Original Content Rewards and subscriptions programs will no longer be able to accept alternative cashout methods.",
       "src": "Social Media Today",
       "fav": "SM",
       "url": "https://www.socialmediatoday.com/news/x-money-will-be-the-only-payout-option-for-us-creators/829514/",
@@ -105,61 +153,13 @@
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "title": "The browser's main thread is expensive",
       "body": "—",
       "src": "Hacker News",
       "fav": "HN",
-      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-      "publishedAt": "2026-09-02T13:59:59Z",
-      "image": "https://trellner.com/og.png"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Can I opt out of my input or output data being used for training?",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-      "publishedAt": "2026-09-02T12:30:39Z",
-      "image": "https://downloads.intercomcdn.eu/i/o/xel0jpx9/32959/6f6f05e6d9a783dd3709d1d20210/22053698b6d3506b0b89d174c8404652.png"
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "LinkedIn increases push against inauthentic activity",
-      "body": "Although the platform’s active user count in the EU has remained flat, its work to address AI slop has intensified, according to the latest reports.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/linkedin-increases-push-against-inauthentic-activity/829385/",
-      "publishedAt": "2026-09-01T23:19:37.000Z",
-      "image": null
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Google rolls out new AI image and video tools",
-      "body": "Pics offers advanced image generation, while the company’s latest Gemini-powered agentic feature provides analysis of video content.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/google-rolls-out-new-ai-image-and-video-tools/829381/",
-      "publishedAt": "2026-09-01T21:23:43.000Z",
-      "image": null
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
-      "body": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.",
-      "src": "Ars Technica",
-      "fav": "AT",
-      "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-      "publishedAt": "2026-08-27T12:58:59.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1004669768-1152x648-1784927041.jpg"
+      "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
+      "publishedAt": "2026-09-01T14:00:15Z",
+      "image": "https://kciter.so/images/2026-07-12-the-expensive-main-thread/thumbnail.png"
     },
     {
       "cat": "growth",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 80,
+        "scanned": 67,
         "kept": 3
       },
       "social": {
@@ -247,7 +247,7 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 26
+        "count": 23
       },
       {
         "src": "TechCrunch",
@@ -277,14 +277,14 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 49
+        "hits": 43
+      },
+      {
+        "word": "agent",
+        "hits": 6
       },
       {
         "word": "model",
-        "hits": 7
-      },
-      {
-        "word": "llm",
         "hits": 5
       },
       {
@@ -292,28 +292,28 @@
         "hits": 5
       },
       {
-        "word": "micro",
+        "word": "llm",
         "hits": 4
       },
       {
-        "word": "agent",
-        "hits": 4
-      },
-      {
-        "word": "local",
-        "hits": 2
+        "word": "revenue",
+        "hits": 3
       },
       {
         "word": "startup",
+        "hits": 3
+      },
+      {
+        "word": "local",
+        "hits": 3
+      },
+      {
+        "word": "growth",
         "hits": 2
       },
       {
-        "word": "focus",
-        "hits": 2
-      },
-      {
-        "word": "creator",
-        "hits": 2
+        "word": "productivity",
+        "hits": 1
       }
     ]
   }
