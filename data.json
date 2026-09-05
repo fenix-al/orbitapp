@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-04T09:33:19.419Z",
+  "generatedAt": "2026-09-05T08:54:40.926Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Meta is paying to peek at how you use their latest AI model\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Discovery of a new OpenAI agent message board\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Meta is paying to peek at how you use their latest AI model"
+        "detail": "Discovery of a new OpenAI agent message board"
       },
       {
         "head": "Tech & AI",
-        "detail": ".name Termination"
+        "detail": "Formalizing Fermat's Last Theorem"
       },
       {
         "head": "Tech & AI",
-        "detail": "The browser's main thread is expensive"
+        "detail": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face"
       },
       {
         "head": "Social",
@@ -49,45 +49,69 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 111,
+    "scanned": 114,
     "kept": 12
   },
   "feed": [
     {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
-      "body": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T06:52:29.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14fb/live/08a50760-a827-11f1-aed2-8d6da8d75094.jpg"
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Formalizing Fermat's Last Theorem",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "publishedAt": "2026-09-04T18:42:56Z",
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/578f91575c42231f0994e341014614255149af80-1200x630.jpg"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "From 'dog fruit' to darling: India's avocado boom",
-      "body": "Demand for avocados is booming in India and local growers hope to grab more of the market.",
+      "title": "Trump calls for interest rate cut after jobs figures raise hike bets",
+      "body": "The president's remarks came as stronger-than-expected jobs figures added to growing expectations that rates could be increased.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T05:09:02.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/985c/live/f13cd3e0-96f7-11f1-870d-5d08c49babb2.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T17:23:13.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be4c/live/c74b2990-a883-11f1-824a-0fc4c5d895ae.jpg"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Is India's internet boom running into an undersea problem?",
-      "body": "At least 13 of India's 18 intercontinental cables come ashore within six kilometres of Mumbai's Versova beach.",
+      "title": "UK petrol prices hit highest level since Iran war began",
+      "body": "The price of unleaded hits 163p a litre, according to motoring group the RAC, as oil prices remain elevated.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cx2r2mzelxko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T23:40:08.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfe1/live/77ce4540-a75d-11f1-b109-879e35c24276.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T13:05:52.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8143/live/f8d0c8b0-7572-11f1-b976-0b9c15b0ccfc.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Discovery of a new OpenAI agent message board",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://collusion.wiki/",
+      "publishedAt": "2026-09-04T11:54:53Z",
+      "image": "https://collusion.wiki/img/social.png?v=5ce9724f"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers",
+      "body": "Xbox said the limits were due to the rising cost of cloud gaming, and would allow it to invest more in its performance",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cj06zd4l99lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T11:48:24.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067c/live/895a4a20-a84d-11f1-80f8-c33181935c5a.jpg"
     },
     {
       "cat": "social",
@@ -114,30 +138,6 @@
       "image": null
     },
     {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Meta is paying to peek at how you use their latest AI model",
-      "body": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the de…",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
-      "publishedAt": "2026-09-03T18:19:56.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579488.jpg?resize=1200,799"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": ".name Termination",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://neil.fraser.name/news/2026/09/03/",
-      "publishedAt": "2026-09-03T14:54:39Z",
-      "image": null
-    },
-    {
       "cat": "social",
       "label": "Social",
       "tone": "",
@@ -153,13 +153,13 @@
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "The browser's main thread is expensive",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
-      "publishedAt": "2026-09-01T14:00:15Z",
-      "image": "https://kciter.so/images/2026-07-12-the-expensive-main-thread/thumbnail.png"
+      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+      "body": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.",
+      "src": "Ars Technica",
+      "fav": "AT",
+      "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+      "publishedAt": "2026-08-27T12:58:59.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1004669768-1152x648-1784927041.jpg"
     },
     {
       "cat": "growth",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 67,
+        "scanned": 70,
         "kept": 3
       },
       "social": {
@@ -247,10 +247,14 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 23
+        "count": 26
       },
       {
         "src": "TechCrunch",
+        "count": 12
+      },
+      {
+        "src": "Ars Technica",
         "count": 12
       },
       {
@@ -259,10 +263,6 @@
       },
       {
         "src": "Nir & Far",
-        "count": 12
-      },
-      {
-        "src": "Ars Technica",
         "count": 12
       },
       {
@@ -281,10 +281,6 @@
       },
       {
         "word": "agent",
-        "hits": 6
-      },
-      {
-        "word": "model",
         "hits": 5
       },
       {
@@ -292,27 +288,31 @@
         "hits": 5
       },
       {
-        "word": "llm",
-        "hits": 4
+        "word": "model",
+        "hits": 3
       },
       {
-        "word": "revenue",
+        "word": "llm",
         "hits": 3
       },
       {
         "word": "startup",
-        "hits": 3
-      },
-      {
-        "word": "local",
-        "hits": 3
-      },
-      {
-        "word": "growth",
         "hits": 2
       },
       {
-        "word": "productivity",
+        "word": "focus",
+        "hits": 2
+      },
+      {
+        "word": "local",
+        "hits": 2
+      },
+      {
+        "word": "micro",
+        "hits": 1
+      },
+      {
+        "word": "revenue",
         "hits": 1
       }
     ]
