@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T08:54:40.926Z",
+  "generatedAt": "2026-09-06T09:15:22.806Z",
   "brief": {
     "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Discovery of a new OpenAI agent message board\". Scan the feed below for the rest.",
     "bullets": [
@@ -9,11 +9,11 @@
       },
       {
         "head": "Tech & AI",
-        "detail": "Formalizing Fermat's Last Theorem"
+        "detail": "Nitter has more working instances than before the takedowns"
       },
       {
         "head": "Tech & AI",
-        "detail": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face"
+        "detail": "Actively exploited sandbox RCE in all Chromium versions"
       },
       {
         "head": "Social",
@@ -49,7 +49,7 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 114,
+    "scanned": 111,
     "kept": 12
   },
   "feed": [
@@ -57,13 +57,25 @@
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "Formalizing Fermat's Last Theorem",
+      "title": "Nitter has more working instances than before the takedowns",
       "body": "—",
       "src": "Hacker News",
       "fav": "HN",
-      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-      "publishedAt": "2026-09-04T18:42:56Z",
-      "image": "https://cdn.sanity.io/images/4zrzovbb/website/578f91575c42231f0994e341014614255149af80-1200x630.jpg"
+      "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
+      "publishedAt": "2026-09-05T00:04:16Z",
+      "image": "https://codeberg.org/mv12star/shitter/-/summary-card"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Actively exploited sandbox RCE in all Chromium versions",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+      "publishedAt": "2026-09-04T21:52:01Z",
+      "image": null
     },
     {
       "cat": "business",
@@ -150,18 +162,6 @@
       "image": null
     },
     {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
-      "body": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.",
-      "src": "Ars Technica",
-      "fav": "AT",
-      "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-      "publishedAt": "2026-08-27T12:58:59.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1004669768-1152x648-1784927041.jpg"
-    },
-    {
       "cat": "growth",
       "label": "Growth",
       "tone": "",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 70,
+        "scanned": 67,
         "kept": 3
       },
       "social": {
@@ -247,7 +247,7 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 26
+        "count": 23
       },
       {
         "src": "TechCrunch",
@@ -258,11 +258,11 @@
         "count": 12
       },
       {
-        "src": "BBC Business",
+        "src": "Nir & Far",
         "count": 12
       },
       {
-        "src": "Nir & Far",
+        "src": "BBC Business",
         "count": 12
       },
       {
@@ -277,11 +277,11 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 43
+        "hits": 38
       },
       {
         "word": "agent",
-        "hits": 5
+        "hits": 7
       },
       {
         "word": "habit",
@@ -289,11 +289,15 @@
       },
       {
         "word": "model",
-        "hits": 3
+        "hits": 4
       },
       {
         "word": "llm",
-        "hits": 3
+        "hits": 4
+      },
+      {
+        "word": "creator",
+        "hits": 2
       },
       {
         "word": "startup",
@@ -308,11 +312,7 @@
         "hits": 2
       },
       {
-        "word": "micro",
-        "hits": 1
-      },
-      {
-        "word": "revenue",
+        "word": "productivity",
         "hits": 1
       }
     ]
