@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-06T09:15:22.806Z",
+  "generatedAt": "2026-09-07T10:04:22.794Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Discovery of a new OpenAI agent message board\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Nitter and XCancel resume service after legal advice\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Discovery of a new OpenAI agent message board"
+        "detail": "Nitter and XCancel resume service after legal advice"
       },
       {
         "head": "Tech & AI",
-        "detail": "Nitter has more working instances than before the takedowns"
+        "detail": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face"
       },
       {
         "head": "Tech & AI",
-        "detail": "Actively exploited sandbox RCE in all Chromium versions"
+        "detail": "Building an AI voice agent from scratch: the parts that actually took our time"
       },
       {
         "head": "Social",
@@ -49,81 +49,69 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 111,
+    "scanned": 113,
     "kept": 12
   },
   "feed": [
     {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Nitter has more working instances than before the takedowns",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
-      "publishedAt": "2026-09-05T00:04:16Z",
-      "image": "https://codeberg.org/mv12star/shitter/-/summary-card"
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Probe begins into why Amazon cargo plane overran Miami runway",
+      "body": "Five people are dead and five others injured after an aircraft overran the runway, hit vehicles and caught fire.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-07T09:54:40.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d36/live/ead9f6b0-aa73-11f1-8722-09fc3b051866.jpg"
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Actively exploited sandbox RCE in all Chromium versions",
+      "tone": "",
+      "title": "Building an AI voice agent from scratch: the parts that actually took our time",
       "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
-      "publishedAt": "2026-09-04T21:52:01Z",
+      "src": "r/artificial",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/artificial/comments/1w9mxaf/building_an_ai_voice_agent_from_scratch_the_parts/",
+      "publishedAt": "2026-09-07T09:01:33.000Z",
       "image": null
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Trump calls for interest rate cut after jobs figures raise hike bets",
-      "body": "The president's remarks came as stronger-than-expected jobs figures added to growing expectations that rates could be increased.",
+      "title": "Chancellor to say UK economy 'turning a corner' despite debt concerns",
+      "body": "John Healey will detail plans to spread growth more widely across the UK, ahead of his first Budget.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T17:23:13.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be4c/live/c74b2990-a883-11f1-824a-0fc4c5d895ae.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-07T08:36:25.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a295/live/6f3c1770-aa2f-11f1-bdbb-8bb5df16290b.jpg"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "UK petrol prices hit highest level since Iran war began",
-      "body": "The price of unleaded hits 163p a litre, according to motoring group the RAC, as oil prices remain elevated.",
+      "title": "China to pump $54bn into state banks and insurers to boost economy",
+      "body": "It comes as Beijing is aiming to reshape its economy in the face of a number of challenges.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T13:05:52.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8143/live/f8d0c8b0-7572-11f1-b976-0b9c15b0ccfc.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-07T02:26:12.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6782/live/9df185f0-aa6b-11f1-a525-873a5928ac64.jpg"
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "Discovery of a new OpenAI agent message board",
+      "title": "Nitter and XCancel resume service after legal advice",
       "body": "—",
       "src": "Hacker News",
       "fav": "HN",
-      "url": "https://collusion.wiki/",
-      "publishedAt": "2026-09-04T11:54:53Z",
-      "image": "https://collusion.wiki/img/social.png?v=5ce9724f"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers",
-      "body": "Xbox said the limits were due to the rising cost of cloud gaming, and would allow it to invest more in its performance",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cj06zd4l99lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T11:48:24.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067c/live/895a4a20-a84d-11f1-80f8-c33181935c5a.jpg"
+      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+      "publishedAt": "2026-09-06T17:49:47Z",
+      "image": "https://opengraph.githubassets.com/92962a83efd8bc2e3e8432afc9522dcfe42750f8345dee563ecb199ee76f3aed/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3"
     },
     {
       "cat": "social",
@@ -160,6 +148,18 @@
       "url": "https://www.socialmediatoday.com/news/x-money-will-be-the-only-payout-option-for-us-creators/829514/",
       "publishedAt": "2026-09-02T23:20:37.000Z",
       "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+      "body": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.",
+      "src": "Ars Technica",
+      "fav": "AT",
+      "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+      "publishedAt": "2026-08-27T12:58:59.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1004669768-1152x648-1784927041.jpg"
     },
     {
       "cat": "growth",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 67,
+        "scanned": 69,
         "kept": 3
       },
       "social": {
@@ -247,7 +247,7 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 23
+        "count": 25
       },
       {
         "src": "TechCrunch",
@@ -258,11 +258,11 @@
         "count": 12
       },
       {
-        "src": "Nir & Far",
+        "src": "BBC Business",
         "count": 12
       },
       {
-        "src": "BBC Business",
+        "src": "Nir & Far",
         "count": 12
       },
       {
@@ -277,39 +277,39 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 38
+        "hits": 41
       },
       {
         "word": "agent",
-        "hits": 7
+        "hits": 6
       },
       {
         "word": "habit",
         "hits": 5
       },
       {
-        "word": "model",
-        "hits": 4
+        "word": "micro",
+        "hits": 3
       },
       {
         "word": "llm",
-        "hits": 4
+        "hits": 3
       },
       {
-        "word": "creator",
-        "hits": 2
-      },
-      {
-        "word": "startup",
-        "hits": 2
+        "word": "local",
+        "hits": 3
       },
       {
         "word": "focus",
         "hits": 2
       },
       {
-        "word": "local",
-        "hits": 2
+        "word": "revenue",
+        "hits": 1
+      },
+      {
+        "word": "startup",
+        "hits": 1
       },
       {
         "word": "productivity",
