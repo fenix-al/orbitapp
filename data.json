@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-07T10:04:22.794Z",
+  "generatedAt": "2026-09-08T09:29:08.218Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Nitter and XCancel resume service after legal advice\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"216M Spy TVs – The LG Smart TV Problem [video]\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Nitter and XCancel resume service after legal advice"
+        "detail": "216M Spy TVs – The LG Smart TV Problem [video]"
       },
       {
         "head": "Tech & AI",
@@ -13,11 +13,11 @@
       },
       {
         "head": "Tech & AI",
-        "detail": "Building an AI voice agent from scratch: the parts that actually took our time"
+        "detail": "UAE-based Falcon AI NSFW classifier among top global open-source models (2025)"
       },
       {
         "head": "Social",
-        "detail": "YouTube updates branded content sourcing and disclosures"
+        "detail": "Pinterest offers advice on creating effective shopping promotions"
       }
     ],
     "signal": {
@@ -49,7 +49,7 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 113,
+    "scanned": 116,
     "kept": 12
   },
   "feed": [
@@ -57,61 +57,73 @@
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Probe begins into why Amazon cargo plane overran Miami runway",
-      "body": "Five people are dead and five others injured after an aircraft overran the runway, hit vehicles and caught fire.",
+      "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
+      "body": "Arm Holding's chief executive Rene Haas says artificial intelligence will find a solution to the disease.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T09:54:40.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d36/live/ead9f6b0-aa73-11f1-8722-09fc3b051866.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T09:17:48.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/503e/live/149a0c90-ab66-11f1-aed2-8d6da8d75094.jpg"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
+      "body": "The Balkan nation is aiming to become a new centre for medical tourism.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cq63m88ymqro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T09:00:28.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5af1/live/402b1c60-aaac-11f1-aed2-8d6da8d75094.jpg"
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "",
-      "title": "Building an AI voice agent from scratch: the parts that actually took our time",
-      "body": "—",
-      "src": "r/artificial",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1w9mxaf/building_an_ai_voice_agent_from_scratch_the_parts/",
-      "publishedAt": "2026-09-07T09:01:33.000Z",
+      "title": "UAE-based Falcon AI NSFW classifier among top global open-source models (2025)",
+      "body": "Article URL: https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly Comments URL: https://news.ycombinator.com/item?id=49606339 Points: 18 # Comments: 13",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly",
+      "publishedAt": "2026-09-08T06:39:20.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!93hj!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2252e27a-bae7-4a1c-9fb1-225bfd9b66ac_1280x720.png"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Pinterest offers advice on creating effective shopping promotions",
+      "body": "The app’s new guide features a four-step overview designed to help marketers make the most of their ads and align with platform trends.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/pinterest-offers-advice-on-creating-effective-shopping-promotions/829245/",
+      "publishedAt": "2026-09-08T05:48:00.000Z",
       "image": null
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Chancellor to say UK economy 'turning a corner' despite debt concerns",
-      "body": "John Healey will detail plans to spread growth more widely across the UK, ahead of his first Budget.",
+      "title": "Chancellor calls for 'confidence about Britain' despite 'historic high' borrowing costs",
+      "body": "John Healey detailed plans to spread growth more widely across the UK, ahead of his first Budget.",
       "src": "BBC Business",
       "fav": "BB",
       "url": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T08:36:25.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a295/live/6f3c1770-aa2f-11f1-bdbb-8bb5df16290b.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "China to pump $54bn into state banks and insurers to boost economy",
-      "body": "It comes as Beijing is aiming to reshape its economy in the face of a number of challenges.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T02:26:12.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6782/live/9df185f0-aa6b-11f1-a525-873a5928ac64.jpg"
+      "publishedAt": "2026-09-07T16:05:37.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/337d/live/666febe0-aaa6-11f1-9eba-7de947fa7cd1.jpg"
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "Nitter and XCancel resume service after legal advice",
+      "title": "216M Spy TVs – The LG Smart TV Problem [video]",
       "body": "—",
       "src": "Hacker News",
       "fav": "HN",
-      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
-      "publishedAt": "2026-09-06T17:49:47Z",
-      "image": "https://opengraph.githubassets.com/92962a83efd8bc2e3e8432afc9522dcfe42750f8345dee563ecb199ee76f3aed/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3"
+      "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
+      "publishedAt": "2026-09-07T00:22:04Z",
+      "image": null
     },
     {
       "cat": "social",
@@ -135,18 +147,6 @@
       "fav": "SM",
       "url": "https://www.socialmediatoday.com/news/reddit-expands-ai-powered-max-campaigns/829636/",
       "publishedAt": "2026-09-03T19:48:33.000Z",
-      "image": null
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "X Money will be the only payout option for US creators",
-      "body": "Creators taking part in the app’s Original Content Rewards and subscriptions programs will no longer be able to accept alternative cashout methods.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/x-money-will-be-the-only-payout-option-for-us-creators/829514/",
-      "publishedAt": "2026-09-02T23:20:37.000Z",
       "image": null
     },
     {
@@ -240,7 +240,7 @@
       },
       "business": {
         "label": "Business",
-        "scanned": 12,
+        "scanned": 15,
         "kept": 3
       }
     },
@@ -254,11 +254,11 @@
         "count": 12
       },
       {
-        "src": "Ars Technica",
+        "src": "BBC Business",
         "count": 12
       },
       {
-        "src": "BBC Business",
+        "src": "Ars Technica",
         "count": 12
       },
       {
@@ -266,38 +266,42 @@
         "count": 12
       },
       {
-        "src": "The Verge",
+        "src": "James Clear",
         "count": 10
       },
       {
-        "src": "James Clear",
+        "src": "The Verge",
         "count": 10
       }
     ],
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 41
+        "hits": 48
       },
       {
         "word": "agent",
-        "hits": 6
+        "hits": 7
       },
       {
         "word": "habit",
         "hits": 5
       },
       {
-        "word": "micro",
-        "hits": 3
-      },
-      {
         "word": "llm",
-        "hits": 3
+        "hits": 4
       },
       {
-        "word": "local",
-        "hits": 3
+        "word": "micro",
+        "hits": 2
+      },
+      {
+        "word": "model",
+        "hits": 2
+      },
+      {
+        "word": "productivity",
+        "hits": 2
       },
       {
         "word": "focus",
@@ -308,11 +312,7 @@
         "hits": 1
       },
       {
-        "word": "startup",
-        "hits": 1
-      },
-      {
-        "word": "productivity",
+        "word": "growth",
         "hits": 1
       }
     ]
