@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-10T09:31:14.678Z",
+  "generatedAt": "2026-09-11T09:28:35.381Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Shopify acquires Tailwind\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Rust is tier-1 language at Microsoft\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Shopify acquires Tailwind"
+        "detail": "Rust is tier-1 language at Microsoft"
       },
       {
         "head": "Tech & AI",
-        "detail": "Desert Ant Labs: local, fast models that run on device"
+        "detail": "More questions about whether researchers can trust OpenAI with unpublished math"
       },
       {
         "head": "Tech & AI",
-        "detail": "Show HN: Botbin.io – pastebin for AI agent artifacts"
+        "detail": "OpenAI Agents API"
       },
       {
         "head": "Social",
@@ -49,7 +49,7 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 122,
+    "scanned": 115,
     "kept": 12
   },
   "feed": [
@@ -57,61 +57,97 @@
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Primark finally set to launch home deliveries",
-      "body": "The retailer launches the service four years after making its first foray into internet shopping.",
+      "title": "Alstom to build new battery-electric train fleet",
+      "body": "The government says the work will support thousands of jobs across the UK.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T09:03:55.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd0/live/64817fa0-ace6-11f1-8d69-858c9dcdf738.png"
+      "url": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T09:17:00.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9bb/live/3cc415a0-adb7-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "England's mayors to be given power to introduce tourist tax",
-      "body": "The government is expected to detail how local leaders will be able to impose levies on overnight stays.",
+      "title": "Interest rates could rise again across the world – here's why",
+      "body": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T09:01:13.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82de/live/95f268a0-acf6-11f1-bc1f-3f186ca4140c.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T08:28:47.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6586/live/365b8a30-ad4a-11f1-8963-d14e6edce0d0.jpg"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "AI boom helps drive surprise UK growth in July",
+      "body": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T08:04:22.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e509/live/199aa930-adb8-11f1-a540-61c3f7fc4e6c.jpg"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Instagram Chief warns against eliminating algorithms",
+      "body": "Adam Mosseri told reporters in Australia that eliminating the algorithmic feed would create a less engaging experience for users.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/instagram-chief-warns-against-eliminating-algorithms/830130/",
+      "publishedAt": "2026-09-10T23:56:22.000Z",
+      "image": null
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Snapchat expands Dynamic Product Ads to Sponsored Snaps",
+      "body": "The platform updated its commerce tools for retail advertisers ahead of the holiday promotional season, allowing brands to showcase products via Snap DMs.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/snapchat-expands-dynamic-product-ads-to-sponsored-snaps/830124/",
+      "publishedAt": "2026-09-10T21:24:45.000Z",
+      "image": "https://imgproxy.divecdn.com/9MuqZSRjcGNKA1U4wWdfqExBU5SWlK5bp36DFs656T8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9zbmFwY2hhdF9jb21tZXJjZV9wb3dlcl9wYWNrLnBuZw==.webp"
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
-      "tone": "",
-      "title": "Show HN: Botbin.io – pastebin for AI agent artifacts",
-      "body": "Article URL: https://botbin.io/?v=next Comments URL: https://news.ycombinator.com/item?id=49639496 Points: 4 # Comments: 1",
+      "tone": "rising",
+      "title": "OpenAI Agents API",
+      "body": "—",
       "src": "Hacker News",
       "fav": "HN",
-      "url": "https://botbin.io/?v=next",
-      "publishedAt": "2026-09-10T07:00:22.000Z",
-      "image": null
+      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "publishedAt": "2026-09-10T19:43:22Z",
+      "image": "https://developers.openai.com/og/api/docs/guides/agents-api/overview.png"
     },
     {
-      "cat": "growth",
-      "label": "Growth",
-      "tone": "",
-      "title": "Did I ruin my life by focusing too much on my studies?",
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Rust is tier-1 language at Microsoft",
       "body": "—",
-      "src": "r/productivity",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/productivity/comments/1wc6wlc/did_i_ruin_my_life_by_focusing_too_much_on_my/",
-      "publishedAt": "2026-09-10T03:00:57.000Z",
-      "image": null
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+      "publishedAt": "2026-09-10T13:39:16Z",
+      "image": "https://rustfoundation.org/wp-content/uploads/2026/09/Guest-Blog-Graphic-2.png"
     },
     {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Why some experts increasingly fear AI will take over",
-      "body": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-09T23:17:33.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28d8/live/512242b0-acf9-11f1-a540-61c3f7fc4e6c.jpg"
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+      "publishedAt": "2026-09-10T06:49:43Z",
+      "image": null
     },
     {
       "cat": "social",
@@ -126,64 +162,28 @@
       "image": "https://imgproxy.divecdn.com/IDZsS0gEE-Ut7xKsTsSydyCEivvjoYM58pm0gQp--HU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfbWVuc190cmVuZHNfUXZBQUhNOC5wbmc=.webp"
     },
     {
-      "cat": "social",
-      "label": "Social",
+      "cat": "growth",
+      "label": "Growth",
       "tone": "",
-      "title": "Meta launches Muse personal AI",
-      "body": "The artificial intelligence-powered agent is available for free as an app and an in-stream chatbot that responds to conversational queries and facilitates purchases.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/meta-launches-muse-personal-ai/829984/",
-      "publishedAt": "2026-09-09T19:25:10.000Z",
-      "image": null
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Shopify acquires Tailwind",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-      "publishedAt": "2026-09-09T13:27:11Z",
-      "image": "https://tailwindcss.com/_next/static/media/og-image.103kpqahmns2b.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Desert Ant Labs: local, fast models that run on device",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
-      "publishedAt": "2026-09-09T11:39:46Z",
-      "image": "https://desertant.com/og/blog/introducing-desert-ant-labs.jpg?v=8"
+      "title": "How Your Brain Sabotages Your Social Life—and Simple Ways to Fix It",
+      "body": "When a friend invited me over last week, I found myself entering a predictable state of hesitation. I stared at my phone for a while, thinking, Should I bail? The post How Your Br…",
+      "src": "Nir & Far",
+      "fav": "NF",
+      "url": "https://www.nirandfar.com/antisocial-brain/",
+      "publishedAt": "2025-10-14T13:00:26.000Z",
+      "image": "https://www.nirandfar.com/wp-content/uploads/2025/07/ben-rein-book-featured.webp"
     },
     {
       "cat": "growth",
       "label": "Growth",
       "tone": "",
-      "title": "How to use AI smartly and mindfully soo that it doesn't cause Brain atrophy",
-      "body": "—",
-      "src": "r/productivity",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/productivity/comments/1wbityb/how_to_use_ai_smartly_and_mindfully_soo_that_it/",
-      "publishedAt": "2026-09-09T11:23:56.000Z",
-      "image": null
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Pinterest renames campaign objectives to simplify ad focus",
-      "body": "The updated terminology aims to clarify the purpose of each campaign type.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/pinterest-renames-campaign-objectives-to-simplify-ad-focus/829869/",
-      "publishedAt": "2026-09-08T21:54:53.000Z",
-      "image": null
+      "title": "Unlock Your Potential With The Power Of Belief",
+      "body": "In 2006, U.S. Team freestyle skier Michelle Roark zoomed down the slope at her first Olympics, conquering hilly terrain that not even a 4x4 could handle. At 31 years old, she was…",
+      "src": "Nir & Far",
+      "fav": "NF",
+      "url": "https://www.nirandfar.com/power-of-belief/",
+      "publishedAt": "2025-07-07T13:00:26.000Z",
+      "image": "https://www.nirandfar.com/wp-content/uploads/2025/06/power-of-belief-featured.webp"
     },
     {
       "cat": "growth",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 68,
+        "scanned": 71,
         "kept": 3
       },
       "social": {
@@ -235,7 +235,7 @@
       },
       "growth": {
         "label": "Growth",
-        "scanned": 32,
+        "scanned": 22,
         "kept": 3
       },
       "business": {
@@ -247,14 +247,14 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 24
+        "count": 27
       },
       {
         "src": "TechCrunch",
         "count": 12
       },
       {
-        "src": "Ars Technica",
+        "src": "BBC Business",
         "count": 12
       },
       {
@@ -262,7 +262,7 @@
         "count": 12
       },
       {
-        "src": "BBC Business",
+        "src": "Ars Technica",
         "count": 12
       },
       {
@@ -277,43 +277,43 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 55
-      },
-      {
-        "word": "focus",
-        "hits": 5
+        "hits": 53
       },
       {
         "word": "habit",
         "hits": 5
       },
       {
-        "word": "model",
-        "hits": 4
-      },
-      {
         "word": "agent",
         "hits": 4
       },
       {
-        "word": "creator",
+        "word": "micro",
         "hits": 3
+      },
+      {
+        "word": "focus",
+        "hits": 3
+      },
+      {
+        "word": "model",
+        "hits": 3
+      },
+      {
+        "word": "productivity",
+        "hits": 2
       },
       {
         "word": "startup",
         "hits": 2
       },
       {
-        "word": "micro",
+        "word": "open source",
         "hits": 2
       },
       {
-        "word": "llm",
-        "hits": 2
-      },
-      {
-        "word": "local",
-        "hits": 2
+        "word": "creator",
+        "hits": 1
       }
     ]
   }
