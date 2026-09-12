@@ -14,7 +14,7 @@ import Parser from "rss-parser";
 import Anthropic from "@anthropic-ai/sdk";
 import {
   CATEGORIES, RSS_FEEDS, SUBREDDITS, HACKERNEWS, INTERESTS,
-  KEEP_PER_CATEGORY, BRIEF_MODEL, LANGUAGE,
+  KEEP_PER_CATEGORY, MAX_PER_SOURCE, BRIEF_MODEL, LANGUAGE,
 } from "./config.mjs";
 
 // Reddit blocks generic User-Agents; a unique descriptive one is required.
@@ -107,28 +107,76 @@ async function fetchRSS() {
   return out;
 }
 
-async function fetchOneSubreddit({ cat, sub }) {
+// Application-only OAuth. With credentials Reddit allows ~100 requests/min;
+// without them the public endpoints answer 403/429 after the first call.
+// Create a "script" app at https://www.reddit.com/prefs/apps to get these.
+let redditToken;
+async function redditAuth() {
+  if (redditToken !== undefined) return redditToken;          // cached (null = unavailable)
+  const id = process.env.REDDIT_CLIENT_ID, secret = process.env.REDDIT_CLIENT_SECRET;
+  if (!id || !secret) {
+    log("Reddit: no credentials — using public endpoints (expect 403/429).");
+    return (redditToken = null);
+  }
+  try {
+    const r = await fetchT("https://www.reddit.com/api/v1/access_token", {
+      method: "POST",
+      headers: {
+        Authorization: "Basic " + Buffer.from(`${id}:${secret}`).toString("base64"),
+        "Content-Type": "application/x-www-form-urlencoded",
+        "User-Agent": UA,
+      },
+      body: "grant_type=client_credentials",
+    }, 15000, "reddit auth");
+    if (!r.ok) throw new Error("HTTP " + r.status);
+    const j = await r.json();
+    if (!j.access_token) throw new Error("no access_token in response");
+    log("Reddit: authenticated via OAuth.");
+    return (redditToken = j.access_token);
+  } catch (e) {
+    log(`Reddit auth failed: ${e.message} — using public endpoints.`);
+    return (redditToken = null);
+  }
+}
+
+// Shared shape for both the OAuth and the public JSON listing.
+function mapRedditListing(json, cat, sub) {
+  return (json.data?.children || []).filter((c) => !c.data.stickied).map((c) => {
+    const d = c.data;
+    const preview = d.preview?.images?.[0]?.source?.url;
+    return {
+      cat,
+      title: clean(d.title),
+      body: trim(clean(d.selftext || ""), 180),
+      url: "https://reddit.com" + d.permalink,
+      src: "r/" + sub,
+      publishedAt: d.created_utc ? new Date(d.created_utc * 1000).toISOString() : null,
+      boost: Math.min(3, Math.floor((d.ups || 0) / 400)),
+      image: preview ? preview.replace(/&amp;/g, "&")
+        : (/^https?:/.test(d.thumbnail || "") ? d.thumbnail : null),
+    };
+  });
+}
+
+async function fetchOneSubreddit({ cat, sub }, token) {
+  // Best path: OAuth — no 403/429, and returns ups (boost) + selftext.
+  if (token) {
+    try {
+      const r = await fetchT(`https://oauth.reddit.com/r/${sub}/top?t=day&limit=10`,
+        { headers: { Authorization: "bearer " + token, "User-Agent": UA } }, 15000, "r/" + sub);
+      if (!r.ok) throw new Error("HTTP " + r.status);
+      const items = mapRedditListing(await r.json(), cat, sub);
+      log(`Reddit r/${sub}: ${items.length} items (oauth)`);
+      return items;
+    } catch (e) { log(`Reddit r/${sub} oauth failed: ${e.message} — trying public.`); }
+  }
+
   const headers = { "User-Agent": UA, "Accept": "application/json" };
-  // Try the JSON API first…
+  // Public JSON…
   try {
     const r = await fetchT(`https://www.reddit.com/r/${sub}/top.json?t=day&limit=10`, { headers }, 15000, "r/" + sub);
     if (!r.ok) throw new Error("HTTP " + r.status);
-    const j = await r.json();
-    const items = (j.data?.children || []).filter((c) => !c.data.stickied).map((c) => {
-      const d = c.data;
-      const preview = d.preview?.images?.[0]?.source?.url;
-      return {
-        cat,
-        title: clean(d.title),
-        body: trim(clean(d.selftext || ""), 180),
-        url: "https://reddit.com" + d.permalink,
-        src: "r/" + sub,
-        publishedAt: d.created_utc ? new Date(d.created_utc * 1000).toISOString() : null,
-        boost: Math.min(3, Math.floor((d.ups || 0) / 400)),
-        image: preview ? preview.replace(/&amp;/g, "&")
-          : (/^https?:/.test(d.thumbnail || "") ? d.thumbnail : null),
-      };
-    });
+    const items = mapRedditListing(await r.json(), cat, sub);
     log(`Reddit r/${sub}: ${items.length} items`);
     return items;
   } catch (e1) {
@@ -143,6 +191,9 @@ async function fetchOneSubreddit({ cat, sub }) {
         url: it.link || "",
         src: "r/" + sub,
         publishedAt: it.isoDate || it.pubDate || null,
+        // RSS gives no score, but these are "top of day" posts — without some
+        // boost they can never outrank score-boosted HN items for a slot.
+        boost: 1,
         image: imageOf(it),
       }));
       log(`Reddit r/${sub}: ${items.length} items (rss fallback)`);
@@ -157,11 +208,14 @@ async function fetchOneSubreddit({ cat, sub }) {
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 async function fetchReddit() {
-  // Sequential with a delay — Reddit rate-limits bursts with 429.
+  const token = await redditAuth();
+  // OAuth allows ~100 req/min, so a short courtesy gap is enough. Without it
+  // Reddit rate-limits hard, so space the public requests much further apart.
+  const gap = token ? 500 : 3000;
   const out = [];
   for (const s of SUBREDDITS) {
-    out.push(...await fetchOneSubreddit(s));
-    await sleep(3000);
+    out.push(...await fetchOneSubreddit(s, token));
+    await sleep(gap);
   }
   return out;
 }
@@ -207,7 +261,24 @@ function selectTop(all) {
   for (const cat of Object.keys(CATEGORIES)) {
     const inCat = deduped.filter((x) => x.cat === cat)
       .sort((a, b) => b.score - a.score || (Date.parse(b.publishedAt || 0) - Date.parse(a.publishedAt || 0)));
-    kept.push(...inCat.slice(0, KEEP_PER_CATEGORY));
+
+    // First pass: best items, but no source may exceed MAX_PER_SOURCE.
+    const picked = [], perSource = {};
+    for (const it of inCat) {
+      if (picked.length >= KEEP_PER_CATEGORY) break;
+      if ((perSource[it.src] || 0) >= MAX_PER_SOURCE) continue;
+      perSource[it.src] = (perSource[it.src] || 0) + 1;
+      picked.push(it);
+    }
+    // Second pass: if too few sources exist to fill the quota, relax the cap
+    // rather than shipping a thinner feed.
+    if (picked.length < KEEP_PER_CATEGORY) {
+      for (const it of inCat) {
+        if (picked.length >= KEEP_PER_CATEGORY) break;
+        if (!picked.includes(it)) picked.push(it);
+      }
+    }
+    kept.push(...picked);
   }
   return { kept, scanned: deduped.length, deduped };
 }

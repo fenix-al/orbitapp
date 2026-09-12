@@ -44,9 +44,24 @@ npm run serve      # open http://localhost:4000
    git push -u origin main
    ```
 
-2. **Add your Claude key as a secret.**
+2. **Add your secrets.**
    Repo → **Settings → Secrets and variables → Actions → New repository secret**
-   Name: `ANTHROPIC_API_KEY`  ·  Value: your `sk-ant-…` key.
+
+   | Secret | Needed for | Where to get it |
+   |---|---|---|
+   | `ANTHROPIC_API_KEY` | Claude writes the brief (else a plain summary) | [console.anthropic.com](https://console.anthropic.com) → API Keys |
+   | `REDDIT_CLIENT_ID` | Reddit without 403/429 | see below |
+   | `REDDIT_CLIENT_SECRET` | same | see below |
+
+   **Reddit credentials (2 min, free).** Without them Reddit answers `403` on the
+   JSON API and `429` on RSS after the first request, so only 1–2 of your
+   subreddits get through. With them you get ~100 requests/min, plus upvote
+   counts (which feed the ranking boost) and post text.
+
+   1. Go to <https://www.reddit.com/prefs/apps> → **create another app…**
+   2. Pick type **script**, any name, redirect URI `http://localhost:8080`
+   3. Copy the id under the app name → `REDDIT_CLIENT_ID`
+   4. Copy the **secret** field → `REDDIT_CLIENT_SECRET`
 
 3. **Turn on the daily job.**
    It's already defined in [`.github/workflows/daily.yml`](.github/workflows/daily.yml) (runs 05:00 UTC).
@@ -71,6 +86,7 @@ That's it — every morning the Action fetches your sources, writes a fresh brie
 | Hacker News threshold | `HACKERNEWS.minPoints` | Only keep stories above N points. |
 | **Your interests** | `INTERESTS` | Keywords that make items rank higher. Make this yours. |
 | Items kept per topic | `KEEP_PER_CATEGORY` | Default 3. |
+| Source diversity | `MAX_PER_SOURCE` | Max items one source may take in a category (default 2), so one feed can't own every slot. Relaxed automatically if a category has too few sources. |
 | Brief quality/cost | `BRIEF_MODEL` | `claude-haiku-4-5-20251001` (cheap) · `claude-sonnet-5` (default) · `claude-opus-4-8` (best). |
 
 Change the schedule by editing the `cron` line in the workflow (times are UTC).

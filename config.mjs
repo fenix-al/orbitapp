@@ -48,6 +48,12 @@ export const INTERESTS = [
 // How many items to keep per category in the final feed.
 export const KEEP_PER_CATEGORY = 3;
 
+// Max items one source may take within a single category, so a single feed
+// can't own every slot. Set to KEEP_PER_CATEGORY to disable the cap.
+// (If a category has too few sources to fill its quota, the cap is relaxed
+// rather than shipping a shorter feed.)
+export const MAX_PER_SOURCE = 2;
+
 // Claude model used to write the daily brief. Swap for cost/quality:
 //   claude-haiku-4-5-20251001  (cheapest)
 //   claude-sonnet-5            (balanced — default)

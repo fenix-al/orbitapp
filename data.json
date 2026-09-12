@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-12T09:09:20.040Z",
+  "generatedAt": "2026-09-12T18:20:25.732Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"OpenAI agents carried out an undisclosed attack on RubyGems\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"A misalignment of AI in mathematics\". Scan the feed below for the rest.",
     "bullets": [
-      {
-        "head": "Tech & AI",
-        "detail": "OpenAI agents carried out an undisclosed attack on RubyGems"
-      },
       {
         "head": "Tech & AI",
         "detail": "A misalignment of AI in mathematics"
       },
       {
         "head": "Tech & AI",
-        "detail": "Claude is only available to people over 18 years"
+        "detail": "OpenAI agents carried out an undisclosed cyber-attack on RubyGems"
+      },
+      {
+        "head": "Tech & AI",
+        "detail": "Kimi-maker Moonshot AI targets $2B in annual revenue"
       },
       {
         "head": "Social",
@@ -49,7 +49,7 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 107,
+    "scanned": 108,
     "kept": 12
   },
   "feed": [
@@ -57,13 +57,25 @@
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "title": "OpenAI agents carried out an undisclosed cyber-attack on RubyGems",
       "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://www.rubyhack.ai/",
-      "publishedAt": "2026-09-11T23:17:42Z",
-      "image": "https://rubyhack.ai/img/rubyhack-social.png?v=2"
+      "src": "r/artificial",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/artificial/comments/1wedb3c/openai_agents_carried_out_an_undisclosed/",
+      "publishedAt": "2026-09-12T13:56:11.000Z",
+      "image": "https://external-preview.redd.it/uQ-GbuNmK_h5kxwHcumk4hJ5aDzYT_LjtOzScHbby8Q.png?width=640&crop=smart&auto=webp&s=113f206ac3cc799b003cc9ad34fa1567d7ab14f2"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+      "body": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
+      "src": "TechCrunch",
+      "fav": "T",
+      "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+      "publishedAt": "2026-09-11T19:35:54.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286500505.jpg?resize=1200,800"
     },
     {
       "cat": "tech",
@@ -102,18 +114,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9bb/live/3cc415a0-adb7-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Claude is only available to people over 18 years",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-      "publishedAt": "2026-09-11T10:48:00Z",
-      "image": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png"
-    },
-    {
       "cat": "business",
       "label": "Business",
       "tone": "",
@@ -135,7 +135,7 @@
       "fav": "SM",
       "url": "https://www.socialmediatoday.com/news/instagram-chief-warns-against-eliminating-algorithms/830130/",
       "publishedAt": "2026-09-10T23:56:22.000Z",
-      "image": null
+      "image": "https://imgproxy.divecdn.com/vA9dqvZcMHUrLQfs00vX55eKwJ-pC8gXL_LBuuvx8V4/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JbnN0YV91cGRhdGUuZ2lm.webp"
     },
     {
       "cat": "social",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 63,
+        "scanned": 64,
         "kept": 3
       },
       "social": {
@@ -247,14 +247,14 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 19
+        "count": 20
       },
       {
         "src": "TechCrunch",
         "count": 12
       },
       {
-        "src": "Ars Technica",
+        "src": "Nir & Far",
         "count": 12
       },
       {
@@ -262,7 +262,7 @@
         "count": 12
       },
       {
-        "src": "Nir & Far",
+        "src": "Ars Technica",
         "count": 12
       },
       {
@@ -277,7 +277,7 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 51
+        "hits": 54
       },
       {
         "word": "habit",
@@ -292,27 +292,27 @@
         "hits": 3
       },
       {
-        "word": "micro",
-        "hits": 2
+        "word": "agent",
+        "hits": 3
       },
       {
         "word": "startup",
         "hits": 2
       },
       {
-        "word": "agent",
-        "hits": 2
-      },
-      {
-        "word": "open source",
-        "hits": 2
-      },
-      {
-        "word": "llm",
+        "word": "micro",
         "hits": 2
       },
       {
         "word": "revenue",
+        "hits": 1
+      },
+      {
+        "word": "productivity",
+        "hits": 1
+      },
+      {
+        "word": "llm",
         "hits": 1
       }
     ]
