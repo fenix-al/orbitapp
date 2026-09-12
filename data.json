@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-11T09:28:35.381Z",
+  "generatedAt": "2026-09-12T09:09:20.040Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Rust is tier-1 language at Microsoft\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"OpenAI agents carried out an undisclosed attack on RubyGems\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Rust is tier-1 language at Microsoft"
+        "detail": "OpenAI agents carried out an undisclosed attack on RubyGems"
       },
       {
         "head": "Tech & AI",
-        "detail": "More questions about whether researchers can trust OpenAI with unpublished math"
+        "detail": "A misalignment of AI in mathematics"
       },
       {
         "head": "Tech & AI",
-        "detail": "OpenAI Agents API"
+        "detail": "Claude is only available to people over 18 years"
       },
       {
         "head": "Social",
@@ -49,10 +49,46 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 115,
+    "scanned": 107,
     "kept": 12
   },
   "feed": [
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://www.rubyhack.ai/",
+      "publishedAt": "2026-09-11T23:17:42Z",
+      "image": "https://rubyhack.ai/img/rubyhack-social.png?v=2"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "A misalignment of AI in mathematics",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://mathandai.org/",
+      "publishedAt": "2026-09-11T17:45:12Z",
+      "image": null
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
+      "body": "O'Leary has said airline passengers \"can't afford to fly with the high-fare rapists around Europe\".",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T15:37:25.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e56/live/494cd5f0-adee-11f1-9a5c-a7a4083eb832.jpg"
+    },
     {
       "cat": "business",
       "label": "Business",
@@ -62,20 +98,20 @@
       "src": "BBC Business",
       "fav": "BB",
       "url": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T09:17:00.000Z",
+      "publishedAt": "2026-09-11T14:43:33.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9bb/live/3cc415a0-adb7-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Interest rates could rise again across the world – here's why",
-      "body": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T08:28:47.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6586/live/365b8a30-ad4a-11f1-8963-d14e6edce0d0.jpg"
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Claude is only available to people over 18 years",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "publishedAt": "2026-09-11T10:48:00Z",
+      "image": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png"
     },
     {
       "cat": "business",
@@ -86,7 +122,7 @@
       "src": "BBC Business",
       "fav": "BB",
       "url": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T08:04:22.000Z",
+      "publishedAt": "2026-09-11T10:17:28.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e509/live/199aa930-adb8-11f1-a540-61c3f7fc4e6c.jpg"
     },
     {
@@ -112,42 +148,6 @@
       "url": "https://www.socialmediatoday.com/news/snapchat-expands-dynamic-product-ads-to-sponsored-snaps/830124/",
       "publishedAt": "2026-09-10T21:24:45.000Z",
       "image": "https://imgproxy.divecdn.com/9MuqZSRjcGNKA1U4wWdfqExBU5SWlK5bp36DFs656T8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9zbmFwY2hhdF9jb21tZXJjZV9wb3dlcl9wYWNrLnBuZw==.webp"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "OpenAI Agents API",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-      "publishedAt": "2026-09-10T19:43:22Z",
-      "image": "https://developers.openai.com/og/api/docs/guides/agents-api/overview.png"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Rust is tier-1 language at Microsoft",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-      "publishedAt": "2026-09-10T13:39:16Z",
-      "image": "https://rustfoundation.org/wp-content/uploads/2026/09/Guest-Blog-Graphic-2.png"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-      "publishedAt": "2026-09-10T06:49:43Z",
-      "image": null
     },
     {
       "cat": "social",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 71,
+        "scanned": 63,
         "kept": 3
       },
       "social": {
@@ -247,10 +247,14 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 27
+        "count": 19
       },
       {
         "src": "TechCrunch",
+        "count": 12
+      },
+      {
+        "src": "Ars Technica",
         "count": 12
       },
       {
@@ -259,10 +263,6 @@
       },
       {
         "src": "Nir & Far",
-        "count": 12
-      },
-      {
-        "src": "Ars Technica",
         "count": 12
       },
       {
@@ -277,18 +277,14 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 53
+        "hits": 51
       },
       {
         "word": "habit",
         "hits": 5
       },
       {
-        "word": "agent",
-        "hits": 4
-      },
-      {
-        "word": "micro",
+        "word": "model",
         "hits": 3
       },
       {
@@ -296,11 +292,7 @@
         "hits": 3
       },
       {
-        "word": "model",
-        "hits": 3
-      },
-      {
-        "word": "productivity",
+        "word": "micro",
         "hits": 2
       },
       {
@@ -308,11 +300,19 @@
         "hits": 2
       },
       {
+        "word": "agent",
+        "hits": 2
+      },
+      {
         "word": "open source",
         "hits": 2
       },
       {
-        "word": "creator",
+        "word": "llm",
+        "hits": 2
+      },
+      {
+        "word": "revenue",
         "hits": 1
       }
     ]
