@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-12T18:20:25.732Z",
+  "generatedAt": "2026-09-13T10:06:31.024Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"A misalignment of AI in mathematics\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"I’m starting to think AI models will matter way less than we think\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "A misalignment of AI in mathematics"
+        "detail": "I’m starting to think AI models will matter way less than we think"
       },
       {
         "head": "Tech & AI",
-        "detail": "OpenAI agents carried out an undisclosed cyber-attack on RubyGems"
+        "detail": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases"
       },
       {
         "head": "Tech & AI",
-        "detail": "Kimi-maker Moonshot AI targets $2B in annual revenue"
+        "detail": "Nvidia is the central bank of AI"
       },
       {
         "head": "Social",
@@ -49,69 +49,69 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 108,
+    "scanned": 111,
     "kept": 12
   },
   "feed": [
     {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+      "body": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T09:05:10.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/203a/live/5d11e480-ae26-11f1-a540-61c3f7fc4e6c.jpg"
+    },
+    {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "OpenAI agents carried out an undisclosed cyber-attack on RubyGems",
+      "title": "I’m starting to think AI models will matter way less than we think",
       "body": "—",
       "src": "r/artificial",
       "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1wedb3c/openai_agents_carried_out_an_undisclosed/",
-      "publishedAt": "2026-09-12T13:56:11.000Z",
-      "image": "https://external-preview.redd.it/uQ-GbuNmK_h5kxwHcumk4hJ5aDzYT_LjtOzScHbby8Q.png?width=640&crop=smart&auto=webp&s=113f206ac3cc799b003cc9ad34fa1567d7ab14f2"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-      "body": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-      "publishedAt": "2026-09-11T19:35:54.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286500505.jpg?resize=1200,800"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "A misalignment of AI in mathematics",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://mathandai.org/",
-      "publishedAt": "2026-09-11T17:45:12Z",
+      "url": "https://www.reddit.com/r/artificial/comments/1wexu8l/im_starting_to_think_ai_models_will_matter_way/",
+      "publishedAt": "2026-09-13T04:32:02.000Z",
       "image": null
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
-      "body": "O'Leary has said airline passengers \"can't afford to fly with the high-fare rapists around Europe\".",
+      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "body": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T15:37:25.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e56/live/494cd5f0-adee-11f1-9a5c-a7a4083eb832.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T21:16:47.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9256/live/a1802a30-aeb9-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Alstom to build new battery-electric train fleet",
-      "body": "The government says the work will support thousands of jobs across the UK.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T14:43:33.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9bb/live/3cc415a0-adb7-11f1-b1d1-571ed4d7ff2c.jpg"
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://withspecific.com/benchmarks/real-swe",
+      "publishedAt": "2026-09-12T20:25:48Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Nvidia is the central bank of AI",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "publishedAt": "2026-09-12T15:08:27Z",
+      "image": null
     },
     {
       "cat": "business",
@@ -135,7 +135,7 @@
       "fav": "SM",
       "url": "https://www.socialmediatoday.com/news/instagram-chief-warns-against-eliminating-algorithms/830130/",
       "publishedAt": "2026-09-10T23:56:22.000Z",
-      "image": "https://imgproxy.divecdn.com/vA9dqvZcMHUrLQfs00vX55eKwJ-pC8gXL_LBuuvx8V4/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JbnN0YV91cGRhdGUuZ2lm.webp"
+      "image": null
     },
     {
       "cat": "social",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 64,
+        "scanned": 67,
         "kept": 3
       },
       "social": {
@@ -247,18 +247,18 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 20
+        "count": 23
       },
       {
         "src": "TechCrunch",
         "count": 12
       },
       {
-        "src": "Nir & Far",
+        "src": "BBC Business",
         "count": 12
       },
       {
-        "src": "BBC Business",
+        "src": "Nir & Far",
         "count": 12
       },
       {
@@ -277,31 +277,31 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 54
+        "hits": 59
+      },
+      {
+        "word": "model",
+        "hits": 6
       },
       {
         "word": "habit",
         "hits": 5
       },
       {
-        "word": "model",
-        "hits": 3
+        "word": "agent",
+        "hits": 4
       },
       {
         "word": "focus",
         "hits": 3
       },
       {
-        "word": "agent",
-        "hits": 3
+        "word": "micro",
+        "hits": 2
       },
       {
         "word": "startup",
-        "hits": 2
-      },
-      {
-        "word": "micro",
-        "hits": 2
+        "hits": 1
       },
       {
         "word": "revenue",
@@ -312,7 +312,7 @@
         "hits": 1
       },
       {
-        "word": "llm",
+        "word": "growth",
         "hits": 1
       }
     ]
