@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-14T10:29:38.138Z",
+  "generatedAt": "2026-09-16T09:48:06.895Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Introducing System One Models and Jev\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher"
+        "detail": "Introducing System One Models and Jev"
       },
       {
         "head": "Tech & AI",
-        "detail": "Why is Google still serving dodgy ads?"
+        "detail": "I Think All the Current Pessimism is Just an Attempt by XAI, Anthropic, and Open AI to Get Local Models Criminalized"
       },
       {
         "head": "Tech & AI",
-        "detail": "AI can generate endless options now, but deciding what is actually good feels harder"
+        "detail": "AI researcher whose apocalypse warning went viral outlines his disagreements with Anthropic leadership"
       },
       {
         "head": "Social",
-        "detail": "YouTube report examines mainstream culture"
+        "detail": "Meta adds more creator partnership tools"
       }
     ],
     "signal": {
@@ -49,117 +49,117 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 111,
+    "scanned": 120,
     "kept": 12
   },
   "feed": [
     {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Why doomsday warnings are not the only threat to the AI juggernaut",
+      "body": "The global AI race is being hit by very localised political and environmental concerns",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cv986j48l66ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-15T23:39:55.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b524/live/d98e1c20-b1a7-11f1-bc1f-3f186ca4140c.jpg"
+    },
+    {
       "cat": "tech",
       "label": "Tech & AI",
-      "tone": "",
-      "title": "AI can generate endless options now, but deciding what is actually good feels harder",
+      "tone": "rising",
+      "title": "AI researcher whose apocalypse warning went viral outlines his disagreements with Anthropic leadership",
       "body": "—",
       "src": "r/artificial",
       "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1wfy03k/ai_can_generate_endless_options_now_but_deciding/",
-      "publishedAt": "2026-09-14T08:51:08.000Z",
-      "image": null
+      "url": "https://www.reddit.com/r/artificial/comments/1whf7lw/ai_researcher_whose_apocalypse_warning_went_viral/",
+      "publishedAt": "2026-09-15T22:36:39.000Z",
+      "image": "https://external-preview.redd.it/qJHNni1NVNAPL9_144TjPCt8MZejexXKsWQzI75Fdgs.jpeg?width=640&crop=smart&auto=webp&s=dd0708ae7c207d4c674edddeb323513c59a6c64e"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Heading off to uni? Here's what to insure against theft",
-      "body": "What should new students consider to keep your belongings safe and covered by insurance?",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-14T08:13:56.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2700/live/2436c9d0-adf1-11f1-ad53-0d91a06f3150.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "MPs and Lords call for new law to address AI threat to human rights",
-      "body": "Existing laws are not equipped to address the risks to human rights being posed by artificial intelligence, UK politicians say.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-14T08:07:08.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd58/live/06bec250-b016-11f1-a540-61c3f7fc4e6c.jpg"
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Meta highlights creation tools for AI glasses",
-      "body": "The company shared examples on Instagram featuring new video capture modes and device-specific editing features.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/meta-highlights-creation-tools-for-ai-glasses/830238/",
-      "publishedAt": "2026-09-13T23:11:06.000Z",
+      "title": "I won a contract that could double my revenue, but I don’t have the staff yet. What would you do?",
+      "body": "—",
+      "src": "r/Entrepreneur",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/Entrepreneur/comments/1whdity/i_won_a_contract_that_could_double_my_revenue_but/",
+      "publishedAt": "2026-09-15T21:29:18.000Z",
       "image": null
     },
     {
       "cat": "social",
       "label": "Social",
       "tone": "",
-      "title": "Threads might be bigger than X, says Zuckerberg",
-      "body": "In a wide-ranging interview with Sources, the Meta CEO said the two platforms shared communities and that he frequently posted the same thing to both apps.",
+      "title": "TikTok announces featured creators for Hispanic Heritage Month",
+      "body": "The app will showcase journalist Fernando Hurtado, musician Jasmine Wesley and comedian Eric Sedeño as part of a larger community celebration.",
       "src": "Social Media Today",
       "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/threads-might-be-bigger-than-x-says-zuckerberg/830236/",
-      "publishedAt": "2026-09-13T21:41:04.000Z",
+      "url": "https://www.socialmediatoday.com/news/tiktok-announces-featured-creators-for-hispanic-heritage-month/830484/",
+      "publishedAt": "2026-09-15T21:07:30.000Z",
       "image": null
     },
     {
       "cat": "social",
       "label": "Social",
-      "tone": "rising",
-      "title": "YouTube report examines mainstream culture",
-      "body": "Although microtrends and niche communities have expanded online, most people still want to connect with larger shared experiences, the study found.",
+      "tone": "",
+      "title": "Meta adds more creator partnership tools",
+      "body": "The company’s refreshed Creator Marketing hub will offer expanded access to additional discovery and outreach features to facilitate promotions.",
       "src": "Social Media Today",
       "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/youtube-report-examines-mainstream-culture/830235/",
-      "publishedAt": "2026-09-13T21:25:39.000Z",
+      "url": "https://www.socialmediatoday.com/news/meta-adds-more-creator-partnership-tools/830480/",
+      "publishedAt": "2026-09-15T20:48:52.000Z",
+      "image": null
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Meta announces Edits Plus paid subscription tier",
+      "body": "The video editing app will offer additional features as part of a Meta One Business bundle or as a separate package.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/meta-announces-edits-plus-paid-subscription-tier/830473/",
+      "publishedAt": "2026-09-15T20:24:07.000Z",
       "image": null
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "title": "Introducing System One Models and Jev",
       "body": "—",
       "src": "Hacker News",
       "fav": "HN",
-      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-      "publishedAt": "2026-09-13T21:06:13Z",
-      "image": "https://www.vals.ai/og.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Why is Google still serving dodgy ads?",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-      "publishedAt": "2026-09-13T17:37:44Z",
-      "image": "https://www.atomic14.com/assets/article_images/2026-09-13/dodgy.webp"
+      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "publishedAt": "2026-09-15T19:25:03Z",
+      "image": "https://framerusercontent.com/images/RtIGTDwO43jR4ZDilesXiR5znc.jpg"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-      "body": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T21:16:47.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9256/live/a1802a30-aeb9-11f1-b1d1-571ed4d7ff2c.jpg"
+      "title": "Advice wanted: How can I market my home-maintenance service in front of more homeowners?",
+      "body": "—",
+      "src": "r/Entrepreneur",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/Entrepreneur/comments/1wh9tr7/advice_wanted_how_can_i_market_my_homemaintenance/",
+      "publishedAt": "2026-09-15T19:12:46.000Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "I Think All the Current Pessimism is Just an Attempt by XAI, Anthropic, and Open AI to Get Local Models Crimi…",
+      "body": "—",
+      "src": "r/artificial",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/artificial/comments/1wh1yyw/i_think_all_the_current_pessimism_is_just_an/",
+      "publishedAt": "2026-09-15T14:28:55.000Z",
+      "image": null
     },
     {
       "cat": "growth",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 67,
+        "scanned": 68,
         "kept": 3
       },
       "social": {
@@ -240,14 +240,14 @@
       },
       "business": {
         "label": "Business",
-        "scanned": 12,
+        "scanned": 20,
         "kept": 3
       }
     },
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 23
+        "count": 24
       },
       {
         "src": "TechCrunch",
@@ -277,43 +277,43 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 47
+        "hits": 45
+      },
+      {
+        "word": "agent",
+        "hits": 5
       },
       {
         "word": "habit",
         "hits": 5
       },
       {
-        "word": "startup",
-        "hits": 2
+        "word": "llm",
+        "hits": 4
+      },
+      {
+        "word": "focus",
+        "hits": 3
+      },
+      {
+        "word": "model",
+        "hits": 3
       },
       {
         "word": "micro",
         "hits": 2
       },
       {
-        "word": "agent",
-        "hits": 2
-      },
-      {
-        "word": "focus",
-        "hits": 2
-      },
-      {
-        "word": "model",
-        "hits": 2
-      },
-      {
-        "word": "llm",
-        "hits": 2
-      },
-      {
-        "word": "productivity",
-        "hits": 1
-      },
-      {
         "word": "viral",
-        "hits": 1
+        "hits": 2
+      },
+      {
+        "word": "creator",
+        "hits": 2
+      },
+      {
+        "word": "local",
+        "hits": 2
       }
     ]
   }
