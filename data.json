@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-16T09:48:06.895Z",
+  "generatedAt": "2026-09-17T09:55:12.519Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Introducing System One Models and Jev\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Training a 4B model to produce 81% faster query plans than Postgres\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Introducing System One Models and Jev"
+        "detail": "Training a 4B model to produce 81% faster query plans than Postgres"
       },
       {
         "head": "Tech & AI",
-        "detail": "I Think All the Current Pessimism is Just an Attempt by XAI, Anthropic, and Open AI to Get Local Models Criminalized"
+        "detail": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026"
       },
       {
         "head": "Tech & AI",
-        "detail": "AI researcher whose apocalypse warning went viral outlines his disagreements with Anthropic leadership"
+        "detail": "Noise wants to help everyday people become paid content creators"
       },
       {
         "head": "Social",
-        "detail": "Meta adds more creator partnership tools"
+        "detail": "Meta adds simplified third-party AI support to WhatsApp"
       }
     ],
     "signal": {
@@ -49,7 +49,7 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 120,
+    "scanned": 122,
     "kept": 12
   },
   "feed": [
@@ -57,48 +57,120 @@
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Why doomsday warnings are not the only threat to the AI juggernaut",
-      "body": "The global AI race is being hit by very localised political and environmental concerns",
+      "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+      "body": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cv986j48l66ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-15T23:39:55.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b524/live/d98e1c20-b1a7-11f1-bc1f-3f186ca4140c.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-17T08:22:12.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4c4/live/26db17d0-b270-11f1-a430-4d16ee157c41.jpg"
+    },
+    {
+      "cat": "growth",
+      "label": "Growth",
+      "tone": "",
+      "title": "Trying to build a \"lock in\" study/work group, anyone else interested?",
+      "body": "—",
+      "src": "r/productivity",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/productivity/comments/1wim27g/trying_to_build_a_lock_in_studywork_group_anyone/",
+      "publishedAt": "2026-09-17T06:25:58.000Z",
+      "image": null
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "AI researcher whose apocalypse warning went viral outlines his disagreements with Anthropic leadership",
-      "body": "—",
-      "src": "r/artificial",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1whf7lw/ai_researcher_whose_apocalypse_warning_went_viral/",
-      "publishedAt": "2026-09-15T22:36:39.000Z",
-      "image": "https://external-preview.redd.it/qJHNni1NVNAPL9_144TjPCt8MZejexXKsWQzI75Fdgs.jpeg?width=640&crop=smart&auto=webp&s=dd0708ae7c207d4c674edddeb323513c59a6c64e"
+      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that chan…",
+      "body": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing spee…",
+      "src": "TechCrunch",
+      "fav": "T",
+      "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-17T03:30:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Disrupt-2025-Builders-Stage-Crowd.png?resize=1200,800"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "I won a contract that could double my revenue, but I don’t have the staff yet. What would you do?",
-      "body": "—",
-      "src": "r/Entrepreneur",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/Entrepreneur/comments/1whdity/i_won_a_contract_that_could_double_my_revenue_but/",
-      "publishedAt": "2026-09-15T21:29:18.000Z",
+      "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
+      "body": "The firm also announced a new system to track, investigate and disclose cases of models misbehaving, or \"misalignment\".",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-17T03:09:21.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a25/live/9ebbb350-b238-11f1-9f5d-fbda72f7de0b.jpg"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "US interest rates raised for first time in three years",
+      "body": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-17T00:40:17.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4317/live/97f51f30-b214-11f1-95f2-19e1a2e8eef2.jpg"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Report highlights the value of creator-led collabs on Instagram",
+      "body": "Creator-published brand collaborations outperform brand posts and brand-published collaborations, according to a new study from Emplifi.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/report-highlights-the-value-of-creator-led-collabs-on-instagram/830619/",
+      "publishedAt": "2026-09-16T23:04:38.000Z",
       "image": null
     },
     {
       "cat": "social",
       "label": "Social",
       "tone": "",
-      "title": "TikTok announces featured creators for Hispanic Heritage Month",
-      "body": "The app will showcase journalist Fernando Hurtado, musician Jasmine Wesley and comedian Eric Sedeño as part of a larger community celebration.",
+      "title": "Meta adds simplified third-party AI support to WhatsApp",
+      "body": "The update will help brands set up their preferred agent profiles and responses without requiring in-depth coding knowledge.",
       "src": "Social Media Today",
       "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/tiktok-announces-featured-creators-for-hispanic-heritage-month/830484/",
-      "publishedAt": "2026-09-15T21:07:30.000Z",
+      "url": "https://www.socialmediatoday.com/news/meta-adds-simplified-third-party-ai-support-to-whatsapp/830617/",
+      "publishedAt": "2026-09-16T21:47:13.000Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Noise wants to help everyday people become paid content creators",
+      "body": "Marketing platform Noise is on a mission to help anyone with a smart phone make money from their content.",
+      "src": "TechCrunch",
+      "fav": "T",
+      "url": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
+      "publishedAt": "2026-09-16T21:35:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/NOISE.png?resize=1200,803"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://rohanbansal.com/qorl",
+      "publishedAt": "2026-09-16T18:50:00Z",
+      "image": "https://rohanbansal.com/og/qorl-20260916.png"
+    },
+    {
+      "cat": "growth",
+      "label": "Growth",
+      "tone": "",
+      "title": "How to read papers more and stay productive in AI age?",
+      "body": "—",
+      "src": "r/productivity",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/productivity/comments/1wi0bnl/how_to_read_papers_more_and_stay_productive_in_ai/",
+      "publishedAt": "2026-09-16T15:24:01.000Z",
       "image": null
     },
     {
@@ -106,84 +178,12 @@
       "label": "Social",
       "tone": "",
       "title": "Meta adds more creator partnership tools",
-      "body": "The company’s refreshed Creator Marketing hub will offer expanded access to additional discovery and outreach features to facilitate promotions.",
+      "body": "The refreshed Creator Marketing Hub will offer expanded access to discovery and outreach features to facilitate promotions.",
       "src": "Social Media Today",
       "fav": "SM",
       "url": "https://www.socialmediatoday.com/news/meta-adds-more-creator-partnership-tools/830480/",
       "publishedAt": "2026-09-15T20:48:52.000Z",
       "image": null
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Meta announces Edits Plus paid subscription tier",
-      "body": "The video editing app will offer additional features as part of a Meta One Business bundle or as a separate package.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/meta-announces-edits-plus-paid-subscription-tier/830473/",
-      "publishedAt": "2026-09-15T20:24:07.000Z",
-      "image": null
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Introducing System One Models and Jev",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-      "publishedAt": "2026-09-15T19:25:03Z",
-      "image": "https://framerusercontent.com/images/RtIGTDwO43jR4ZDilesXiR5znc.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Advice wanted: How can I market my home-maintenance service in front of more homeowners?",
-      "body": "—",
-      "src": "r/Entrepreneur",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/Entrepreneur/comments/1wh9tr7/advice_wanted_how_can_i_market_my_homemaintenance/",
-      "publishedAt": "2026-09-15T19:12:46.000Z",
-      "image": null
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "I Think All the Current Pessimism is Just an Attempt by XAI, Anthropic, and Open AI to Get Local Models Crimi…",
-      "body": "—",
-      "src": "r/artificial",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1wh1yyw/i_think_all_the_current_pessimism_is_just_an/",
-      "publishedAt": "2026-09-15T14:28:55.000Z",
-      "image": null
-    },
-    {
-      "cat": "growth",
-      "label": "Growth",
-      "tone": "",
-      "title": "How Your Brain Sabotages Your Social Life—and Simple Ways to Fix It",
-      "body": "When a friend invited me over last week, I found myself entering a predictable state of hesitation. I stared at my phone for a while, thinking, Should I bail? The post How Your Br…",
-      "src": "Nir & Far",
-      "fav": "NF",
-      "url": "https://www.nirandfar.com/antisocial-brain/",
-      "publishedAt": "2025-10-14T13:00:26.000Z",
-      "image": "https://www.nirandfar.com/wp-content/uploads/2025/07/ben-rein-book-featured.webp"
-    },
-    {
-      "cat": "growth",
-      "label": "Growth",
-      "tone": "",
-      "title": "Unlock Your Potential With The Power Of Belief",
-      "body": "In 2006, U.S. Team freestyle skier Michelle Roark zoomed down the slope at her first Olympics, conquering hilly terrain that not even a 4x4 could handle. At 31 years old, she was…",
-      "src": "Nir & Far",
-      "fav": "NF",
-      "url": "https://www.nirandfar.com/power-of-belief/",
-      "publishedAt": "2025-07-07T13:00:26.000Z",
-      "image": "https://www.nirandfar.com/wp-content/uploads/2025/06/power-of-belief-featured.webp"
     },
     {
       "cat": "growth",
@@ -235,12 +235,12 @@
       },
       "growth": {
         "label": "Growth",
-        "scanned": 22,
+        "scanned": 32,
         "kept": 3
       },
       "business": {
         "label": "Business",
-        "scanned": 20,
+        "scanned": 12,
         "kept": 3
       }
     },
@@ -254,11 +254,11 @@
         "count": 12
       },
       {
-        "src": "Ars Technica",
+        "src": "BBC Business",
         "count": 12
       },
       {
-        "src": "BBC Business",
+        "src": "Ars Technica",
         "count": 12
       },
       {
@@ -277,10 +277,14 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 45
+        "hits": 53
       },
       {
         "word": "agent",
+        "hits": 10
+      },
+      {
+        "word": "creator",
         "hits": 5
       },
       {
@@ -288,32 +292,28 @@
         "hits": 5
       },
       {
-        "word": "llm",
-        "hits": 4
-      },
-      {
-        "word": "focus",
-        "hits": 3
-      },
-      {
         "word": "model",
         "hits": 3
+      },
+      {
+        "word": "marketing",
+        "hits": 2
       },
       {
         "word": "micro",
         "hits": 2
       },
       {
-        "word": "viral",
+        "word": "focus",
         "hits": 2
       },
       {
-        "word": "creator",
+        "word": "llm",
         "hits": 2
       },
       {
-        "word": "local",
-        "hits": 2
+        "word": "startup",
+        "hits": 1
       }
     ]
   }
