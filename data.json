@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-17T09:55:12.519Z",
+  "generatedAt": "2026-09-18T09:33:07.491Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Training a 4B model to produce 81% faster query plans than Postgres\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Bend – A language that blocks AI mistakes via proof, on CPU and GPU\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Training a 4B model to produce 81% faster query plans than Postgres"
+        "detail": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU"
       },
       {
         "head": "Tech & AI",
-        "detail": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026"
+        "detail": "UN turns to Google to make its global data ready for AI agents"
       },
       {
         "head": "Tech & AI",
-        "detail": "Noise wants to help everyday people become paid content creators"
+        "detail": "LLMs respond differently to harmful prompts when AI watermarking is used"
       },
       {
         "head": "Social",
@@ -49,10 +49,94 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 122,
+    "scanned": 116,
     "kept": 12
   },
   "feed": [
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "I build small AI hardware in China. I don't know how to sell it outside China.",
+      "body": "—",
+      "src": "r/Entrepreneur",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/Entrepreneur/comments/1wjko3r/i_build_small_ai_hardware_in_china_i_dont_know/",
+      "publishedAt": "2026-09-18T08:43:03.000Z",
+      "image": null
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Facebook Pages get charged for link posts",
+      "body": "After Meta One for Business launched its subscription packages, some managers said their accounts were being limited to two link posts per month.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/facebook-pages-get-charged-for-link-posts/830743/",
+      "publishedAt": "2026-09-17T21:48:59.000Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://bend-lang.com/",
+      "publishedAt": "2026-09-17T20:36:13Z",
+      "image": null
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Pinterest announces visual search ads and an AI restyle feature",
+      "body": "At the company’s annual Pinterest presents event, it unveiled new promotional options, artificial intelligence room redecorating and the second season of its CTV show.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/pinterest-announces-visual-search-ads-and-an-ai-restyle-feature/830737/",
+      "publishedAt": "2026-09-17T20:02:16.000Z",
+      "image": "https://imgproxy.divecdn.com/zYuK6nLxGefc_lAl8a6TyIK52yJ2nF3V8oma2sorWmM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfcHJlc2VudHNfMjAyNl8xLnBuZw==.webp"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "UN turns to Google to make its global data ready for AI agents",
+      "body": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
+      "src": "TechCrunch",
+      "fav": "T",
+      "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+      "publishedAt": "2026-09-17T20:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2196352264.jpg?w=1024"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+      "body": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
+      "src": "Ars Technica",
+      "fav": "AT",
+      "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+      "publishedAt": "2026-09-17T18:33:13.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-generated-watermark-1152x556.jpg"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Do most companies waste what their sales team is learning?",
+      "body": "—",
+      "src": "r/Entrepreneur",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/Entrepreneur/comments/1wisr9e/do_most_companies_waste_what_their_sales_team_is/",
+      "publishedAt": "2026-09-17T12:34:11.000Z",
+      "image": null
+    },
     {
       "cat": "business",
       "label": "Business",
@@ -64,66 +148,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-17T08:22:12.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4c4/live/26db17d0-b270-11f1-a430-4d16ee157c41.jpg"
-    },
-    {
-      "cat": "growth",
-      "label": "Growth",
-      "tone": "",
-      "title": "Trying to build a \"lock in\" study/work group, anyone else interested?",
-      "body": "—",
-      "src": "r/productivity",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/productivity/comments/1wim27g/trying_to_build_a_lock_in_studywork_group_anyone/",
-      "publishedAt": "2026-09-17T06:25:58.000Z",
-      "image": null
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that chan…",
-      "body": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing spee…",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-09-17T03:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Disrupt-2025-Builders-Stage-Crowd.png?resize=1200,800"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
-      "body": "The firm also announced a new system to track, investigate and disclose cases of models misbehaving, or \"misalignment\".",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-17T03:09:21.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a25/live/9ebbb350-b238-11f1-9f5d-fbda72f7de0b.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "US interest rates raised for first time in three years",
-      "body": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-17T00:40:17.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4317/live/97f51f30-b214-11f1-95f2-19e1a2e8eef2.jpg"
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Report highlights the value of creator-led collabs on Instagram",
-      "body": "Creator-published brand collaborations outperform brand posts and brand-published collaborations, according to a new study from Emplifi.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/report-highlights-the-value-of-creator-led-collabs-on-instagram/830619/",
-      "publishedAt": "2026-09-16T23:04:38.000Z",
-      "image": null
     },
     {
       "cat": "social",
@@ -138,52 +162,28 @@
       "image": null
     },
     {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Noise wants to help everyday people become paid content creators",
-      "body": "Marketing platform Noise is on a mission to help anyone with a smart phone make money from their content.",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
-      "publishedAt": "2026-09-16T21:35:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/NOISE.png?resize=1200,803"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://rohanbansal.com/qorl",
-      "publishedAt": "2026-09-16T18:50:00Z",
-      "image": "https://rohanbansal.com/og/qorl-20260916.png"
+      "cat": "growth",
+      "label": "Growth",
+      "tone": "",
+      "title": "How Your Brain Sabotages Your Social Life—and Simple Ways to Fix It",
+      "body": "When a friend invited me over last week, I found myself entering a predictable state of hesitation. I stared at my phone for a while, thinking, Should I bail? The post How Your Br…",
+      "src": "Nir & Far",
+      "fav": "NF",
+      "url": "https://www.nirandfar.com/antisocial-brain/",
+      "publishedAt": "2025-10-14T13:00:26.000Z",
+      "image": "https://www.nirandfar.com/wp-content/uploads/2025/07/ben-rein-book-featured.webp"
     },
     {
       "cat": "growth",
       "label": "Growth",
       "tone": "",
-      "title": "How to read papers more and stay productive in AI age?",
-      "body": "—",
-      "src": "r/productivity",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/productivity/comments/1wi0bnl/how_to_read_papers_more_and_stay_productive_in_ai/",
-      "publishedAt": "2026-09-16T15:24:01.000Z",
-      "image": null
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Meta adds more creator partnership tools",
-      "body": "The refreshed Creator Marketing Hub will offer expanded access to discovery and outreach features to facilitate promotions.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/meta-adds-more-creator-partnership-tools/830480/",
-      "publishedAt": "2026-09-15T20:48:52.000Z",
-      "image": null
+      "title": "Unlock Your Potential With The Power Of Belief",
+      "body": "In 2006, U.S. Team freestyle skier Michelle Roark zoomed down the slope at her first Olympics, conquering hilly terrain that not even a 4x4 could handle. At 31 years old, she was…",
+      "src": "Nir & Far",
+      "fav": "NF",
+      "url": "https://www.nirandfar.com/power-of-belief/",
+      "publishedAt": "2025-07-07T13:00:26.000Z",
+      "image": "https://www.nirandfar.com/wp-content/uploads/2025/06/power-of-belief-featured.webp"
     },
     {
       "cat": "growth",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 68,
+        "scanned": 66,
         "kept": 3
       },
       "social": {
@@ -235,26 +235,22 @@
       },
       "growth": {
         "label": "Growth",
-        "scanned": 32,
+        "scanned": 22,
         "kept": 3
       },
       "business": {
         "label": "Business",
-        "scanned": 12,
+        "scanned": 18,
         "kept": 3
       }
     },
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 24
+        "count": 22
       },
       {
         "src": "TechCrunch",
-        "count": 12
-      },
-      {
-        "src": "BBC Business",
         "count": 12
       },
       {
@@ -263,6 +259,10 @@
       },
       {
         "src": "Nir & Far",
+        "count": 12
+      },
+      {
+        "src": "BBC Business",
         "count": 12
       },
       {
@@ -277,14 +277,18 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 53
+        "hits": 54
       },
       {
         "word": "agent",
-        "hits": 10
+        "hits": 7
       },
       {
-        "word": "creator",
+        "word": "llm",
+        "hits": 5
+      },
+      {
+        "word": "model",
         "hits": 5
       },
       {
@@ -292,27 +296,23 @@
         "hits": 5
       },
       {
-        "word": "model",
-        "hits": 3
-      },
-      {
-        "word": "marketing",
-        "hits": 2
-      },
-      {
         "word": "micro",
-        "hits": 2
+        "hits": 4
       },
       {
         "word": "focus",
         "hits": 2
       },
       {
-        "word": "llm",
+        "word": "creator",
         "hits": 2
       },
       {
         "word": "startup",
+        "hits": 1
+      },
+      {
+        "word": "productivity",
         "hits": 1
       }
     ]
