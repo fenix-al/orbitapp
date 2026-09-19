@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-18T09:33:07.491Z",
+  "generatedAt": "2026-09-19T09:19:29.572Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Bend – A language that blocks AI mistakes via proof, on CPU and GPU\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Stepfun Step 5 Preview (LLM): On AA Pareto frontier\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU"
+        "detail": "Stepfun Step 5 Preview (LLM): On AA Pareto frontier"
       },
       {
         "head": "Tech & AI",
-        "detail": "UN turns to Google to make its global data ready for AI agents"
+        "detail": "OpenAI caught its models leaving notes to successors to hide bad behavior"
       },
       {
         "head": "Tech & AI",
-        "detail": "LLMs respond differently to harmful prompts when AI watermarking is used"
+        "detail": "Cloudflare Quick Tunnels"
       },
       {
         "head": "Social",
@@ -49,20 +49,80 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 116,
+    "scanned": 110,
     "kept": 12
   },
   "feed": [
     {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+      "body": "Article URL: https://artificialanalysis.ai/models/step-5 Comments URL: https://news.ycombinator.com/item?id=49763660 Points: 8 # Comments: 2",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://artificialanalysis.ai/models/step-5",
+      "publishedAt": "2026-09-19T05:42:31.000Z",
+      "image": "https://artificialanalysis.ai/en/models/step-5/opengraph-image?ea6b93c60ecab06d"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "body": "—",
+      "src": "r/artificial",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/artificial/comments/1wjzud8/openai_caught_its_models_leaving_notes_to/",
+      "publishedAt": "2026-09-18T19:26:44.000Z",
+      "image": "https://external-preview.redd.it/YQon0B1e0EfcHiLUr--hGInt6j4kGn9MDzKJffBDtqQ.jpeg?width=640&crop=smart&auto=webp&s=500b848df756ebd4f9baf9db874428f17913ac5c"
+    },
+    {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "I build small AI hardware in China. I don't know how to sell it outside China.",
+      "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
+      "body": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T17:57:30.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e01/live/68ca8e80-b38a-11f1-ae81-31b49a394756.jpg"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
+      "body": "O'Leary described his choice of language as \"careless\" and said \"it won't happen again\".",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T17:10:58.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4468/live/9a3d9590-9fbc-11ef-8538-e1655f5a8342.jpg"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Flight chaos caused by 'millisecond' software defect, report says",
+      "body": "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T15:48:58.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04eb/live/b7de6560-b37f-11f1-b1d1-571ed4d7ff2c.png"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Cloudflare Quick Tunnels",
       "body": "—",
-      "src": "r/Entrepreneur",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/Entrepreneur/comments/1wjko3r/i_build_small_ai_hardware_in_china_i_dont_know/",
-      "publishedAt": "2026-09-18T08:43:03.000Z",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://try.cloudflare.com/",
+      "publishedAt": "2026-09-18T14:18:41Z",
       "image": null
     },
     {
@@ -78,18 +138,6 @@
       "image": null
     },
     {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://bend-lang.com/",
-      "publishedAt": "2026-09-17T20:36:13Z",
-      "image": null
-    },
-    {
       "cat": "social",
       "label": "Social",
       "tone": "",
@@ -100,54 +148,6 @@
       "url": "https://www.socialmediatoday.com/news/pinterest-announces-visual-search-ads-and-an-ai-restyle-feature/830737/",
       "publishedAt": "2026-09-17T20:02:16.000Z",
       "image": "https://imgproxy.divecdn.com/zYuK6nLxGefc_lAl8a6TyIK52yJ2nF3V8oma2sorWmM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfcHJlc2VudHNfMjAyNl8xLnBuZw==.webp"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "UN turns to Google to make its global data ready for AI agents",
-      "body": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
-      "publishedAt": "2026-09-17T20:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2196352264.jpg?w=1024"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
-      "body": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
-      "src": "Ars Technica",
-      "fav": "AT",
-      "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
-      "publishedAt": "2026-09-17T18:33:13.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-generated-watermark-1152x556.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Do most companies waste what their sales team is learning?",
-      "body": "—",
-      "src": "r/Entrepreneur",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/Entrepreneur/comments/1wisr9e/do_most_companies_waste_what_their_sales_team_is/",
-      "publishedAt": "2026-09-17T12:34:11.000Z",
-      "image": null
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
-      "body": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-17T08:22:12.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4c4/live/26db17d0-b270-11f1-a430-4d16ee157c41.jpg"
     },
     {
       "cat": "social",
@@ -240,7 +240,7 @@
       },
       "business": {
         "label": "Business",
-        "scanned": 18,
+        "scanned": 12,
         "kept": 3
       }
     },
@@ -258,11 +258,11 @@
         "count": 12
       },
       {
-        "src": "Nir & Far",
+        "src": "BBC Business",
         "count": 12
       },
       {
-        "src": "BBC Business",
+        "src": "Nir & Far",
         "count": 12
       },
       {
@@ -277,30 +277,34 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 54
-      },
-      {
-        "word": "agent",
-        "hits": 7
-      },
-      {
-        "word": "llm",
-        "hits": 5
+        "hits": 51
       },
       {
         "word": "model",
-        "hits": 5
+        "hits": 8
+      },
+      {
+        "word": "llm",
+        "hits": 7
       },
       {
         "word": "habit",
         "hits": 5
       },
       {
-        "word": "micro",
-        "hits": 4
+        "word": "agent",
+        "hits": 5
       },
       {
         "word": "focus",
+        "hits": 3
+      },
+      {
+        "word": "startup",
+        "hits": 2
+      },
+      {
+        "word": "micro",
         "hits": 2
       },
       {
@@ -308,11 +312,7 @@
         "hits": 2
       },
       {
-        "word": "startup",
-        "hits": 1
-      },
-      {
-        "word": "productivity",
+        "word": "local",
         "hits": 1
       }
     ]
