@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-19T09:19:29.572Z",
+  "generatedAt": "2026-09-20T09:43:02.934Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Stepfun Step 5 Preview (LLM): On AA Pareto frontier\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"I'm Building a pixel building to mange AI agents that can use almost any LLM available\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Stepfun Step 5 Preview (LLM): On AA Pareto frontier"
+        "detail": "I'm Building a pixel building to mange AI agents that can use almost any LLM available"
       },
       {
         "head": "Tech & AI",
-        "detail": "OpenAI caught its models leaving notes to successors to hide bad behavior"
+        "detail": "I built non-autoregressive decision models with RL a year ago"
       },
       {
         "head": "Tech & AI",
-        "detail": "Cloudflare Quick Tunnels"
+        "detail": "AI-generated posters don’t have to be horrible"
       },
       {
         "head": "Social",
@@ -49,81 +49,81 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 110,
+    "scanned": 111,
     "kept": 12
   },
   "feed": [
     {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
-      "body": "Article URL: https://artificialanalysis.ai/models/step-5 Comments URL: https://news.ycombinator.com/item?id=49763660 Points: 8 # Comments: 2",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://artificialanalysis.ai/models/step-5",
-      "publishedAt": "2026-09-19T05:42:31.000Z",
-      "image": "https://artificialanalysis.ai/en/models/step-5/opengraph-image?ea6b93c60ecab06d"
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Not all AI workers think the tech could kill everyone",
+      "body": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T23:01:57.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae2c/live/f246e690-b3a3-11f1-84e0-d100e0413eb5.jpg"
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "title": "I'm Building a pixel building to mange AI agents that can use almost any LLM available",
       "body": "—",
       "src": "r/artificial",
       "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1wjzud8/openai_caught_its_models_leaving_notes_to/",
-      "publishedAt": "2026-09-18T19:26:44.000Z",
-      "image": "https://external-preview.redd.it/YQon0B1e0EfcHiLUr--hGInt6j4kGn9MDzKJffBDtqQ.jpeg?width=640&crop=smart&auto=webp&s=500b848df756ebd4f9baf9db874428f17913ac5c"
+      "url": "https://www.reddit.com/r/artificial/comments/1wkyf38/im_building_a_pixel_building_to_mange_ai_agents/",
+      "publishedAt": "2026-09-19T21:39:05.000Z",
+      "image": "https://external-preview.redd.it/NXdqbjNya25xanFoMXhfwH8R5FgJ6865vjNX8TkE3zpnmTnp-Lk5cGbhWPRq.png?width=640&crop=smart&auto=webp&s=7b05c72df726bf952d732ff1c4fe2e28299fbd10"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
-      "body": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
+      "title": "Google's Gemini AI hacked three companies in security test",
+      "body": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T17:57:30.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e01/live/68ca8e80-b38a-11f1-ae81-31b49a394756.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
-      "body": "O'Leary described his choice of language as \"careless\" and said \"it won't happen again\".",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T17:10:58.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4468/live/9a3d9590-9fbc-11ef-8538-e1655f5a8342.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Flight chaos caused by 'millisecond' software defect, report says",
-      "body": "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T15:48:58.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04eb/live/b7de6560-b37f-11f1-b1d1-571ed4d7ff2c.png"
+      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T13:39:32.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/754e/live/31c59420-b3e9-11f1-9fb5-25be39d7a18e.jpg"
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "Cloudflare Quick Tunnels",
+      "title": "I built non-autoregressive decision models with RL a year ago",
       "body": "—",
       "src": "Hacker News",
       "fav": "HN",
-      "url": "https://try.cloudflare.com/",
-      "publishedAt": "2026-09-18T14:18:41Z",
+      "url": "https://laya.convaiinnovations.com/",
+      "publishedAt": "2026-09-19T10:46:58Z",
+      "image": "https://laya-ai.vercel.app/laya_vs_jev_full.png"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "AI-generated posters don’t have to be horrible",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "publishedAt": "2026-09-19T09:20:58Z",
       "image": null
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Billionaire Man United owner says he has lost confidence in the UK",
+      "body": "Ineos founder Sir Jim Ratcliffe tells the BBC he thinks the country is \"on the slide\" and calls for more investment in the North Sea.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cm0463619r1no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T23:06:16.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d178/live/30a2f140-b395-11f1-bf60-ad6e22c4842e.jpg"
     },
     {
       "cat": "social",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 66,
+        "scanned": 67,
         "kept": 3
       },
       "social": {
@@ -247,7 +247,7 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 22
+        "count": 23
       },
       {
         "src": "TechCrunch",
@@ -258,11 +258,11 @@
         "count": 12
       },
       {
-        "src": "BBC Business",
+        "src": "Nir & Far",
         "count": 12
       },
       {
-        "src": "Nir & Far",
+        "src": "BBC Business",
         "count": 12
       },
       {
@@ -277,14 +277,10 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 51
+        "hits": 52
       },
       {
         "word": "model",
-        "hits": 8
-      },
-      {
-        "word": "llm",
         "hits": 7
       },
       {
@@ -296,24 +292,28 @@
         "hits": 5
       },
       {
-        "word": "focus",
+        "word": "micro",
+        "hits": 4
+      },
+      {
+        "word": "llm",
         "hits": 3
       },
       {
-        "word": "startup",
+        "word": "viral",
         "hits": 2
       },
       {
-        "word": "micro",
+        "word": "focus",
+        "hits": 2
+      },
+      {
+        "word": "open source",
         "hits": 2
       },
       {
         "word": "creator",
         "hits": 2
-      },
-      {
-        "word": "local",
-        "hits": 1
       }
     ]
   }
