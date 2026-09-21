@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-20T09:43:02.934Z",
+  "generatedAt": "2026-09-21T10:34:52.215Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"I'm Building a pixel building to mange AI agents that can use almost any LLM available\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "I'm Building a pixel building to mange AI agents that can use almost any LLM available"
+        "detail": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM"
       },
       {
         "head": "Tech & AI",
-        "detail": "I built non-autoregressive decision models with RL a year ago"
+        "detail": "AI CAN be incredible for learning"
       },
       {
         "head": "Tech & AI",
-        "detail": "AI-generated posters don’t have to be horrible"
+        "detail": "Singapore’s National Library Board offers micropayments to build reading habits"
       },
       {
         "head": "Social",
-        "detail": "Meta adds simplified third-party AI support to WhatsApp"
+        "detail": "YouTube executives share strategies on channel pivoting"
       }
     ],
     "signal": {
@@ -49,7 +49,7 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 111,
+    "scanned": 117,
     "kept": 12
   },
   "feed": [
@@ -57,25 +57,97 @@
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Not all AI workers think the tech could kill everyone",
-      "body": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
+      "title": "What are my rights if my flight is cancelled or delayed?",
+      "body": "Flights are affected again owing to air traffic control problems, so what are your rights if you're affected?",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T23:01:57.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae2c/live/f246e690-b3a3-11f1-84e0-d100e0413eb5.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-21T10:28:17.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a08/live/30e50cb0-ac29-11f1-bc1f-3f186ca4140c.png"
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "I'm Building a pixel building to mange AI agents that can use almost any LLM available",
+      "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+      "body": "Sorry for the pretentious name, I know, I know.. It just contains all the pieces I would like to see a AGI model to have, and I can't stand the temptation. Before throwing rocks a…",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://github.com/volotat/mini-AGI/",
+      "publishedAt": "2026-09-21T04:42:37.000Z",
+      "image": "https://opengraph.githubassets.com/a347b45f2eadf2a129e6725ae9f36da6b73a0ff2d19e9669e9c59804bd942f73/volotat/mini-AGI"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "AI CAN be incredible for learning",
       "body": "—",
       "src": "r/artificial",
       "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1wkyf38/im_building_a_pixel_building_to_mange_ai_agents/",
-      "publishedAt": "2026-09-19T21:39:05.000Z",
-      "image": "https://external-preview.redd.it/NXdqbjNya25xanFoMXhfwH8R5FgJ6865vjNX8TkE3zpnmTnp-Lk5cGbhWPRq.png?width=640&crop=smart&auto=webp&s=7b05c72df726bf952d732ff1c4fe2e28299fbd10"
+      "url": "https://www.reddit.com/r/artificial/comments/1wlzydy/ai_can_be_incredible_for_learning/",
+      "publishedAt": "2026-09-21T02:13:40.000Z",
+      "image": null
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Meta expands Muse agent connections, launches Muse for Mac",
+      "body": "Meta is looking to expand the usage options for its new personal artificial intelligence tool.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/meta-expands-muse-agent-connections-launches-muse-for-mac/830852/",
+      "publishedAt": "2026-09-20T21:51:47.000Z",
+      "image": null
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "LinkedIn ditches post enhancement, launches Post Proofreader",
+      "body": "The move signals the platform’s evolving approach to artificial intelligence tools and reflects a growing community backlash against AI slop.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/linkedin-ditches-post-enhancement-launches-post-proofreader/830851/",
+      "publishedAt": "2026-09-20T21:34:37.000Z",
+      "image": null
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "rising",
+      "title": "YouTube executives share strategies on channel pivoting",
+      "body": "Creator Liaison Rene Ritchie and Global Content Strategy Lead Kyle Monahan offer tips on how creators and brands can shift focus while retaining audiences.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/youtube-executives-share-strategies-on-channel-pivoting/830850/",
+      "publishedAt": "2026-09-20T21:15:56.000Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Singapore’s National Library Board offers micropayments to build reading habits",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
+      "publishedAt": "2026-09-20T15:18:05Z",
+      "image": "https://www.gadgetreview.com/wp-content/uploads/Singapore-Is-Paying-People-to-Put-Down-Their-Phones-and-Read-scaled.jpg"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Lib Dems vow to end 'computer says no' economy to boost growth",
+      "body": "Deputy leader Daisy Cooper also proposes a Growth and Defence Partnership with the EU in a speech to her party conference.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cqrk31k7pprlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-20T14:05:15.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c80/live/a36260c0-b4e5-11f1-88d0-9b6aa3313295.png"
     },
     {
       "cat": "business",
@@ -88,78 +160,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-19T13:39:32.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/754e/live/31c59420-b3e9-11f1-9fb5-25be39d7a18e.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "I built non-autoregressive decision models with RL a year ago",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://laya.convaiinnovations.com/",
-      "publishedAt": "2026-09-19T10:46:58Z",
-      "image": "https://laya-ai.vercel.app/laya_vs_jev_full.png"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "AI-generated posters don’t have to be horrible",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "publishedAt": "2026-09-19T09:20:58Z",
-      "image": null
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Billionaire Man United owner says he has lost confidence in the UK",
-      "body": "Ineos founder Sir Jim Ratcliffe tells the BBC he thinks the country is \"on the slide\" and calls for more investment in the North Sea.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cm0463619r1no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T23:06:16.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d178/live/30a2f140-b395-11f1-bf60-ad6e22c4842e.jpg"
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Facebook Pages get charged for link posts",
-      "body": "After Meta One for Business launched its subscription packages, some managers said their accounts were being limited to two link posts per month.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/facebook-pages-get-charged-for-link-posts/830743/",
-      "publishedAt": "2026-09-17T21:48:59.000Z",
-      "image": null
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Pinterest announces visual search ads and an AI restyle feature",
-      "body": "At the company’s annual Pinterest presents event, it unveiled new promotional options, artificial intelligence room redecorating and the second season of its CTV show.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/pinterest-announces-visual-search-ads-and-an-ai-restyle-feature/830737/",
-      "publishedAt": "2026-09-17T20:02:16.000Z",
-      "image": "https://imgproxy.divecdn.com/zYuK6nLxGefc_lAl8a6TyIK52yJ2nF3V8oma2sorWmM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3RfcHJlc2VudHNfMjAyNl8xLnBuZw==.webp"
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Meta adds simplified third-party AI support to WhatsApp",
-      "body": "The update will help brands set up their preferred agent profiles and responses without requiring in-depth coding knowledge.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/meta-adds-simplified-third-party-ai-support-to-whatsapp/830617/",
-      "publishedAt": "2026-09-16T21:47:13.000Z",
-      "image": null
     },
     {
       "cat": "growth",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 67,
+        "scanned": 73,
         "kept": 3
       },
       "social": {
@@ -247,18 +247,18 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 23
+        "count": 29
       },
       {
         "src": "TechCrunch",
         "count": 12
       },
       {
-        "src": "Ars Technica",
+        "src": "Nir & Far",
         "count": 12
       },
       {
-        "src": "Nir & Far",
+        "src": "Ars Technica",
         "count": 12
       },
       {
@@ -277,43 +277,43 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 52
+        "hits": 49
       },
       {
         "word": "model",
-        "hits": 7
-      },
-      {
-        "word": "habit",
-        "hits": 5
+        "hits": 9
       },
       {
         "word": "agent",
-        "hits": 5
+        "hits": 6
       },
       {
-        "word": "micro",
-        "hits": 4
+        "word": "habit",
+        "hits": 6
       },
       {
         "word": "llm",
-        "hits": 3
-      },
-      {
-        "word": "viral",
-        "hits": 2
+        "hits": 4
       },
       {
         "word": "focus",
-        "hits": 2
-      },
-      {
-        "word": "open source",
-        "hits": 2
+        "hits": 3
       },
       {
         "word": "creator",
         "hits": 2
+      },
+      {
+        "word": "micro",
+        "hits": 2
+      },
+      {
+        "word": "learning",
+        "hits": 2
+      },
+      {
+        "word": "productivity",
+        "hits": 1
       }
     ]
   }
