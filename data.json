@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-21T10:34:52.215Z",
+  "generatedAt": "2026-09-22T09:47:09.817Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Amazon Blocks Meta’s Muse AI Agent From Amazon.com Shopping After Meta Rejects Removal Request\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM"
+        "detail": "Amazon Blocks Meta’s Muse AI Agent From Amazon.com Shopping After Meta Rejects Removal Request"
       },
       {
         "head": "Tech & AI",
-        "detail": "AI CAN be incredible for learning"
+        "detail": "Meta’s AI agent has been blocked from using Amazon.com"
       },
       {
         "head": "Tech & AI",
-        "detail": "Singapore’s National Library Board offers micropayments to build reading habits"
+        "detail": "Attention is all you have"
       },
       {
         "head": "Social",
@@ -49,7 +49,7 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 117,
+    "scanned": 123,
     "kept": 12
   },
   "feed": [
@@ -57,61 +57,121 @@
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "What are my rights if my flight is cancelled or delayed?",
-      "body": "Flights are affected again owing to air traffic control problems, so what are your rights if you're affected?",
+      "title": "Spain battles climate change on several fronts",
+      "body": "A summer of wildfires and heatwaves underlines the threats to the country's economy.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-21T10:28:17.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a08/live/30e50cb0-ac29-11f1-bc1f-3f186ca4140c.png"
+      "url": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T09:11:48.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f5f/live/45cbd1b0-b271-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Vet prescription fees capped under rule changes",
+      "body": "Vets must also tell clients if cheaper medicine is available online as part of the rule updates which surgeries have the coming months to bring in.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T07:39:35.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b2/live/bfba1130-b64f-11f1-bc1f-3f186ca4140c.jpg"
+    },
+    {
+      "cat": "growth",
+      "label": "Growth",
+      "tone": "",
+      "title": "I have some extreme level of phone addiction dispute having my day packed... I desperately ask for some advic…",
+      "body": "—",
+      "src": "r/getdisciplined",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/getdisciplined/comments/1wn21r5/i_have_some_extreme_level_of_phone_addiction/",
+      "publishedAt": "2026-09-22T06:48:41.000Z",
+      "image": null
+    },
+    {
+      "cat": "growth",
+      "label": "Growth",
+      "tone": "",
+      "title": "Im trying to do better at university",
+      "body": "—",
+      "src": "r/getdisciplined",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/getdisciplined/comments/1wmzijo/im_trying_to_do_better_at_university/",
+      "publishedAt": "2026-09-22T04:28:16.000Z",
+      "image": null
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
-      "body": "Sorry for the pretentious name, I know, I know.. It just contains all the pieces I would like to see a AGI model to have, and I can't stand the temptation. Before throwing rocks a…",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://github.com/volotat/mini-AGI/",
-      "publishedAt": "2026-09-21T04:42:37.000Z",
-      "image": "https://opengraph.githubassets.com/a347b45f2eadf2a129e6725ae9f36da6b73a0ff2d19e9669e9c59804bd942f73/volotat/mini-AGI"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "AI CAN be incredible for learning",
+      "title": "Amazon Blocks Meta’s Muse AI Agent From Amazon.com Shopping After Meta Rejects Removal Request",
       "body": "—",
       "src": "r/artificial",
       "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1wlzydy/ai_can_be_incredible_for_learning/",
-      "publishedAt": "2026-09-21T02:13:40.000Z",
+      "url": "https://www.reddit.com/r/artificial/comments/1wmxpow/amazon_blocks_metas_muse_ai_agent_from_amazoncom/",
+      "publishedAt": "2026-09-22T02:58:59.000Z",
+      "image": "https://external-preview.redd.it/vvGnXflgrRyog7cDdThmhvYkMFiPbiUQOWHzfK62_dU.jpeg?width=640&crop=smart&auto=webp&s=edc32b52983d660367c4725dd9d1034f369ec7c0"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Canadian province sues OpenAI over Tumbler Ridge school shooting",
+      "body": "British Columbia has accused the company of failing to report the shooter's troubling interactions with ChatGPT to law enforcement.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/c3wyz2rkgrx0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T01:44:17.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be84/live/b73dbac0-b5ff-11f1-bc1f-3f186ca4140c.jpg"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Snapchat report examines the rise of microdramas",
+      "body": "App users are increasingly responding to short-form video series content and brands can tap into these community engagement trends.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/snapchat-report-examines-the-rise-of-microdramas/830970/",
+      "publishedAt": "2026-09-21T23:09:07.000Z",
       "image": null
     },
     {
       "cat": "social",
       "label": "Social",
       "tone": "",
-      "title": "Meta expands Muse agent connections, launches Muse for Mac",
-      "body": "Meta is looking to expand the usage options for its new personal artificial intelligence tool.",
+      "title": "Pinterest offers predictive optimization for Performance+",
+      "body": "The platform’s new campaign optimization score uses artificial intelligence to help advertisers measure key ad elements to create more effective campaigns.",
       "src": "Social Media Today",
       "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/meta-expands-muse-agent-connections-launches-muse-for-mac/830852/",
-      "publishedAt": "2026-09-20T21:51:47.000Z",
-      "image": null
+      "url": "https://www.socialmediatoday.com/news/pinterest-offers-predictive-optimization-for-performance/830968/",
+      "publishedAt": "2026-09-21T21:50:18.000Z",
+      "image": "https://imgproxy.divecdn.com/Jabf5__pSvl2B8AHqFbTscsHyyJsgfPRqItTdcmQDEo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waW50ZXJlc3Rfb3B0aW1pemF0aW9uX3Njb3JlMi5wbmc=.webp"
     },
     {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "LinkedIn ditches post enhancement, launches Post Proofreader",
-      "body": "The move signals the platform’s evolving approach to artificial intelligence tools and reflects a growing community backlash against AI slop.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/linkedin-ditches-post-enhancement-launches-post-proofreader/830851/",
-      "publishedAt": "2026-09-20T21:34:37.000Z",
-      "image": null
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Meta’s AI agent has been blocked from using Amazon.com",
+      "body": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the do…",
+      "src": "TechCrunch",
+      "fav": "T",
+      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "publishedAt": "2026-09-21T17:55:18.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Attention is all you have",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://alicegg.tech/2026/09/21/attention",
+      "publishedAt": "2026-09-21T14:26:56Z",
+      "image": "https://www.alicegg.tech/assets/2026-09-21-attention/tetris.jpg"
     },
     {
       "cat": "social",
@@ -124,66 +184,6 @@
       "url": "https://www.socialmediatoday.com/news/youtube-executives-share-strategies-on-channel-pivoting/830850/",
       "publishedAt": "2026-09-20T21:15:56.000Z",
       "image": null
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Singapore’s National Library Board offers micropayments to build reading habits",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
-      "publishedAt": "2026-09-20T15:18:05Z",
-      "image": "https://www.gadgetreview.com/wp-content/uploads/Singapore-Is-Paying-People-to-Put-Down-Their-Phones-and-Read-scaled.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Lib Dems vow to end 'computer says no' economy to boost growth",
-      "body": "Deputy leader Daisy Cooper also proposes a Growth and Defence Partnership with the EU in a speech to her party conference.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cqrk31k7pprlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-20T14:05:15.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c80/live/a36260c0-b4e5-11f1-88d0-9b6aa3313295.png"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Google's Gemini AI hacked three companies in security test",
-      "body": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T13:39:32.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/754e/live/31c59420-b3e9-11f1-9fb5-25be39d7a18e.jpg"
-    },
-    {
-      "cat": "growth",
-      "label": "Growth",
-      "tone": "",
-      "title": "How Your Brain Sabotages Your Social Life—and Simple Ways to Fix It",
-      "body": "When a friend invited me over last week, I found myself entering a predictable state of hesitation. I stared at my phone for a while, thinking, Should I bail? The post How Your Br…",
-      "src": "Nir & Far",
-      "fav": "NF",
-      "url": "https://www.nirandfar.com/antisocial-brain/",
-      "publishedAt": "2025-10-14T13:00:26.000Z",
-      "image": "https://www.nirandfar.com/wp-content/uploads/2025/07/ben-rein-book-featured.webp"
-    },
-    {
-      "cat": "growth",
-      "label": "Growth",
-      "tone": "",
-      "title": "Unlock Your Potential With The Power Of Belief",
-      "body": "In 2006, U.S. Team freestyle skier Michelle Roark zoomed down the slope at her first Olympics, conquering hilly terrain that not even a 4x4 could handle. At 31 years old, she was…",
-      "src": "Nir & Far",
-      "fav": "NF",
-      "url": "https://www.nirandfar.com/power-of-belief/",
-      "publishedAt": "2025-07-07T13:00:26.000Z",
-      "image": "https://www.nirandfar.com/wp-content/uploads/2025/06/power-of-belief-featured.webp"
     },
     {
       "cat": "growth",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 73,
+        "scanned": 69,
         "kept": 3
       },
       "social": {
@@ -235,7 +235,7 @@
       },
       "growth": {
         "label": "Growth",
-        "scanned": 22,
+        "scanned": 32,
         "kept": 3
       },
       "business": {
@@ -247,7 +247,11 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 29
+        "count": 25
+      },
+      {
+        "src": "BBC Business",
+        "count": 12
       },
       {
         "src": "TechCrunch",
@@ -262,10 +266,6 @@
         "count": 12
       },
       {
-        "src": "BBC Business",
-        "count": 12
-      },
-      {
         "src": "The Verge",
         "count": 10
       },
@@ -277,42 +277,42 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 49
-      },
-      {
-        "word": "model",
-        "hits": 9
+        "hits": 52
       },
       {
         "word": "agent",
+        "hits": 7
+      },
+      {
+        "word": "model",
         "hits": 6
       },
       {
         "word": "habit",
-        "hits": 6
+        "hits": 5
       },
       {
-        "word": "llm",
-        "hits": 4
+        "word": "micro",
+        "hits": 3
       },
       {
         "word": "focus",
         "hits": 3
       },
       {
-        "word": "creator",
-        "hits": 2
-      },
-      {
-        "word": "micro",
-        "hits": 2
-      },
-      {
-        "word": "learning",
-        "hits": 2
-      },
-      {
         "word": "productivity",
+        "hits": 2
+      },
+      {
+        "word": "llm",
+        "hits": 2
+      },
+      {
+        "word": "local",
+        "hits": 1
+      },
+      {
+        "word": "startup",
         "hits": 1
       }
     ]
