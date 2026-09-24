@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-23T09:50:48.160Z",
+  "generatedAt": "2026-09-24T09:49:51.918Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Claude discovers a novel enzyme system with CRISPR-like repeats\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005"
+        "detail": "Claude discovers a novel enzyme system with CRISPR-like repeats"
       },
       {
         "head": "Tech & AI",
-        "detail": "Rabbit’s new AI agent doesn’t need an R1 to run"
+        "detail": "The old cybersecurity model is breaking"
       },
       {
         "head": "Tech & AI",
-        "detail": "Qualcomm launches two new smartphone chips with emphasis on AI"
+        "detail": "Italian parliament votes for return to nuclear energy"
       },
       {
         "head": "Social",
-        "detail": "Meta Muse partners with Shopify and gets blocked by Amazon"
+        "detail": "YouTube presents new AI and engagement features at Made on 2026"
       }
     ],
     "signal": {
@@ -49,7 +49,7 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 115,
+    "scanned": 111,
     "kept": 12
   },
   "feed": [
@@ -57,108 +57,108 @@
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "UK economy will grow by less than expected next year, OECD says",
-      "body": "Higher energy prices due to the conflict in the Middle East and climate change could hit growth.",
+      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+      "body": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-23T09:18:12.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a8c/live/e0daf3a0-b723-11f1-8d21-19ad84e0e822.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T07:10:58.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f010/live/69f3ee00-b795-11f1-a430-4d16ee157c41.jpg"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Meta outlines Muse, AI glasses and VR device updates at Connect 2026",
+      "body": "Meta showed off its latest AI-powered wearables at its annual showcase event.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/meta-outlines-muse-ai-glasses-and-vr-device-updates-at-connect-2026/831223/",
+      "publishedAt": "2026-09-24T06:15:54.000Z",
+      "image": null
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "rising",
+      "title": "YouTube presents new AI and engagement features at Made on 2026",
+      "body": "The company is expanding its custom feed feature and enabling creators to group their shorts into series in order to align with microdrama trends.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/youtube-presents-new-ai-and-engagement-features-at-made-on-2026/831216/",
+      "publishedAt": "2026-09-23T23:14:48.000Z",
+      "image": null
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "UK and US warned to take action on spiralling debt costs by IMF",
-      "body": "In an interview with the BBC, Kristalina Georgieva says economic shocks had pushed \"debt levels up like a staircase not to heaven\".",
+      "title": "US rejects pleas from OpenAI, Anthropic for global AI standards",
+      "body": "OpenAI's Sam Altman has called for risk evaluation standards, as have Anthropic's Dario Amodei and Hugging Face's Clement Delangue.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cx305ymq4ldqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-23T08:31:16.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3223/live/1ab42030-b713-11f1-a430-4d16ee157c41.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Trump wants AI to be called 'super intelligence'. Will it work?",
-      "body": "Some people close to the president have started to use the term but experts say it is unlikely to catch on.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cqy4z9pv4w0po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-23T03:20:30.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/891c/live/a452a4e0-b6ed-11f1-af5e-b359cc50acc4.jpg"
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Meta Muse uses human staff for some functions",
-      "body": "The artificial intelligence-powered agent is empowered to make calls on behalf of its users but some of those calls are being handed off to Meta staff, per 404 Media.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/meta-muse-uses-human-staff-for-some-functions/831097/",
-      "publishedAt": "2026-09-22T23:23:26.000Z",
-      "image": null
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Meta Muse partners with Shopify and gets blocked by Amazon",
-      "body": "The artificial intelligence agent will be able to make purchases for users on all Shopify stores but won’t have access to Amazon products or retailers.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/meta-muse-partners-with-shopify-and-gets-blocked-by-amazon/831096/",
-      "publishedAt": "2026-09-22T23:14:35.000Z",
-      "image": null
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Meta adds Threads-specific permissions for businesses",
-      "body": "As part of a larger decoupling from Instagram, the app is allowing advertisers to assign Threads-specific controls to marketing teams.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/meta-adds-threads-specific-permissions-for-businesses/831087/",
-      "publishedAt": "2026-09-22T21:10:43.000Z",
-      "image": null
+      "url": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T22:35:14.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c6c/live/9e4ea090-b791-11f1-a7dc-51a9fb487fda.jpg"
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
-      "body": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup say…",
-      "src": "The Verge",
-      "fav": "TV",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
-      "publishedAt": "2026-09-22T20:52:40.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25415491/DSC08587.JPG?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-      "body": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-      "publishedAt": "2026-09-22T20:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/assets_2026_09_1789671614_Snapdragon-8-Elite-Extreme-Gen-6-and-Snapdragon-8-Elite-Gen-6-Image-2-Embargo-Sep-22-10am-HT-1pm-PT.jpg?resize=1200,675"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
       "body": "—",
       "src": "Hacker News",
       "fav": "HN",
-      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-      "publishedAt": "2026-09-22T13:52:15Z",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "publishedAt": "2026-09-23T18:06:47Z",
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/394de337d8a5d8db93a1c048fa1cb53e16a09625-2048x1240.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "The old cybersecurity model is breaking",
+      "body": "As concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are rising, or that investors are pouring massive amounts of capi…",
+      "src": "TechCrunch",
+      "fav": "T",
+      "url": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
+      "publishedAt": "2026-09-23T17:44:02.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2233776792.jpg?resize=1200,750"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Italian parliament votes for return to nuclear energy",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
+      "publishedAt": "2026-09-23T17:06:16Z",
+      "image": null
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
+      "body": "Stock in major firms such as Microsoft, Nvidia and SpaceX was bought and sold on behalf of the US president.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/c6p3kxpp8lezo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T16:42:47.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4148/live/6d68fee0-b745-11f1-aa9c-3d062fa3aea7.jpg"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Meta Muse partners with Shopify, gets blocked by Amazon",
+      "body": "The agent will be able to make purchases for users on all Shopify stores but won’t have access to Amazon products or retailers.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/meta-muse-partners-with-shopify-gets-blocked-by-amazon/831096/",
+      "publishedAt": "2026-09-22T23:14:35.000Z",
       "image": null
     },
     {
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 71,
+        "scanned": 67,
         "kept": 3
       },
       "social": {
@@ -247,10 +247,14 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 27
+        "count": 23
       },
       {
         "src": "TechCrunch",
+        "count": 12
+      },
+      {
+        "src": "Nir & Far",
         "count": 12
       },
       {
@@ -259,10 +263,6 @@
       },
       {
         "src": "BBC Business",
-        "count": 12
-      },
-      {
-        "src": "Nir & Far",
         "count": 12
       },
       {
@@ -277,38 +277,38 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 50
+        "hits": 54
       },
       {
         "word": "agent",
-        "hits": 9
+        "hits": 16
       },
       {
         "word": "model",
-        "hits": 6
+        "hits": 5
+      },
+      {
+        "word": "micro",
+        "hits": 5
       },
       {
         "word": "habit",
         "hits": 5
       },
       {
-        "word": "micro",
-        "hits": 4
-      },
-      {
-        "word": "startup",
-        "hits": 2
+        "word": "focus",
+        "hits": 3
       },
       {
         "word": "llm",
+        "hits": 3
+      },
+      {
+        "word": "trend",
         "hits": 2
       },
       {
-        "word": "focus",
-        "hits": 2
-      },
-      {
-        "word": "local",
+        "word": "startup",
         "hits": 1
       },
       {
