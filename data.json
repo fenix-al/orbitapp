@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-24T09:49:51.918Z",
+  "generatedAt": "2026-09-25T10:05:56.552Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Claude discovers a novel enzyme system with CRISPR-like repeats\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Microsoft puts Brad Smith in charge of communications\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Claude discovers a novel enzyme system with CRISPR-like repeats"
+        "detail": "Microsoft puts Brad Smith in charge of communications"
       },
       {
         "head": "Tech & AI",
-        "detail": "The old cybersecurity model is breaking"
+        "detail": "How are Chinese AI labs releasing competitive models so cheaply?"
       },
       {
         "head": "Tech & AI",
-        "detail": "Italian parliament votes for return to nuclear energy"
+        "detail": "F-Droid 2.0"
       },
       {
         "head": "Social",
-        "detail": "YouTube presents new AI and engagement features at Made on 2026"
+        "detail": "YouTube presents new AI and engagement features at Made On 2026"
       }
     ],
     "signal": {
@@ -49,7 +49,7 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 111,
+    "scanned": 114,
     "kept": 12
   },
   "feed": [
@@ -57,108 +57,108 @@
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-      "body": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
+      "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
+      "body": "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-24T07:10:58.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f010/live/69f3ee00-b795-11f1-a430-4d16ee157c41.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-25T09:48:33.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fed0/live/93ad40c0-b8c1-11f1-ad1f-538855f30ba1.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Microsoft puts Brad Smith in charge of communications",
+      "body": "Microsoft vice chair and president Brad Smith. | Image: Getty Images Microsoft is moving its communications group out of marketing and into its Corporate, External, and Legal Affa…",
+      "src": "The Verge",
+      "fav": "TV",
+      "url": "https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela",
+      "publishedAt": "2026-09-24T22:08:22.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2268973139.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "cat": "social",
       "label": "Social",
       "tone": "",
-      "title": "Meta outlines Muse, AI glasses and VR device updates at Connect 2026",
-      "body": "Meta showed off its latest AI-powered wearables at its annual showcase event.",
+      "title": "Instagram chief shares algorithm insights and posting tips",
+      "body": "In a new series of videos, chief Adam Mosseri addresses concerns about algorithmic influence and suggests how creators can improve their results.",
       "src": "Social Media Today",
       "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/meta-outlines-muse-ai-glasses-and-vr-device-updates-at-connect-2026/831223/",
-      "publishedAt": "2026-09-24T06:15:54.000Z",
+      "url": "https://www.socialmediatoday.com/news/instagram-chief-shares-algorithm-insights-and-posting-tips/831326/",
+      "publishedAt": "2026-09-24T20:05:28.000Z",
       "image": null
     },
     {
       "cat": "social",
       "label": "Social",
+      "tone": "",
+      "title": "Meta looks to reassure AI users it can be trusted with their data",
+      "body": "Meta is using cute characters and fun devices as a means to drive adoption of an always-on AI recording device.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/meta-looks-to-reassure-ai-users-it-can-be-trusted-with-their-data/831323/",
+      "publishedAt": "2026-09-24T19:54:30.000Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
       "tone": "rising",
-      "title": "YouTube presents new AI and engagement features at Made on 2026",
-      "body": "The company is expanding its custom feed feature and enabling creators to group their shorts into series in order to align with microdrama trends.",
+      "title": "How are Chinese AI labs releasing competitive models so cheaply?",
+      "body": "—",
+      "src": "r/artificial",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/artificial/comments/1wpaq16/how_are_chinese_ai_labs_releasing_competitive/",
+      "publishedAt": "2026-09-24T19:12:27.000Z",
+      "image": null
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+      "body": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T18:06:40.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50c6/live/2164cc30-b804-11f1-97e1-83bf52ec4acd.jpg"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Reported assaults on Britain's rail services rise by more than a third",
+      "body": "Recorded incidents of violence and harassment against passengers and rail workers showed a sharp increase in the year to March.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/c6z0z5dz884lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T15:38:50.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b070/live/bbedba70-b811-11f1-9172-17f860da9de7.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "F-Droid 2.0",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+      "publishedAt": "2026-09-24T15:26:12Z",
+      "image": "https://f-droid.org/assets/fdroid-logo_bfHl7nsLHOUQxzdU8-rGIhn4bAgl6z7k2mA3fWoCyT4=.png"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "rising",
+      "title": "YouTube presents new AI and engagement features at Made On 2026",
+      "body": "The platform is expanding its custom feed feature and enabling creators to group their shorts into series in order to align with microdrama trends.",
       "src": "Social Media Today",
       "fav": "SM",
       "url": "https://www.socialmediatoday.com/news/youtube-presents-new-ai-and-engagement-features-at-made-on-2026/831216/",
       "publishedAt": "2026-09-23T23:14:48.000Z",
-      "image": null
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "US rejects pleas from OpenAI, Anthropic for global AI standards",
-      "body": "OpenAI's Sam Altman has called for risk evaluation standards, as have Anthropic's Dario Amodei and Hugging Face's Clement Delangue.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-23T22:35:14.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c6c/live/9e4ea090-b791-11f1-a7dc-51a9fb487fda.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "publishedAt": "2026-09-23T18:06:47Z",
-      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/394de337d8a5d8db93a1c048fa1cb53e16a09625-2048x1240.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "The old cybersecurity model is breaking",
-      "body": "As concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are rising, or that investors are pouring massive amounts of capi…",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
-      "publishedAt": "2026-09-23T17:44:02.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2233776792.jpg?resize=1200,750"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Italian parliament votes for return to nuclear energy",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
-      "publishedAt": "2026-09-23T17:06:16Z",
-      "image": null
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
-      "body": "Stock in major firms such as Microsoft, Nvidia and SpaceX was bought and sold on behalf of the US president.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c6p3kxpp8lezo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-23T16:42:47.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4148/live/6d68fee0-b745-11f1-aa9c-3d062fa3aea7.jpg"
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Meta Muse partners with Shopify, gets blocked by Amazon",
-      "body": "The agent will be able to make purchases for users on all Shopify stores but won’t have access to Amazon products or retailers.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/meta-muse-partners-with-shopify-gets-blocked-by-amazon/831096/",
-      "publishedAt": "2026-09-22T23:14:35.000Z",
       "image": null
     },
     {
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 67,
+        "scanned": 70,
         "kept": 3
       },
       "social": {
@@ -247,18 +247,18 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 23
+        "count": 26
       },
       {
         "src": "TechCrunch",
         "count": 12
       },
       {
-        "src": "Nir & Far",
+        "src": "Ars Technica",
         "count": 12
       },
       {
-        "src": "Ars Technica",
+        "src": "Nir & Far",
         "count": 12
       },
       {
@@ -277,43 +277,43 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 54
-      },
-      {
-        "word": "agent",
-        "hits": 16
-      },
-      {
-        "word": "model",
-        "hits": 5
+        "hits": 49
       },
       {
         "word": "micro",
-        "hits": 5
+        "hits": 6
       },
       {
         "word": "habit",
         "hits": 5
       },
       {
-        "word": "focus",
+        "word": "llm",
+        "hits": 4
+      },
+      {
+        "word": "model",
         "hits": 3
       },
       {
-        "word": "llm",
+        "word": "startup",
         "hits": 3
+      },
+      {
+        "word": "agent",
+        "hits": 3
+      },
+      {
+        "word": "focus",
+        "hits": 2
       },
       {
         "word": "trend",
         "hits": 2
       },
       {
-        "word": "startup",
-        "hits": 1
-      },
-      {
-        "word": "productivity",
-        "hits": 1
+        "word": "creator",
+        "hits": 2
       }
     ]
   }
