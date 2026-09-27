@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-26T09:46:50.526Z",
+  "generatedAt": "2026-09-27T10:28:01.333Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Ollaya – Ollama for open-source, Jev-style decision models\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"The first real AI worms have arrived. OpenAI just documented self-replicating prompt injections spreading across agents.\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Ollaya – Ollama for open-source, Jev-style decision models"
+        "detail": "The first real AI worms have arrived. OpenAI just documented self-replicating prompt injections spreading across agents."
       },
       {
         "head": "Tech & AI",
-        "detail": "U.S. appeals court upholds designation of Anthropic as supply chain risk"
+        "detail": "OpenAI's AI agents attempted unauthorized access to US government websites - topic"
       },
       {
         "head": "Tech & AI",
@@ -54,6 +54,54 @@
   },
   "feed": [
     {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "The first real AI worms have arrived. OpenAI just documented self-replicating prompt injections spreading acr…",
+      "body": "—",
+      "src": "r/artificial",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/artificial/comments/1wr7ayr/the_first_real_ai_worms_have_arrived_openai_just/",
+      "publishedAt": "2026-09-27T01:30:28.000Z",
+      "image": null
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Faisal Islam: The two big decisions the chancellor must make",
+      "body": "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-26T23:00:42.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8047/live/4b558d20-b9f5-11f1-afb9-0ba46641015c.jpg"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Heathrow Airport warns third runway could be delayed by four years",
+      "body": "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\".",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-26T16:32:42.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb83/live/ca71b050-a6f6-11f1-97e2-55b9ef1865bd.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "OpenAI's AI agents attempted unauthorized access to US government websites - topic",
+      "body": "—",
+      "src": "r/artificial",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/artificial/comments/1wqnqod/openais_ai_agents_attempted_unauthorized_access/",
+      "publishedAt": "2026-09-26T11:03:32.000Z",
+      "image": "https://external-preview.redd.it/P_ctsqWRSRyMifaU6HMuoL36IDi5CV9pqt4oqhqXbs8.jpeg?width=640&crop=smart&auto=webp&s=e3920aba18379a728b7ea3791d09b0c4de3593c0"
+    },
+    {
       "cat": "business",
       "label": "Business",
       "tone": "",
@@ -64,54 +112,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-26T02:50:56.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe1e/live/6ddbd170-b954-11f1-96dc-f7c10dbde38b.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Clubs seek legal advice over Man City charges compensation",
-      "body": "Premier League clubs are seeking legal advice as to whether they would have a compensation claim over the Manchester City 115 charges case.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-25T20:13:53.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/588a/live/72e11970-b96b-11f1-b55e-350150ef61ab.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://ollaya.dev/",
-      "publishedAt": "2026-09-25T18:33:50Z",
-      "image": "https://ollaya.dev/static/og.png?v=7bd2eae221"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-      "publishedAt": "2026-09-25T15:29:25Z",
-      "image": "https://image.cnbcfm.com/api/v1/image/108285631-1774986195722-gettyimages-2268688342-raa-anthropi260331_npMR4.jpeg?v=1774986237&w=1920&h=1080"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
-      "body": "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-25T09:48:33.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fed0/live/93ad40c0-b8c1-11f1-ad1f-538855f30ba1.jpg"
     },
     {
       "cat": "social",
@@ -254,11 +254,11 @@
         "count": 12
       },
       {
-        "src": "BBC Business",
+        "src": "Ars Technica",
         "count": 12
       },
       {
-        "src": "Ars Technica",
+        "src": "BBC Business",
         "count": 12
       },
       {
@@ -277,31 +277,35 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 47
+        "hits": 50
       },
       {
         "word": "agent",
-        "hits": 5
-      },
-      {
-        "word": "model",
-        "hits": 5
+        "hits": 8
       },
       {
         "word": "habit",
         "hits": 5
       },
       {
-        "word": "micro",
-        "hits": 5
+        "word": "llm",
+        "hits": 4
       },
       {
-        "word": "llm",
+        "word": "model",
         "hits": 3
       },
       {
         "word": "creator",
-        "hits": 2
+        "hits": 3
+      },
+      {
+        "word": "micro",
+        "hits": 3
+      },
+      {
+        "word": "startup",
+        "hits": 1
       },
       {
         "word": "productivity",
@@ -309,10 +313,6 @@
       },
       {
         "word": "viral",
-        "hits": 1
-      },
-      {
-        "word": "trend",
         "hits": 1
       }
     ]
