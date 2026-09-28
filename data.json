@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-27T10:28:01.333Z",
+  "generatedAt": "2026-09-28T11:35:56.140Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"The first real AI worms have arrived. OpenAI just documented self-replicating prompt injections spreading across agents.\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"LLMs respond differently to harmful prompts when AI watermarking is used\". Scan the feed below for the rest.",
     "bullets": [
-      {
-        "head": "Tech & AI",
-        "detail": "The first real AI worms have arrived. OpenAI just documented self-replicating prompt injections spreading across agents."
-      },
-      {
-        "head": "Tech & AI",
-        "detail": "OpenAI's AI agents attempted unauthorized access to US government websites - topic"
-      },
       {
         "head": "Tech & AI",
         "detail": "LLMs respond differently to harmful prompts when AI watermarking is used"
       },
       {
+        "head": "Tech & AI",
+        "detail": "AI companies in race to demonstrate their model most threatening to humanity"
+      },
+      {
+        "head": "Tech & AI",
+        "detail": "How do you personally handle data protection when using AI tools?"
+      },
+      {
         "head": "Social",
-        "detail": "YouTube presents new AI and engagement features at Made On 2026"
+        "detail": "How can Instagram creators use Muse AI agents?"
       }
     ],
     "signal": {
@@ -49,104 +49,104 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 110,
+    "scanned": 114,
     "kept": 12
   },
   "feed": [
     {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "The first real AI worms have arrived. OpenAI just documented self-replicating prompt injections spreading acr…",
-      "body": "—",
-      "src": "r/artificial",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1wr7ayr/the_first_real_ai_worms_have_arrived_openai_just/",
-      "publishedAt": "2026-09-27T01:30:28.000Z",
-      "image": null
-    },
-    {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Faisal Islam: The two big decisions the chancellor must make",
-      "body": "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.",
+      "title": "Avanti West Coast services to be nationalised from March",
+      "body": "The move is part of a plan to improve rail infrastructure, cut train delays and improve experiences for passengers.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-26T23:00:42.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8047/live/4b558d20-b9f5-11f1-afb9-0ba46641015c.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Heathrow Airport warns third runway could be delayed by four years",
-      "body": "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\".",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-26T16:32:42.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb83/live/ca71b050-a6f6-11f1-97e2-55b9ef1865bd.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c60qxk7d2539o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-28T09:07:52.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80b4/live/50e80e00-badd-11f1-a82f-af5731f3a958.jpg"
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
-      "tone": "rising",
-      "title": "OpenAI's AI agents attempted unauthorized access to US government websites - topic",
-      "body": "—",
-      "src": "r/artificial",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1wqnqod/openais_ai_agents_attempted_unauthorized_access/",
-      "publishedAt": "2026-09-26T11:03:32.000Z",
-      "image": "https://external-preview.redd.it/P_ctsqWRSRyMifaU6HMuoL36IDi5CV9pqt4oqhqXbs8.jpeg?width=640&crop=smart&auto=webp&s=e3920aba18379a728b7ea3791d09b0c4de3593c0"
+      "tone": "",
+      "title": "AI companies in race to demonstrate their model most threatening to humanity",
+      "body": "Article URL: https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/ Comments URL: http…",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
+      "publishedAt": "2026-09-28T08:35:40.000Z",
+      "image": "https://i0.wp.com/thecivilian.co.nz/wp-content/uploads/2026/09/aiendoftheworldstory.jpg?fit=872%2C591&#038;ssl=1"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "OpenAI bots meddled with multiple US government agency sites",
-      "body": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
+      "title": "Why the PM could finally drop the triple lock pension pledge",
+      "body": "Andy Burnham said that he would make tough decisions to fund a new national care service.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-26T02:50:56.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe1e/live/6ddbd170-b954-11f1-96dc-f7c10dbde38b.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c6jdvmy1287yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-28T07:38:21.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6613/live/8f3a1c10-bb1a-11f1-bd21-bdf910f2cec6.png"
     },
     {
-      "cat": "social",
-      "label": "Social",
+      "cat": "business",
+      "label": "Business",
       "tone": "",
-      "title": "Instagram chief shares algorithm insights and posting tips",
-      "body": "In a new series of videos, chief Adam Mosseri addresses concerns about algorithmic influence and suggests how creators can improve their results.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/instagram-chief-shares-algorithm-insights-and-posting-tips/831326/",
-      "publishedAt": "2026-09-24T20:05:28.000Z",
+      "title": "Healey to promise 'new age of industrialisation' for UK in conference speech",
+      "body": "The chancellor will unveil policies aimed at boosting British shipbuilding in his speech to Labour's annual conference on Monday.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cjdx53edkglgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-28T07:19:48.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44ef/live/05e9aa10-bac1-11f1-b327-372771fd59f2.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "",
+      "title": "How do you personally handle data protection when using AI tools?",
+      "body": "—",
+      "src": "r/artificial",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/artificial/comments/1ws43jw/how_do_you_personally_handle_data_protection_when/",
+      "publishedAt": "2026-09-28T03:42:56.000Z",
       "image": null
     },
     {
       "cat": "social",
       "label": "Social",
       "tone": "",
-      "title": "Meta looks to reassure AI users it can be trusted with their data",
-      "body": "The tech giant is using cute characters and fun devices as a means to drive adoption of an always-on artificial intelligence recording device.",
+      "title": "Can Meta be trusted with user data to power its AI agents?",
+      "body": "An incomplete list of the many times that Meta has been accused of misusing people’s data over the years reflects how it prioritizes innovation over safety.",
       "src": "Social Media Today",
       "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/meta-looks-to-reassure-ai-users-it-can-be-trusted-with-their-data/831323/",
-      "publishedAt": "2026-09-24T19:54:30.000Z",
+      "url": "https://www.socialmediatoday.com/news/can-meta-be-trusted-with-user-data-to-power-its-ai-agents/831446/",
+      "publishedAt": "2026-09-27T22:38:36.000Z",
+      "image": "https://imgproxy.divecdn.com/_F9K7808g-egAJKt4BktdI9h92MmalSfxjmoYu3HMRM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8ySDNZQlJBLmpwZw==.webp"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "YouTube previews AI-powered Conversational Editing",
+      "body": "Conversational Editing will make it easier for creators to build and refine their projects using plain language guidance.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/youtube-previews-ai-powered-conversational-editing/831445/",
+      "publishedAt": "2026-09-27T22:34:24.000Z",
       "image": null
     },
     {
       "cat": "social",
       "label": "Social",
       "tone": "rising",
-      "title": "YouTube presents new AI and engagement features at Made On 2026",
-      "body": "The platform is expanding its custom feed feature and enabling creators to group their shorts into series in order to align with microdrama trends.",
+      "title": "How can Instagram creators use Muse AI agents?",
+      "body": "There’s a range of ways that Meta's AI agents could be of value for creators, but building trust in them will be a hurdle.",
       "src": "Social Media Today",
       "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/youtube-presents-new-ai-and-engagement-features-at-made-on-2026/831216/",
-      "publishedAt": "2026-09-23T23:14:48.000Z",
+      "url": "https://www.socialmediatoday.com/news/how-can-instagram-creators-use-muse-ai-agents/831443/",
+      "publishedAt": "2026-09-27T22:24:06.000Z",
       "image": null
     },
     {
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 66,
+        "scanned": 70,
         "kept": 3
       },
       "social": {
@@ -247,18 +247,18 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 22
+        "count": 26
       },
       {
         "src": "TechCrunch",
         "count": 12
       },
       {
-        "src": "Ars Technica",
+        "src": "BBC Business",
         "count": 12
       },
       {
-        "src": "BBC Business",
+        "src": "Ars Technica",
         "count": 12
       },
       {
@@ -277,11 +277,11 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 50
+        "hits": 43
       },
       {
         "word": "agent",
-        "hits": 8
+        "hits": 5
       },
       {
         "word": "habit",
@@ -289,7 +289,7 @@
       },
       {
         "word": "llm",
-        "hits": 4
+        "hits": 3
       },
       {
         "word": "model",
@@ -300,12 +300,12 @@
         "hits": 3
       },
       {
-        "word": "micro",
-        "hits": 3
+        "word": "startup",
+        "hits": 2
       },
       {
-        "word": "startup",
-        "hits": 1
+        "word": "micro",
+        "hits": 2
       },
       {
         "word": "productivity",
