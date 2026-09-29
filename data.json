@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-28T11:35:56.140Z",
+  "generatedAt": "2026-09-29T11:14:18.485Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"LLMs respond differently to harmful prompts when AI watermarking is used\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"A company ran 8 identical AI societies for weeks with different models and just published what happened. Some of it is genuinely unsettling.\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "LLMs respond differently to harmful prompts when AI watermarking is used"
+        "detail": "A company ran 8 identical AI societies for weeks with different models and just published what happened. Some of it is genuinely unsettling."
       },
       {
         "head": "Tech & AI",
-        "detail": "AI companies in race to demonstrate their model most threatening to humanity"
+        "detail": "It's Time to Investigate the AI Labs"
       },
       {
         "head": "Tech & AI",
-        "detail": "How do you personally handle data protection when using AI tools?"
+        "detail": "MicroLLM Lab – Try 7 tiny LLM's in the browser"
       },
       {
         "head": "Social",
-        "detail": "How can Instagram creators use Muse AI agents?"
+        "detail": "LinkedIn tests advanced creator discovery to power brand campaigns"
       }
     ],
     "signal": {
@@ -49,7 +49,7 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 114,
+    "scanned": 123,
     "kept": 12
   },
   "feed": [
@@ -57,84 +57,96 @@
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Avanti West Coast services to be nationalised from March",
-      "body": "The move is part of a plan to improve rail infrastructure, cut train delays and improve experiences for passengers.",
+      "title": "Warning more homes will be uninsurable due to flood risk",
+      "body": "Aviva boss Amanda Blanc said England was \"for sure\" building homes that might be uninsurable at some point in the future.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c60qxk7d2539o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-28T09:07:52.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80b4/live/50e80e00-badd-11f1-a82f-af5731f3a958.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c60qxk288e57o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-29T09:42:48.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec74/live/d048b840-bb3a-11f1-a430-4d16ee157c41.jpg"
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
-      "tone": "",
-      "title": "AI companies in race to demonstrate their model most threatening to humanity",
-      "body": "Article URL: https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/ Comments URL: http…",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
-      "publishedAt": "2026-09-28T08:35:40.000Z",
-      "image": "https://i0.wp.com/thecivilian.co.nz/wp-content/uploads/2026/09/aiendoftheworldstory.jpg?fit=872%2C591&#038;ssl=1"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Why the PM could finally drop the triple lock pension pledge",
-      "body": "Andy Burnham said that he would make tough decisions to fund a new national care service.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c6jdvmy1287yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-28T07:38:21.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6613/live/8f3a1c10-bb1a-11f1-bd21-bdf910f2cec6.png"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Healey to promise 'new age of industrialisation' for UK in conference speech",
-      "body": "The chancellor will unveil policies aimed at boosting British shipbuilding in his speech to Labour's annual conference on Monday.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cjdx53edkglgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-28T07:19:48.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44ef/live/05e9aa10-bac1-11f1-b327-372771fd59f2.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "",
-      "title": "How do you personally handle data protection when using AI tools?",
+      "tone": "rising",
+      "title": "A company ran 8 identical AI societies for weeks with different models and just published what happened. Some…",
       "body": "—",
       "src": "r/artificial",
       "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1ws43jw/how_do_you_personally_handle_data_protection_when/",
-      "publishedAt": "2026-09-28T03:42:56.000Z",
+      "url": "https://www.reddit.com/r/artificial/comments/1wt5joo/a_company_ran_8_identical_ai_societies_for_weeks/",
+      "publishedAt": "2026-09-29T09:29:13.000Z",
       "image": null
     },
     {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "OpenAI scraps rollout of new model over safety concerns",
+      "body": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-29T09:14:13.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac1/live/580d3570-bbc8-11f1-bc1f-3f186ca4140c.jpg"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "UK tries to stop Trump's diesel export ban",
+      "body": "John Healey said the government is in talks with the US over Donald Trump's threat to stop exports.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-29T07:19:04.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/445a/live/ee159a80-bb5a-11f1-b3b3-91d0b491a464.jpg"
+    },
+    {
       "cat": "social",
       "label": "Social",
-      "tone": "",
-      "title": "Can Meta be trusted with user data to power its AI agents?",
-      "body": "An incomplete list of the many times that Meta has been accused of misusing people’s data over the years reflects how it prioritizes innovation over safety.",
+      "tone": "rising",
+      "title": "LinkedIn tests advanced creator discovery to power brand campaigns",
+      "body": "As validation from credible subject matter experts grows more important, creator marketing has become a bigger part of B2B strategies.",
       "src": "Social Media Today",
       "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/can-meta-be-trusted-with-user-data-to-power-its-ai-agents/831446/",
-      "publishedAt": "2026-09-27T22:38:36.000Z",
-      "image": "https://imgproxy.divecdn.com/_F9K7808g-egAJKt4BktdI9h92MmalSfxjmoYu3HMRM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8ySDNZQlJBLmpwZw==.webp"
+      "url": "https://www.socialmediatoday.com/news/linkedin-tests-advanced-creator-discovery-to-power-brand-campaigns/831555/",
+      "publishedAt": "2026-09-28T20:00:35.000Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "It's Time to Investigate the AI Labs",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+      "publishedAt": "2026-09-28T19:53:35Z",
+      "image": "https://calnewport.com/wp-content/uploads/2026/09/16ALTMAN-sub-bzfh-superJumbo-v2-e1790369119788.webp"
     },
     {
       "cat": "social",
       "label": "Social",
       "tone": "",
-      "title": "YouTube previews AI-powered Conversational Editing",
-      "body": "Conversational Editing will make it easier for creators to build and refine their projects using plain language guidance.",
+      "title": "Meta launches enterprise AI platform to drive business opportunities",
+      "body": "The offering is intended to help businesses to use its Muse agents, Muse API and Muse Code products for more automated support for internal functionality and operations.",
       "src": "Social Media Today",
       "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/youtube-previews-ai-powered-conversational-editing/831445/",
-      "publishedAt": "2026-09-27T22:34:24.000Z",
+      "url": "https://www.socialmediatoday.com/news/meta-launches-enterprise-ai-platform-to-drive-business-opportunities/831548/",
+      "publishedAt": "2026-09-28T19:29:54.000Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://stateofutopia.com/experiments/microllmlab/",
+      "publishedAt": "2026-09-28T18:58:53Z",
       "image": null
     },
     {
@@ -142,24 +154,12 @@
       "label": "Social",
       "tone": "rising",
       "title": "How can Instagram creators use Muse AI agents?",
-      "body": "There’s a range of ways that Meta's AI agents could be of value for creators, but building trust in them will be a hurdle.",
+      "body": "There’s a range of ways that Meta's artificial intelligence agents could be of value for creators, but building trust in them will be a hurdle.",
       "src": "Social Media Today",
       "fav": "SM",
       "url": "https://www.socialmediatoday.com/news/how-can-instagram-creators-use-muse-ai-agents/831443/",
       "publishedAt": "2026-09-27T22:24:06.000Z",
       "image": null
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
-      "body": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
-      "src": "Ars Technica",
-      "fav": "AT",
-      "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
-      "publishedAt": "2026-09-17T18:33:13.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-generated-watermark-1152x556.jpg"
     },
     {
       "cat": "growth",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 70,
+        "scanned": 79,
         "kept": 3
       },
       "social": {
@@ -247,18 +247,18 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 26
+        "count": 25
       },
       {
         "src": "TechCrunch",
         "count": 12
       },
       {
-        "src": "BBC Business",
+        "src": "Ars Technica",
         "count": 12
       },
       {
-        "src": "Ars Technica",
+        "src": "BBC Business",
         "count": 12
       },
       {
@@ -277,11 +277,15 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 43
+        "hits": 57
       },
       {
         "word": "agent",
-        "hits": 5
+        "hits": 12
+      },
+      {
+        "word": "model",
+        "hits": 10
       },
       {
         "word": "habit",
@@ -289,10 +293,14 @@
       },
       {
         "word": "llm",
+        "hits": 4
+      },
+      {
+        "word": "startup",
         "hits": 3
       },
       {
-        "word": "model",
+        "word": "micro",
         "hits": 3
       },
       {
@@ -300,19 +308,11 @@
         "hits": 3
       },
       {
-        "word": "startup",
+        "word": "focus",
         "hits": 2
       },
       {
-        "word": "micro",
-        "hits": 2
-      },
-      {
-        "word": "productivity",
-        "hits": 1
-      },
-      {
-        "word": "viral",
+        "word": "growth",
         "hits": 1
       }
     ]
