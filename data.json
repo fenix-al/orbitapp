@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-29T11:14:18.485Z",
+  "generatedAt": "2026-09-30T11:02:40.632Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"A company ran 8 identical AI societies for weeks with different models and just published what happened. Some of it is genuinely unsettling.\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Why Is Sam Altman a Free Man?\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "A company ran 8 identical AI societies for weeks with different models and just published what happened. Some of it is genuinely unsettling."
+        "detail": "Why Is Sam Altman a Free Man?"
       },
       {
         "head": "Tech & AI",
-        "detail": "It's Time to Investigate the AI Labs"
+        "detail": "Do you think we'll ever have local models on the level of Astra, Fable and Opus?"
       },
       {
         "head": "Tech & AI",
-        "detail": "MicroLLM Lab – Try 7 tiny LLM's in the browser"
+        "detail": "A collection of agent org charts thats went viral on twitter"
       },
       {
         "head": "Social",
@@ -49,7 +49,7 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 123,
+    "scanned": 114,
     "kept": 12
   },
   "feed": [
@@ -57,49 +57,97 @@
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Warning more homes will be uninsurable due to flood risk",
-      "body": "Aviva boss Amanda Blanc said England was \"for sure\" building homes that might be uninsurable at some point in the future.",
+      "title": "Regulating AI 'not the right place to start' says Bailey",
+      "body": "AI needs \"rigorous\" testing and safeguards to contain risk, Andrew Bailey says.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c60qxk288e57o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-29T09:42:48.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec74/live/d048b840-bb3a-11f1-a430-4d16ee157c41.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-30T10:20:20.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e249/live/7e528b30-bcb4-11f1-a3e9-bbda6f9b9e25.jpg"
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "A company ran 8 identical AI societies for weeks with different models and just published what happened. Some…",
+      "title": "Why Is Sam Altman a Free Man?",
+      "body": "Article URL: https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice/ Comments URL: https://news.ycombinator.com/item?id=4…",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice/",
+      "publishedAt": "2026-09-30T07:32:40.000Z",
+      "image": "https://i0.wp.com/prospect.org/wp-content/uploads/2026/09/1-1.jpg?fit=2000%2C1500&ssl=1"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Do you think we'll ever have local models on the level of Astra, Fable and Opus?",
       "body": "—",
       "src": "r/artificial",
       "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1wt5joo/a_company_ran_8_identical_ai_societies_for_weeks/",
-      "publishedAt": "2026-09-29T09:29:13.000Z",
+      "url": "https://www.reddit.com/r/artificial/comments/1wtyhhk/do_you_think_well_ever_have_local_models_on_the/",
+      "publishedAt": "2026-09-30T07:21:54.000Z",
       "image": null
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "OpenAI scraps rollout of new model over safety concerns",
-      "body": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
+      "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
+      "body": "Sam Altman spoke in San Francisco during OpenAI’s annual event for tech developers.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-29T09:14:13.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac1/live/580d3570-bbc8-11f1-bc1f-3f186ca4140c.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-30T05:18:13.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/181a/live/455d3af0-bc41-11f1-bc1f-3f186ca4140c.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "A collection of agent org charts thats went viral on twitter",
+      "body": "—",
+      "src": "r/artificial",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/artificial/comments/1wtqq0l/a_collection_of_agent_org_charts_thats_went_viral/",
+      "publishedAt": "2026-09-30T00:23:28.000Z",
+      "image": "https://preview.redd.it/k07pyq0jwjsh1.png?width=640&crop=smart&auto=webp&s=ad327ec3e0002a97e51faf1709de1477f52bf451"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "UK tries to stop Trump's diesel export ban",
-      "body": "John Healey said the government is in talks with the US over Donald Trump's threat to stop exports.",
+      "title": "Chinese AI tool told researchers how to make bioweapons",
+      "body": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-29T07:19:04.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/445a/live/ee159a80-bb5a-11f1-b3b3-91d0b491a464.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-29T23:15:29.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/925f/live/79ba4b60-bc25-11f1-bd53-1b67dc8fba34.jpg"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Pinterest offers post-holiday marketing tips",
+      "body": "The company said that in the week between Christmas and New Year’s, marketing experts should shift from gifting to self-care.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/pinterest-offers-post-holiday-marketing-tips/831715/",
+      "publishedAt": "2026-09-29T21:45:40.000Z",
+      "image": null
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Meta launches Muse AI for SMBs",
+      "body": "The company’s agentic artificial intelligence tools can help small businesses improve workflows and work with connector partner apps.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/meta-launches-muse-ai-for-smbs/831714/",
+      "publishedAt": "2026-09-29T21:32:26.000Z",
+      "image": null
     },
     {
       "cat": "social",
@@ -111,54 +159,6 @@
       "fav": "SM",
       "url": "https://www.socialmediatoday.com/news/linkedin-tests-advanced-creator-discovery-to-power-brand-campaigns/831555/",
       "publishedAt": "2026-09-28T20:00:35.000Z",
-      "image": null
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "It's Time to Investigate the AI Labs",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
-      "publishedAt": "2026-09-28T19:53:35Z",
-      "image": "https://calnewport.com/wp-content/uploads/2026/09/16ALTMAN-sub-bzfh-superJumbo-v2-e1790369119788.webp"
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Meta launches enterprise AI platform to drive business opportunities",
-      "body": "The offering is intended to help businesses to use its Muse agents, Muse API and Muse Code products for more automated support for internal functionality and operations.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/meta-launches-enterprise-ai-platform-to-drive-business-opportunities/831548/",
-      "publishedAt": "2026-09-28T19:29:54.000Z",
-      "image": null
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://stateofutopia.com/experiments/microllmlab/",
-      "publishedAt": "2026-09-28T18:58:53Z",
-      "image": null
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "rising",
-      "title": "How can Instagram creators use Muse AI agents?",
-      "body": "There’s a range of ways that Meta's artificial intelligence agents could be of value for creators, but building trust in them will be a hurdle.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/how-can-instagram-creators-use-muse-ai-agents/831443/",
-      "publishedAt": "2026-09-27T22:24:06.000Z",
       "image": null
     },
     {
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 79,
+        "scanned": 70,
         "kept": 3
       },
       "social": {
@@ -247,14 +247,10 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 25
+        "count": 26
       },
       {
         "src": "TechCrunch",
-        "count": 12
-      },
-      {
-        "src": "Ars Technica",
         "count": 12
       },
       {
@@ -263,6 +259,10 @@
       },
       {
         "src": "Nir & Far",
+        "count": 12
+      },
+      {
+        "src": "Ars Technica",
         "count": 12
       },
       {
@@ -277,15 +277,19 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 57
+        "hits": 56
       },
       {
         "word": "agent",
-        "hits": 12
+        "hits": 10
       },
       {
         "word": "model",
-        "hits": 10
+        "hits": 7
+      },
+      {
+        "word": "micro",
+        "hits": 5
       },
       {
         "word": "habit",
@@ -293,26 +297,22 @@
       },
       {
         "word": "llm",
-        "hits": 4
-      },
-      {
-        "word": "startup",
         "hits": 3
       },
       {
-        "word": "micro",
-        "hits": 3
-      },
-      {
-        "word": "creator",
-        "hits": 3
-      },
-      {
-        "word": "focus",
+        "word": "local",
         "hits": 2
       },
       {
-        "word": "growth",
+        "word": "marketing",
+        "hits": 2
+      },
+      {
+        "word": "viral",
+        "hits": 2
+      },
+      {
+        "word": "productivity",
         "hits": 1
       }
     ]
