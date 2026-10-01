@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-30T11:02:40.632Z",
+  "generatedAt": "2026-10-01T11:29:19.251Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Why Is Sam Altman a Free Man?\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Why Is Sam Altman a Free Man?"
+        "detail": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation"
       },
       {
         "head": "Tech & AI",
-        "detail": "Do you think we'll ever have local models on the level of Astra, Fable and Opus?"
+        "detail": "Another Ling model comes out, same receipt, 2 weeks free to use, then open source. Chinese labs do contribute a lot to open source community"
       },
       {
         "head": "Tech & AI",
-        "detail": "A collection of agent org charts thats went viral on twitter"
+        "detail": "We just open-sourced the world's fastest WebGPU kernels for local AI on Hugging Face"
       },
       {
         "head": "Social",
-        "detail": "LinkedIn tests advanced creator discovery to power brand campaigns"
+        "detail": "Instagram adds option to boost livestreams"
       }
     ],
     "signal": {
@@ -49,7 +49,7 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 114,
+    "scanned": 123,
     "kept": 12
   },
   "feed": [
@@ -57,109 +57,109 @@
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Regulating AI 'not the right place to start' says Bailey",
-      "body": "AI needs \"rigorous\" testing and safeguards to contain risk, Andrew Bailey says.",
+      "title": "Travelodge failed sex assault victim 'at every stage'",
+      "body": "Room intrusions were still being reported at one-in-10 Travelodge hotels this summer, a review finds.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-30T10:20:20.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e249/live/7e528b30-bcb4-11f1-a3e9-bbda6f9b9e25.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Why Is Sam Altman a Free Man?",
-      "body": "Article URL: https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice/ Comments URL: https://news.ycombinator.com/item?id=4…",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice/",
-      "publishedAt": "2026-09-30T07:32:40.000Z",
-      "image": "https://i0.wp.com/prospect.org/wp-content/uploads/2026/09/1-1.jpg?fit=2000%2C1500&ssl=1"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Do you think we'll ever have local models on the level of Astra, Fable and Opus?",
-      "body": "—",
-      "src": "r/artificial",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1wtyhhk/do_you_think_well_ever_have_local_models_on_the/",
-      "publishedAt": "2026-09-30T07:21:54.000Z",
-      "image": null
+      "url": "https://www.bbc.co.uk/news/articles/c93429dg425o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-01T11:20:26.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2989/live/f7e0b2d0-97e1-11f1-a76b-f1c27c51f3da.png"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
-      "body": "Sam Altman spoke in San Francisco during OpenAI’s annual event for tech developers.",
+      "title": "AI boom could trigger market shocks, Bank of England boss warns",
+      "body": "Andrew Bailey says the central bank is watching the waves of cash being invested in artificial intelligence \"very carefully\".",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-30T05:18:13.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/181a/live/455d3af0-bc41-11f1-bc1f-3f186ca4140c.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "A collection of agent org charts thats went viral on twitter",
-      "body": "—",
-      "src": "r/artificial",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1wtqq0l/a_collection_of_agent_org_charts_thats_went_viral/",
-      "publishedAt": "2026-09-30T00:23:28.000Z",
-      "image": "https://preview.redd.it/k07pyq0jwjsh1.png?width=640&crop=smart&auto=webp&s=ad327ec3e0002a97e51faf1709de1477f52bf451"
+      "url": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-01T10:05:25.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d849/live/8e2b1bb0-bd4c-11f1-a52c-0511052dc036.jpg"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Chinese AI tool told researchers how to make bioweapons",
-      "body": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
+      "title": "Energy bills are rising by £60 a year - here's how you can bring that down",
+      "body": "Household energy bills have risen again but there are ways to keep a lid on your expenditure.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-29T23:15:29.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/925f/live/79ba4b60-bc25-11f1-bd53-1b67dc8fba34.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-01T07:08:22.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53c7/live/9b2f4a60-bd7f-11f1-bc2e-018d645d8d21.jpg"
     },
     {
       "cat": "social",
       "label": "Social",
       "tone": "",
-      "title": "Pinterest offers post-holiday marketing tips",
-      "body": "The company said that in the week between Christmas and New Year’s, marketing experts should shift from gifting to self-care.",
+      "title": "Instagram adds option to boost livestreams",
+      "body": "The app already allows promotional boosts of posts, Stories and Reels, and now creators can use an in-app feature to increase engagement of their live videos.",
       "src": "Social Media Today",
       "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/pinterest-offers-post-holiday-marketing-tips/831715/",
-      "publishedAt": "2026-09-29T21:45:40.000Z",
+      "url": "https://www.socialmediatoday.com/news/instagram-adds-option-to-boost-livestreams/831842/",
+      "publishedAt": "2026-09-30T22:05:28.000Z",
       "image": null
     },
     {
       "cat": "social",
       "label": "Social",
       "tone": "",
-      "title": "Meta launches Muse AI for SMBs",
-      "body": "The company’s agentic artificial intelligence tools can help small businesses improve workflows and work with connector partner apps.",
+      "title": "WhatsApp adds new parental controls",
+      "body": "The messaging app has implemented tools that will help monitor what groups teens connect with and how certain in-app features are used.",
       "src": "Social Media Today",
       "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/meta-launches-muse-ai-for-smbs/831714/",
-      "publishedAt": "2026-09-29T21:32:26.000Z",
+      "url": "https://www.socialmediatoday.com/news/whatsapp-adds-new-parental-controls/831841/",
+      "publishedAt": "2026-09-30T21:56:52.000Z",
       "image": null
     },
     {
       "cat": "social",
       "label": "Social",
+      "tone": "",
+      "title": "LinkedIn updates its AI-powered hiring bot",
+      "body": "The platform announced the launch of Hiring Assistant 2, which has improved capacity for personalization and candidate matchmaking.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/linkedin-updates-its-ai-powered-hiring-bot/831837/",
+      "publishedAt": "2026-09-30T21:21:03.000Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
       "tone": "rising",
-      "title": "LinkedIn tests advanced creator discovery to power brand campaigns",
-      "body": "As validation from credible subject matter experts grows more important, creator marketing has become a bigger part of B2B strategies.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/linkedin-tests-advanced-creator-discovery-to-power-brand-campaigns/831555/",
-      "publishedAt": "2026-09-28T20:00:35.000Z",
-      "image": null
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "body": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+      "src": "TechCrunch",
+      "fav": "T",
+      "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "publishedAt": "2026-09-30T21:07:40.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Another Ling model comes out, same receipt, 2 weeks free to use, then open source. Chinese labs do contribute…",
+      "body": "—",
+      "src": "r/LocalLLaMA",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuboum/another_ling_model_comes_out_same_receipt_2_weeks/",
+      "publishedAt": "2026-09-30T17:49:39.000Z",
+      "image": "https://external-preview.redd.it/hdUT-lmcpEXQ1yzMTHpnYutdShSTsa3WGoebxBoRNxw.png?width=640&crop=smart&auto=webp&s=88e4967b48925c1e52659aa68192db53e769f81b"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "We just open-sourced the world's fastest WebGPU kernels for local AI on Hugging Face",
+      "body": "—",
+      "src": "r/LocalLLaMA",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wu8tpg/we_just_opensourced_the_worlds_fastest_webgpu/",
+      "publishedAt": "2026-09-30T16:02:55.000Z",
+      "image": "https://external-preview.redd.it/YWQ3cnd0NmE3b3NoMTBKDQJN6ZSvIFSkWx1kgbte5j9-96xoo8GzdJiLdmHo.png?width=640&crop=smart&auto=webp&s=39ba3fd23fa330743bc3e7be3c43a89b8d7757a1"
     },
     {
       "cat": "growth",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 70,
+        "scanned": 79,
         "kept": 3
       },
       "social": {
@@ -247,7 +247,7 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 26
+        "count": 25
       },
       {
         "src": "TechCrunch",
@@ -277,18 +277,14 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 56
+        "hits": 50
       },
       {
         "word": "agent",
-        "hits": 10
-      },
-      {
-        "word": "model",
         "hits": 7
       },
       {
-        "word": "micro",
+        "word": "model",
         "hits": 5
       },
       {
@@ -296,24 +292,28 @@
         "hits": 5
       },
       {
-        "word": "llm",
+        "word": "startup",
         "hits": 3
       },
       {
-        "word": "local",
-        "hits": 2
+        "word": "micro",
+        "hits": 3
       },
       {
         "word": "marketing",
         "hits": 2
       },
       {
-        "word": "viral",
+        "word": "local",
         "hits": 2
       },
       {
-        "word": "productivity",
-        "hits": 1
+        "word": "learning",
+        "hits": 2
+      },
+      {
+        "word": "llm",
+        "hits": 2
       }
     ]
   }
