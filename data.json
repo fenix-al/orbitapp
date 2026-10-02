@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-01T11:29:19.251Z",
+  "generatedAt": "2026-10-02T10:59:20.033Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"I gave several AI coding agents the same repo. They broke each other's work in every isolated run, and started messaging each other when I let them\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation"
+        "detail": "I gave several AI coding agents the same repo. They broke each other's work in every isolated run, and started messaging each other when I let them"
       },
       {
         "head": "Tech & AI",
-        "detail": "Another Ling model comes out, same receipt, 2 weeks free to use, then open source. Chinese labs do contribute a lot to open source community"
+        "detail": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation"
       },
       {
         "head": "Tech & AI",
-        "detail": "We just open-sourced the world's fastest WebGPU kernels for local AI on Hugging Face"
+        "detail": "Pi 1.0"
       },
       {
         "head": "Social",
-        "detail": "Instagram adds option to boost livestreams"
+        "detail": "YouTube updates Shorts algorithm to put more focus on original content"
       }
     ],
     "signal": {
@@ -49,7 +49,7 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 123,
+    "scanned": 119,
     "kept": 12
   },
   "feed": [
@@ -57,109 +57,109 @@
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Travelodge failed sex assault victim 'at every stage'",
-      "body": "Room intrusions were still being reported at one-in-10 Travelodge hotels this summer, a review finds.",
+      "title": "OpenAI fires workers for 'mishandling sensitive information'",
+      "body": "The former employees were investigated for sharing data with an outside AI evaluation group.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c93429dg425o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T11:20:26.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2989/live/f7e0b2d0-97e1-11f1-a76b-f1c27c51f3da.png"
+      "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T08:20:32.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/136d/live/561b92b0-bdf9-11f1-a76b-bdcdab65a1b7.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "I gave several AI coding agents the same repo. They broke each other's work in every isolated run, and starte…",
+      "body": "—",
+      "src": "r/artificial",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/artificial/comments/1wvnbfc/i_gave_several_ai_coding_agents_the_same_repo/",
+      "publishedAt": "2026-10-02T07:15:05.000Z",
+      "image": null
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "AI boom could trigger market shocks, Bank of England boss warns",
-      "body": "Andrew Bailey says the central bank is watching the waves of cash being invested in artificial intelligence \"very carefully\".",
+      "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
+      "body": "Cuban exiles in Florida are increasingly hopeful that regime change in Cuba is now on the horizon.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T10:05:25.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d849/live/8e2b1bb0-bd4c-11f1-a52c-0511052dc036.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-01T23:00:05.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f157/live/3b2f3340-bca9-11f1-a3e9-bbda6f9b9e25.jpg"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "TikTok U.S. reports generating $81B in economic value",
+      "body": "A new study commissioned by the app outlined its impact on jobs, small businesses and consumer learning opportunities.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/tiktok-us-reports-generating-81b-in-economic-value/831978/",
+      "publishedAt": "2026-10-01T22:20:33.000Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
+      "body": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.",
+      "src": "TechCrunch",
+      "fav": "T",
+      "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
+      "publishedAt": "2026-10-01T21:55:22.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "YouTube updates Shorts algorithm to put more focus on original content",
+      "body": "YouTube's updating its recommendation systems to prioritize creator-made videos, which will also reduce the reach of aggregator accounts.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/youtube-updates-shorts-algorithm-to-put-more-focus-on-original-content/831976/",
+      "publishedAt": "2026-10-01T21:13:07.000Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Pi 1.0",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://earendil.com/posts/pi-1-0/",
+      "publishedAt": "2026-10-01T19:33:05Z",
+      "image": "https:&#x2f;&#x2f;earendil.com&#x2f;static&#x2f;og&#x2f;posts&#x2f;pi-1-0.png"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Energy bills are rising by £60 a year - here's how you can bring that down",
-      "body": "Household energy bills have risen again but there are ways to keep a lid on your expenditure.",
+      "title": "PM warned Rosebank oil field could breach West Bank sanctions",
+      "body": "Campaigners and Green Party leader Zack Polanski raise concerns about Rosebank's ties to an Israeli firm.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T07:08:22.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53c7/live/9b2f4a60-bd7f-11f1-bc2e-018d645d8d21.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cmrl6lz454lgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-01T18:38:22.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcdd/live/d6080670-bd8b-11f1-b442-f3f672c979ff.jpg"
     },
     {
       "cat": "social",
       "label": "Social",
       "tone": "",
       "title": "Instagram adds option to boost livestreams",
-      "body": "The app already allows promotional boosts of posts, Stories and Reels, and now creators can use an in-app feature to increase engagement of their live videos.",
+      "body": "Creators can now use an in-app feature to increase engagement of their live videos.",
       "src": "Social Media Today",
       "fav": "SM",
       "url": "https://www.socialmediatoday.com/news/instagram-adds-option-to-boost-livestreams/831842/",
       "publishedAt": "2026-09-30T22:05:28.000Z",
       "image": null
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "WhatsApp adds new parental controls",
-      "body": "The messaging app has implemented tools that will help monitor what groups teens connect with and how certain in-app features are used.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/whatsapp-adds-new-parental-controls/831841/",
-      "publishedAt": "2026-09-30T21:56:52.000Z",
-      "image": null
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "LinkedIn updates its AI-powered hiring bot",
-      "body": "The platform announced the launch of Hiring Assistant 2, which has improved capacity for personalization and candidate matchmaking.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/linkedin-updates-its-ai-powered-hiring-bot/831837/",
-      "publishedAt": "2026-09-30T21:21:03.000Z",
-      "image": null
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-      "body": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-      "publishedAt": "2026-09-30T21:07:40.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Another Ling model comes out, same receipt, 2 weeks free to use, then open source. Chinese labs do contribute…",
-      "body": "—",
-      "src": "r/LocalLLaMA",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuboum/another_ling_model_comes_out_same_receipt_2_weeks/",
-      "publishedAt": "2026-09-30T17:49:39.000Z",
-      "image": "https://external-preview.redd.it/hdUT-lmcpEXQ1yzMTHpnYutdShSTsa3WGoebxBoRNxw.png?width=640&crop=smart&auto=webp&s=88e4967b48925c1e52659aa68192db53e769f81b"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "We just open-sourced the world's fastest WebGPU kernels for local AI on Hugging Face",
-      "body": "—",
-      "src": "r/LocalLLaMA",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wu8tpg/we_just_opensourced_the_worlds_fastest_webgpu/",
-      "publishedAt": "2026-09-30T16:02:55.000Z",
-      "image": "https://external-preview.redd.it/YWQ3cnd0NmE3b3NoMTBKDQJN6ZSvIFSkWx1kgbte5j9-96xoo8GzdJiLdmHo.png?width=640&crop=smart&auto=webp&s=39ba3fd23fa330743bc3e7be3c43a89b8d7757a1"
     },
     {
       "cat": "growth",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 79,
+        "scanned": 75,
         "kept": 3
       },
       "social": {
@@ -247,7 +247,7 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 25
+        "count": 31
       },
       {
         "src": "TechCrunch",
@@ -258,11 +258,11 @@
         "count": 12
       },
       {
-        "src": "Nir & Far",
+        "src": "Ars Technica",
         "count": 12
       },
       {
-        "src": "Ars Technica",
+        "src": "Nir & Far",
         "count": 12
       },
       {
@@ -277,43 +277,43 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 50
-      },
-      {
-        "word": "agent",
-        "hits": 7
+        "hits": 42
       },
       {
         "word": "model",
-        "hits": 5
+        "hits": 6
       },
       {
         "word": "habit",
         "hits": 5
       },
       {
-        "word": "startup",
-        "hits": 3
-      },
-      {
         "word": "micro",
+        "hits": 4
+      },
+      {
+        "word": "focus",
         "hits": 3
       },
       {
-        "word": "marketing",
-        "hits": 2
+        "word": "agent",
+        "hits": 3
       },
       {
-        "word": "local",
-        "hits": 2
-      },
-      {
-        "word": "learning",
+        "word": "startup",
         "hits": 2
       },
       {
         "word": "llm",
         "hits": 2
+      },
+      {
+        "word": "creator",
+        "hits": 2
+      },
+      {
+        "word": "revenue",
+        "hits": 1
       }
     ]
   }
