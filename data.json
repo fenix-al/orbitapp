@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-02T10:59:20.033Z",
+  "generatedAt": "2026-10-03T10:18:40.959Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"I gave several AI coding agents the same repo. They broke each other's work in every isolated run, and started messaging each other when I let them\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"PewDiePie unveils \"uncensored\" Ajax AI model built to run on home PCs — creator says OpenAI banned him twice over model distillation used to build his product\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "I gave several AI coding agents the same repo. They broke each other's work in every isolated run, and started messaging each other when I let them"
+        "detail": "PewDiePie unveils \"uncensored\" Ajax AI model built to run on home PCs — creator says OpenAI banned him twice over model distillation used to build his product"
       },
       {
         "head": "Tech & AI",
-        "detail": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation"
+        "detail": "Meta open sources code to let you make Muse AI gadgets"
       },
       {
         "head": "Tech & AI",
-        "detail": "Pi 1.0"
+        "detail": "From the creator of Redis; run LLM locally with ds4"
       },
       {
         "head": "Social",
@@ -49,10 +49,70 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 119,
+    "scanned": 114,
     "kept": 12
   },
   "feed": [
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
+      "body": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T04:38:31.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44c3/live/c89e9510-beff-11f1-babe-4199b0e7ccea.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "PewDiePie unveils \"uncensored\" Ajax AI model built to run on home PCs — creator says OpenAI banned him twice…",
+      "body": "—",
+      "src": "r/artificial",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/artificial/comments/1wwccsz/pewdiepie_unveils_uncensored_ajax_ai_model_built/",
+      "publishedAt": "2026-10-03T02:52:27.000Z",
+      "image": "https://external-preview.redd.it/BLCoaPXC8u7YCea1dopWdPilT_E1VT_vH-3Zqwf_oaU.png?width=640&crop=smart&auto=webp&s=dfd0a6d5ef2a3fc1092acb4ae74d3758e097c247"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Meta open sources code to let you make Muse AI gadgets",
+      "body": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a…",
+      "src": "The Verge",
+      "fav": "TV",
+      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "publishedAt": "2026-10-02T21:08:37.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "body": "Article URL: https://dwarfstar.sh/ Comments URL: https://news.ycombinator.com/item?id=49936575 Points: 242 # Comments: 65",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://dwarfstar.sh/",
+      "publishedAt": "2026-10-02T18:01:16.000Z",
+      "image": "https://dwarfstar.sh/og-preview-v2.png"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "No more cereal at the end of the aisle? New rules in Scotland's supermarkets",
+      "body": "Restrictions are being put on products with high sugar, fat and salt content, but the meal deal lives on.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyzye21463o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T10:47:07.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d82/live/328104a0-bd9c-11f1-a64c-550be9e3c66b.jpg"
+    },
     {
       "cat": "business",
       "label": "Business",
@@ -64,30 +124,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-02T08:20:32.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/136d/live/561b92b0-bdf9-11f1-a76b-bdcdab65a1b7.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "I gave several AI coding agents the same repo. They broke each other's work in every isolated run, and starte…",
-      "body": "—",
-      "src": "r/artificial",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1wvnbfc/i_gave_several_ai_coding_agents_the_same_repo/",
-      "publishedAt": "2026-10-02T07:15:05.000Z",
-      "image": null
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
-      "body": "Cuban exiles in Florida are increasingly hopeful that regime change in Cuba is now on the horizon.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T23:00:05.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f157/live/3b2f3340-bca9-11f1-a3e9-bbda6f9b9e25.jpg"
     },
     {
       "cat": "social",
@@ -102,18 +138,6 @@
       "image": null
     },
     {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
-      "body": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
-      "publishedAt": "2026-10-01T21:55:22.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600"
-    },
-    {
       "cat": "social",
       "label": "Social",
       "tone": "",
@@ -124,30 +148,6 @@
       "url": "https://www.socialmediatoday.com/news/youtube-updates-shorts-algorithm-to-put-more-focus-on-original-content/831976/",
       "publishedAt": "2026-10-01T21:13:07.000Z",
       "image": null
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Pi 1.0",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://earendil.com/posts/pi-1-0/",
-      "publishedAt": "2026-10-01T19:33:05Z",
-      "image": "https:&#x2f;&#x2f;earendil.com&#x2f;static&#x2f;og&#x2f;posts&#x2f;pi-1-0.png"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "PM warned Rosebank oil field could breach West Bank sanctions",
-      "body": "Campaigners and Green Party leader Zack Polanski raise concerns about Rosebank's ties to an Israeli firm.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cmrl6lz454lgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-01T18:38:22.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcdd/live/d6080670-bd8b-11f1-b442-f3f672c979ff.jpg"
     },
     {
       "cat": "social",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 75,
+        "scanned": 70,
         "kept": 3
       },
       "social": {
@@ -247,22 +247,22 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 31
-      },
-      {
-        "src": "TechCrunch",
-        "count": 12
+        "count": 26
       },
       {
         "src": "BBC Business",
         "count": 12
       },
       {
-        "src": "Ars Technica",
+        "src": "TechCrunch",
         "count": 12
       },
       {
         "src": "Nir & Far",
+        "count": 12
+      },
+      {
+        "src": "Ars Technica",
         "count": 12
       },
       {
@@ -277,42 +277,42 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 42
+        "hits": 47
       },
       {
-        "word": "model",
+        "word": "agent",
         "hits": 6
+      },
+      {
+        "word": "creator",
+        "hits": 5
       },
       {
         "word": "habit",
         "hits": 5
       },
       {
-        "word": "micro",
+        "word": "llm",
         "hits": 4
       },
       {
         "word": "focus",
-        "hits": 3
-      },
-      {
-        "word": "agent",
-        "hits": 3
-      },
-      {
-        "word": "startup",
         "hits": 2
       },
       {
-        "word": "llm",
+        "word": "micro",
         "hits": 2
       },
       {
-        "word": "creator",
+        "word": "model",
         "hits": 2
       },
       {
-        "word": "revenue",
+        "word": "open source",
+        "hits": 1
+      },
+      {
+        "word": "productivity",
         "hits": 1
       }
     ]
