@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-03T10:18:40.959Z",
+  "generatedAt": "2026-10-04T11:02:22.479Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"PewDiePie unveils \"uncensored\" Ajax AI model built to run on home PCs — creator says OpenAI banned him twice over model distillation used to build his product\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Everyone is obsessed with trillion-parameter models, so I mapped out the entire AI spectrum from 100KB to 2.5TB (and what they actually cost to run)\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "PewDiePie unveils \"uncensored\" Ajax AI model built to run on home PCs — creator says OpenAI banned him twice over model distillation used to build his product"
+        "detail": "Everyone is obsessed with trillion-parameter models, so I mapped out the entire AI spectrum from 100KB to 2.5TB (and what they actually cost to run)"
+      },
+      {
+        "head": "Tech & AI",
+        "detail": "I made 13 AI models play the doctor in my medical consultation game. All 195 consults got the diagnosis right; what separated them was safety."
       },
       {
         "head": "Tech & AI",
         "detail": "Meta open sources code to let you make Muse AI gadgets"
-      },
-      {
-        "head": "Tech & AI",
-        "detail": "From the creator of Redis; run LLM locally with ds4"
       },
       {
         "head": "Social",
@@ -49,10 +49,34 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 114,
+    "scanned": 109,
     "kept": 12
   },
   "feed": [
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Everyone is obsessed with trillion-parameter models, so I mapped out the entire AI spectrum from 100KB to 2.5…",
+      "body": "—",
+      "src": "r/artificial",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/artificial/comments/1wxanwe/everyone_is_obsessed_with_trillionparameter/",
+      "publishedAt": "2026-10-04T08:35:16.000Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "I made 13 AI models play the doctor in my medical consultation game. All 195 consults got the diagnosis right…",
+      "body": "—",
+      "src": "r/artificial",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/artificial/comments/1wx8vyi/i_made_13_ai_models_play_the_doctor_in_my_medical/",
+      "publishedAt": "2026-10-04T06:44:25.000Z",
+      "image": "https://preview.redd.it/2mxi8c9mceth1.png?width=640&crop=smart&auto=webp&s=bf8db890a96a166f9c12cf3a3cf33bd3b8b2b4ed"
+    },
     {
       "cat": "business",
       "label": "Business",
@@ -69,18 +93,6 @@
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "PewDiePie unveils \"uncensored\" Ajax AI model built to run on home PCs — creator says OpenAI banned him twice…",
-      "body": "—",
-      "src": "r/artificial",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1wwccsz/pewdiepie_unveils_uncensored_ajax_ai_model_built/",
-      "publishedAt": "2026-10-03T02:52:27.000Z",
-      "image": "https://external-preview.redd.it/BLCoaPXC8u7YCea1dopWdPilT_E1VT_vH-3Zqwf_oaU.png?width=640&crop=smart&auto=webp&s=dfd0a6d5ef2a3fc1092acb4ae74d3758e097c247"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
       "title": "Meta open sources code to let you make Muse AI gadgets",
       "body": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a…",
       "src": "The Verge",
@@ -88,18 +100,6 @@
       "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
       "publishedAt": "2026-10-02T21:08:37.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "From the creator of Redis; run LLM locally with ds4",
-      "body": "Article URL: https://dwarfstar.sh/ Comments URL: https://news.ycombinator.com/item?id=49936575 Points: 242 # Comments: 65",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://dwarfstar.sh/",
-      "publishedAt": "2026-10-02T18:01:16.000Z",
-      "image": "https://dwarfstar.sh/og-preview-v2.png"
     },
     {
       "cat": "business",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 70,
+        "scanned": 65,
         "kept": 3
       },
       "social": {
@@ -247,22 +247,22 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 26
-      },
-      {
-        "src": "BBC Business",
-        "count": 12
+        "count": 21
       },
       {
         "src": "TechCrunch",
         "count": 12
       },
       {
-        "src": "Nir & Far",
+        "src": "Ars Technica",
         "count": 12
       },
       {
-        "src": "Ars Technica",
+        "src": "BBC Business",
+        "count": 12
+      },
+      {
+        "src": "Nir & Far",
         "count": 12
       },
       {
@@ -277,14 +277,14 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 47
+        "hits": 45
       },
       {
         "word": "agent",
-        "hits": 6
+        "hits": 9
       },
       {
-        "word": "creator",
+        "word": "model",
         "hits": 5
       },
       {
@@ -293,22 +293,22 @@
       },
       {
         "word": "llm",
-        "hits": 4
+        "hits": 2
       },
       {
         "word": "focus",
         "hits": 2
       },
       {
-        "word": "micro",
-        "hits": 2
-      },
-      {
-        "word": "model",
+        "word": "creator",
         "hits": 2
       },
       {
         "word": "open source",
+        "hits": 1
+      },
+      {
+        "word": "startup",
         "hits": 1
       },
       {
