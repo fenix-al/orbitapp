@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-07T11:39:13.683Z",
+  "generatedAt": "2026-10-08T11:53:45.330Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Sharing AI progress in mathematics\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11\". Scan the feed below for the rest.",
     "bullets": [
+      {
+        "head": "Tech & AI",
+        "detail": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11"
+      },
+      {
+        "head": "Tech & AI",
+        "detail": "Claude Haiku 5.5"
+      },
       {
         "head": "Tech & AI",
         "detail": "Sharing AI progress in mathematics"
       },
       {
-        "head": "Tech & AI",
-        "detail": "Mirror Particle is building a ‘world model’ of human behavior"
-      },
-      {
-        "head": "Tech & AI",
-        "detail": "Mistral Large 4"
-      },
-      {
         "head": "Social",
-        "detail": "TikTok highlights creator recs for Halloween travel"
+        "detail": "LinkedIn shares checklist for B2B marketing campaigns"
       }
     ],
     "signal": {
@@ -49,7 +49,7 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 122,
+    "scanned": 111,
     "kept": 12
   },
   "feed": [
@@ -57,61 +57,85 @@
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Royal Mail plans to cut 2,500 jobs",
-      "body": "The postal service firm wants to cut head office and other non-frontline jobs by the end of 2027.",
+      "title": "Asos hackers took more personal details than first revealed, BBC finds",
+      "body": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgdld13e3eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-07T11:12:39.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f14c/live/dee1ef00-c235-11f1-be2f-0fbd447d6e43.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-08T11:01:29.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49a4/live/930ee0a0-c303-11f1-a64c-550be9e3c66b.jpg"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Japan beer giants raided over alleged price-fixing cartel",
-      "body": "Asahi and Kirin confirmed their premises were searched by Japanese competition authorities.",
+      "title": "New electric car 'make or break for Jaguar'",
+      "body": "Prof David Bailey says there is a lot riding on the Type 01 in terms of jobs and investment.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-07T09:45:56.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adce/live/8f5568b0-c21f-11f1-b7d8-6f930589c871.jpg"
-    },
-    {
-      "cat": "growth",
-      "label": "Growth",
-      "tone": "",
-      "title": "Starting new job, juggling things: your best tips?",
-      "body": "—",
-      "src": "r/productivity",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/productivity/comments/1wzs9ju/starting_new_job_juggling_things_your_best_tips/",
-      "publishedAt": "2026-10-07T09:40:23.000Z",
-      "image": null
-    },
-    {
-      "cat": "growth",
-      "label": "Growth",
-      "tone": "",
-      "title": "The 15-second habit that made my meetings actually useful",
-      "body": "—",
-      "src": "r/productivity",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/productivity/comments/1wzs71n/the_15second_habit_that_made_my_meetings_actually/",
-      "publishedAt": "2026-10-07T09:35:52.000Z",
-      "image": null
+      "url": "https://www.bbc.co.uk/news/articles/cwvgrx5ner6go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-08T05:08:56.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2d4/live/d69c5b20-c305-11f1-a64c-550be9e3c66b.png"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'",
-      "body": "Order of the Sinking Star is due out on Thursday and has roughly 1,500 puzzles for players to try",
+      "title": "AI chip boom pushes Samsung profits to record $80bn",
+      "body": "The tech giant is also expected to get a boost from its latest folding devices that were launched in August.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cj3vqxldglepo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-06T23:01:22.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb59/live/11c39bd0-be71-11f1-8a45-cd59664d243b.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-08T01:59:54.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2882/live/c97d4d10-c2b4-11f1-a0fd-81bd2aaa775c.jpg"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "AI favors brands with an active social media presence",
+      "body": "Social platform links appeared in a majority of Google’s artificial intelligence search results, according to a new study.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/ai-favors-brands-with-an-active-social-media-presence/832450/",
+      "publishedAt": "2026-10-07T22:19:25.000Z",
+      "image": null
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "LinkedIn shares checklist for B2B marketing campaigns",
+      "body": "LinkedIn's latest guide provides notes on how marketers can better align their campaigns with changing discovery behaviors.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/linkedin-shares-checklist-for-b2b-marketing-campaigns/832449/",
+      "publishedAt": "2026-10-07T22:13:37.000Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "body": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+      "src": "TechCrunch",
+      "fav": "T",
+      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "publishedAt": "2026-10-07T20:22:37.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Claude Haiku 5.5",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "publishedAt": "2026-10-07T18:01:32Z",
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/89e9b0fbfe0181f6ca565d913686ce8e49b5e9c2-1200x630.jpg"
     },
     {
       "cat": "tech",
@@ -129,61 +153,37 @@
       "cat": "social",
       "label": "Social",
       "tone": "",
-      "title": "TikTok highlights creator recs for Halloween travel",
+      "title": "TikTok highlights creator recommendations for Halloween travel",
       "body": "The app is focusing on popular #FilmTok and #BookTok locations and suggesting vacation ideas tied to spooky themes and the fall season.",
       "src": "Social Media Today",
       "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/tiktok-highlights-creator-recs-for-halloween-travel/832289/",
+      "url": "https://www.socialmediatoday.com/news/tiktok-highlights-creator-recommendations-for-halloween-travel/832289/",
       "publishedAt": "2026-10-06T18:45:24.000Z",
       "image": null
     },
     {
-      "cat": "social",
-      "label": "Social",
+      "cat": "growth",
+      "label": "Growth",
       "tone": "",
-      "title": "Meta introduces new AI-powered tools at Ad Week 2026",
-      "body": "The company is testing importing and creative insight features, as well as improved conversational guidance for its artificial intelligence elements.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/meta-introduces-new-ai-powered-tools-at-ad-week-2026/832288/",
-      "publishedAt": "2026-10-06T18:37:34.000Z",
-      "image": "https://imgproxy.divecdn.com/aVN7dXaXTpdFyMXaMPEaREn6tOEKhn3HfWWlPe7LTlU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDMucG5n.webp"
+      "title": "How Your Brain Sabotages Your Social Life—and Simple Ways to Fix It",
+      "body": "When a friend invited me over last week, I found myself entering a predictable state of hesitation. I stared at my phone for a while, thinking, Should I bail? The post How Your Br…",
+      "src": "Nir & Far",
+      "fav": "NF",
+      "url": "https://www.nirandfar.com/antisocial-brain/",
+      "publishedAt": "2025-10-14T13:00:26.000Z",
+      "image": "https://www.nirandfar.com/wp-content/uploads/2025/07/ben-rein-book-featured.webp"
     },
     {
-      "cat": "social",
-      "label": "Social",
+      "cat": "growth",
+      "label": "Growth",
       "tone": "",
-      "title": "X launches AI-powered ad creation option",
-      "body": "The company launched X Lift at Advertising Week New York and said the new system can automatically convert a business URL to a promotional campaign.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/x-launches-ai-powered-ad-creation-option/832276/",
-      "publishedAt": "2026-10-06T17:42:25.000Z",
-      "image": null
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Mirror Particle is building a ‘world model’ of human behavior",
-      "body": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short…",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
-      "publishedAt": "2026-10-06T16:35:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1404749040.jpg?resize=1200,675"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Mistral Large 4",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://mistral.ai/news/mistral-large-4/\\",
-      "publishedAt": "2026-10-06T13:15:49Z",
-      "image": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp"
+      "title": "Unlock Your Potential With The Power Of Belief",
+      "body": "In 2006, U.S. Team freestyle skier Michelle Roark zoomed down the slope at her first Olympics, conquering hilly terrain that not even a 4x4 could handle. At 31 years old, she was…",
+      "src": "Nir & Far",
+      "fav": "NF",
+      "url": "https://www.nirandfar.com/power-of-belief/",
+      "publishedAt": "2025-07-07T13:00:26.000Z",
+      "image": "https://www.nirandfar.com/wp-content/uploads/2025/06/power-of-belief-featured.webp"
     },
     {
       "cat": "growth",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 68,
+        "scanned": 67,
         "kept": 3
       },
       "social": {
@@ -235,7 +235,7 @@
       },
       "growth": {
         "label": "Growth",
-        "scanned": 32,
+        "scanned": 22,
         "kept": 3
       },
       "business": {
@@ -247,18 +247,18 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 24
+        "count": 23
       },
       {
         "src": "TechCrunch",
         "count": 12
       },
       {
-        "src": "Ars Technica",
+        "src": "BBC Business",
         "count": 12
       },
       {
-        "src": "BBC Business",
+        "src": "Ars Technica",
         "count": 12
       },
       {
@@ -277,42 +277,42 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 44
-      },
-      {
-        "word": "model",
-        "hits": 7
+        "hits": 46
       },
       {
         "word": "agent",
-        "hits": 7
+        "hits": 9
       },
       {
         "word": "habit",
-        "hits": 6
-      },
-      {
-        "word": "focus",
         "hits": 5
       },
       {
+        "word": "focus",
+        "hits": 4
+      },
+      {
         "word": "micro",
-        "hits": 2
-      },
-      {
-        "word": "startup",
-        "hits": 2
-      },
-      {
-        "word": "llm",
-        "hits": 2
+        "hits": 3
       },
       {
         "word": "creator",
-        "hits": 2
+        "hits": 3
       },
       {
-        "word": "on-device",
+        "word": "startup",
+        "hits": 1
+      },
+      {
+        "word": "model",
+        "hits": 1
+      },
+      {
+        "word": "productivity",
+        "hits": 1
+      },
+      {
+        "word": "marketing",
         "hits": 1
       }
     ]
