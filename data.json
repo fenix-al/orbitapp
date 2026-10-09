@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-08T11:53:45.330Z",
+  "generatedAt": "2026-10-09T11:45:44.477Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"OpenAI Argues Labs Shouldn't Be Liable For AI Agent Hacking\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11"
+        "detail": "OpenAI Argues Labs Shouldn't Be Liable For AI Agent Hacking"
       },
       {
         "head": "Tech & AI",
-        "detail": "Claude Haiku 5.5"
+        "detail": "Wikipedia says rogue AI agents from OpenAI edited its private wikis and hammered its servers"
       },
       {
         "head": "Tech & AI",
-        "detail": "Sharing AI progress in mathematics"
+        "detail": "Ben Affleck is an AI nerd, and the internet is impressed"
       },
       {
         "head": "Social",
-        "detail": "LinkedIn shares checklist for B2B marketing campaigns"
+        "detail": "LinkedIn exec offers insight into the battle against AI slop"
       }
     ],
     "signal": {
@@ -49,7 +49,7 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 111,
+    "scanned": 118,
     "kept": 12
   },
   "feed": [
@@ -57,108 +57,108 @@
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Asos hackers took more personal details than first revealed, BBC finds",
-      "body": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"",
+      "title": "I've been with my boyfriend for two years and don't know his salary",
+      "body": "Talking about salary, spending habits and debt can be some of dating's trickier conversations.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-08T11:01:29.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49a4/live/930ee0a0-c303-11f1-a64c-550be9e3c66b.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T09:37:38.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bc3/live/94309dd0-b36c-11f1-b1d1-571ed4d7ff2c.png"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "New electric car 'make or break for Jaguar'",
-      "body": "Prof David Bailey says there is a lot riding on the Type 01 in terms of jobs and investment.",
+      "title": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
+      "body": "Firmus said it had made the decision due to \"recent market volatility and prevailing market conditions\".",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgrx5ner6go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-08T05:08:56.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2d4/live/d69c5b20-c305-11f1-a64c-550be9e3c66b.png"
+      "url": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T07:14:30.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cb7/live/41bf1cb0-c380-11f1-b333-87955b7be3e7.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "OpenAI Argues Labs Shouldn't Be Liable For AI Agent Hacking",
+      "body": "—",
+      "src": "r/artificial",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/artificial/comments/1x1bpm2/openai_argues_labs_shouldnt_be_liable_for_ai/",
+      "publishedAt": "2026-10-09T04:11:55.000Z",
+      "image": null
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "AI chip boom pushes Samsung profits to record $80bn",
-      "body": "The tech giant is also expected to get a boost from its latest folding devices that were launched in August.",
+      "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
+      "body": "A new film paints the Meta founder as a villain. But the tech firm seems immune to bad publicity, writes our North America tech correspondent.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-08T01:59:54.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2882/live/c97d4d10-c2b4-11f1-a0fd-81bd2aaa775c.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-08T23:14:02.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b64/live/f290d3b0-c300-11f1-bc2e-018d645d8d21.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Wikipedia says rogue AI agents from OpenAI edited its private wikis and hammered its servers",
+      "body": "—",
+      "src": "r/artificial",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/artificial/comments/1x14l4d/wikipedia_says_rogue_ai_agents_from_openai_edited/",
+      "publishedAt": "2026-10-08T22:20:09.000Z",
+      "image": "https://external-preview.redd.it/lHO-SUtuFoVGClVkMJEQktVci44m6uhqFN30wWcTbn0.jpeg?width=640&crop=smart&auto=webp&s=7655181a9fe140dd0b4418d86fc01d24725cf2b5"
     },
     {
       "cat": "social",
       "label": "Social",
       "tone": "",
-      "title": "AI favors brands with an active social media presence",
-      "body": "Social platform links appeared in a majority of Google’s artificial intelligence search results, according to a new study.",
+      "title": "LinkedIn exec offers insight into the battle against AI slop",
+      "body": "Vice President of Engineering Tim Junka outlined in a post how the company approaches detection and how its artificial intelligence agents are trained.",
       "src": "Social Media Today",
       "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/ai-favors-brands-with-an-active-social-media-presence/832450/",
-      "publishedAt": "2026-10-07T22:19:25.000Z",
+      "url": "https://www.socialmediatoday.com/news/linkedin-exec-offers-insight-into-the-battle-against-ai-slop/832576/",
+      "publishedAt": "2026-10-08T21:42:14.000Z",
       "image": null
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "X’s Grok bots get analytic search capabilities",
+      "body": "The bots will be able to respond to conversational queries and search in-app posts and brand mentions, offering trend insights to marketers.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/xs-grok-bots-get-analytic-search-capabilities/832565/",
+      "publishedAt": "2026-10-08T20:25:17.000Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "body": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier th…",
+      "src": "TechCrunch",
+      "fav": "T",
+      "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+      "publishedAt": "2026-10-08T18:20:32.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/ben-affleck-GettyImages-2297443537.jpg?w=1024"
     },
     {
       "cat": "social",
       "label": "Social",
       "tone": "",
       "title": "LinkedIn shares checklist for B2B marketing campaigns",
-      "body": "LinkedIn's latest guide provides notes on how marketers can better align their campaigns with changing discovery behaviors.",
+      "body": "The latest guide provides notes on how marketers can better align their campaigns with changing discovery behaviors.",
       "src": "Social Media Today",
       "fav": "SM",
       "url": "https://www.socialmediatoday.com/news/linkedin-shares-checklist-for-b2b-marketing-campaigns/832449/",
       "publishedAt": "2026-10-07T22:13:37.000Z",
-      "image": null
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-      "body": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-      "publishedAt": "2026-10-07T20:22:37.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Claude Haiku 5.5",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://www.anthropic.com/claude-haiku-5-5",
-      "publishedAt": "2026-10-07T18:01:32Z",
-      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/89e9b0fbfe0181f6ca565d913686ce8e49b5e9c2-1200x630.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Sharing AI progress in mathematics",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "publishedAt": "2026-10-06T22:17:21Z",
-      "image": null
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "TikTok highlights creator recommendations for Halloween travel",
-      "body": "The app is focusing on popular #FilmTok and #BookTok locations and suggesting vacation ideas tied to spooky themes and the fall season.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/tiktok-highlights-creator-recommendations-for-halloween-travel/832289/",
-      "publishedAt": "2026-10-06T18:45:24.000Z",
       "image": null
     },
     {
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 67,
+        "scanned": 74,
         "kept": 3
       },
       "social": {
@@ -247,7 +247,7 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 23
+        "count": 30
       },
       {
         "src": "TechCrunch",
@@ -277,7 +277,7 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 46
+        "hits": 45
       },
       {
         "word": "agent",
@@ -285,26 +285,26 @@
       },
       {
         "word": "habit",
-        "hits": 5
-      },
-      {
-        "word": "focus",
-        "hits": 4
+        "hits": 6
       },
       {
         "word": "micro",
-        "hits": 3
-      },
-      {
-        "word": "creator",
-        "hits": 3
+        "hits": 5
       },
       {
         "word": "startup",
-        "hits": 1
+        "hits": 3
       },
       {
         "word": "model",
+        "hits": 3
+      },
+      {
+        "word": "viral",
+        "hits": 1
+      },
+      {
+        "word": "revenue",
         "hits": 1
       },
       {
@@ -312,7 +312,7 @@
         "hits": 1
       },
       {
-        "word": "marketing",
+        "word": "trend",
         "hits": 1
       }
     ]
