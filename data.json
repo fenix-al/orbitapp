@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-09T11:45:44.477Z",
+  "generatedAt": "2026-10-10T11:03:25.051Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"OpenAI Argues Labs Shouldn't Be Liable For AI Agent Hacking\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"The maker of non-text AI model Jev valued at $7.5B just weeks after launch\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "OpenAI Argues Labs Shouldn't Be Liable For AI Agent Hacking"
+        "detail": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch"
       },
       {
         "head": "Tech & AI",
-        "detail": "Wikipedia says rogue AI agents from OpenAI edited its private wikis and hammered its servers"
+        "detail": "Triple-A Minesweeper"
       },
       {
         "head": "Tech & AI",
-        "detail": "Ben Affleck is an AI nerd, and the internet is impressed"
+        "detail": "Our $445M Series D"
       },
       {
         "head": "Social",
@@ -49,7 +49,7 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 118,
+    "scanned": 111,
     "kept": 12
   },
   "feed": [
@@ -57,61 +57,73 @@
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "I've been with my boyfriend for two years and don't know his salary",
-      "body": "Talking about salary, spending habits and debt can be some of dating's trickier conversations.",
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "body": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-09T09:37:38.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bc3/live/94309dd0-b36c-11f1-b1d1-571ed4d7ff2c.png"
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T04:38:20.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2e6/live/71115e00-c499-11f1-b094-cb5c335b015a.jpg"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
-      "body": "Firmus said it had made the decision due to \"recent market volatility and prevailing market conditions\".",
+      "title": "Boots has a new owner: Three ways it could affect you",
+      "body": "The stalwart of Britain's High Street has been sold to a Canadian billionaire family. What will that mean for you?",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-09T07:14:30.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cb7/live/41bf1cb0-c380-11f1-b333-87955b7be3e7.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "OpenAI Argues Labs Shouldn't Be Liable For AI Agent Hacking",
-      "body": "—",
-      "src": "r/artificial",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1x1bpm2/openai_argues_labs_shouldnt_be_liable_for_ai/",
-      "publishedAt": "2026-10-09T04:11:55.000Z",
-      "image": null
+      "url": "https://www.bbc.co.uk/news/articles/c63djxry8124o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T23:01:14.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/120c/live/9c937870-c489-11f1-a915-a1cdb09cbaf6.jpg"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
-      "body": "A new film paints the Meta founder as a villain. But the tech firm seems immune to bad publicity, writes our North America tech correspondent.",
+      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+      "body": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-08T23:14:02.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b64/live/f290d3b0-c300-11f1-bc2e-018d645d8d21.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T22:30:22.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/200a/live/11ffab00-c472-11f1-9fee-49b2288eef07.jpg"
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "Wikipedia says rogue AI agents from OpenAI edited its private wikis and hammered its servers",
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "body": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+      "src": "TechCrunch",
+      "fav": "T",
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "publishedAt": "2026-10-09T21:41:29.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/typesafe-ai.jpg?resize=1174,1200"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Triple-A Minesweeper",
       "body": "—",
-      "src": "r/artificial",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1x14l4d/wikipedia_says_rogue_ai_agents_from_openai_edited/",
-      "publishedAt": "2026-10-08T22:20:09.000Z",
-      "image": "https://external-preview.redd.it/lHO-SUtuFoVGClVkMJEQktVci44m6uhqFN30wWcTbn0.jpeg?width=640&crop=smart&auto=webp&s=7655181a9fe140dd0b4418d86fc01d24725cf2b5"
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://minesweeper.mikelacher.com/",
+      "publishedAt": "2026-10-09T15:51:05Z",
+      "image": "https://minesweeper.mikelacher.com/images/share.png"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Our $445M Series D",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://oxide.computer/blog/our-445m-series-d",
+      "publishedAt": "2026-10-09T13:12:47Z",
+      "image": "https://oxide-computer-ne5trvoa9-oxidecomputer.vercel.app/img/blog/series-d/series-d-announcement-og-image.png"
     },
     {
       "cat": "social",
@@ -136,18 +148,6 @@
       "url": "https://www.socialmediatoday.com/news/xs-grok-bots-get-analytic-search-capabilities/832565/",
       "publishedAt": "2026-10-08T20:25:17.000Z",
       "image": null
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-      "body": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier th…",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-      "publishedAt": "2026-10-08T18:20:32.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/ben-affleck-GettyImages-2297443537.jpg?w=1024"
     },
     {
       "cat": "social",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 74,
+        "scanned": 67,
         "kept": 3
       },
       "social": {
@@ -247,7 +247,7 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 30
+        "count": 23
       },
       {
         "src": "TechCrunch",
@@ -277,34 +277,34 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 45
-      },
-      {
-        "word": "agent",
-        "hits": 9
+        "hits": 47
       },
       {
         "word": "habit",
         "hits": 6
       },
       {
-        "word": "micro",
+        "word": "agent",
         "hits": 5
       },
       {
-        "word": "startup",
-        "hits": 3
-      },
-      {
         "word": "model",
+        "hits": 4
+      },
+      {
+        "word": "micro",
         "hits": 3
       },
       {
-        "word": "viral",
+        "word": "llm",
+        "hits": 2
+      },
+      {
+        "word": "local",
         "hits": 1
       },
       {
-        "word": "revenue",
+        "word": "side project",
         "hits": 1
       },
       {
