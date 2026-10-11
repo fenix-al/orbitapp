@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-10T11:03:25.051Z",
+  "generatedAt": "2026-10-11T11:20:16.936Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"The maker of non-text AI model Jev valued at $7.5B just weeks after launch\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Qualcomm CEO reveals AI companies want phones running 100-billion-parameter models continuously by 2028.\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch"
+        "detail": "Qualcomm CEO reveals AI companies want phones running 100-billion-parameter models continuously by 2028."
       },
       {
         "head": "Tech & AI",
-        "detail": "Triple-A Minesweeper"
+        "detail": "Satya Nadella says we should assume all AI models are ‘compromised’"
       },
       {
         "head": "Tech & AI",
-        "detail": "Our $445M Series D"
+        "detail": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’"
       },
       {
         "head": "Social",
@@ -49,10 +49,46 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 111,
+    "scanned": 120,
     "kept": 12
   },
   "feed": [
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Qualcomm CEO reveals AI companies want phones running 100-billion-parameter models continuously by 2028.",
+      "body": "—",
+      "src": "r/LocalLLaMA",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2z14s/qualcomm_ceo_reveals_ai_companies_want_phones/",
+      "publishedAt": "2026-10-11T04:37:21.000Z",
+      "image": "https://preview.redd.it/lmtd1h0goruh1.png?width=640&crop=smart&auto=webp&s=66dd48782a30f1bf0acb5eac19117ce1236eb95a"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "body": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept…",
+      "src": "The Verge",
+      "fav": "TV",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "publishedAt": "2026-10-10T22:10:17.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "body": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "src": "TechCrunch",
+      "fav": "T",
+      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "publishedAt": "2026-10-10T21:47:51.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/11/satya-nadella-2_web.png?w=1000"
+    },
     {
       "cat": "business",
       "label": "Business",
@@ -62,8 +98,8 @@
       "src": "BBC Business",
       "fav": "BB",
       "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T04:38:20.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2e6/live/71115e00-c499-11f1-b094-cb5c335b015a.jpg"
+      "publishedAt": "2026-10-10T14:24:14.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d06b/live/625e43c0-c54b-11f1-b4f1-2359026a88ee.jpg"
     },
     {
       "cat": "business",
@@ -88,42 +124,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-09T22:30:22.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/200a/live/11ffab00-c472-11f1-9fee-49b2288eef07.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "body": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "publishedAt": "2026-10-09T21:41:29.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/typesafe-ai.jpg?resize=1174,1200"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Triple-A Minesweeper",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://minesweeper.mikelacher.com/",
-      "publishedAt": "2026-10-09T15:51:05Z",
-      "image": "https://minesweeper.mikelacher.com/images/share.png"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Our $445M Series D",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://oxide.computer/blog/our-445m-series-d",
-      "publishedAt": "2026-10-09T13:12:47Z",
-      "image": "https://oxide-computer-ne5trvoa9-oxidecomputer.vercel.app/img/blog/series-d/series-d-announcement-og-image.png"
     },
     {
       "cat": "social",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 67,
+        "scanned": 76,
         "kept": 3
       },
       "social": {
@@ -254,7 +254,7 @@
         "count": 12
       },
       {
-        "src": "BBC Business",
+        "src": "Nir & Far",
         "count": 12
       },
       {
@@ -262,7 +262,7 @@
         "count": 12
       },
       {
-        "src": "Nir & Far",
+        "src": "BBC Business",
         "count": 12
       },
       {
@@ -280,20 +280,24 @@
         "hits": 47
       },
       {
-        "word": "habit",
-        "hits": 6
-      },
-      {
         "word": "agent",
-        "hits": 5
+        "hits": 12
       },
       {
         "word": "model",
-        "hits": 4
+        "hits": 11
+      },
+      {
+        "word": "habit",
+        "hits": 7
       },
       {
         "word": "micro",
-        "hits": 3
+        "hits": 5
+      },
+      {
+        "word": "startup",
+        "hits": 4
       },
       {
         "word": "llm",
@@ -301,11 +305,7 @@
       },
       {
         "word": "local",
-        "hits": 1
-      },
-      {
-        "word": "side project",
-        "hits": 1
+        "hits": 2
       },
       {
         "word": "productivity",
