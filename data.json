@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-11T11:20:16.936Z",
+  "generatedAt": "2026-10-12T12:56:42.461Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Qualcomm CEO reveals AI companies want phones running 100-billion-parameter models continuously by 2028.\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Anthropic says its AI agents found a CRISPR-like enzyme family in viral DNA; a researcher notes his team had been studying the same enzymes since 2022\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Qualcomm CEO reveals AI companies want phones running 100-billion-parameter models continuously by 2028."
+        "detail": "Anthropic says its AI agents found a CRISPR-like enzyme family in viral DNA; a researcher notes his team had been studying the same enzymes since 2022"
       },
       {
         "head": "Tech & AI",
-        "detail": "Satya Nadella says we should assume all AI models are ‘compromised’"
+        "detail": "Minute-scale training for microrobot navigation"
       },
       {
         "head": "Tech & AI",
-        "detail": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’"
+        "detail": "Passkeys are a trap"
       },
       {
         "head": "Social",
-        "detail": "LinkedIn exec offers insight into the battle against AI slop"
+        "detail": "Meta publishes post to counter data center concerns"
       }
     ],
     "signal": {
@@ -49,45 +49,93 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 120,
+    "scanned": 110,
     "kept": 12
   },
   "feed": [
     {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "AI is less regulated than milk, says Microsoft president",
+      "body": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-12T07:47:37.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da16/live/eacee500-c610-11f1-aae8-850c1751d51d.jpg"
+    },
+    {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "Qualcomm CEO reveals AI companies want phones running 100-billion-parameter models continuously by 2028.",
+      "title": "Minute-scale training for microrobot navigation",
       "body": "—",
-      "src": "r/LocalLLaMA",
+      "src": "r/artificial",
       "fav": "R",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2z14s/qualcomm_ceo_reveals_ai_companies_want_phones/",
-      "publishedAt": "2026-10-11T04:37:21.000Z",
-      "image": "https://preview.redd.it/lmtd1h0goruh1.png?width=640&crop=smart&auto=webp&s=66dd48782a30f1bf0acb5eac19117ce1236eb95a"
+      "url": "https://www.reddit.com/r/artificial/comments/1x3v6bh/minutescale_training_for_microrobot_navigation/",
+      "publishedAt": "2026-10-12T07:09:01.000Z",
+      "image": "https://external-preview.redd.it/Jbx9YKHHlz9tuQfSPakQ6XO5wnsrc7y_xTcwBcgDKM0.png?width=320&crop=smart&auto=webp&s=5cd1f4248ca7e047720a25819d109049b3f1d195"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "X re-builds its third-party usage showcase",
+      "body": "The platform’s relaunched exhibit website lists official partners, agentic use cases and more in an effort to inspire developers to integrate X data into their apps.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/x-re-builds-its-third-party-usage-showcase/832684/",
+      "publishedAt": "2026-10-11T22:19:16.000Z",
+      "image": null
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-      "body": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept…",
-      "src": "The Verge",
-      "fav": "TV",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-      "publishedAt": "2026-10-10T22:10:17.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "title": "Passkeys are a trap",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
+      "publishedAt": "2026-10-11T21:59:48Z",
+      "image": null
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Meta publishes post to counter data center concerns",
+      "body": "The company released an overview from creator Tom Shaw addressing public apprehensions about water usage, energy bills and local job impacts.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/meta-publishes-post-to-counter-data-center-concerns/832679/",
+      "publishedAt": "2026-10-11T20:17:49.000Z",
+      "image": "https://imgproxy.divecdn.com/N9ZmFW3_lBLqEKiccMXkL6lqvErf14UeDKlzfxouHKk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NZXRhX0thbnNhc19DaXR5X0RhdGFfQ2VudGVyX0FlcmlhbF8xLmpwZw==.webp"
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "body": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "publishedAt": "2026-10-10T21:47:51.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/11/satya-nadella-2_web.png?w=1000"
+      "title": "Anthropic says its AI agents found a CRISPR-like enzyme family in viral DNA; a researcher notes his team had…",
+      "body": "—",
+      "src": "r/artificial",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/artificial/comments/1x3i1e5/anthropic_says_its_ai_agents_found_a_crisprlike/",
+      "publishedAt": "2026-10-11T20:05:11.000Z",
+      "image": "https://external-preview.redd.it/mZNPQPGh_zhRjG-ox0VqovVhd8ydf1PO9WIhrw9-liE.jpeg?width=640&crop=smart&auto=webp&s=42a19bcbad482ee8904f2d8d5448027f59068c7b"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+      "body": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T14:38:10.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92b1/live/fca86430-c56c-11f1-a64c-550be9e3c66b.jpg"
     },
     {
       "cat": "business",
@@ -102,30 +150,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d06b/live/625e43c0-c54b-11f1-b4f1-2359026a88ee.jpg"
     },
     {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Boots has a new owner: Three ways it could affect you",
-      "body": "The stalwart of Britain's High Street has been sold to a Canadian billionaire family. What will that mean for you?",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c63djxry8124o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-09T23:01:14.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/120c/live/9c937870-c489-11f1-a915-a1cdb09cbaf6.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-      "body": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-09T22:30:22.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/200a/live/11ffab00-c472-11f1-9fee-49b2288eef07.jpg"
-    },
-    {
       "cat": "social",
       "label": "Social",
       "tone": "",
@@ -135,30 +159,6 @@
       "fav": "SM",
       "url": "https://www.socialmediatoday.com/news/linkedin-exec-offers-insight-into-the-battle-against-ai-slop/832576/",
       "publishedAt": "2026-10-08T21:42:14.000Z",
-      "image": null
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "X’s Grok bots get analytic search capabilities",
-      "body": "The bots will be able to respond to conversational queries and search in-app posts and brand mentions, offering trend insights to marketers.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/xs-grok-bots-get-analytic-search-capabilities/832565/",
-      "publishedAt": "2026-10-08T20:25:17.000Z",
-      "image": null
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "LinkedIn shares checklist for B2B marketing campaigns",
-      "body": "The latest guide provides notes on how marketers can better align their campaigns with changing discovery behaviors.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/linkedin-shares-checklist-for-b2b-marketing-campaigns/832449/",
-      "publishedAt": "2026-10-07T22:13:37.000Z",
       "image": null
     },
     {
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 76,
+        "scanned": 67,
         "kept": 3
       },
       "social": {
@@ -240,7 +240,7 @@
       },
       "business": {
         "label": "Business",
-        "scanned": 12,
+        "scanned": 11,
         "kept": 3
       }
     },
@@ -254,16 +254,16 @@
         "count": 12
       },
       {
-        "src": "Nir & Far",
-        "count": 12
-      },
-      {
         "src": "Ars Technica",
         "count": 12
       },
       {
-        "src": "BBC Business",
+        "src": "Nir & Far",
         "count": 12
+      },
+      {
+        "src": "BBC Business",
+        "count": 11
       },
       {
         "src": "The Verge",
@@ -277,35 +277,35 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 47
+        "hits": 35
       },
       {
         "word": "agent",
-        "hits": 12
-      },
-      {
-        "word": "model",
-        "hits": 11
+        "hits": 6
       },
       {
         "word": "habit",
-        "hits": 7
-      },
-      {
-        "word": "micro",
         "hits": 5
       },
       {
-        "word": "startup",
-        "hits": 4
+        "word": "micro",
+        "hits": 3
+      },
+      {
+        "word": "local",
+        "hits": 2
+      },
+      {
+        "word": "creator",
+        "hits": 2
       },
       {
         "word": "llm",
         "hits": 2
       },
       {
-        "word": "local",
-        "hits": 2
+        "word": "startup",
+        "hits": 1
       },
       {
         "word": "productivity",
