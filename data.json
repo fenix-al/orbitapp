@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-12T12:56:42.461Z",
+  "generatedAt": "2026-10-13T12:33:41.305Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Anthropic says its AI agents found a CRISPR-like enzyme family in viral DNA; a researcher notes his team had been studying the same enzymes since 2022\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"AI models can provably hide arbitrary capabilities\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Anthropic says its AI agents found a CRISPR-like enzyme family in viral DNA; a researcher notes his team had been studying the same enzymes since 2022"
+        "detail": "AI models can provably hide arbitrary capabilities"
       },
       {
         "head": "Tech & AI",
-        "detail": "Minute-scale training for microrobot navigation"
+        "detail": "AI is a tool and using it well takes skill"
       },
       {
         "head": "Tech & AI",
-        "detail": "Passkeys are a trap"
+        "detail": "Meta has some Wonder Full new AI models"
       },
       {
         "head": "Social",
-        "detail": "Meta publishes post to counter data center concerns"
+        "detail": "Meta launches advanced Muse Wonder AI models"
       }
     ],
     "signal": {
@@ -49,7 +49,7 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 110,
+    "scanned": 105,
     "kept": 12
   },
   "feed": [
@@ -57,109 +57,109 @@
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "AI is less regulated than milk, says Microsoft president",
-      "body": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge.",
+      "title": "Poundland in rescue talks as owners seek buyer",
+      "body": "The leadership team is attempting a buyout, but a union has warned the retailer could fall into administration instead.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-12T07:47:37.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da16/live/eacee500-c610-11f1-aae8-850c1751d51d.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T12:17:17.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9b1/live/c0667080-c6e7-11f1-bf38-57dc5cd42af2.jpg"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Three things we've learnt about the UK economy from the IMF",
+      "body": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T11:58:43.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9039/live/426755d0-c6fd-11f1-b4dd-e786ec6f11b1.jpg"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "BA flight forced to turn back over cracked window",
+      "body": "British Airways said the plane landed safely at Gatwick and passengers were due to resume their journey.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cj1dwrxq1wndo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T11:48:07.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9603/live/3d98fa50-c6fc-11f1-b4dd-e786ec6f11b1.jpg"
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "Minute-scale training for microrobot navigation",
+      "title": "AI models can provably hide arbitrary capabilities",
       "body": "—",
-      "src": "r/artificial",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1x3v6bh/minutescale_training_for_microrobot_navigation/",
-      "publishedAt": "2026-10-12T07:09:01.000Z",
-      "image": "https://external-preview.redd.it/Jbx9YKHHlz9tuQfSPakQ6XO5wnsrc7y_xTcwBcgDKM0.png?width=320&crop=smart&auto=webp&s=5cd1f4248ca7e047720a25819d109049b3f1d195"
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://arxiv.org/abs/2610.13928",
+      "publishedAt": "2026-10-13T02:07:08Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "AI is a tool and using it well takes skill",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "publishedAt": "2026-10-12T21:40:18Z",
+      "image": null
     },
     {
       "cat": "social",
       "label": "Social",
       "tone": "",
-      "title": "X re-builds its third-party usage showcase",
-      "body": "The platform’s relaunched exhibit website lists official partners, agentic use cases and more in an effort to inspire developers to integrate X data into their apps.",
+      "title": "Snapchat publishes 2026 holiday marketing guide",
+      "body": "The overview offers statistics and tips on how marketers can connect with gift givers during the upcoming shopping season.",
       "src": "Social Media Today",
       "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/x-re-builds-its-third-party-usage-showcase/832684/",
-      "publishedAt": "2026-10-11T22:19:16.000Z",
+      "url": "https://www.socialmediatoday.com/news/snapchat-publishes-2026-holiday-marketing-guide/832800/",
+      "publishedAt": "2026-10-12T20:38:39.000Z",
+      "image": null
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Meta launches advanced Muse Wonder AI models",
+      "body": "The new series of artificial intelligence models are able to undertake more complex tasks, though risks remain in regards to privacy, data safety and human error.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/meta-launches-advanced-muse-wonder-ai-models/832795/",
+      "publishedAt": "2026-10-12T20:21:58.000Z",
       "image": null
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "Passkeys are a trap",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
-      "publishedAt": "2026-10-11T21:59:48Z",
-      "image": null
+      "title": "Meta has some Wonder Full new AI models",
+      "body": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now la…",
+      "src": "The Verge",
+      "fav": "TV",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+      "publishedAt": "2026-10-12T17:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "cat": "social",
       "label": "Social",
       "tone": "",
       "title": "Meta publishes post to counter data center concerns",
-      "body": "The company released an overview from creator Tom Shaw addressing public apprehensions about water usage, energy bills and local job impacts.",
+      "body": "An overview from creator Tom Shaw addresses public apprehensions about water usage, energy bills and local job impacts.",
       "src": "Social Media Today",
       "fav": "SM",
       "url": "https://www.socialmediatoday.com/news/meta-publishes-post-to-counter-data-center-concerns/832679/",
       "publishedAt": "2026-10-11T20:17:49.000Z",
       "image": "https://imgproxy.divecdn.com/N9ZmFW3_lBLqEKiccMXkL6lqvErf14UeDKlzfxouHKk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NZXRhX0thbnNhc19DaXR5X0RhdGFfQ2VudGVyX0FlcmlhbF8xLmpwZw==.webp"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Anthropic says its AI agents found a CRISPR-like enzyme family in viral DNA; a researcher notes his team had…",
-      "body": "—",
-      "src": "r/artificial",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1x3i1e5/anthropic_says_its_ai_agents_found_a_crisprlike/",
-      "publishedAt": "2026-10-11T20:05:11.000Z",
-      "image": "https://external-preview.redd.it/mZNPQPGh_zhRjG-ox0VqovVhd8ydf1PO9WIhrw9-liE.jpeg?width=640&crop=smart&auto=webp&s=42a19bcbad482ee8904f2d8d5448027f59068c7b"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-      "body": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-11T14:38:10.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92b1/live/fca86430-c56c-11f1-a64c-550be9e3c66b.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-      "body": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T14:24:14.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d06b/live/625e43c0-c54b-11f1-b4f1-2359026a88ee.jpg"
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "LinkedIn exec offers insight into the battle against AI slop",
-      "body": "Vice President of Engineering Tim Junka outlined in a post how the company approaches detection and how its artificial intelligence agents are trained.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/linkedin-exec-offers-insight-into-the-battle-against-ai-slop/832576/",
-      "publishedAt": "2026-10-08T21:42:14.000Z",
-      "image": null
     },
     {
       "cat": "growth",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 67,
+        "scanned": 61,
         "kept": 3
       },
       "social": {
@@ -240,21 +240,21 @@
       },
       "business": {
         "label": "Business",
-        "scanned": 11,
+        "scanned": 12,
         "kept": 3
       }
     },
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 23
+        "count": 27
       },
       {
         "src": "TechCrunch",
         "count": 12
       },
       {
-        "src": "Ars Technica",
+        "src": "BBC Business",
         "count": 12
       },
       {
@@ -262,8 +262,8 @@
         "count": 12
       },
       {
-        "src": "BBC Business",
-        "count": 11
+        "src": "Ars Technica",
+        "count": 12
       },
       {
         "src": "The Verge",
@@ -277,7 +277,11 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 35
+        "hits": 38
+      },
+      {
+        "word": "model",
+        "hits": 7
       },
       {
         "word": "agent",
@@ -288,15 +292,15 @@
         "hits": 5
       },
       {
-        "word": "micro",
-        "hits": 3
+        "word": "startup",
+        "hits": 4
       },
       {
-        "word": "local",
+        "word": "focus",
         "hits": 2
       },
       {
-        "word": "creator",
+        "word": "growth",
         "hits": 2
       },
       {
@@ -304,15 +308,11 @@
         "hits": 2
       },
       {
-        "word": "startup",
+        "word": "micro",
         "hits": 1
       },
       {
         "word": "productivity",
-        "hits": 1
-      },
-      {
-        "word": "trend",
         "hits": 1
       }
     ]
