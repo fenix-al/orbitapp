@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-13T12:33:41.305Z",
+  "generatedAt": "2026-10-14T10:00:46.805Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"AI models can provably hide arbitrary capabilities\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"AI is a tool and using it well takes skill\". Scan the feed below for the rest.",
     "bullets": [
-      {
-        "head": "Tech & AI",
-        "detail": "AI models can provably hide arbitrary capabilities"
-      },
       {
         "head": "Tech & AI",
         "detail": "AI is a tool and using it well takes skill"
       },
       {
         "head": "Tech & AI",
-        "detail": "Meta has some Wonder Full new AI models"
+        "detail": "Peter Thiel: You Know Who Else Wants to Regulate AI? The Antichrist. Thiel's 'Antichrist' lecture series in Nashville is reportedly focused on casting AI regulation advocates as antichrist enablers."
+      },
+      {
+        "head": "Tech & AI",
+        "detail": "Gemini 4 Argon"
       },
       {
         "head": "Social",
@@ -49,7 +49,7 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 105,
+    "scanned": 113,
     "kept": 12
   },
   "feed": [
@@ -57,13 +57,73 @@
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Poundland in rescue talks as owners seek buyer",
-      "body": "The leadership team is attempting a buyout, but a union has warned the retailer could fall into administration instead.",
+      "title": "Wayfair among firms fined millions for misleading sales tactics",
+      "body": "The Competition and Markets Authority has fined Wayfair, Appliances Direct, and Gold's Gym £6m in total.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-13T12:17:17.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9b1/live/c0667080-c6e7-11f1-bf38-57dc5cd42af2.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T09:42:04.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae51/live/acad1cb0-c7aa-11f1-a624-a3d8608fc192.jpg"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
+      "body": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T08:27:17.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38df/live/64af4870-c6e7-11f1-bf38-57dc5cd42af2.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Peter Thiel: You Know Who Else Wants to Regulate AI? The Antichrist. Thiel's 'Antichrist' lecture series in N…",
+      "body": "—",
+      "src": "r/artificial",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/artificial/comments/1x5lboy/peter_thiel_you_know_who_else_wants_to_regulate/",
+      "publishedAt": "2026-10-14T07:55:36.000Z",
+      "image": "https://external-preview.redd.it/OTMQkhk5N7bgsu-vqWXgLdVhjUk5M49iL1d_WyUw5VM.jpeg?width=640&crop=smart&auto=webp&s=7d8d9b7c0f8d570fb5d8c33d4bc5a99397e120e2"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Reddit announces plans for upcoming US elections",
+      "body": "The platform outlined its commitment to election resources and explained how it intends to prevent misinformation from spreading online.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/reddit-announces-plans-for-upcoming-us-elections/832926/",
+      "publishedAt": "2026-10-13T21:35:55.000Z",
+      "image": null
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Meta assists with scam crackdown in West Africa",
+      "body": "The company joined Google, Microsoft and others in a larger law enforcement effort designed to disrupt criminal networks.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/meta-assists-with-scam-crackdown-in-west-africa/832925/",
+      "publishedAt": "2026-10-13T21:33:36.000Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Gemini 4 Argon",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://deepmind.google/models/gemini/",
+      "publishedAt": "2026-10-13T16:03:16Z",
+      "image": null
     },
     {
       "cat": "business",
@@ -76,30 +136,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-13T11:58:43.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9039/live/426755d0-c6fd-11f1-b4dd-e786ec6f11b1.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "BA flight forced to turn back over cracked window",
-      "body": "British Airways said the plane landed safely at Gatwick and passengers were due to resume their journey.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cj1dwrxq1wndo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-13T11:48:07.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9603/live/3d98fa50-c6fc-11f1-b4dd-e786ec6f11b1.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "AI models can provably hide arbitrary capabilities",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://arxiv.org/abs/2610.13928",
-      "publishedAt": "2026-10-13T02:07:08Z",
-      "image": null
     },
     {
       "cat": "tech",
@@ -117,18 +153,6 @@
       "cat": "social",
       "label": "Social",
       "tone": "",
-      "title": "Snapchat publishes 2026 holiday marketing guide",
-      "body": "The overview offers statistics and tips on how marketers can connect with gift givers during the upcoming shopping season.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/snapchat-publishes-2026-holiday-marketing-guide/832800/",
-      "publishedAt": "2026-10-12T20:38:39.000Z",
-      "image": null
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
       "title": "Meta launches advanced Muse Wonder AI models",
       "body": "The new series of artificial intelligence models are able to undertake more complex tasks, though risks remain in regards to privacy, data safety and human error.",
       "src": "Social Media Today",
@@ -136,30 +160,6 @@
       "url": "https://www.socialmediatoday.com/news/meta-launches-advanced-muse-wonder-ai-models/832795/",
       "publishedAt": "2026-10-12T20:21:58.000Z",
       "image": null
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Meta has some Wonder Full new AI models",
-      "body": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now la…",
-      "src": "The Verge",
-      "fav": "TV",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
-      "publishedAt": "2026-10-12T17:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Meta publishes post to counter data center concerns",
-      "body": "An overview from creator Tom Shaw addresses public apprehensions about water usage, energy bills and local job impacts.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/meta-publishes-post-to-counter-data-center-concerns/832679/",
-      "publishedAt": "2026-10-11T20:17:49.000Z",
-      "image": "https://imgproxy.divecdn.com/N9ZmFW3_lBLqEKiccMXkL6lqvErf14UeDKlzfxouHKk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NZXRhX0thbnNhc19DaXR5X0RhdGFfQ2VudGVyX0FlcmlhbF8xLmpwZw==.webp"
     },
     {
       "cat": "growth",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 61,
+        "scanned": 69,
         "kept": 3
       },
       "social": {
@@ -247,7 +247,7 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 27
+        "count": 25
       },
       {
         "src": "TechCrunch",
@@ -258,11 +258,11 @@
         "count": 12
       },
       {
-        "src": "Nir & Far",
+        "src": "Ars Technica",
         "count": 12
       },
       {
-        "src": "Ars Technica",
+        "src": "Nir & Far",
         "count": 12
       },
       {
@@ -277,15 +277,11 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 38
-      },
-      {
-        "word": "model",
-        "hits": 7
+        "hits": 46
       },
       {
         "word": "agent",
-        "hits": 6
+        "hits": 5
       },
       {
         "word": "habit",
@@ -297,22 +293,26 @@
       },
       {
         "word": "focus",
+        "hits": 3
+      },
+      {
+        "word": "model",
         "hits": 2
       },
       {
-        "word": "growth",
+        "word": "marketing",
         "hits": 2
-      },
-      {
-        "word": "llm",
-        "hits": 2
-      },
-      {
-        "word": "micro",
-        "hits": 1
       },
       {
         "word": "productivity",
+        "hits": 1
+      },
+      {
+        "word": "local",
+        "hits": 1
+      },
+      {
+        "word": "growth",
         "hits": 1
       }
     ]
