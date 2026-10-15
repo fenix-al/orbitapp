@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-14T10:00:46.805Z",
+  "generatedAt": "2026-10-15T09:42:48.146Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"AI is a tool and using it well takes skill\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"LFM2.5-24B-A2B: Built for fast on-device agents\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "AI is a tool and using it well takes skill"
+        "detail": "LFM2.5-24B-A2B: Built for fast on-device agents"
       },
       {
         "head": "Tech & AI",
-        "detail": "Peter Thiel: You Know Who Else Wants to Regulate AI? The Antichrist. Thiel's 'Antichrist' lecture series in Nashville is reportedly focused on casting AI regulation advocates as antichrist enablers."
+        "detail": "How Amazon pushes up prices all across the Internet"
       },
       {
         "head": "Tech & AI",
-        "detail": "Gemini 4 Argon"
+        "detail": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis"
       },
       {
         "head": "Social",
-        "detail": "Meta launches advanced Muse Wonder AI models"
+        "detail": "TikTok inks partnership with Made By Us studios"
       }
     ],
     "signal": {
@@ -49,7 +49,7 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 113,
+    "scanned": 99,
     "kept": 12
   },
   "feed": [
@@ -57,109 +57,109 @@
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Wayfair among firms fined millions for misleading sales tactics",
-      "body": "The Competition and Markets Authority has fined Wayfair, Appliances Direct, and Gold's Gym £6m in total.",
+      "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
+      "body": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-14T09:42:04.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae51/live/acad1cb0-c7aa-11f1-a624-a3d8608fc192.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-15T09:29:54.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33c8/live/c24202a0-c879-11f1-934d-bbdb5e261215.jpg"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
-      "body": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
+      "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
+      "body": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-14T08:27:17.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38df/live/64af4870-c6e7-11f1-bf38-57dc5cd42af2.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Peter Thiel: You Know Who Else Wants to Regulate AI? The Antichrist. Thiel's 'Antichrist' lecture series in N…",
-      "body": "—",
-      "src": "r/artificial",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1x5lboy/peter_thiel_you_know_who_else_wants_to_regulate/",
-      "publishedAt": "2026-10-14T07:55:36.000Z",
-      "image": "https://external-preview.redd.it/OTMQkhk5N7bgsu-vqWXgLdVhjUk5M49iL1d_WyUw5VM.jpeg?width=640&crop=smart&auto=webp&s=7d8d9b7c0f8d570fb5d8c33d4bc5a99397e120e2"
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Reddit announces plans for upcoming US elections",
-      "body": "The platform outlined its commitment to election resources and explained how it intends to prevent misinformation from spreading online.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/reddit-announces-plans-for-upcoming-us-elections/832926/",
-      "publishedAt": "2026-10-13T21:35:55.000Z",
-      "image": null
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Meta assists with scam crackdown in West Africa",
-      "body": "The company joined Google, Microsoft and others in a larger law enforcement effort designed to disrupt criminal networks.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/meta-assists-with-scam-crackdown-in-west-africa/832925/",
-      "publishedAt": "2026-10-13T21:33:36.000Z",
-      "image": null
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Gemini 4 Argon",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://deepmind.google/models/gemini/",
-      "publishedAt": "2026-10-13T16:03:16Z",
-      "image": null
+      "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-15T07:20:45.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91e4/live/ef62d030-c82d-11f1-949e-ffe1bf7985f3.jpg"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Three things we've learnt about the UK economy from the IMF",
-      "body": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
+      "title": "'I paid thousands to a company for jobs that never came'",
+      "body": "Apurv Patel is one of several people who say they were promised job opportunities that did not appear.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-13T11:58:43.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9039/live/426755d0-c6fd-11f1-b4dd-e786ec6f11b1.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-15T05:02:37.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1df3/live/28665390-c246-11f1-9670-0b564215b759.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "",
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "body": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and acce…",
+      "src": "TechCrunch",
+      "fav": "T",
+      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "publishedAt": "2026-10-15T01:01:32.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55590095286_7fe28ddb94_o.jpg?resize=1200,800"
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "AI is a tool and using it well takes skill",
-      "body": "—",
+      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "body": "Article URL: https://www.liquid.ai/blog/lfm2-5-24b-a2b Comments URL: https://news.ycombinator.com/item?id=50097369 Points: 211 # Comments: 44",
       "src": "Hacker News",
       "fav": "HN",
-      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-      "publishedAt": "2026-10-12T21:40:18Z",
+      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "publishedAt": "2026-10-14T23:59:37.000Z",
+      "image": "https://aypchzzf9pftwuto.public.blob.vercel-storage.com/image%20(3)-oOdUn61bDRSykk4H951SoDOHzqoOe1.png"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Snap reports on Snap Map data for brands",
+      "body": "The company said that the discovery tool can help drive engagement but noted that most users still turn to Google Maps for location information.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/snap-reports-on-snap-map-data-for-brands/833065/",
+      "publishedAt": "2026-10-14T22:13:36.000Z",
       "image": null
     },
     {
       "cat": "social",
       "label": "Social",
       "tone": "",
-      "title": "Meta launches advanced Muse Wonder AI models",
-      "body": "The new series of artificial intelligence models are able to undertake more complex tasks, though risks remain in regards to privacy, data safety and human error.",
+      "title": "TikTok inks partnership with Made By Us studios",
+      "body": "The content deal gives TikTok exclusive rights to select microdrama series from several high-profile creators.",
       "src": "Social Media Today",
       "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/meta-launches-advanced-muse-wonder-ai-models/832795/",
-      "publishedAt": "2026-10-12T20:21:58.000Z",
+      "url": "https://www.socialmediatoday.com/news/tiktok-inks-partnership-with-made-by-us-studios/833055/",
+      "publishedAt": "2026-10-14T20:41:34.000Z",
       "image": null
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "YouTube labels AI-generated music",
+      "body": "The company has implemented transparency measures on its music platform and in its main app to identify generative artificial intelligence creations.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/youtube-labels-ai-generated-music/833053/",
+      "publishedAt": "2026-10-14T20:23:24.000Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "How Amazon pushes up prices all across the Internet",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+      "publishedAt": "2026-10-14T09:28:17Z",
+      "image": "https://storage.ghost.io/c/f0/60/f060ef3f-d4e0-4af4-9255-1373fbf0a44f/content/images/size/w1200/2026/10/featured_02.png"
     },
     {
       "cat": "growth",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 69,
+        "scanned": 55,
         "kept": 3
       },
       "social": {
@@ -247,18 +247,18 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 25
+        "count": 21
       },
       {
         "src": "TechCrunch",
         "count": 12
       },
       {
-        "src": "BBC Business",
+        "src": "Ars Technica",
         "count": 12
       },
       {
-        "src": "Ars Technica",
+        "src": "BBC Business",
         "count": 12
       },
       {
@@ -277,42 +277,42 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 46
+        "hits": 41
       },
       {
         "word": "agent",
-        "hits": 5
+        "hits": 9
       },
       {
         "word": "habit",
         "hits": 5
       },
       {
-        "word": "startup",
+        "word": "micro",
         "hits": 4
       },
       {
-        "word": "focus",
-        "hits": 3
-      },
-      {
-        "word": "model",
-        "hits": 2
-      },
-      {
-        "word": "marketing",
-        "hits": 2
+        "word": "startup",
+        "hits": 4
       },
       {
         "word": "productivity",
         "hits": 1
       },
       {
-        "word": "local",
+        "word": "model",
         "hits": 1
       },
       {
         "word": "growth",
+        "hits": 1
+      },
+      {
+        "word": "revenue",
+        "hits": 1
+      },
+      {
+        "word": "creator",
         "hits": 1
       }
     ]
