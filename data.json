@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-15T09:42:48.146Z",
+  "generatedAt": "2026-10-16T09:36:30.892Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"LFM2.5-24B-A2B: Built for fast on-device agents\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"When it came to Cal AI’s viral success, a small army of influencers paid off\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "LFM2.5-24B-A2B: Built for fast on-device agents"
+        "detail": "When it came to Cal AI’s viral success, a small army of influencers paid off"
       },
       {
         "head": "Tech & AI",
-        "detail": "How Amazon pushes up prices all across the Internet"
+        "detail": "Meta launches an open-weight AI model that runs on Macs"
       },
       {
         "head": "Tech & AI",
-        "detail": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis"
+        "detail": "Muse Spark Open"
       },
       {
         "head": "Social",
-        "detail": "TikTok inks partnership with Made By Us studios"
+        "detail": "TikTok inks microdrama partnership with Made By Us studios"
       }
     ],
     "signal": {
@@ -49,33 +49,69 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 99,
+    "scanned": 105,
     "kept": 12
   },
   "feed": [
     {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
-      "body": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-15T09:29:54.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33c8/live/c24202a0-c879-11f1-934d-bbdb5e261215.jpg"
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+      "body": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
+      "src": "TechCrunch",
+      "fav": "T",
+      "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+      "publishedAt": "2026-10-15T23:44:56.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4996.jpeg?resize=1200,900"
     },
     {
-      "cat": "business",
-      "label": "Business",
+      "cat": "social",
+      "label": "Social",
       "tone": "",
-      "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
-      "body": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-15T07:20:45.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91e4/live/ef62d030-c82d-11f1-949e-ffe1bf7985f3.jpg"
+      "title": "Meta adds audio links and reference Reels to Edits",
+      "body": "The company continues to build out its video editing app with custom kit options and additional insights for creators.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/meta-adds-audio-links-and-reference-reels-to-edits/833192/",
+      "publishedAt": "2026-10-15T22:00:58.000Z",
+      "image": null
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "TikTok shares holiday sales data",
+      "body": "The company said in-app sales surpassed $500 million between Black Friday Cyber Monday last year and users are currently looking for holiday inspiration.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/tiktok-shares-holiday-sales-data/833191/",
+      "publishedAt": "2026-10-15T21:58:55.000Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "body": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+      "src": "TechCrunch",
+      "fav": "T",
+      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "publishedAt": "2026-10-15T20:04:53.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296215726.jpg?resize=1200,799"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Muse Spark Open",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://research.meta.ai/blog/muse-spark-open",
+      "publishedAt": "2026-10-15T17:47:39Z",
+      "image": "https://research.meta.ai/articles/muse-spark-open/social/muse-spark-1-2-open-weights-social-v2.webp"
     },
     {
       "cat": "business",
@@ -86,80 +122,44 @@
       "src": "BBC Business",
       "fav": "BB",
       "url": "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-15T05:02:37.000Z",
+      "publishedAt": "2026-10-15T17:19:49.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1df3/live/28665390-c246-11f1-9670-0b564215b759.jpg"
     },
     {
-      "cat": "tech",
-      "label": "Tech & AI",
+      "cat": "business",
+      "label": "Business",
       "tone": "",
-      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-      "body": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and acce…",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-      "publishedAt": "2026-10-15T01:01:32.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55590095286_7fe28ddb94_o.jpg?resize=1200,800"
+      "title": "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
+      "body": "The culture secretary says the deal could affect free expression in the media and the variety of Britain's news landscape.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-15T14:55:21.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/717e/live/d95f6d50-c898-11f1-b0a4-81e564f1cfaa.jpg"
     },
     {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-      "body": "Article URL: https://www.liquid.ai/blog/lfm2-5-24b-a2b Comments URL: https://news.ycombinator.com/item?id=50097369 Points: 211 # Comments: 44",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-      "publishedAt": "2026-10-14T23:59:37.000Z",
-      "image": "https://aypchzzf9pftwuto.public.blob.vercel-storage.com/image%20(3)-oOdUn61bDRSykk4H951SoDOHzqoOe1.png"
-    },
-    {
-      "cat": "social",
-      "label": "Social",
+      "cat": "business",
+      "label": "Business",
       "tone": "",
-      "title": "Snap reports on Snap Map data for brands",
-      "body": "The company said that the discovery tool can help drive engagement but noted that most users still turn to Google Maps for location information.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/snap-reports-on-snap-map-data-for-brands/833065/",
-      "publishedAt": "2026-10-14T22:13:36.000Z",
-      "image": null
+      "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
+      "body": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-15T13:25:17.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b1e/live/a9237850-c87c-11f1-bc2e-018d645d8d21.jpg"
     },
     {
       "cat": "social",
       "label": "Social",
       "tone": "",
-      "title": "TikTok inks partnership with Made By Us studios",
+      "title": "TikTok inks microdrama partnership with Made By Us studios",
       "body": "The content deal gives TikTok exclusive rights to select microdrama series from several high-profile creators.",
       "src": "Social Media Today",
       "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/tiktok-inks-partnership-with-made-by-us-studios/833055/",
+      "url": "https://www.socialmediatoday.com/news/tiktok-inks-microdrama-partnership-with-made-by-us-studios/833055/",
       "publishedAt": "2026-10-14T20:41:34.000Z",
       "image": null
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "YouTube labels AI-generated music",
-      "body": "The company has implemented transparency measures on its music platform and in its main app to identify generative artificial intelligence creations.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/youtube-labels-ai-generated-music/833053/",
-      "publishedAt": "2026-10-14T20:23:24.000Z",
-      "image": null
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "How Amazon pushes up prices all across the Internet",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
-      "publishedAt": "2026-10-14T09:28:17Z",
-      "image": "https://storage.ghost.io/c/f0/60/f060ef3f-d4e0-4af4-9255-1373fbf0a44f/content/images/size/w1200/2026/10/featured_02.png"
     },
     {
       "cat": "growth",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 55,
+        "scanned": 61,
         "kept": 3
       },
       "social": {
@@ -247,7 +247,7 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 21
+        "count": 27
       },
       {
         "src": "TechCrunch",
@@ -277,42 +277,42 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 41
+        "hits": 35
       },
       {
-        "word": "agent",
-        "hits": 9
+        "word": "model",
+        "hits": 7
       },
       {
         "word": "habit",
         "hits": 5
       },
       {
-        "word": "micro",
-        "hits": 4
+        "word": "agent",
+        "hits": 3
       },
       {
-        "word": "startup",
-        "hits": 4
-      },
-      {
-        "word": "productivity",
-        "hits": 1
-      },
-      {
-        "word": "model",
-        "hits": 1
-      },
-      {
-        "word": "growth",
-        "hits": 1
+        "word": "creator",
+        "hits": 3
       },
       {
         "word": "revenue",
         "hits": 1
       },
       {
-        "word": "creator",
+        "word": "viral",
+        "hits": 1
+      },
+      {
+        "word": "startup",
+        "hits": 1
+      },
+      {
+        "word": "local",
+        "hits": 1
+      },
+      {
+        "word": "productivity",
         "hits": 1
       }
     ]
