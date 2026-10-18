@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-17T09:08:08.054Z",
+  "generatedAt": "2026-10-18T09:25:20.731Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Jailbroken PS5s can now run local AI models at over 100+ tokens per second — fork of PS5LM goes native, hijacks the CPU, and accesses the GPU and more RAM\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"DeepSeek-v4.1-Flash-1017\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Jailbroken PS5s can now run local AI models at over 100+ tokens per second — fork of PS5LM goes native, hijacks the CPU, and accesses the GPU and more RAM"
+        "detail": "DeepSeek-v4.1-Flash-1017"
       },
       {
         "head": "Tech & AI",
-        "detail": "90% of US working hours are spent on tasks not covered well by AI benchmarks"
+        "detail": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware"
       },
       {
         "head": "Tech & AI",
-        "detail": "I tested whether an AI companion stays the same when you swap its underlying model. The results surprised me."
+        "detail": "Replit makes OpenAI its default over Anthropic, CEO says"
       },
       {
         "head": "Social",
@@ -49,7 +49,7 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 112,
+    "scanned": 101,
     "kept": 12
   },
   "feed": [
@@ -57,73 +57,73 @@
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Success Saturday: What's Going Right | October 17, 2026",
-      "body": "—",
-      "src": "r/Entrepreneur",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/Entrepreneur/comments/1x84kjr/success_saturday_whats_going_right_october_17_2026/",
-      "publishedAt": "2026-10-17T08:00:53.000Z",
-      "image": null
+      "title": "There's a crackdown on sports piracy - but is it already out of control?",
+      "body": "The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal streaming links, writes Theo Leggett.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-18T00:11:09.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b79/live/6d035b30-c94c-11f1-9a39-31b474234113.jpg"
     },
     {
-      "cat": "business",
-      "label": "Business",
+      "cat": "tech",
+      "label": "Tech & AI",
       "tone": "",
-      "title": "Y'all feel like you don't make progress fast enough?",
-      "body": "—",
-      "src": "r/Entrepreneur",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/Entrepreneur/comments/1x7zxf8/yall_feel_like_you_dont_make_progress_fast_enough/",
-      "publishedAt": "2026-10-17T03:27:13.000Z",
-      "image": null
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "body": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "src": "TechCrunch",
+      "fav": "T",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "publishedAt": "2026-10-17T18:48:08.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800"
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "Jailbroken PS5s can now run local AI models at over 100+ tokens per second — fork of PS5LM goes native, hijac…",
-      "body": "—",
-      "src": "r/artificial",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1x7ofj6/jailbroken_ps5s_can_now_run_local_ai_models_at/",
-      "publishedAt": "2026-10-16T18:44:23.000Z",
-      "image": "https://external-preview.redd.it/OS6bBpZsi9cnIwClGXjh_36_41n0GM-cx0e5fahsBjY.jpeg?width=640&crop=smart&auto=webp&s=b251f7e7ff82d4aeb2e3a321bfba387af347d5ef"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "title": "DeepSeek-v4.1-Flash-1017",
       "body": "—",
       "src": "Hacker News",
       "fav": "HN",
-      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-      "publishedAt": "2026-10-16T17:08:38Z",
-      "image": "https://www.mercor.com/mercor-logo-white.png"
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "publishedAt": "2026-10-17T08:21:25Z",
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/deepseek-ai/DeepSeek-V4.1-Flash-1017.png"
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "I tested whether an AI companion stays the same when you swap its underlying model. The results surprised me.",
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
       "body": "—",
-      "src": "r/artificial",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1x7kjta/i_tested_whether_an_ai_companion_stays_the_same/",
-      "publishedAt": "2026-10-16T16:17:05.000Z",
-      "image": "https://preview.redd.it/w31a89kvtuvh1.png?width=640&crop=smart&auto=webp&s=42df3974fad0c715dbf502bbbeff81234a5390c9"
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://llmspeed.dev/",
+      "publishedAt": "2026-10-17T04:36:53Z",
+      "image": "https://llmspeed.dev/og.png"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Watch: Did Tesla really just unveil a flying car?",
-      "body": "Tesla CEO Elon Musk showcased the vehicle at a facility owned by his SpaceX company, which helped develop the model.",
+      "title": "Third runway at Heathrow Airport would drive growth, Healey says",
+      "body": "It comes after the prime minister refused to say whether he backed expansion.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-16T12:32:31.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b96f/live/01c77470-c963-11f1-bc2e-018d645d8d21.png"
+      "url": "https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T03:57:16.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/388f/live/422e53f0-c9fc-11f1-bb10-89ce65f72e2c.jpg"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Faisal Islam: Why China and AI are worrying global finance bosses",
+      "body": "At the IMF meeting in Bangkok this week finance and business leaders grappled with uncertainty.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g189jvnxjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T01:59:48.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ba8/live/ea5ead70-c986-11f1-b646-2b044167639a.jpg"
     },
     {
       "cat": "social",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 66,
+        "scanned": 57,
         "kept": 3
       },
       "social": {
@@ -240,7 +240,7 @@
       },
       "business": {
         "label": "Business",
-        "scanned": 14,
+        "scanned": 12,
         "kept": 3
       }
     },
@@ -254,15 +254,15 @@
         "count": 12
       },
       {
-        "src": "Ars Technica",
-        "count": 12
-      },
-      {
         "src": "BBC Business",
         "count": 12
       },
       {
         "src": "Nir & Far",
+        "count": 12
+      },
+      {
+        "src": "Ars Technica",
         "count": 12
       },
       {
@@ -277,35 +277,31 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 43
+        "hits": 34
       },
       {
         "word": "model",
-        "hits": 10
+        "hits": 6
+      },
+      {
+        "word": "agent",
+        "hits": 6
       },
       {
         "word": "habit",
         "hits": 5
       },
       {
-        "word": "agent",
-        "hits": 4
-      },
-      {
         "word": "creator",
         "hits": 3
-      },
-      {
-        "word": "startup",
-        "hits": 2
       },
       {
         "word": "llm",
         "hits": 2
       },
       {
-        "word": "local",
-        "hits": 2
+        "word": "startup",
+        "hits": 1
       },
       {
         "word": "marketing",
@@ -313,6 +309,10 @@
       },
       {
         "word": "productivity",
+        "hits": 1
+      },
+      {
+        "word": "micro",
         "hits": 1
       }
     ]
