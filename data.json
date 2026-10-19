@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-18T09:25:20.731Z",
+  "generatedAt": "2026-10-19T10:38:29.524Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"DeepSeek-v4.1-Flash-1017\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Distillation attack on OpenCode drains users' API keys for Anthropic, OpenAI, Google models\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "DeepSeek-v4.1-Flash-1017"
+        "detail": "Distillation attack on OpenCode drains users' API keys for Anthropic, OpenAI, Google models"
       },
       {
         "head": "Tech & AI",
-        "detail": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware"
+        "detail": "what is one thing AI does now that you didn't expect to see in your lifetime?"
       },
       {
         "head": "Tech & AI",
-        "detail": "Replit makes OpenAI its default over Anthropic, CEO says"
+        "detail": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling"
       },
       {
         "head": "Social",
-        "detail": "TikTok inks microdrama partnership with Made By Us studios"
+        "detail": "Google introduces shopping updates ahead of the holidays"
       }
     ],
     "signal": {
@@ -49,57 +49,105 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 101,
+    "scanned": 113,
     "kept": 12
   },
   "feed": [
     {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "",
+      "title": "what is one thing AI does now that you didn't expect to see in your lifetime?",
+      "body": "—",
+      "src": "r/artificial",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/artificial/comments/1x9sshq/what_is_one_thing_ai_does_now_that_you_didnt/",
+      "publishedAt": "2026-10-19T10:01:06.000Z",
+      "image": null
+    },
+    {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "There's a crackdown on sports piracy - but is it already out of control?",
-      "body": "The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal streaming links, writes Theo Leggett.",
+      "title": "China's growth accelerates as AI boom helps boost exports",
+      "body": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-18T00:11:09.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b79/live/6d035b30-c94c-11f1-9a39-31b474234113.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-19T06:08:02.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7328/live/2759f110-cb64-11f1-a812-d3be2dbc962d.jpg"
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "",
-      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "body": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "publishedAt": "2026-10-17T18:48:08.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800"
+      "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+      "body": "Article URL: https://crystl.dev/guides/tmux-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50148855 Points: 33 # Comments: 18",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
+      "publishedAt": "2026-10-19T05:55:31.000Z",
+      "image": "https://crystl.dev/og.png?v=3"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Google introduces shopping updates ahead of the holidays",
+      "body": "The platform has made its Universal Cart feature available to all U.S. users and published a guide on the best times to make purchases in major product categories.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/google-introduces-shopping-updates-ahead-of-the-holidays/833309/",
+      "publishedAt": "2026-10-18T20:50:14.000Z",
+      "image": null
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Meta outlines Muse AI use cases for businesses",
+      "body": "The company has shared info on some of the more common business use cases for its Muse AI tools based on examples it's seen thus far.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/meta-outlines-muse-ai-use-cases-for-businesses/833308/",
+      "publishedAt": "2026-10-18T20:47:46.000Z",
+      "image": null
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "YouTube tests AI replies in searches",
+      "body": "U.S.-based users in the experiment group may be given artificial intelligence-generated responses to their search queries in the app.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/youtube-tests-ai-replies-in-searches/833307/",
+      "publishedAt": "2026-10-18T20:40:58.000Z",
+      "image": null
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Microsoft pulls out of UK's largest AI data centre",
+      "body": "Tech firm Nscale says it is still committed to building the site in Essex.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-18T16:46:42.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46c0/live/18b0c090-cb13-11f1-a9ef-8b4e735f71f0.jpg"
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "DeepSeek-v4.1-Flash-1017",
+      "title": "Distillation attack on OpenCode drains users' API keys for Anthropic, OpenAI, Google models",
       "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "publishedAt": "2026-10-17T08:21:25Z",
-      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/deepseek-ai/DeepSeek-V4.1-Flash-1017.png"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://llmspeed.dev/",
-      "publishedAt": "2026-10-17T04:36:53Z",
-      "image": "https://llmspeed.dev/og.png"
+      "src": "r/artificial",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/artificial/comments/1x91a46/distillation_attack_on_opencode_drains_users_api/",
+      "publishedAt": "2026-10-18T11:49:21.000Z",
+      "image": "https://external-preview.redd.it/WQgCgikvM-i6VJiuGRzpFeu9OEcaArL-FoQYgB08Z1U.jpeg?width=640&crop=smart&auto=webp&s=223791ae0d46f96af8d426bbe00139c97a8e7f52"
     },
     {
       "cat": "business",
@@ -112,54 +160,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-17T03:57:16.000Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/388f/live/422e53f0-c9fc-11f1-bb10-89ce65f72e2c.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Faisal Islam: Why China and AI are worrying global finance bosses",
-      "body": "At the IMF meeting in Bangkok this week finance and business leaders grappled with uncertainty.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g189jvnxjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-17T01:59:48.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ba8/live/ea5ead70-c986-11f1-b646-2b044167639a.jpg"
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Meta adds audio links and reference Reels to Edits",
-      "body": "The company continues to build out its video editing app with custom kit options and additional insights for creators.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/meta-adds-audio-links-and-reference-reels-to-edits/833192/",
-      "publishedAt": "2026-10-15T22:00:58.000Z",
-      "image": null
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "TikTok shares holiday sales data",
-      "body": "The company said in-app sales surpassed $500 million between Black Friday Cyber Monday last year and users are currently looking for holiday inspiration.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/tiktok-shares-holiday-sales-data/833191/",
-      "publishedAt": "2026-10-15T21:58:55.000Z",
-      "image": null
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "TikTok inks microdrama partnership with Made By Us studios",
-      "body": "The content deal gives TikTok exclusive rights to select microdrama series from several high-profile creators.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/tiktok-inks-microdrama-partnership-with-made-by-us-studios/833055/",
-      "publishedAt": "2026-10-14T20:41:34.000Z",
-      "image": null
     },
     {
       "cat": "growth",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 57,
+        "scanned": 69,
         "kept": 3
       },
       "social": {
@@ -247,7 +247,7 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 23
+        "count": 25
       },
       {
         "src": "TechCrunch",
@@ -270,21 +270,21 @@
         "count": 10
       },
       {
-        "src": "James Clear",
+        "src": "Social Media Today",
         "count": 10
       }
     ],
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 34
-      },
-      {
-        "word": "model",
-        "hits": 6
+        "hits": 40
       },
       {
         "word": "agent",
+        "hits": 7
+      },
+      {
+        "word": "model",
         "hits": 6
       },
       {
@@ -292,11 +292,19 @@
         "hits": 5
       },
       {
-        "word": "creator",
+        "word": "llm",
+        "hits": 4
+      },
+      {
+        "word": "micro",
         "hits": 3
       },
       {
-        "word": "llm",
+        "word": "growth",
+        "hits": 2
+      },
+      {
+        "word": "creator",
         "hits": 2
       },
       {
@@ -304,15 +312,7 @@
         "hits": 1
       },
       {
-        "word": "marketing",
-        "hits": 1
-      },
-      {
         "word": "productivity",
-        "hits": 1
-      },
-      {
-        "word": "micro",
         "hits": 1
       }
     ]
