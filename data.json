@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-19T10:38:29.524Z",
+  "generatedAt": "2026-10-20T09:55:11.990Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Distillation attack on OpenCode drains users' API keys for Anthropic, OpenAI, Google models\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Distillation attack on OpenCode drains users' API keys for Anthropic, OpenAI, Google models"
+        "detail": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’"
       },
       {
         "head": "Tech & AI",
-        "detail": "what is one thing AI does now that you didn't expect to see in your lifetime?"
+        "detail": "Anthropic wants AI models blocked only if they threaten over $1 billion in damage or more than 50 deaths or serious injuries"
       },
       {
         "head": "Tech & AI",
-        "detail": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling"
+        "detail": "Atlassian’s Mike Cannon-Brookes: AI agents need a name tag—and a human to be accountable for their actions"
       },
       {
         "head": "Social",
-        "detail": "Google introduces shopping updates ahead of the holidays"
+        "detail": "YouTube tests new Shorts incentives"
       }
     ],
     "signal": {
@@ -49,141 +49,141 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 113,
+    "scanned": 121,
     "kept": 12
   },
   "feed": [
     {
-      "cat": "tech",
-      "label": "Tech & AI",
+      "cat": "business",
+      "label": "Business",
       "tone": "",
-      "title": "what is one thing AI does now that you didn't expect to see in your lifetime?",
-      "body": "—",
-      "src": "r/artificial",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1x9sshq/what_is_one_thing_ai_does_now_that_you_didnt/",
-      "publishedAt": "2026-10-19T10:01:06.000Z",
-      "image": null
+      "title": "Burnham vows end to 'rip-off parking charges' under new rules",
+      "body": "The changes come after concerns that penalties issued by private providers are too harsh and leave motorists unfairly punished.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T08:55:02.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a50c/live/322c6e70-cc62-11f1-9a39-31b474234113.jpg"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "China's growth accelerates as AI boom helps boost exports",
-      "body": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
+      "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
+      "body": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T06:08:02.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7328/live/2759f110-cb64-11f1-a812-d3be2dbc962d.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "",
-      "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-      "body": "Article URL: https://crystl.dev/guides/tmux-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50148855 Points: 33 # Comments: 18",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
-      "publishedAt": "2026-10-19T05:55:31.000Z",
-      "image": "https://crystl.dev/og.png?v=3"
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Google introduces shopping updates ahead of the holidays",
-      "body": "The platform has made its Universal Cart feature available to all U.S. users and published a guide on the best times to make purchases in major product categories.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/google-introduces-shopping-updates-ahead-of-the-holidays/833309/",
-      "publishedAt": "2026-10-18T20:50:14.000Z",
-      "image": null
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Meta outlines Muse AI use cases for businesses",
-      "body": "The company has shared info on some of the more common business use cases for its Muse AI tools based on examples it's seen thus far.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/meta-outlines-muse-ai-use-cases-for-businesses/833308/",
-      "publishedAt": "2026-10-18T20:47:46.000Z",
-      "image": null
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "YouTube tests AI replies in searches",
-      "body": "U.S.-based users in the experiment group may be given artificial intelligence-generated responses to their search queries in the app.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/youtube-tests-ai-replies-in-searches/833307/",
-      "publishedAt": "2026-10-18T20:40:58.000Z",
-      "image": null
+      "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T08:44:56.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95e7/live/6cd357a0-cc17-11f1-b7d0-7f346cefa9a9.jpg"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Microsoft pulls out of UK's largest AI data centre",
-      "body": "Tech firm Nscale says it is still committed to building the site in Essex.",
+      "title": "How is the US economy really doing under President Trump?",
+      "body": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-18T16:46:42.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46c0/live/18b0c090-cb13-11f1-a9ef-8b4e735f71f0.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T05:00:45.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/711c/live/8e797e10-cbd7-11f1-a64c-550be9e3c66b.jpg"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "YouTube tests new Shorts incentives",
+      "body": "The platform is experimenting with bonuses for invited creators and expanding its shopping affiliates program, as well as updating shopping analytics.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/youtube-tests-new-shorts-incentives/833420/",
+      "publishedAt": "2026-10-19T22:37:45.000Z",
+      "image": null
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "Distillation attack on OpenCode drains users' API keys for Anthropic, OpenAI, Google models",
+      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "body": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+      "src": "TechCrunch",
+      "fav": "T",
+      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "publishedAt": "2026-10-19T22:04:28.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "Instagram Chief says stronger AI slop prevention is needed",
+      "body": "Adam Mosseri said in both a weekly Q&A and in a separate Threads post that the company was actively trying to combat artificial intelligence content replication.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/instagram-chief-says-stronger-ai-slop-prevention-is-needed/833416/",
+      "publishedAt": "2026-10-19T22:02:00.000Z",
+      "image": null
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Anthropic wants AI models blocked only if they threaten over $1 billion in damage or more than 50 deaths or s…",
       "body": "—",
       "src": "r/artificial",
       "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1x91a46/distillation_attack_on_opencode_drains_users_api/",
-      "publishedAt": "2026-10-18T11:49:21.000Z",
-      "image": "https://external-preview.redd.it/WQgCgikvM-i6VJiuGRzpFeu9OEcaArL-FoQYgB08Z1U.jpeg?width=640&crop=smart&auto=webp&s=223791ae0d46f96af8d426bbe00139c97a8e7f52"
+      "url": "https://www.reddit.com/r/artificial/comments/1xa8s4i/anthropic_wants_ai_models_blocked_only_if_they/",
+      "publishedAt": "2026-10-19T20:54:13.000Z",
+      "image": "https://external-preview.redd.it/cYsIcGNxRzgf_jIaDuSwg1at_1llDKmyLoWfWGVlxOs.jpeg?width=640&crop=smart&auto=webp&s=1a9fd794c04ea0c0bbeb70e9ca1ebf09ddf47ba9"
     },
     {
-      "cat": "business",
-      "label": "Business",
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Atlassian’s Mike Cannon-Brookes: AI agents need a name tag—and a human to be accountable for their actions",
+      "body": "—",
+      "src": "r/artificial",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/artificial/comments/1xa7hoq/atlassians_mike_cannonbrookes_ai_agents_need_a/",
+      "publishedAt": "2026-10-19T20:05:24.000Z",
+      "image": "https://external-preview.redd.it/EGPHyNo0hFC8jAMUZV45ND6joKBQAc2o254Nws0HW4w.jpeg?width=640&crop=smart&auto=webp&s=91ac94d038e2048be3c54461dc005e290179279a"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
       "tone": "",
-      "title": "Third runway at Heathrow Airport would drive growth, Healey says",
-      "body": "It comes after the prime minister refused to say whether he backed expansion.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-17T03:57:16.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/388f/live/422e53f0-c9fc-11f1-bb10-89ce65f72e2c.jpg"
+      "title": "Recent mistakes highlight the risks of AI",
+      "body": "A series of problems at Meta and X exposed some of the vulnerabilities in artificial intelligence systems.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/recent-mistakes-highlight-the-risks-of-ai/833413/",
+      "publishedAt": "2026-10-19T19:57:16.000Z",
+      "image": "https://imgproxy.divecdn.com/OSUuSKoAfi-E9TeHmiCRBRzjALSowkpp_lLzgVKZwpg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzEyODUwNjg5LmpwZw==.webp"
+    },
+    {
+      "cat": "growth",
+      "label": "Growth",
+      "tone": "rising",
+      "title": "a guy at work said he wishes he had my discipline and i just said thanks",
+      "body": "—",
+      "src": "r/getdisciplined",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/getdisciplined/comments/1xa5yrj/a_guy_at_work_said_he_wishes_he_had_my_discipline/",
+      "publishedAt": "2026-10-19T19:09:17.000Z",
+      "image": null
     },
     {
       "cat": "growth",
       "label": "Growth",
       "tone": "",
-      "title": "How Your Brain Sabotages Your Social Life—and Simple Ways to Fix It",
-      "body": "When a friend invited me over last week, I found myself entering a predictable state of hesitation. I stared at my phone for a while, thinking, Should I bail? The post How Your Br…",
-      "src": "Nir & Far",
-      "fav": "NF",
-      "url": "https://www.nirandfar.com/antisocial-brain/",
-      "publishedAt": "2025-10-14T13:00:26.000Z",
-      "image": "https://www.nirandfar.com/wp-content/uploads/2025/07/ben-rein-book-featured.webp"
-    },
-    {
-      "cat": "growth",
-      "label": "Growth",
-      "tone": "",
-      "title": "Unlock Your Potential With The Power Of Belief",
-      "body": "In 2006, U.S. Team freestyle skier Michelle Roark zoomed down the slope at her first Olympics, conquering hilly terrain that not even a 4x4 could handle. At 31 years old, she was…",
-      "src": "Nir & Far",
-      "fav": "NF",
-      "url": "https://www.nirandfar.com/power-of-belief/",
-      "publishedAt": "2025-07-07T13:00:26.000Z",
-      "image": "https://www.nirandfar.com/wp-content/uploads/2025/06/power-of-belief-featured.webp"
+      "title": "Discipline isn’t suffering",
+      "body": "—",
+      "src": "r/getdisciplined",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/getdisciplined/comments/1xa11h7/discipline_isnt_suffering/",
+      "publishedAt": "2026-10-19T16:08:53.000Z",
+      "image": null
     },
     {
       "cat": "growth",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 69,
+        "scanned": 67,
         "kept": 3
       },
       "social": {
@@ -235,7 +235,7 @@
       },
       "growth": {
         "label": "Growth",
-        "scanned": 22,
+        "scanned": 32,
         "kept": 3
       },
       "business": {
@@ -247,7 +247,7 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 25
+        "count": 23
       },
       {
         "src": "TechCrunch",
@@ -258,11 +258,11 @@
         "count": 12
       },
       {
-        "src": "Nir & Far",
+        "src": "Ars Technica",
         "count": 12
       },
       {
-        "src": "Ars Technica",
+        "src": "Nir & Far",
         "count": 12
       },
       {
@@ -270,14 +270,14 @@
         "count": 10
       },
       {
-        "src": "Social Media Today",
+        "src": "James Clear",
         "count": 10
       }
     ],
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 40
+        "hits": 47
       },
       {
         "word": "agent",
@@ -292,28 +292,28 @@
         "hits": 5
       },
       {
-        "word": "llm",
-        "hits": 4
-      },
-      {
         "word": "micro",
         "hits": 3
+      },
+      {
+        "word": "focus",
+        "hits": 2
       },
       {
         "word": "growth",
         "hits": 2
       },
       {
-        "word": "creator",
+        "word": "startup",
         "hits": 2
       },
       {
-        "word": "startup",
-        "hits": 1
+        "word": "llm",
+        "hits": 2
       },
       {
-        "word": "productivity",
-        "hits": 1
+        "word": "discipline",
+        "hits": 2
       }
     ]
   }
