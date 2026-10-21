@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-20T09:55:11.990Z",
+  "generatedAt": "2026-10-21T09:57:36.708Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"DeepInfer: High-performance inference framework for DeepSeek models\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’"
+        "detail": "DeepInfer: High-performance inference framework for DeepSeek models"
       },
       {
         "head": "Tech & AI",
-        "detail": "Anthropic wants AI models blocked only if they threaten over $1 billion in damage or more than 50 deaths or serious injuries"
+        "detail": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business"
       },
       {
         "head": "Tech & AI",
-        "detail": "Atlassian’s Mike Cannon-Brookes: AI agents need a name tag—and a human to be accountable for their actions"
+        "detail": "SpaceX says big AI growth fueled revenue jump"
       },
       {
         "head": "Social",
-        "detail": "YouTube tests new Shorts incentives"
+        "detail": "Instagram announces next phase of Rings creative talent awards"
       }
     ],
     "signal": {
@@ -49,7 +49,7 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 121,
+    "scanned": 112,
     "kept": 12
   },
   "feed": [
@@ -57,133 +57,133 @@
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Burnham vows end to 'rip-off parking charges' under new rules",
-      "body": "The changes come after concerns that penalties issued by private providers are too harsh and leave motorists unfairly punished.",
+      "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+      "body": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-20T08:55:02.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a50c/live/322c6e70-cc62-11f1-9a39-31b474234113.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-21T06:36:39.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a691/live/0777e580-cd28-11f1-bc2e-018d645d8d21.png"
     },
     {
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
-      "body": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
+      "title": "The tech helping crack decades-old cold cases",
+      "body": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-20T08:44:56.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95e7/live/6cd357a0-cc17-11f1-b7d0-7f346cefa9a9.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "How is the US economy really doing under President Trump?",
-      "body": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-20T05:00:45.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/711c/live/8e797e10-cbd7-11f1-a64c-550be9e3c66b.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T23:13:24.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d033/live/5b8c8300-c16c-11f1-babe-4199b0e7ccea.jpg"
     },
     {
       "cat": "social",
       "label": "Social",
       "tone": "",
-      "title": "YouTube tests new Shorts incentives",
-      "body": "The platform is experimenting with bonuses for invited creators and expanding its shopping affiliates program, as well as updating shopping analytics.",
+      "title": "Instagram announces next phase of Rings creative talent awards",
+      "body": "The promotional event is designed to highlight the app’s top creators, and features judges including Donatella Versace and A$AP Rocky.",
       "src": "Social Media Today",
       "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/youtube-tests-new-shorts-incentives/833420/",
-      "publishedAt": "2026-10-19T22:37:45.000Z",
+      "url": "https://www.socialmediatoday.com/news/instagram-announces-next-phase-of-rings-creative-talent-awards/833543/",
+      "publishedAt": "2026-10-20T21:23:18.000Z",
+      "image": "https://imgproxy.divecdn.com/pxy7ubk8q3o0vrzzoC_WoWskqVHEWmetaqAzJLZqVM0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pbnN0YWdyYW1fcmluZ3NfMjAyNi5wbmc=.webp"
+    },
+    {
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "YouTube inks affiliate deal with AliExpress",
+      "body": "Creators will be able to tag the company’s products in their videos and earn commissions for any resulting sales.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/youtube-inks-affiliate-deal-with-aliexpress/833542/",
+      "publishedAt": "2026-10-20T21:17:44.000Z",
       "image": null
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-      "body": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "body": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that ai…",
       "src": "TechCrunch",
       "fav": "T",
-      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-      "publishedAt": "2026-10-19T22:04:28.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600"
+      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "publishedAt": "2026-10-20T20:35:10.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/pills-GettyImages-157287767.jpg?resize=1200,800"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "SpaceX says big AI growth fueled revenue jump",
+      "body": "SpaceX announced revenues of $14.6 billion in its Q3 earnings on Tuesday, which it says was a growth of 161 percent year-over-year \"fueled by our Super Intelligence (SI) segment a…",
+      "src": "The Verge",
+      "fav": "TV",
+      "url": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings",
+      "publishedAt": "2026-10-20T20:26:58.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
+      "body": "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T19:42:32.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b56/live/9be50560-cc9f-11f1-94e6-edd4c60b2e1d.jpg"
     },
     {
       "cat": "social",
       "label": "Social",
       "tone": "",
-      "title": "Instagram Chief says stronger AI slop prevention is needed",
-      "body": "Adam Mosseri said in both a weekly Q&A and in a separate Threads post that the company was actively trying to combat artificial intelligence content replication.",
+      "title": "Reddit adds AI-powered ad guidance tools",
+      "body": "The platform has a new campaign planner element and a way for brands to improve their optimization scores using customized recommendations.",
       "src": "Social Media Today",
       "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/instagram-chief-says-stronger-ai-slop-prevention-is-needed/833416/",
-      "publishedAt": "2026-10-19T22:02:00.000Z",
+      "url": "https://www.socialmediatoday.com/news/reddit-adds-ai-powered-ad-guidance-tools/833532/",
+      "publishedAt": "2026-10-20T19:26:06.000Z",
       "image": null
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "Anthropic wants AI models blocked only if they threaten over $1 billion in damage or more than 50 deaths or s…",
+      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
       "body": "—",
-      "src": "r/artificial",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1xa8s4i/anthropic_wants_ai_models_blocked_only_if_they/",
-      "publishedAt": "2026-10-19T20:54:13.000Z",
-      "image": "https://external-preview.redd.it/cYsIcGNxRzgf_jIaDuSwg1at_1llDKmyLoWfWGVlxOs.jpeg?width=640&crop=smart&auto=webp&s=1a9fd794c04ea0c0bbeb70e9ca1ebf09ddf47ba9"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Atlassian’s Mike Cannon-Brookes: AI agents need a name tag—and a human to be accountable for their actions",
-      "body": "—",
-      "src": "r/artificial",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1xa7hoq/atlassians_mike_cannonbrookes_ai_agents_need_a/",
-      "publishedAt": "2026-10-19T20:05:24.000Z",
-      "image": "https://external-preview.redd.it/EGPHyNo0hFC8jAMUZV45ND6joKBQAc2o254Nws0HW4w.jpeg?width=640&crop=smart&auto=webp&s=91ac94d038e2048be3c54461dc005e290179279a"
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "Recent mistakes highlight the risks of AI",
-      "body": "A series of problems at Meta and X exposed some of the vulnerabilities in artificial intelligence systems.",
-      "src": "Social Media Today",
-      "fav": "SM",
-      "url": "https://www.socialmediatoday.com/news/recent-mistakes-highlight-the-risks-of-ai/833413/",
-      "publishedAt": "2026-10-19T19:57:16.000Z",
-      "image": "https://imgproxy.divecdn.com/OSUuSKoAfi-E9TeHmiCRBRzjALSowkpp_lLzgVKZwpg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzEyODUwNjg5LmpwZw==.webp"
-    },
-    {
-      "cat": "growth",
-      "label": "Growth",
-      "tone": "rising",
-      "title": "a guy at work said he wishes he had my discipline and i just said thanks",
-      "body": "—",
-      "src": "r/getdisciplined",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/getdisciplined/comments/1xa5yrj/a_guy_at_work_said_he_wishes_he_had_my_discipline/",
-      "publishedAt": "2026-10-19T19:09:17.000Z",
-      "image": null
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "publishedAt": "2026-10-20T09:08:54Z",
+      "image": "https://opengraph.githubassets.com/aef947ac7a65e650cd55e0d2b40e9df7126f8092b05951ac17657d8143d27fb4/deepseek-ai/DeepInfer"
     },
     {
       "cat": "growth",
       "label": "Growth",
       "tone": "",
-      "title": "Discipline isn’t suffering",
-      "body": "—",
-      "src": "r/getdisciplined",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/getdisciplined/comments/1xa11h7/discipline_isnt_suffering/",
-      "publishedAt": "2026-10-19T16:08:53.000Z",
-      "image": null
+      "title": "How Your Brain Sabotages Your Social Life—and Simple Ways to Fix It",
+      "body": "When a friend invited me over last week, I found myself entering a predictable state of hesitation. I stared at my phone for a while, thinking, Should I bail? The post How Your Br…",
+      "src": "Nir & Far",
+      "fav": "NF",
+      "url": "https://www.nirandfar.com/antisocial-brain/",
+      "publishedAt": "2025-10-14T13:00:26.000Z",
+      "image": "https://www.nirandfar.com/wp-content/uploads/2025/07/ben-rein-book-featured.webp"
+    },
+    {
+      "cat": "growth",
+      "label": "Growth",
+      "tone": "",
+      "title": "Unlock Your Potential With The Power Of Belief",
+      "body": "In 2006, U.S. Team freestyle skier Michelle Roark zoomed down the slope at her first Olympics, conquering hilly terrain that not even a 4x4 could handle. At 31 years old, she was…",
+      "src": "Nir & Far",
+      "fav": "NF",
+      "url": "https://www.nirandfar.com/power-of-belief/",
+      "publishedAt": "2025-07-07T13:00:26.000Z",
+      "image": "https://www.nirandfar.com/wp-content/uploads/2025/06/power-of-belief-featured.webp"
     },
     {
       "cat": "growth",
@@ -225,7 +225,7 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 67,
+        "scanned": 68,
         "kept": 3
       },
       "social": {
@@ -235,7 +235,7 @@
       },
       "growth": {
         "label": "Growth",
-        "scanned": 32,
+        "scanned": 22,
         "kept": 3
       },
       "business": {
@@ -247,7 +247,7 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 23
+        "count": 24
       },
       {
         "src": "TechCrunch",
@@ -277,22 +277,18 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 47
-      },
-      {
-        "word": "agent",
-        "hits": 7
+        "hits": 37
       },
       {
         "word": "model",
-        "hits": 6
+        "hits": 5
       },
       {
         "word": "habit",
         "hits": 5
       },
       {
-        "word": "micro",
+        "word": "creator",
         "hits": 3
       },
       {
@@ -300,20 +296,24 @@
         "hits": 2
       },
       {
-        "word": "growth",
-        "hits": 2
-      },
-      {
-        "word": "startup",
-        "hits": 2
-      },
-      {
         "word": "llm",
         "hits": 2
       },
       {
-        "word": "discipline",
+        "word": "agent",
         "hits": 2
+      },
+      {
+        "word": "revenue",
+        "hits": 1
+      },
+      {
+        "word": "growth",
+        "hits": 1
+      },
+      {
+        "word": "startup",
+        "hits": 1
       }
     ]
   }
