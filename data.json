@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-22T09:58:03.565Z",
+  "generatedAt": "2026-10-23T09:52:33.067Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Achieving AI-style reasoning without an LLM\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Every AI model has the same \"controversial\" take on humans\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Achieving AI-style reasoning without an LLM"
+        "detail": "Every AI model has the same \"controversial\" take on humans"
       },
       {
         "head": "Tech & AI",
-        "detail": "‘Rogue’ OpenAI agents disabled their own safeguards and then lied about it, company admits"
+        "detail": "WorldTUI: I trained a 360M model to pretend to be a terminal"
       },
       {
         "head": "Tech & AI",
-        "detail": "Recursive launches Flint, a laptop coding model it says was largely built by AI"
+        "detail": "US banks detect rogue AI agents inside customer accounts, move to restrict access"
       },
       {
         "head": "Social",
-        "detail": "I am losing my clients. I plan my calender completely by AI. How do I fix it?"
+        "detail": "Meta adds users and revenue as AI costs climb"
       }
     ],
     "signal": {
@@ -49,7 +49,7 @@
         "payoff": "Real time saved"
       }
     ],
-    "scanned": 123,
+    "scanned": 111,
     "kept": 12
   },
   "feed": [
@@ -57,92 +57,92 @@
       "cat": "business",
       "label": "Business",
       "tone": "",
-      "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-      "body": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
+      "title": "The Indian workers filming their work to train AI",
+      "body": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
       "src": "BBC Business",
       "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T09:37:58.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d20/live/5fb48ff0-622b-11f0-8e4a-613b923287ab.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T08:04:17.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6fc/live/3dab9740-bbe0-11f1-bd21-bdf910f2cec6.jpg"
     },
     {
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "Achieving AI-style reasoning without an LLM",
-      "body": "Article URL: https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/ Comments URL: https://news.ycombinator.com/item?id=50192868 Points: 8…",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/",
-      "publishedAt": "2026-10-22T08:46:58.000Z",
-      "image": null
-    },
-    {
-      "cat": "social",
-      "label": "Social",
-      "tone": "",
-      "title": "I am losing my clients. I plan my calender completely by AI. How do I fix it?",
-      "body": "—",
-      "src": "r/socialmedia",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/socialmedia/comments/1xccqbt/i_am_losing_my_clients_i_plan_my_calender/",
-      "publishedAt": "2026-10-22T08:14:29.000Z",
-      "image": null
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "‘Rogue’ OpenAI agents disabled their own safeguards and then lied about it, company admits",
+      "title": "US banks detect rogue AI agents inside customer accounts, move to restrict access",
       "body": "—",
       "src": "r/artificial",
       "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1xcc33h/rogue_openai_agents_disabled_their_own_safeguards/",
-      "publishedAt": "2026-10-22T07:32:40.000Z",
-      "image": "https://external-preview.redd.it/nQImxHHPdWVdvvNinj5ypqEZ3ZaewDKc2WTuYFTrDDk.jpeg?width=640&crop=smart&auto=webp&s=a0cf61fdff79847a1f11847d1049ece88d171967"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "What is PHP and why did it spark a global cyber-security scramble?",
-      "body": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T06:24:59.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15df/live/bbb61e90-cddc-11f1-bc2e-018d645d8d21.jpg"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Is an 'AI war' complicating your job search?",
-      "body": "How fair are AI recruitment tools that help decide our future, and what happens when we click \"apply\"?",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cm9qzgg5z89no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T05:01:31.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0fd/live/7fe856d0-cca1-11f1-94e6-edd4c60b2e1d.jpg"
+      "url": "https://www.reddit.com/r/artificial/comments/1xd4at6/us_banks_detect_rogue_ai_agents_inside_customer/",
+      "publishedAt": "2026-10-23T04:28:06.000Z",
+      "image": "https://external-preview.redd.it/icdxrpAAKsAat1V_qHGrs9ircD6Xd3Y4cv9IUX14oTY.jpeg?width=640&crop=smart&auto=webp&s=d11fbda4062b00984793c97f6f99db10ae97c889"
     },
     {
       "cat": "social",
       "label": "Social",
       "tone": "",
-      "title": "Why do celebrities and creators prefer using Twitter and/or Discord to talk to fans over Reddit?",
-      "body": "—",
-      "src": "r/socialmedia",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/socialmedia/comments/1xc8i7h/why_do_celebrities_and_creators_prefer_using/",
-      "publishedAt": "2026-10-22T04:04:33.000Z",
+      "title": "Meta says shopping is Muse’s primary use case",
+      "body": "In its third-quarter earnings transcript, CEO Mark Zuckerberg touted the artificial intelligence agent’s download numbers and outlined its benefits.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/meta-says-shopping-is-muses-primary-use-case/833808/",
+      "publishedAt": "2026-10-22T22:36:18.000Z",
       "image": null
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+      "body": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-22T18:26:56.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0031/live/77724130-ce2e-11f1-9f18-490cec60aa0f.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Every AI model has the same \"controversial\" take on humans",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "publishedAt": "2026-10-22T16:08:00Z",
+      "image": "https://www.modelcompare.ai/api/og?post=ai-models-controversial-take-on-humans&v=31jhw0"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "'I wasn't thinking straight' says five jobs civil servant",
+      "body": "Kashim Chowdhury is accused of fraudulently juggling multiple public sector jobs.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-22T15:05:47.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a08/live/66d2ad60-ce29-11f1-9f18-490cec60aa0f.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "body": "—",
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "publishedAt": "2026-10-22T02:18:41Z",
+      "image": "https://simedw.com/2026/10/21/world-model-terminal/images/worldtui-cowsay.jpg"
     },
     {
       "cat": "social",
       "label": "Social",
       "tone": "",
       "title": "Meta adds users and revenue as AI costs climb",
-      "body": "Third-quarter revenue rose 26% year over year to nearly $65 billion, but expenses were up 68% due to capital expenditures.",
+      "body": "Revenue rose 26% year over year in the third quarter to nearly $65 billion, but expenses were up 68% due to capital expenditures.",
       "src": "Social Media Today",
       "fav": "SM",
       "url": "https://www.socialmediatoday.com/news/meta-adds-users-and-revenue-as-ai-costs-climb/833671/",
@@ -150,16 +150,16 @@
       "image": null
     },
     {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-      "body": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
-      "src": "TechCrunch",
-      "fav": "T",
-      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-      "publishedAt": "2026-10-21T20:27:41.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2157738833.jpg?resize=1200,800"
+      "cat": "social",
+      "label": "Social",
+      "tone": "",
+      "title": "YouTube shares data on how creators are using AI",
+      "body": "A study commissioned by the platform found that nearly two-thirds of people posting videos want to insert themselves into the content using artificial intelligence.",
+      "src": "Social Media Today",
+      "fav": "SM",
+      "url": "https://www.socialmediatoday.com/news/youtube-shares-data-on-how-creators-are-using-ai/833657/",
+      "publishedAt": "2026-10-21T20:00:56.000Z",
+      "image": null
     },
     {
       "cat": "growth",
@@ -225,12 +225,12 @@
     "byCategory": {
       "tech": {
         "label": "Tech & AI",
-        "scanned": 69,
+        "scanned": 67,
         "kept": 3
       },
       "social": {
         "label": "Social",
-        "scanned": 20,
+        "scanned": 10,
         "kept": 3
       },
       "growth": {
@@ -247,7 +247,7 @@
     "topSources": [
       {
         "src": "Hacker News",
-        "count": 25
+        "count": 23
       },
       {
         "src": "TechCrunch",
@@ -270,49 +270,49 @@
         "count": 10
       },
       {
-        "src": "Social Media Today",
+        "src": "James Clear",
         "count": 10
       }
     ],
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 56
+        "hits": 51
       },
       {
         "word": "model",
         "hits": 9
       },
       {
-        "word": "creator",
-        "hits": 5
+        "word": "agent",
+        "hits": 6
       },
       {
         "word": "habit",
         "hits": 5
       },
       {
-        "word": "llm",
-        "hits": 4
-      },
-      {
-        "word": "revenue",
-        "hits": 3
-      },
-      {
-        "word": "productivity",
-        "hits": 2
-      },
-      {
-        "word": "agent",
-        "hits": 2
-      },
-      {
         "word": "micro",
-        "hits": 1
+        "hits": 2
       },
       {
         "word": "startup",
+        "hits": 2
+      },
+      {
+        "word": "growth",
+        "hits": 2
+      },
+      {
+        "word": "creator",
+        "hits": 2
+      },
+      {
+        "word": "llm",
+        "hits": 2
+      },
+      {
+        "word": "productivity",
         "hits": 1
       }
     ]
