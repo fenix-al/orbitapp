@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-23T09:52:33.067Z",
+  "generatedAt": "2026-10-24T09:22:50.132Z",
   "brief": {
-    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Every AI model has the same \"controversial\" take on humans\". Scan the feed below for the rest.",
+    "lede": "Today Orbit kept 12 items across your topics. The lead story: \"Local Wikipedia: Wikipedia, but only for things a half hour walk from you\". Scan the feed below for the rest.",
     "bullets": [
       {
         "head": "Tech & AI",
-        "detail": "Every AI model has the same \"controversial\" take on humans"
+        "detail": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you"
       },
       {
         "head": "Tech & AI",
-        "detail": "WorldTUI: I trained a 360M model to pretend to be a terminal"
+        "detail": "Startups don’t need to go viral to win customers"
       },
       {
         "head": "Tech & AI",
-        "detail": "US banks detect rogue AI agents inside customer accounts, move to restrict access"
+        "detail": "$50 per website. That’s what it reportedly cost one attacker to compromise 100+ companies using AI agents."
       },
       {
         "head": "Social",
@@ -57,6 +57,54 @@
       "cat": "business",
       "label": "Business",
       "tone": "",
+      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+      "body": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-24T00:36:47.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1860/live/f6b62750-cf1d-11f1-9796-954775b3a434.jpg"
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
+      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+      "body": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+      "src": "BBC Business",
+      "fav": "BB",
+      "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-24T00:05:45.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43e7/live/343404d0-cf00-11f1-accf-3309656ad0bb.jpg"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "Startups don’t need to go viral to win customers",
+      "body": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
+      "src": "TechCrunch",
+      "fav": "T",
+      "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+      "publishedAt": "2026-10-23T23:07:45.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55591670558_36cac514d1_k.jpg?resize=1200,800"
+    },
+    {
+      "cat": "tech",
+      "label": "Tech & AI",
+      "tone": "rising",
+      "title": "$50 per website. That’s what it reportedly cost one attacker to compromise 100+ companies using AI agents.",
+      "body": "—",
+      "src": "r/artificial",
+      "fav": "R",
+      "url": "https://www.reddit.com/r/artificial/comments/1xdm83o/50_per_website_thats_what_it_reportedly_cost_one/",
+      "publishedAt": "2026-10-23T18:37:03.000Z",
+      "image": null
+    },
+    {
+      "cat": "business",
+      "label": "Business",
+      "tone": "",
       "title": "The Indian workers filming their work to train AI",
       "body": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
       "src": "BBC Business",
@@ -69,13 +117,13 @@
       "cat": "tech",
       "label": "Tech & AI",
       "tone": "rising",
-      "title": "US banks detect rogue AI agents inside customer accounts, move to restrict access",
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
       "body": "—",
-      "src": "r/artificial",
-      "fav": "R",
-      "url": "https://www.reddit.com/r/artificial/comments/1xd4at6/us_banks_detect_rogue_ai_agents_inside_customer/",
-      "publishedAt": "2026-10-23T04:28:06.000Z",
-      "image": "https://external-preview.redd.it/icdxrpAAKsAat1V_qHGrs9ircD6Xd3Y4cv9IUX14oTY.jpeg?width=640&crop=smart&auto=webp&s=d11fbda4062b00984793c97f6f99db10ae97c889"
+      "src": "Hacker News",
+      "fav": "HN",
+      "url": "https://edjefferson.com/localwiki/",
+      "publishedAt": "2026-10-22T23:01:18Z",
+      "image": "https://edjefferson.com/localwiki/share.png"
     },
     {
       "cat": "social",
@@ -88,54 +136,6 @@
       "url": "https://www.socialmediatoday.com/news/meta-says-shopping-is-muses-primary-use-case/833808/",
       "publishedAt": "2026-10-22T22:36:18.000Z",
       "image": null
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
-      "body": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T18:26:56.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0031/live/77724130-ce2e-11f1-9f18-490cec60aa0f.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "Every AI model has the same \"controversial\" take on humans",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-      "publishedAt": "2026-10-22T16:08:00Z",
-      "image": "https://www.modelcompare.ai/api/og?post=ai-models-controversial-take-on-humans&v=31jhw0"
-    },
-    {
-      "cat": "business",
-      "label": "Business",
-      "tone": "",
-      "title": "'I wasn't thinking straight' says five jobs civil servant",
-      "body": "Kashim Chowdhury is accused of fraudulently juggling multiple public sector jobs.",
-      "src": "BBC Business",
-      "fav": "BB",
-      "url": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T15:05:47.000Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a08/live/66d2ad60-ce29-11f1-9f18-490cec60aa0f.jpg"
-    },
-    {
-      "cat": "tech",
-      "label": "Tech & AI",
-      "tone": "rising",
-      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-      "body": "—",
-      "src": "Hacker News",
-      "fav": "HN",
-      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
-      "publishedAt": "2026-10-22T02:18:41Z",
-      "image": "https://simedw.com/2026/10/21/world-model-terminal/images/worldtui-cowsay.jpg"
     },
     {
       "cat": "social",
@@ -254,15 +254,15 @@
         "count": 12
       },
       {
-        "src": "Ars Technica",
-        "count": 12
-      },
-      {
         "src": "BBC Business",
         "count": 12
       },
       {
         "src": "Nir & Far",
+        "count": 12
+      },
+      {
+        "src": "Ars Technica",
         "count": 12
       },
       {
@@ -277,30 +277,26 @@
     "topKeywords": [
       {
         "word": "ai",
-        "hits": 51
+        "hits": 45
       },
       {
         "word": "model",
-        "hits": 9
+        "hits": 7
       },
       {
         "word": "agent",
-        "hits": 6
+        "hits": 5
       },
       {
         "word": "habit",
         "hits": 5
       },
       {
-        "word": "micro",
-        "hits": 2
-      },
-      {
         "word": "startup",
-        "hits": 2
+        "hits": 4
       },
       {
-        "word": "growth",
+        "word": "micro",
         "hits": 2
       },
       {
@@ -308,11 +304,15 @@
         "hits": 2
       },
       {
-        "word": "llm",
-        "hits": 2
+        "word": "viral",
+        "hits": 1
       },
       {
         "word": "productivity",
+        "hits": 1
+      },
+      {
+        "word": "growth",
         "hits": 1
       }
     ]
